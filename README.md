@@ -1,6 +1,8 @@
 # Open Construction Law Romania
 
-**Romanian Construction Knowledge Base** — a Git-friendly, open-source knowledge base for Romanian construction legislation, norms, procedures, and regulatory references.
+**Romanian Construction Knowledge Base** — open-source, versioned construction legislation for Romania, structured for humans, Git, search, and AI.
+
+This repository tracks Romanian construction legislation, norms, procedures, and regulatory references in a Git-friendly format.
 
 We invite developers, engineers, architects, legal researchers, AI builders, public-sector specialists, and construction professionals to contribute. If you want to help structure Romanian construction regulation for humans and machines, open an issue or contact us at contact@radarmeseriasi.ro.
 
