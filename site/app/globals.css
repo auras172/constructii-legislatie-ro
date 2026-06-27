@@ -249,6 +249,30 @@ td a { color: var(--accent); font-weight: 700; }
 .site-footer a { color: var(--accent); font-weight: 700; }
 .footer-links { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
 
+/* Per-act page */
+.act-meta-grid dl { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; margin: 0 0 28px; }
+.act-meta-grid dt { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 4px; }
+.act-meta-grid dd { margin: 0; font-weight: 600; }
+.act-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 28px; }
+.canonical-citation { font-size: 1.1rem; font-weight: 600; color: var(--muted); margin: 0; }
+.status-badge { display: inline-block; padding: 2px 10px; border-radius: 99px; font-size: 0.8rem; font-weight: 700; }
+.status-active { background: #d1fae5; color: #065f46; }
+.status-repealed { background: #fee2e2; color: #991b1b; }
+.status-partially_repealed { background: #fef3c7; color: #92400e; }
+.status-unknown { background: var(--border); color: var(--muted); }
+.tag-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.tag { background: var(--border); color: var(--muted); padding: 3px 10px; border-radius: 99px; font-size: 0.78rem; }
+
+/* Search page */
+.search-container { margin-bottom: 32px; }
+
+/* Provenance page */
+.breadcrumb { font-size: 0.88rem; color: var(--muted); margin-bottom: 24px; }
+.breadcrumb a { color: var(--accent); }
+.provenance-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.provenance-header h2 { margin: 0; }
+.provenance-log { background: var(--border); border-radius: 8px; padding: 20px; font-size: 0.82rem; overflow-x: auto; white-space: pre-wrap; word-break: break-word; color: var(--text); line-height: 1.6; }
+
 @media (max-width: 900px) {
   .site-header { align-items: flex-start; flex-direction: column; }
   .site-nav { flex-wrap: wrap; }

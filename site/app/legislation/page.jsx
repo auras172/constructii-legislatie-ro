@@ -31,14 +31,14 @@ export default function LegislationPage() {
             {acts.map((act) => (
               <tr key={act.slug}>
                 <td>
-                  <strong>{act.shortTitle}</strong>
+                  <a href={`/legislation/${act.slug}/`}><strong>{act.shortTitle}</strong></a>
                   <span>{act.title}</span>
-                  <small>{act.articleCount} articole · {act.annexCount} anexe</small>
+                  {act.textImported && <small>{act.articleCount} articole · {act.annexCount} anexe</small>}
                 </td>
                 <td>{act.domain}</td>
                 <td>{act.status}</td>
                 <td>{act.textImported ? 'Importat' : 'Doar metadate'}</td>
-                <td><a href={act.sourceUrl}>Sursă oficială</a></td>
+                <td><a href={act.sourceUrl} target="_blank" rel="noopener noreferrer">Sursă oficială ↗</a></td>
               </tr>
             ))}
           </tbody>

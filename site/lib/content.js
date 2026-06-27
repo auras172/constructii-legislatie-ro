@@ -43,6 +43,50 @@ function markdownSummary(relativePath) {
   }
 }
 
+function buildActFromSlug(slug, metadata) {
+  const markdownPath = path.join('legi', `${slug}.md`)
+  const markdownExists = fs.existsSync(path.join(repoRoot, markdownPath))
+  const markdown = markdownExists ? readText(markdownPath) : ''
+
+  const importLogDir = path.join(repoRoot, 'import-log')
+  const importLogFiles = fs.existsSync(importLogDir)
+    ? fs.readdirSync(importLogDir)
+        .filter((f) => f.endsWith(`-${slug}.md`))
+        .sort()
+    : []
+
+  return {
+    slug,
+    title: metadata.title,
+    shortTitle: metadata.short_title ?? slug,
+    canonicalCitation: metadata.canonical_citation ?? null,
+    type: metadata.type,
+    domain: metadata.domain,
+    topics: metadata.topics ?? [],
+    status: metadata.status,
+    issuer: metadata.issuer ?? null,
+    issuingBodyKind: metadata.issuing_body_kind ?? null,
+    issueDate: metadata.issue_date ?? null,
+    effectiveDate: metadata.effective_date ?? null,
+    publicationMedium: metadata.publication_medium ?? null,
+    sourceUrl: metadata.source_url,
+    officialSource: metadata.official_source ?? null,
+    officialDetailUrl: metadata.official_detail_url ?? null,
+    versionKind: metadata.version_kind ?? null,
+    consolidatedAsOf: metadata.consolidated_as_of ?? null,
+    lastChecked: metadata.last_checked,
+    version: metadata.version ?? null,
+    tags: metadata.tags ?? [],
+    articleCount: metadata.article_count ?? (markdownExists ? countHeadings(markdown, '### Articolul') : 0),
+    annexCount: metadata.annex_count ?? (markdownExists ? countHeadings(markdown, '### Anexa') : 0),
+    importMethod: metadata.import_method ?? null,
+    rightsNote: metadata.rights_note ?? null,
+    markdownPath: markdownExists ? markdownPath : null,
+    textImported: markdownExists ? hasOfficialText(markdown) : false,
+    importLogPaths: importLogFiles.map((f) => path.join('import-log', f)),
+  }
+}
+
 export function getProjectOverview() {
   return {
     readme: markdownSummary('README.md'),
@@ -60,30 +104,44 @@ export function getActs() {
     .filter((file) => file.endsWith('.json'))
     .sort()
     .map((file) => {
-      const metadataPath = path.join('metadata', 'acts', file)
-      const metadata = readJson(metadataPath)
       const slug = file.replace(/\.json$/, '')
-      const markdownPath = path.join('legi', `${slug}.md`)
-      const markdownExists = fs.existsSync(path.join(repoRoot, markdownPath))
-      const markdown = markdownExists ? readText(markdownPath) : ''
-      const importLogPath = path.join('import-log', `2026-06-27-${slug}.md`)
+      const metadata = readJson(path.join('metadata', 'acts', file))
+      return buildActFromSlug(slug, metadata)
+    })
+}
+
+export function getActSlugs() {
+  const actsDir = path.join(repoRoot, 'metadata', 'acts')
+  if (!fs.existsSync(actsDir)) return []
+  return fs.readdirSync(actsDir)
+    .filter((f) => f.endsWith('.json'))
+    .map((f) => f.replace(/\.json$/, ''))
+}
+
+export function getActBySlug(slug) {
+  const metadataPath = path.join('metadata', 'acts', `${slug}.json`)
+  const fullPath = path.join(repoRoot, metadataPath)
+  if (!fs.existsSync(fullPath)) return null
+  const metadata = readJson(metadataPath)
+  return buildActFromSlug(slug, metadata)
+}
+
+export function getImportLogs(slug) {
+  const importLogDir = path.join(repoRoot, 'import-log')
+  if (!fs.existsSync(importLogDir)) return []
+
+  return fs.readdirSync(importLogDir)
+    .filter((f) => f.endsWith(`-${slug}.md`))
+    .sort()
+    .map((f) => {
+      const relativePath = path.join('import-log', f)
+      const content = readText(relativePath)
+      const dateMatch = f.match(/^(\d{4}-\d{2}-\d{2})/)
       return {
-        slug,
-        title: metadata.title,
-        shortTitle: metadata.short_title ?? slug,
-        type: metadata.type,
-        domain: metadata.domain,
-        status: metadata.status,
-        sourceUrl: metadata.source_url,
-        officialSource: metadata.official_source,
-        lastChecked: metadata.last_checked,
-        tags: metadata.tags ?? [],
-        metadataPath,
-        markdownPath: markdownExists ? markdownPath : null,
-        textImported: markdownExists ? hasOfficialText(markdown) : false,
-        articleCount: markdownExists ? countHeadings(markdown, '### Articolul') : 0,
-        annexCount: markdownExists ? countHeadings(markdown, '### Anexa') : 0,
-        importLogPath: fs.existsSync(path.join(repoRoot, importLogPath)) ? importLogPath : null,
+        filename: f,
+        date: dateMatch ? dateMatch[1] : null,
+        content: stripFrontmatter(content),
+        githubUrl: `https://github.com/auras172/constructii-legislatie-ro/blob/main/${relativePath}`,
       }
     })
 }
