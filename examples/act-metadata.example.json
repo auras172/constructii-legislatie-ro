@@ -1,0 +1,18 @@
+{
+  "title": "TODO: verify official title/source",
+  "short_title": "Legea 50/1991",
+  "type": "lege",
+  "number": "50",
+  "year": "1991",
+  "domain": "autorizatii",
+  "status": "unknown",
+  "source_url": "TODO: official source URL",
+  "official_source": "TODO: official source name",
+  "last_checked": "2026-06-27",
+  "version": "mvp-placeholder",
+  "tags": [
+    "constructii",
+    "autorizatii",
+    "todo-verify"
+  ]
+}
