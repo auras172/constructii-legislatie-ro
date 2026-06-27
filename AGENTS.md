@@ -260,6 +260,12 @@ When adding or updating legal text:
 
 This repository may structure official-source text for Git and search, but it does not replace official sources.
 
+## Reusable Prompts and Specification
+
+- Use `PROMPTS.md` for standard AI-agent task prompts.
+- See `docs/agents-md-specification-v1.md` for a reusable `AGENTS.md` structure that other repositories can adapt.
+- See `docs/ai-contributor-onboarding.md` for a first AI-assisted pull request walkthrough.
+
 ## Philosophy
 
 Open source is not about writing the most code.
