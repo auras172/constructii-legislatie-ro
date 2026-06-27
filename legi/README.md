@@ -11,18 +11,18 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/1515`)
   - Status: active · full official consolidated text imported 2026-06-27 · 64 articles · 3 annexes
   - Import log: [import-log/2026-06-27-lege-50-1991.md](../import-log/2026-06-27-lege-50-1991.md)
-- Legea 10/1995
-  - Domain: calitate
-  - TODO: verify official title/source
-- Legea 350/2001
-  - Domain: urbanism
-  - TODO: verify official title/source
-- HG 343/2017
-  - Domain: receptie
-  - TODO: verify official title/source
-- Ordin MDRAP 839/2009
-  - Domain: autorizatii
-  - TODO: verify official title/source
+- Legea 10/1995 — metadata entry in `metadata/acts/lege-10-1995.json`
+  - Domain: calitate · Related: Legea 50/1991
+  - Official source: Portal Legislativ (`/Public/DetaliiDocument/1723`) — TODO: verify consolidated form
+- Legea 350/2001 — metadata entry in `metadata/acts/lege-350-2001.json`
+  - Domain: urbanism · Related: Legea 50/1991
+  - Official source: Portal Legislativ (`/Public/DetaliiDocument/27584`) — TODO: verify consolidated form
+- Ordin MDRAP 839/2009 — metadata entry in `metadata/acts/ordin-839-2009.json`
+  - Domain: autorizatii · Implements: Legea 50/1991
+  - Official source: Portal Legislativ (`/Public/DetaliiDocument/109776`) — TODO: verify consolidated form
+- HG 343/2017 — metadata entry in `metadata/acts/hg-343-2017.json`
+  - Domain: receptie · Related: Legea 50/1991
+  - Official source: Portal Legislativ (`/Public/DetaliiDocument/188419`) — TODO: verify
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)

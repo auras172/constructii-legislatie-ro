@@ -1,4 +1,4 @@
-import { getActBySlug, getActSlugs } from '@/lib/content'
+import { getActBySlug, getActSlugs, getActs } from '@/lib/content'
 import { notFound } from 'next/navigation'
 
 export const dynamic = 'force-static'
@@ -30,9 +30,47 @@ const VERSION_KIND_LABEL = {
   'excerpt-only': 'Extras parțial',
 }
 
+const RELATION_LABEL = {
+  relatedActs: 'Acte corelate',
+  implements: 'Implementează',
+  amends: 'Modifică',
+  amendedBy: 'Modificat de',
+}
+
+function RelatedActsList({ slugs, allActs, relation }) {
+  if (!slugs || slugs.length === 0) return null
+  return (
+    <div className="related-acts-group">
+      <h3>{RELATION_LABEL[relation]}</h3>
+      <ul>
+        {slugs.map((slug) => {
+          const related = allActs.find((a) => a.slug === slug)
+          return (
+            <li key={slug}>
+              {related ? (
+                <a href={`/legislation/${slug}/`}>
+                  {related.shortTitle || related.canonicalCitation || slug}
+                </a>
+              ) : (
+                <span>{slug}</span>
+              )}
+            </li>
+          )
+        })}
+      </ul>
+    </div>
+  )
+}
+
 export default function ActPage({ params }) {
   const act = getActBySlug(params.slug)
   if (!act) notFound()
+  const allActs = getActs()
+  const hasRelations =
+    act.relatedActs?.length > 0 ||
+    act.implements?.length > 0 ||
+    act.amends?.length > 0 ||
+    act.amendedBy?.length > 0
 
   const githubFileUrl = act.markdownPath
     ? `https://github.com/auras172/constructii-legislatie-ro/blob/main/${act.markdownPath}`
@@ -126,6 +164,16 @@ export default function ActPage({ params }) {
         <div className="note-box">
           <p>{act.rightsNote}</p>
         </div>
+      )}
+
+      {hasRelations && (
+        <section className="related-acts">
+          <h2>Acte corelate</h2>
+          <RelatedActsList slugs={act.relatedActs} allActs={allActs} relation="relatedActs" />
+          <RelatedActsList slugs={act.implements} allActs={allActs} relation="implements" />
+          <RelatedActsList slugs={act.amends} allActs={allActs} relation="amends" />
+          <RelatedActsList slugs={act.amendedBy} allActs={allActs} relation="amendedBy" />
+        </section>
       )}
 
       {act.topics.length > 0 && (
