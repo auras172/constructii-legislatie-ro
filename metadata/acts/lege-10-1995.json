@@ -12,17 +12,25 @@
   "status": "active",
   "issue_date": "1995-01-18",
   "publication_medium": "portal-legislativ",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182108",
   "official_source": "Portal Legislativ — legislatie.just.ro",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
-  "version_kind": "consolidat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182108",
+  "version_kind": "republicat",
+  "consolidated_as_of": "2015-09-11",
   "last_checked": "2026-06-27",
+  "version": "forma republicata in temeiul Legii nr. 177/2015; publicata in M.Of. nr. 689 din 11 septembrie 2015; text oficial importat 2026-06-27",
+  "article_count": 44,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila → text extract via curl → Markdown",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "related_acts": ["lege-50-1991"],
   "tags": [
     "constructii",
     "calitate",
     "calitate-constructii",
     "sisteme-calitate",
-    "metadata-only"
+    "text-oficial",
+    "forma-republicata",
+    "markdown-import"
   ]
 }
