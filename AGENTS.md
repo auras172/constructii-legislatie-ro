@@ -262,6 +262,7 @@ This repository may structure official-source text for Git and search, but it do
 
 ## Reusable Prompts and Specification
 
+- See `docs/open-source-agent-rules.md` for firm rules AI agents must follow when implementing GitHub issues.
 - Use `PROMPTS.md` for standard AI-agent task prompts.
 - See `docs/agents-md-specification-v1.md` for a reusable `AGENTS.md` structure that other repositories can adapt.
 - See `docs/ai-contributor-onboarding.md` for a first AI-assisted pull request walkthrough.

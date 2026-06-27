@@ -1,4 +1,5 @@
 import './globals.css'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata = {
   title: 'Legislație Construcții România',
@@ -49,6 +50,7 @@ export default function RootLayout({ children }) {
             </a>
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   )
