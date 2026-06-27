@@ -12,11 +12,17 @@
   "status": "active",
   "issue_date": "2001-07-06",
   "publication_medium": "portal-legislativ",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27584",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184772",
   "official_source": "Portal Legislativ — legislatie.just.ro",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/27584",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/184772",
   "version_kind": "consolidat",
+  "consolidated_as_of": "2016-12-27",
   "last_checked": "2026-06-27",
+  "version": "forma actualizata pana la data de 27 decembrie 2016; textul initial publicat in M.Of. nr. 373 din 10 iulie 2001",
+  "article_count": 68,
+  "annex_count": 2,
+  "import_method": "Portal Legislativ forma printabila → text extract via curl → Markdown",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "related_acts": ["lege-50-1991"],
   "tags": [
     "urbanism",
@@ -25,6 +31,8 @@
     "pug",
     "pud",
     "puz",
-    "metadata-only"
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
   ]
 }

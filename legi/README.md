@@ -16,9 +16,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocumentAfis/182108`)
   - Status: active · full official republished text imported 2026-06-27 · 44 articles · 0 annexe
   - Import log: [import-log/2026-06-27-lege-10-1995.md](../import-log/2026-06-27-lege-10-1995.md)
-- Legea 350/2001 — metadata entry in `metadata/acts/lege-350-2001.json`
+- [Legea 350/2001](./lege-350-2001.md)
   - Domain: urbanism · Related: Legea 50/1991
-  - Official source: Portal Legislativ (`/Public/DetaliiDocument/27584`) — TODO: verify consolidated form
+  - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/184772`)
+  - Status: active · full official actualizata text imported 2026-06-27 · 68 articles · 2 annexe
+  - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
 - Ordin MDRAP 839/2009 — metadata entry in `metadata/acts/ordin-839-2009.json`
   - Domain: autorizatii · Implements: Legea 50/1991
   - Official source: Portal Legislativ (`/Public/DetaliiDocument/109776`) — TODO: verify consolidated form
