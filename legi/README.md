@@ -1,15 +1,16 @@
 # Legi si acte candidate
 
-Placeholder index for construction-related Romanian legal acts.
+Index for construction-related Romanian legal acts tracked in this repository.
 
-Do not add full legal text in the MVP. Each item below needs official source verification before a dedicated file is created.
+Each act starts as a metadata-only entry. Official text is imported only after source verification and with a provenance record in `import-log/`.
 
 ## Initial candidate list
 
 - [Legea 50/1991](./lege-50-1991.md)
   - Domain: autorizatii
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/1515`)
-  - Status: active (metadata-only entry; no legal text imported)
+  - Status: active · full official consolidated text imported 2026-06-27 · 64 articles · 3 annexes
+  - Import log: [import-log/2026-06-27-lege-50-1991.md](../import-log/2026-06-27-lege-50-1991.md)
 - Legea 10/1995
   - Domain: calitate
   - TODO: verify official title/source

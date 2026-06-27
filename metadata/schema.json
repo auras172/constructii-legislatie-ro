@@ -21,6 +21,10 @@
     "short_title": {
       "type": "string"
     },
+    "canonical_citation": {
+      "type": "string",
+      "description": "Human-readable canonical citation, e.g. 'Legea nr. 50/1991'"
+    },
     "type": {
       "type": "string",
       "enum": [
@@ -34,16 +38,18 @@
       ]
     },
     "number": {
-      "type": [
-        "string",
-        "integer"
-      ]
+      "type": ["string", "integer"]
     },
     "year": {
-      "type": [
-        "string",
-        "integer"
-      ]
+      "type": ["string", "integer"]
+    },
+    "issuer": {
+      "type": "string",
+      "description": "Official issuing body name, e.g. 'Parlamentul României'"
+    },
+    "issuing_body_kind": {
+      "type": "string",
+      "enum": ["parlament", "guvern", "minister", "autoritate", "other"]
     },
     "domain": {
       "type": "string",
@@ -63,6 +69,15 @@
         "mediu"
       ]
     },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Secondary classification topics, supplementing 'domain'"
+    },
     "status": {
       "type": "string",
       "enum": [
@@ -72,6 +87,25 @@
         "unknown"
       ]
     },
+    "issue_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the act was issued or signed, YYYY-MM-DD"
+    },
+    "effective_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the act entered into force, YYYY-MM-DD"
+    },
+    "publication_medium": {
+      "type": "string",
+      "enum": ["monitorul-oficial", "portal-legislativ", "minister", "other"]
+    },
+    "publication_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of official publication, YYYY-MM-DD"
+    },
     "source_url": {
       "type": "string",
       "minLength": 1
@@ -79,12 +113,42 @@
     "official_source": {
       "type": "string"
     },
+    "official_detail_url": {
+      "type": "string",
+      "description": "Direct URL to the official detail page for this act"
+    },
+    "version_kind": {
+      "type": "string",
+      "enum": ["original", "republicat", "consolidat", "excerpt-only"],
+      "description": "Nature of the text version tracked"
+    },
+    "consolidated_as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of the consolidated form tracked, YYYY-MM-DD"
+    },
     "last_checked": {
       "type": "string",
       "format": "date"
     },
     "version": {
       "type": "string"
+    },
+    "article_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "annex_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "import_method": {
+      "type": "string",
+      "description": "How the official text was imported, e.g. 'printable HTML → Markdown'"
+    },
+    "rights_note": {
+      "type": "string",
+      "description": "Note on reuse rights or uncertainty for this specific act"
     },
     "tags": {
       "type": "array",

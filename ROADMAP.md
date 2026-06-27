@@ -4,7 +4,7 @@ This roadmap keeps the project focused on infrastructure first. We do not start 
 
 ## Phase 0 — Foundation
 
-Status: in progress
+Status: complete
 
 - [x] Initial repository structure.
 - [x] MIT license for repository structure, tooling, and original documentation.
@@ -12,9 +12,9 @@ Status: in progress
 - [x] Metadata schema.
 - [x] First metadata-backed act entry: Legea 50/1991.
 - [x] First official-source text import: Legea 50/1991.
-- [ ] Import log format and provenance records for every text import.
-- [ ] GitHub Actions validation for Markdown and metadata.
-- [ ] Issue templates and good-first-issue backlog.
+- [x] Import log format and provenance records for every text import.
+- [x] GitHub Actions validation for Markdown and metadata.
+- [x] Issue templates and good-first-issue backlog.
 
 ## Phase 1 — Core construction legislation index
 
