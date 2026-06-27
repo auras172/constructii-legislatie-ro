@@ -6,10 +6,10 @@ Do not add full legal text in the MVP. Each item below needs official source ver
 
 ## Initial candidate list
 
-- Legea 50/1991
+- [Legea 50/1991](./lege-50-1991.md)
   - Domain: autorizatii
-  - TODO: verify official title/source
-  - TODO: create one Markdown file using `examples/lege-template.md`
+  - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/1515`)
+  - Status: active (metadata-only entry; no legal text imported)
 - Legea 10/1995
   - Domain: calitate
   - TODO: verify official title/source
