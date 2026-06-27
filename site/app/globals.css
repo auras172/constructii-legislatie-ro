@@ -247,6 +247,7 @@ td a { color: var(--accent); font-weight: 700; }
 }
 
 .site-footer a { color: var(--accent); font-weight: 700; }
+.footer-links { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
 
 @media (max-width: 900px) {
   .site-header { align-items: flex-start; flex-direction: column; }

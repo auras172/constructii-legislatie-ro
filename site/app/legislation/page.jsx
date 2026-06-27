@@ -3,7 +3,7 @@ import { getActs } from '@/lib/content'
 export const dynamic = 'force-static'
 
 export const metadata = {
-  title: 'Legislation index | Open Construction Law Romania',
+  title: 'Index legislație | Legislație Construcții România',
 }
 
 export default function LegislationPage() {
@@ -12,8 +12,8 @@ export default function LegislationPage() {
   return (
     <section className="page-shell">
       <div className="page-heading">
-        <h1>Legislation index</h1>
-        <p>Current repository acts and metadata, generated from the repository files at build time.</p>
+        <h1>Index legislație</h1>
+        <p>Acte și metadate curente din repository, generate din fișierele repo la build time.</p>
       </div>
 
       <div className="table-card">
@@ -21,10 +21,10 @@ export default function LegislationPage() {
           <thead>
             <tr>
               <th>Act</th>
-              <th>Domain</th>
-              <th>Status</th>
+              <th>Domeniu</th>
+              <th>Statut</th>
               <th>Text</th>
-              <th>Source</th>
+              <th>Sursă</th>
             </tr>
           </thead>
           <tbody>
@@ -33,12 +33,12 @@ export default function LegislationPage() {
                 <td>
                   <strong>{act.shortTitle}</strong>
                   <span>{act.title}</span>
-                  <small>{act.articleCount} articles · {act.annexCount} annexes</small>
+                  <small>{act.articleCount} articole · {act.annexCount} anexe</small>
                 </td>
                 <td>{act.domain}</td>
                 <td>{act.status}</td>
-                <td>{act.textImported ? 'Imported' : 'Metadata only'}</td>
-                <td><a href={act.sourceUrl}>Official source</a></td>
+                <td>{act.textImported ? 'Importat' : 'Doar metadate'}</td>
+                <td><a href={act.sourceUrl}>Sursă oficială</a></td>
               </tr>
             ))}
           </tbody>
@@ -46,8 +46,8 @@ export default function LegislationPage() {
       </div>
 
       <div className="note-box">
-        <p>Legal text is not reproduced on this website page. Use the GitHub repository to inspect Markdown, metadata, import logs, and diffs.</p>
-        <a href="https://github.com/auras172/constructii-legislatie-ro/tree/main/legi">Open legal act files on GitHub</a>
+        <p>Textul juridic nu este reprodus pe această pagină web. Folosiți repository-ul GitHub pentru a inspecta Markdown, metadate, jurnale de import și diff-uri.</p>
+        <a href="https://github.com/auras172/constructii-legislatie-ro/tree/main/legi">Deschide fișierele actelor pe GitHub</a>
       </div>
     </section>
   )
