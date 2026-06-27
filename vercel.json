@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd site && npm ci && npm run build",
+  "outputDirectory": "site/out",
+  "installCommand": "cd site && npm ci"
+}
