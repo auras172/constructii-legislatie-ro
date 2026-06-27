@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contact Radar Meșeriași
+    url: mailto:contact@radarmeseriasi.ro
+    about: For coordination questions that do not fit a public GitHub issue.

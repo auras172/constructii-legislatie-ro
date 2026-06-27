@@ -1,0 +1,9 @@
+# Default maintainers for the project.
+* @auras172
+
+# Metadata and import provenance need careful review.
+/metadata/ @auras172
+/import-log/ @auras172
+/legi/ @auras172
+/normative/ @auras172
+/ghiduri/ @auras172
