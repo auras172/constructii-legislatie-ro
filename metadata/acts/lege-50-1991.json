@@ -9,12 +9,15 @@
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1515",
   "official_source": "Portal Legislativ — legislatie.just.ro",
   "last_checked": "2026-06-27",
-  "version": "forma consolidata; portal page checked 2026-06-27; latest consolidated date shown by portal: 27.03.2026",
+  "version": "forma consolidata; full official-source text imported 2026-06-27; latest consolidated date shown by portal: 27.03.2026",
   "tags": [
     "constructii",
     "autorizatii",
     "autorizare-constructii",
     "urbanism",
-    "locuinte"
+    "locuinte",
+    "text-oficial",
+    "forma-consolidata",
+    "markdown-import"
   ]
 }
