@@ -89,6 +89,14 @@ Do not import third-party annotations, commercial database content, private summ
 
 If reuse rights are unclear, keep only metadata, source links, relationships, and TODO placeholders until a contributor verifies the source policy.
 
+
+## Project infrastructure
+
+- [Vision](VISION.md) — why this project exists and what can be built on top.
+- [Roadmap](ROADMAP.md) — phased work plan and priorities.
+- [Contributing](CONTRIBUTING.md) — source-backed contribution rules.
+- [Import log](import-log/README.md) — provenance records for official text imports.
+
 ## Repository layout
 
 ```text

@@ -1,0 +1,36 @@
+name: Good first issue
+description: Small metadata, source, or documentation task for new contributors.
+title: "Good first issue: "
+labels:
+  - good first issue
+  - help wanted
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping build Open Construction Law Romania. Please keep the task factual, source-backed, and small.
+  - type: textarea
+    id: task
+    attributes:
+      label: Task
+      description: What should be added, checked, or improved?
+    validations:
+      required: true
+  - type: input
+    id: official-source
+    attributes:
+      label: Official source URL
+      description: Link to legislatie.just.ro, Monitorul Oficial, or another primary/official source.
+    validations:
+      required: false
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Contribution rules
+      options:
+        - label: This task does not require legal advice or interpretation.
+          required: true
+        - label: This task should preserve source URLs and check dates.
+          required: true
+        - label: This task should not import third-party commentary or paid database content.
+          required: true

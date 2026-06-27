@@ -1,0 +1,47 @@
+name: Act metadata/import task
+description: Propose a legal act to add or update.
+title: "Act task: "
+labels:
+  - act metadata
+  - source needed
+body:
+  - type: input
+    id: act
+    attributes:
+      label: Act name / short title
+      placeholder: Legea 10/1995
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain
+      options:
+        - autorizatii
+        - urbanism
+        - executie
+        - receptie
+        - calitate
+        - isc
+        - anre
+        - iscir
+        - incendiu
+        - nzeb
+        - fiscal
+        - munca
+        - mediu
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Factual notes only. Do not add legal interpretation as fact.
+    validations:
+      required: false
