@@ -9,8 +9,9 @@ Thank you for helping build a Git-friendly Romanian construction legislation ind
 - Do not present legal interpretation as fact.
 - Do not add fake legal articles, invented summaries, or unverified amendments.
 - Do not mass-import unverified text.
-- Do not include copyrighted full text unless the license or official source permits reuse.
-- If an act number, title, status, or source is uncertain, mark it as `TODO: verify official title/source`.
+- Official legislative, administrative, and judicial texts may be included only when sourced from official public sources and when source metadata is recorded.
+- Do not include standards, third-party annotations, commentary, commercial database content, or paid/legal publisher material unless reuse rights are explicit.
+- If an act number, title, status, source, or reuse right is uncertain, mark it as `TODO: verify official title/source` or `TODO: verify reuse rights`.
 
 ## File rules
 
@@ -29,6 +30,7 @@ Each contribution should include:
 - official source name
 - date checked
 - contributor note explaining what changed
+- whether the change is metadata-only, excerpt-only, or full official text
 
 Preferred sources are official or primary sources such as legislatie.just.ro, Monitorul Oficial, and relevant authority pages.
 
@@ -39,7 +41,7 @@ Reviewers should check:
 - source URL is reachable and relevant
 - metadata fields are complete
 - status is not guessed
-- text excerpts are licensed or otherwise permitted
+- text excerpts or full text are official-source-backed and reuse is permitted or clearly outside copyright protection
 - notes are factual and not legal advice
 
 ## Prohibited content
@@ -49,6 +51,6 @@ Do not add:
 - legal advice
 - client-specific recommendations
 - fake article text
-- copied full legal text without permission
+- copied full text from non-official, commercial, annotated, or unclear sources
 - private documents or paid database content
 - personal data

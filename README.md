@@ -81,6 +81,14 @@ Always verify against official or primary sources before relying on any informat
 - ministries and authorities with legal publication duties
 - ISC, ANRE, ISCIR, IGSU, MDRAP/MDLPA or successor authority pages when applicable
 
+## Text reuse policy
+
+Official legislative, administrative, and judicial texts may be included when sourced from official public sources and when the repository records the source URL, official source name, and date checked.
+
+Do not import third-party annotations, commercial database content, private summaries, standards, commentary, or paid/legal publisher material unless reuse rights are explicit.
+
+If reuse rights are unclear, keep only metadata, source links, relationships, and TODO placeholders until a contributor verifies the source policy.
+
 ## Repository layout
 
 ```text
@@ -94,6 +102,6 @@ examples/   Markdown and metadata templates
 
 ## MVP status
 
-This MVP contains structure, templates, metadata schema, contribution rules, and placeholder candidate lists only.
+This MVP contains structure, templates, metadata schema, contribution rules, and initial source-backed metadata entries.
 
-It intentionally does **not** include full legal text. Current text / excerpts are TODO placeholders until reuse rights and official source references are verified.
+Full official legal text may be added act-by-act after source verification, preserving article numbering and avoiding third-party annotations or commentary.
