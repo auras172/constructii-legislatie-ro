@@ -1,0 +1,28 @@
+{
+  "title": "Legea nr. 10 din 18 ianuarie 1995 privind calitatea în construcții",
+  "short_title": "Legea 10/1995",
+  "canonical_citation": "Legea nr. 10/1995",
+  "type": "lege",
+  "number": "10",
+  "year": "1995",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": ["constructii", "calitate-constructii", "sisteme-calitate"],
+  "status": "active",
+  "issue_date": "1995-01-18",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
+  "version_kind": "consolidat",
+  "last_checked": "2026-06-27",
+  "related_acts": ["lege-50-1991"],
+  "tags": [
+    "constructii",
+    "calitate",
+    "calitate-constructii",
+    "sisteme-calitate",
+    "metadata-only"
+  ]
+}

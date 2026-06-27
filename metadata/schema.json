@@ -150,6 +150,30 @@
       "type": "string",
       "description": "Note on reuse rights or uncertainty for this specific act"
     },
+    "related_acts": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts with a general relationship to this one"
+    },
+    "implements": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that this act implements or applies"
+    },
+    "amends": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that this act amends"
+    },
+    "amended_by": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that have amended this act"
+    },
     "tags": {
       "type": "array",
       "items": {
