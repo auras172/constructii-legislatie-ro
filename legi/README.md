@@ -11,9 +11,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/1515`)
   - Status: active · full official consolidated text imported 2026-06-27 · 64 articles · 3 annexes
   - Import log: [import-log/2026-06-27-lege-50-1991.md](../import-log/2026-06-27-lege-50-1991.md)
-- Legea 10/1995 — metadata entry in `metadata/acts/lege-10-1995.json`
+- [Legea 10/1995](./lege-10-1995.md)
   - Domain: calitate · Related: Legea 50/1991
-  - Official source: Portal Legislativ (`/Public/DetaliiDocument/1723`) — TODO: verify consolidated form
+  - Official source checked: Portal Legislativ (`/Public/DetaliiDocumentAfis/182108`)
+  - Status: active · full official republished text imported 2026-06-27 · 44 articles · 0 annexe
+  - Import log: [import-log/2026-06-27-lege-10-1995.md](../import-log/2026-06-27-lege-10-1995.md)
 - Legea 350/2001 — metadata entry in `metadata/acts/lege-350-2001.json`
   - Domain: urbanism · Related: Legea 50/1991
   - Official source: Portal Legislativ (`/Public/DetaliiDocument/27584`) — TODO: verify consolidated form
