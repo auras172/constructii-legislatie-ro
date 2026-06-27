@@ -19,4 +19,15 @@ This file tracks source categories and verification expectations.
 
 ## Reuse and copyright
 
-Do not copy full legal text unless reuse is permitted by the official source or license. For the MVP, use TODO placeholders only.
+Official legislative, administrative, and judicial texts may be included when sourced from official public sources and when the repository records source URL, official source name, and date checked.
+
+Do not import:
+
+- third-party annotations
+- commercial database content
+- private summaries
+- legal commentary
+- paid/legal publisher material
+- standards or technical documents unless reuse rights are explicit
+
+If reuse rights are unclear, keep only metadata, source links, relationships, and TODO placeholders until the source policy is verified.
