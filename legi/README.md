@@ -66,6 +66,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/265539`](https://legislatie.just.ro/Public/DetaliiDocument/265539))
   - Status: active · full official republicata text imported 2026-06-28 · 82 articles · 0 annexes · republicata 07.03.2023
   - Import log: [import-log/2026-06-28-lege-481-2004.md](../import-log/2026-06-28-lege-481-2004.md)
+- [OUG 21/2004](./oug-21-2004.md)
+  - Domain: incendiu (situatii urgenta) · Related: Legea 481/2004, Legea 307/2006
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/303043`](https://legislatie.just.ro/Public/DetaliiDocument/303043))
+  - Status: active · full official actualizata text imported 2026-06-28 · 47 articles · 2 annexes (ambele abrogate) · consolidated 25.10.2025
+  - Import log: [import-log/2026-06-28-oug-21-2004.md](../import-log/2026-06-28-oug-21-2004.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
