@@ -72,13 +72,23 @@ a { color: inherit; }
 
 .site-nav a,
 .github-link,
-.button {
+.button,
+.metric-link {
   text-decoration: none;
 }
 
 .github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   color: var(--accent);
   font-weight: 700;
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .hero {
@@ -121,6 +131,7 @@ a { color: inherit; }
   border-radius: 8px;
   padding: 0 18px;
   font-weight: 750;
+  gap: 8px;
 }
 
 .button.primary { background: var(--accent); color: white; }
@@ -136,15 +147,45 @@ a { color: inherit; }
   box-shadow: var(--shadow);
 }
 
-.hero-panel div {
+.hero-panel div,
+.hero-panel .metric-link {
   padding-bottom: 18px;
   border-bottom: 1px solid var(--border);
 }
 
-.hero-panel div:last-child { border-bottom: 0; padding-bottom: 0; }
+.hero-panel div:last-child,
+.hero-panel .metric-link:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
 
 .metric { display: block; font-size: 46px; font-weight: 850; }
 .metric-label { color: var(--muted); }
+
+.metric-link {
+  display: block;
+  color: inherit;
+}
+
+.metric-link:hover .metric,
+.metric-link:focus-visible .metric {
+  color: var(--accent);
+}
+
+.mit-badge {
+  display: inline-flex;
+  margin-bottom: 8px;
+  min-height: 28px;
+  align-items: center;
+  border: 1px solid rgba(184, 138, 45, 0.5);
+  border-radius: 6px;
+  padding: 0 10px;
+  background: #fff8df;
+  color: #7a5417;
+  font-size: 13px;
+  font-weight: 850;
+  letter-spacing: 0.04em;
+}
 
 .section-grid {
   display: grid;
