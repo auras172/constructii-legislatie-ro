@@ -1,0 +1,44 @@
+{
+  "title": "Legea nr. 372 din 13 decembrie 2005 privind performanța energetică a clădirilor",
+  "short_title": "Legea 372/2005",
+  "canonical_citation": "Legea nr. 372/2005",
+  "type": "lege",
+  "number": "372",
+  "year": "2005",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "nzeb",
+  "topics": [
+    "performanta-energetica",
+    "cladiri",
+    "certificat-energetic",
+    "nzeb"
+  ],
+  "status": "active",
+  "issue_date": "2005-12-13",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265880",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/265880",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2024-07-25",
+  "last_checked": "2026-06-28",
+  "version": "forma actualizata (LEGE A) la 25.07.2024, republicata in M.Of. nr. 868 din 23 septembrie 2020 prin Legea 101/2020",
+  "article_count": 43,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-50-1991",
+    "lege-10-1995"
+  ],
+  "tags": [
+    "performanta-energetica",
+    "cladiri",
+    "certificat-energetic",
+    "nzeb",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
