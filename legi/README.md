@@ -76,6 +76,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28)) — O.M.D.L.P.A. nr. 267/28.02.2025
   - Status: active · metadata-only (698 pag., text integral nedisponibil în repo) · intrat în vigoare 08.05.2025
   - Import log: [import-log/2026-06-28-normativ-p118-2025.md](../import-log/2026-06-28-normativ-p118-2025.md)
+- [Normativ P 130-2025](./normativ-p130-2025.md)
+  - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
+  - Official source checked: MDLPA ([reglementare21](https://www.mdlpa.ro/pages/reglementare21)) — O.M.D.L.P.A. nr. 770/30.05.2025
+  - Status: active · metadata-only · intrat în vigoare 18.05.2025 · înlocuiește P 130 din 1999/2003
+  - Import log: [import-log/2026-06-28-normativ-p130-2025.md](../import-log/2026-06-28-normativ-p130-2025.md)
 - ISCIR relevant prescriptions
   - Domain: iscir
   - TODO: identify relevant prescriptions and official sources
