@@ -41,6 +41,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): clarify P118 indicativ provenance, remove invalid frontmatter field (#70)
 
 ### Other
+- feat(changelog): add changelog generator from git history
+- feat(cross-refs): auto-detect act cross-references in official text
 - feat(legi): add metadata entry for Normativ P 118-2025 (securitate incendiu) (#61)
 - Consolidate repo metadata and contribution infrastructure (#26)
 

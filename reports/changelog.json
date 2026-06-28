@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:54:13.508Z",
+  "generated_at": "2026-06-28T18:59:06.524Z",
   "months": [
     {
       "month": "2026-06",
@@ -107,6 +107,8 @@
         "fix(metadata): clarify P118 indicativ provenance, remove invalid frontmatter field (#70)"
       ],
       "misc": [
+        "feat(changelog): add changelog generator from git history",
+        "feat(cross-refs): auto-detect act cross-references in official text",
         "feat(legi): add metadata entry for Normativ P 118-2025 (securitate incendiu) (#61)",
         "Consolidate repo metadata and contribution infrastructure (#26)"
       ]
