@@ -1,129 +1,216 @@
-# Open Construction Law Romania
+# constructii-legislatie-ro
+
+**Open-source, versioned construction legislation for Romania — structured for humans, Git, search, and AI.**
+
+`constructii-legislatie-ro` is a provenance-first knowledge repository for Romanian construction-related legislation, technical norms, metadata, relationships, citations, and validation artifacts. It is designed to be readable by humans, reviewable through Git, and usable by search systems, RAG pipelines, and AI agents without treating generated output as legal authority.
 
 See [INDEX.md](./INDEX.md) for the current legislation status matrix.
 
-**Romanian Construction Knowledge Base** — open-source, versioned construction legislation for Romania, structured for humans, Git, search, and AI.
+## The Problem
 
-This repository tracks Romanian construction legislation, norms, procedures, and regulatory references in a Git-friendly format.
+Romanian construction legislation is difficult to use in technical workflows because the relevant material is spread across laws, government decisions, ministerial orders, norms, methodologies, authority pages, and official publications. These documents change over time, often reference each other, and are usually consumed as web pages, PDFs, DOCX files, or fragmented excerpts.
 
-We invite developers, engineers, architects, legal researchers, AI builders, public-sector specialists, and construction professionals to contribute. If you want to help structure Romanian construction regulation for humans and machines, open an issue or contact us at contact@radarmeseriasi.ro.
+That creates practical problems:
 
-This project is MIT-licensed. It is a technical documentation project, **not legal advice** and **not an official government source**.
+- it is hard to know which source was checked, when, and by whom;
+- it is hard to compare versions and review changes;
+- references between acts are difficult to trace mechanically;
+- text, metadata, provenance, and contributor notes are often mixed together;
+- AI systems can easily confuse official excerpts, community notes, and generated summaries if the boundary is not explicit.
 
-## Purpose
+This repository exists to make the material more inspectable, source-backed, and machine-readable without replacing official sources or professional legal review.
 
-The goal is to track construction-related Romanian legal acts, norms, procedures, and guidance in a structured Markdown format that works well with Git history, review workflows, search, and future retrieval systems.
+## What This Repository Is
 
-Initial scope covers construction-related topics only:
+This repository is a Git-based knowledge source for construction legislation and related technical regulation in Romania.
 
-- construction authorization
-- urbanism
-- execution of works
-- reception of works
-- construction quality
-- ISC references
-- ANRE references
-- ISCIR references
-- fire safety
-- nZEB / energy efficiency
+It provides:
 
-## Why Git for legislation?
+- **structured Markdown** for imported acts and documentation;
+- **versioned history** through Git commits, pull requests, and diffs;
+- **provenance records** for official-source imports;
+- **metadata** in JSON for machine-readable indexing;
+- **relationships** between acts, including related, implementing, amending, and amended-by links where verified;
+- **citation anchors** for stable article-level references;
+- **validation scripts and CI checks** for metadata, Markdown hygiene, parity, official-text markers, citation anchors, and manifest consistency;
+- **GitHub collaboration workflows** for human and AI-assisted contributions.
 
-Git is useful because legislation changes over time. A Git-friendly repository can make those changes easier to inspect:
+The project follows these operating principles:
 
-- diffs show what changed between versions
-- commit messages can cite official sources and dates
-- small updates can be reviewed before merge
-- metadata can be validated consistently
-- history can preserve when a source was checked
+- Knowledge before AI.
+- Official before Community.
+- Evidence before Opinion.
+- Artifacts before Conversation.
+- Verification before Merge.
+- Receipts before Trust.
+- Version before Memory.
+- Review before Automation.
 
-This does not replace official legal sources. It is an open technical index that can help people organize references and notice changes.
+## What This Repository Is Not
 
-## Intended users
+This repository is not:
 
-This project is intended for:
+- legal advice;
+- an official government source;
+- a law website that replaces official publication systems;
+- a chatbot;
+- a document dump;
+- a commercial legal database;
+- an authority for deciding what the law means.
 
-- builders and contractors
-- civil engineers
-- architects and urbanism specialists
-- construction founders and product teams
-- technical due-diligence researchers
-- legal researchers who want a Git-readable index
+Official sources remain authoritative. Generated output, summaries, classifications, and contributor notes must never be treated as official legal text.
 
-## How diffs help
+## Part of OCKI
 
-When an act changes, a Markdown update can show:
+`constructii-legislatie-ro` is the first Knowledge Source in the **Open Construction Knowledge Infrastructure Romania (OCKI)** ecosystem.
 
-- title or status changes
-- source URL changes
-- metadata updates
-- newly added source links
-- notes about verified amendments
+OCKI is an infrastructure pattern for building reviewable, source-backed knowledge layers around construction regulation. The goal is not to centralize trust in one application, but to make legal and technical knowledge easier to verify, cite, diff, and reuse responsibly.
 
-The repository should prefer small commits so reviewers can inspect one legal act or one source update at a time.
-
-## Future search / RAG use
-
-A consistent Markdown and metadata structure can later support:
-
-- full-text search
-- filtered search by domain, year, type, status, or tag
-- retrieval-augmented generation over verified excerpts
-- change detection dashboards
-- citation-aware assistants
-
-Any future RAG or assistant workflow must cite sources and must not present generated output as legal advice.
-
-### Verified Excerpts vs Generated Output
-
-Future search, RAG, and assistant workflows must keep a strict boundary between verified source text and model-generated text.
-
-**Verified Excerpt** means text extracted directly from an official or primary source, such as Monitorul Oficial, ANRE, ISCIR, MF, ANAF, or another source recorded in this repository's source policy. A verified excerpt must include complete metadata: source URL or file, publication date when available, article or paragraph reference, extraction timestamp, and content hash. Any citation in downstream output must point back to the exact original source reference and must be marked as verified.
-
-**Generated Output** means text produced by an AI model, including classification, summarization, drafting, restructuring, or interpretation. Generated output must be marked explicitly as generated, must not be cited as a primary source, and must be grounded in at least one verified excerpt when it makes a factual claim.
-
-Boundary rule: no generated output may be presented as verified. If a model cannot anchor its output in a verified excerpt, the system must return `unverified - manual review required` instead of generating unsourced content.
-
-Audit trail: every output, whether verified or generated, should carry provenance metadata: source URL or file, extraction timestamp, model version when generated, confidence score, and human review status.
-
-## Official sources remain authoritative
-
-Always verify against official or primary sources before relying on any information here. Relevant official sources may include:
-
-- legislatie.just.ro
-- Monitorul Oficial
-- ministries and authorities with legal publication duties
-- ISC, ANRE, ISCIR, IGSU, MDRAP/MDLPA or successor authority pages when applicable
-
-## Text reuse policy
-
-Official legislative, administrative, and judicial texts may be included when sourced from official public sources and when the repository records the source URL, official source name, and date checked.
-
-Do not import third-party annotations, commercial database content, private summaries, standards, commentary, or paid/legal publisher material unless reuse rights are explicit.
-
-If reuse rights are unclear, keep only metadata, source links, relationships, and TODO placeholders until a contributor verifies the source policy.
-
-
-## Project infrastructure
-
-- [Vision](VISION.md) — why this project exists and what can be built on top.
-- [Roadmap](ROADMAP.md) — phased work plan and priorities.
-- [Contributing](CONTRIBUTING.md) — source-backed contribution rules.
-- [Import log](import-log/README.md) — provenance records for official text imports.
-
-## Repository layout
-
-```text
-metadata/   JSON schema and source-tracking notes
-legi/       Candidate laws and government decisions, one act per file later
-normative/  Technical norms and prescriptions, one document per file later
-ghiduri/    Guidance notes, procedures, and source maps
-scripts/    Future validation scripts; none implemented in MVP
-examples/   Markdown and metadata templates
+```mermaid
+flowchart LR
+    A["Official sources<br/>Portal Legislativ, Monitorul Oficial, authorities"] --> B["constructii-legislatie-ro<br/>Knowledge Source"]
+    B --> C["Git history<br/>diffs, reviews, provenance"]
+    B --> D["Machine-readable layer<br/>metadata, citations, relationships, manifest"]
+    D --> E["Search and RAG systems"]
+    D --> F["AI agents"]
+    D --> G["Applications such as Radar Meseriasi"]
+    C --> H["Human contributors<br/>engineers, lawyers, architects, researchers"]
 ```
 
-## MVP status
+The repository-level OCKI artifacts include:
 
-This MVP contains structure, templates, metadata schema, contribution rules, and initial source-backed metadata entries.
+- `ocki-manifest.json` — machine-readable repository entry point;
+- [docs/ai-contract.md](./docs/ai-contract.md) — rules for AI agent behavior;
+- [docs/metadata-model.md](./docs/metadata-model.md) — metadata model documentation;
+- [docs/anchor-convention.md](./docs/anchor-convention.md) — citation anchor convention;
+- [templates/repository-template/](./templates/repository-template/) — reusable bootstrap template for future repositories.
 
-Full official legal text may be added act-by-act after source verification, preserving article numbering and avoiding third-party annotations or commentary.
+## Repository Capabilities
+
+Instead of being organized around one reading interface, this repository is organized around capabilities.
+
+### Official-source imports
+
+Imported acts are stored as Markdown and bounded by `OFFICIAL_TEXT_START` / `OFFICIAL_TEXT_END` markers. The repository preserves article numbering and records source provenance for each full-text import.
+
+### Provenance
+
+Import logs in [import-log/](./import-log/) record source URLs, access dates, import method, scope notes, and verification caveats. Provenance is part of the data model, not an afterthought.
+
+### Metadata
+
+Act metadata lives in [metadata/acts/](./metadata/acts/) and is validated against [metadata/schema.json](./metadata/schema.json). Metadata supports filtering, indexing, status tracking, relationship mapping, and future automation.
+
+### Relationship graph
+
+Relationship fields and generated cross-reference artifacts help identify how acts refer to, implement, amend, or depend on each other. Suggested relationships still require human review before becoming canonical metadata.
+
+### Citations
+
+Citation anchors allow direct references to article-level sections such as `legi/lege-50-1991.md#art-7`. Citation artifacts live in [citations/](./citations/) where generated.
+
+### Validation
+
+Scripts in [scripts/](./scripts/) check metadata validity, Markdown hygiene, metadata/frontmatter parity, official text integrity, citation anchors, cross-references, changelog artifacts, health reports, and manifest consistency.
+
+### Static website
+
+A small static website under [site/](./site/) makes the repository easier to browse. The website is a presentation layer over repository artifacts, not a separate source of truth.
+
+### Wiki and Discussions
+
+The GitHub wiki and Discussions provide project orientation, roadmap status, non-technical contribution paths, and community coordination. Canonical source data remains in the repository.
+
+### Pull Requests
+
+Every meaningful change should be reviewable as a focused pull request with source evidence, validation output, and a rollback plan. The repository prefers small, inspectable changes over broad updates.
+
+## AI Readiness
+
+This repository is useful for AI workflows because it is structured around files, metadata, citations, and validation instead of conversational memory.
+
+AI agents can:
+
+- clone the repository;
+- read `ocki-manifest.json` first when present;
+- inspect [INDEX.md](./INDEX.md) for current status;
+- use JSON metadata to locate relevant acts;
+- cite Markdown article anchors;
+- distinguish imported official text from generated or community-authored notes;
+- run validation scripts before proposing changes.
+
+For search and RAG workflows, the repository provides a safer foundation than unstructured document scraping because it separates:
+
+- verified excerpts;
+- metadata;
+- provenance;
+- relationships;
+- generated output;
+- human review status.
+
+AI-generated output is never authoritative. If an answer cannot be grounded in a verified excerpt and source reference, it must be treated as unverified and routed to manual review.
+
+## Integration with Radar Meseriasi
+
+Applications such as [Radar Meseriasi](https://radarmeseriasi.ro) can consume this repository as a versioned, reviewable technical knowledge layer.
+
+Radar is not the owner of legal truth, and this repository is not a substitute for official legal sources. The repository provides structured artifacts that applications can use for search, citation, compliance support, and assisted workflows, while official sources and qualified professional review remain authoritative.
+
+## Contributing
+
+Contributions are welcome from engineers, lawyers, architects, AI researchers, public-sector specialists, founders, and construction professionals.
+
+Start here:
+
+- [CONTRIBUTING.md](./CONTRIBUTING.md) — contribution rules and source-backed workflow;
+- [AGENTS.md](./AGENTS.md) — rules for human + AI-assisted repository work;
+- [PROMPTS.md](./PROMPTS.md) — reusable prompts for AI-assisted contributions;
+- [docs/ai-contributor-onboarding.md](./docs/ai-contributor-onboarding.md) — first AI-assisted pull request guide.
+
+Good contributions include:
+
+- verifying official source URLs;
+- improving metadata;
+- adding or reviewing import logs;
+- checking relationships between acts;
+- reporting source gaps;
+- improving validation scripts;
+- documenting caveats clearly.
+
+Do not mass-import unverified text. Do not add legal interpretation as fact. Do not copy commercial legal database content.
+
+## Disclaimer
+
+This repository is not legal advice and is not an official government source.
+
+Always verify against official or primary sources before relying on any information here. Relevant sources may include:
+
+- [Portal Legislativ](https://legislatie.just.ro);
+- Monitorul Oficial;
+- ministries and authorities with legal publication duties;
+- ISC, ANRE, ISCIR, IGSU, MDLPA or successor authority pages when applicable.
+
+Imported texts include provenance where available, but completeness, consolidation status, and reuse rights must still be checked for each act. Generated output, summaries, classifications, and AI responses are never authoritative and must not be cited as primary sources.
+
+## License and Reuse
+
+The repository structure, original documentation, scripts, templates, schemas, and tooling are provided under the [MIT License](./LICENSE), unless a file states otherwise.
+
+Imported official texts and source excerpts are handled separately:
+
+- they remain tied to their official source and recorded provenance;
+- they may have source-specific reuse constraints;
+- commercial database annotations, commentary, and third-party enriched text must not be imported unless reuse rights are explicit.
+
+When reuse rights are unclear, keep only metadata, source links, relationships, and TODO placeholders until the source policy is verified.
+
+## Project Links
+
+- [Current legislation index](./INDEX.md)
+- [Vision](./VISION.md)
+- [Roadmap](./ROADMAP.md)
+- [Import log](./import-log/README.md)
+- [Copyright and reuse notes](./COPYRIGHT_NOTES.md)
+- [Disclaimer](./DISCLAIMER.md)
+
+Contact: contact@radarmeseriasi.ro
