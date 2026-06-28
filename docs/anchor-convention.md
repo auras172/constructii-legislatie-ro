@@ -59,9 +59,39 @@ When the Markdown renderer does not support explicit heading IDs, use an empty H
 ### Art. 1
 ```
 
+## Inline syntax
+
+Anchors are placed at the end of the heading line that marks the article boundary:
+
+```markdown
+### Articolul 7 {#art-7}
+```
+
+This is the format produced by `scripts/add-article-anchors.mjs` and the format expected by `scripts/validate-citation-anchors.mjs`.
+
+## What is currently anchored
+
+Only `#art-N` anchors on article headings are implemented. The following are **not yet anchored** (future scope):
+
+- Paragraph-level anchors (`#art-N-alin-P`)
+- Letter-level anchors (`#art-N-alin-P-lit-L`)
+- Annex articles (`#anexa-N-art-M`) — inconsistent numbering across acts
+
+## Duplicate article numbers
+
+Some acts contain two document sections with independent numbering (e.g. `ordin-839-2009.md` which holds both ORDIN and NORMA). When the same article number appears more than once in a file, a suffix is added to later occurrences:
+
+```
+art-1     → first occurrence
+art-1-b   → second occurrence
+art-1-c   → third occurrence
+```
+
 ## Migration
 
 Acts imported before this convention was established should be updated incrementally, one act per PR. The import log for each act should record when anchors were added.
+
+As of 2026-06-28 all 13 full-text imported acts have been anchored by `scripts/add-article-anchors.mjs`. The canonical registry is at `citations/citation-index.json`.
 
 ## Reference act
 
