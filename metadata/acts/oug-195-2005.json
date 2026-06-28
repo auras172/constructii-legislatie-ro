@@ -1,0 +1,44 @@
+{
+  "title": "Ordonanța de Urgență nr. 195 din 22 decembrie 2005 privind protecția mediului",
+  "short_title": "OUG 195/2005",
+  "canonical_citation": "OUG nr. 195/2005",
+  "type": "ordonanta",
+  "number": "195",
+  "year": "2005",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "mediu",
+  "topics": [
+    "mediu",
+    "protectia-mediului",
+    "avize",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2005-12-22",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253015",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/253015",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2022-04-07",
+  "last_checked": "2026-06-28",
+  "version": "forma actualizata (ORD DE URGENTA A) la 07.04.2022, aprobata de Legea 265/2006",
+  "article_count": 105,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-50-1991",
+    "lege-10-1995"
+  ],
+  "tags": [
+    "mediu",
+    "protectia-mediului",
+    "avize",
+    "constructii",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
