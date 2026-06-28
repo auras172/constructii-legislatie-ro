@@ -1,0 +1,43 @@
+{
+  "title": "Legea nr. 481 din 8 noiembrie 2004 privind protecția civilă",
+  "short_title": "Legea 481/2004",
+  "canonical_citation": "Legea nr. 481/2004",
+  "type": "lege",
+  "number": "481",
+  "year": "2004",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "incendiu",
+  "topics": [
+    "protectie-civila",
+    "situatii-urgenta",
+    "siguranta",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2004-11-08",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265539",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/265539",
+  "version_kind": "republicat",
+  "consolidated_as_of": "2023-03-07",
+  "last_checked": "2026-06-28",
+  "article_count": 82,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-307-2006"
+  ],
+  "tags": [
+    "protectie-civila",
+    "situatii-urgenta",
+    "siguranta",
+    "incendiu",
+    "constructii",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
