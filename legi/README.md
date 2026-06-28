@@ -31,6 +31,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocumentAfis/189596`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596))
   - Status: active · full official text imported 2026-06-28 · 43 articles (3 HG + 40 Regulament) · 6 annexes
   - Import log: [import-log/2026-06-28-hg-343-2017.md](../import-log/2026-06-28-hg-343-2017.md)
+- [Legea 372/2005](./lege-372-2005.md)
+  - Domain: nzeb · Related: Legea 50/1991, Legea 10/1995
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/265880`](https://legislatie.just.ro/Public/DetaliiDocument/265880))
+  - Status: active · full official actualizata text imported 2026-06-28 · 43 articles · 0 annexes · consolidated 25.07.2024
+  - Import log: [import-log/2026-06-28-lege-372-2005.md](../import-log/2026-06-28-lege-372-2005.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
