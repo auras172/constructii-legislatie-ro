@@ -32,3 +32,6 @@ jobs:
 
       - name: Check official text integrity
         run: node scripts/check-official-text-integrity.mjs
+
+      - name: Generate repository health report
+        run: node scripts/repository-health-report.mjs
