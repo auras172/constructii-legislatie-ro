@@ -1,0 +1,212 @@
+{
+  "generated_at": "2026-06-28T18:19:24.991Z",
+  "summary": {
+    "total_metadata_entries": 16,
+    "total_full_text_acts": 13,
+    "total_metadata_only_acts": 3,
+    "total_import_logs": 16,
+    "total_relationship_links": 32,
+    "total_unique_domains": 8,
+    "total_unique_issuers": 3
+  },
+  "coverage": [
+    {
+      "slug": "hg-300-2006",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 3,
+      "provenance": true
+    },
+    {
+      "slug": "hg-343-2017",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 3,
+      "provenance": true
+    },
+    {
+      "slug": "lege-10-1995",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-292-2018",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-307-2006",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-319-2006",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-350-2001",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-372-2005",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-481-2004",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-50-1991",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 3,
+      "provenance": true
+    },
+    {
+      "slug": "metodologie-mc001-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-p118-1-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": false,
+      "official_markers": null,
+      "relationships": 3,
+      "provenance": false
+    },
+    {
+      "slug": "normativ-p130-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-839-2009",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "oug-195-2005",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "oug-21-2004",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 2,
+      "provenance": true
+    }
+  ],
+  "statistics": {
+    "domains": {
+      "munca": 2,
+      "receptie": 1,
+      "calitate": 2,
+      "mediu": 2,
+      "incendiu": 4,
+      "urbanism": 1,
+      "nzeb": 2,
+      "autorizatii": 2
+    },
+    "issuers": {
+      "guvern": 4,
+      "parlament": 8,
+      "minister": 4
+    },
+    "publication_years": {
+      "1991": 1,
+      "1995": 1,
+      "2001": 1,
+      "2004": 2,
+      "2005": 2,
+      "2006": 3,
+      "2009": 1,
+      "2017": 1,
+      "2018": 1,
+      "2023": 1,
+      "2025": 2
+    },
+    "import_methods": {
+      "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
+      "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
+      "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
+      "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
+      "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
+      "printable HTML → Markdown": 1,
+      "metadata-only": 3,
+      "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
+      "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
+      "full-text": 1
+    }
+  },
+  "health_score": {
+    "score": 97.5,
+    "dimensions": {
+      "metadata_completeness": 100,
+      "import_logs": 93.75,
+      "relationships": 100,
+      "official_markers": 100,
+      "provenance": 93.75
+    },
+    "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
+  },
+  "warnings": []
+}
