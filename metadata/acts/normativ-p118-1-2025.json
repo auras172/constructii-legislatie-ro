@@ -1,7 +1,7 @@
 {
-  "title": "Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118-2025",
-  "short_title": "Normativ P 118-2025",
-  "canonical_citation": "P 118-2025",
+  "title": "Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118-1/2025",
+  "short_title": "Normativ P 118-1/2025",
+  "canonical_citation": "P 118-1/2025",
   "type": "normativ",
   "number": "267",
   "year": "2025",
@@ -18,8 +18,8 @@
   "article_count": null,
   "annex_count": null,
   "last_checked": "2026-06-28",
-  "tags": ["securitate-incendiu", "constructii", "normativ-tehnic", "proiectare", "incendiu", "mdlpa"],
+  "tags": ["securitate-incendiu", "constructii", "normativ-tehnic", "proiectare", "incendiu", "mdlpa", "P 118-2025"],
   "related_acts": ["lege-307-2006", "lege-481-2004", "oug-21-2004"],
-  "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 267/28.02.2025, publicat în M.Of. nr. 204 și 204 bis/10.III.2025. Textul integral (698 pag.) disponibil la sursa oficială. Metadata-only — textul nu este importat în acest repo.",
+  "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 267/28.02.2025, publicat în M.Of. nr. 204 și 204 bis/10.III.2025. Pagina MDLPA listează actul ca P 118-2025; DOCX-ul oficial linkuit de MDLPA are heading-ul INDICATIV P 118-1/2025. Metadata-only — textul nu este importat în acest repo.",
   "import_method": "metadata-only"
 }
