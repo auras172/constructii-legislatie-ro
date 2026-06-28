@@ -30,7 +30,7 @@ import_method: metadata-only
 
 **Publicat în:** Monitorul Oficial al României, Partea I, nr. 568 și 568 bis din 19 iunie 2025
 
-**Intrat în vigoare:** 18 mai 2025
+**Intrat în vigoare:** 18 mai 2025 *(dată preluată din sursa MDLPA — anterioară publicării în M.Of.; statut anomalus, a se vedea nota de proveniență)*
 
 **Înlocuiește:**
 - O.M.L.P.A.T. nr. 57/N/18.08.1999 (publicat în Buletinul Construcțiilor nr. 1/2000)
@@ -43,6 +43,8 @@ import_method: metadata-only
 Textul integral al normativului nu este importat în acest repository.
 
 Sursa oficială: [MDLPA — Verificarea calității și recepția lucrărilor (XXI)](https://www.mdlpa.ro/pages/reglementare21)
+
+**Anomalie effective_date (documentată 2026-06-29):** Sursa MDLPA indică „La data intrării în vigoare (18 mai 2025)" — dată anterioară publicării în M.Of. (19 iunie 2025). Această situație este juridic imposibilă în absența unei dispoziții exprese de retroactivitate. Valoarea este preluată fidel din sursa oficială. Nu a putut fi verificată față de textul M.Of. nr. 568/568bis (nedisponibil în repo). Nu tratați `effective_date: 2025-05-18` ca fapt juridic confirmat până la verificarea textului integral.
 
 ---
 
