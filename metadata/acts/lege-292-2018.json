@@ -24,7 +24,7 @@
   "version_kind": "consolidat",
   "consolidated_as_of": "2026-03-13",
   "last_checked": "2026-06-28",
-  "version": "forma consolidata (LEGE A) la 13.03.2026; text printabil identic cu forma initiala; act modificator din 13.03.2026 neidenticat in adnotari inline; publicata in M.Of. nr. 1043 din 10 decembrie 2018",
+  "version": "forma consolidata (LEGE A) la 13.03.2026; text printabil identic cu forma initiala; act modificator din 13.03.2026 neidentificat in adnotari inline; publicata in M.Of. nr. 1043 din 10 decembrie 2018",
   "article_count": 34,
   "annex_count": 5,
   "import_method": "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
