@@ -21,9 +21,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/184772`)
   - Status: active · full official actualizata text imported 2026-06-27 · 68 articles · 2 annexe
   - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
-- Ordin MDRAP 839/2009 — metadata entry in `metadata/acts/ordin-839-2009.json`
+- [Ordin MDRAP 839/2009](./ordin-839-2009.md)
   - Domain: autorizatii · Implements: Legea 50/1991
-  - Official source: Portal Legislativ (`/Public/DetaliiDocument/109776`) — TODO: verify consolidated form
+  - Official source checked: Portal Legislativ — ORDIN (A) [`/Public/DetaliiDocument/156617`](https://legislatie.just.ro/Public/DetaliiDocument/156617) + NORMA (A) [`/Public/DetaliiDocument/259096`](https://legislatie.just.ro/Public/DetaliiDocument/259096)
+  - Status: active · full official actualizata text imported 2026-06-27 · 85 articles (3 ORDIN + 82 NORMA) · NORMA actualizata la 05.10.2022
+  - Import log: [import-log/2026-06-27-ordin-839-2009.md](../import-log/2026-06-27-ordin-839-2009.md)
 - HG 343/2017 — metadata entry in `metadata/acts/hg-343-2017.json`
   - Domain: receptie · Related: Legea 50/1991
   - Official source: Portal Legislativ (`/Public/DetaliiDocument/188419`) — TODO: verify

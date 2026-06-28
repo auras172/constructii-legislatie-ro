@@ -12,17 +12,25 @@
   "status": "active",
   "issue_date": "2009-10-12",
   "publication_medium": "portal-legislativ",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109776",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156617",
   "official_source": "Portal Legislativ — legislatie.just.ro",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/109776",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/156617",
   "version_kind": "consolidat",
+  "consolidated_as_of": "2022-10-05",
   "last_checked": "2026-06-27",
+  "version": "ORDIN (A) forma actualizata + NORMA (A) actualizata la 05.10.2022; publicat in M.Of. nr. 797 si 797 bis din 23 noiembrie 2009",
+  "article_count": 85,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "implements": ["lege-50-1991"],
   "tags": [
     "autorizatii",
     "norme-metodologice",
     "autorizare-constructii",
     "mdrap",
-    "metadata-only"
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
   ]
 }
