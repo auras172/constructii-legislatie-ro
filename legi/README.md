@@ -82,9 +82,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - ANRE electric authorization references
   - Domain: anre
   - TODO: identify relevant authorization references and official sources
-- nZEB / energy performance references
-  - Domain: nzeb
-  - TODO: identify relevant laws, norms, and official sources
+- [Mc 001-2022 — Metodologie calcul performanță energetică clădiri](./metodologie-mc001-2022.md)
+  - Domain: nzeb · Related: Legea 372/2005, Legea 10/1995
+  - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 16/05.01.2023
+  - Status: active · metadata-only · intrată în vigoare 16.02.2023 · abrogă Mc 001/1,3,5 din 2006/2009
+  - Import log: [import-log/2026-06-28-metodologie-mc001-2022.md](../import-log/2026-06-28-metodologie-mc001-2022.md)
 
 ## Naming convention proposal
 
