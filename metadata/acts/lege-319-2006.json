@@ -1,0 +1,45 @@
+{
+  "title": "Legea nr. 319 din 14 iulie 2006 a securității și sănătății în muncă",
+  "short_title": "Legea 319/2006",
+  "canonical_citation": "Legea nr. 319/2006",
+  "type": "lege",
+  "number": "319",
+  "year": "2006",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "munca",
+  "topics": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "santier",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2006-07-14",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244539",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/244539",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2021-07-25",
+  "last_checked": "2026-06-28",
+  "article_count": 53,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-10-1995",
+    "lege-50-1991"
+  ],
+  "tags": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "santier",
+    "constructii",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
