@@ -87,6 +87,34 @@ art-1-b   → second occurrence
 art-1-c   → third occurrence
 ```
 
+## Nested replacement text in modifying acts
+
+Some acts are "acte modificatoare" (modifying acts) that amend another act by quoting new replacement text inline. The replacement text may include its own article headings nested inside the body of the modifying act's article.
+
+**Example — HG 343/2017, Articolul I:**
+
+```markdown
+### Articolul I {#art-i}
+
+... se modifică după cum urmează: ... 2. Articolul 1 va avea următorul cuprins:
+
+### Articolul 1 {#art-1}
+
+Se aprobă Regulamentul privind recepția construcțiilor ...
+```
+
+Here `### Articolul 1 {#art-1}` is not an independent article of HG 343/2017 — it is the replacement text for art. 1 of the amended act (HG 273/1994), nested inside `Articolul I`.
+
+**Consequences:**
+
+- The raw `###` heading count in the Markdown file will be higher than `article_count` in metadata.
+- `article_count` in metadata is always the **semantic** count (number of legally distinct articles in the act itself), not the raw heading count.
+- The anchor on the nested heading (`{#art-1}`) refers to the **rewritten article in the amended act**, not to an article of the modifying act. Consumers should be aware of this when resolving citations.
+
+**Anchor handling:** Because the nested heading falls inside the `OFFICIAL_TEXT_START / OFFICIAL_TEXT_END` block, heading levels must not be changed. The duplicate-suffix convention (`-b`, `-c`, …) is used to avoid anchor collisions when the same article number appears again later in the file (e.g. as the first article of an embedded Regulament).
+
+**Parser/RAG guidance:** Use `article_count` from `metadata/acts/<act>.json` as the authoritative semantic count, not the raw `###` heading count from the Markdown file.
+
 ## Migration
 
 Acts imported before this convention was established should be updated incrementally, one act per PR. The import log for each act should record when anchors were added.
