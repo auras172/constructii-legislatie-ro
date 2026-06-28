@@ -1,0 +1,44 @@
+{
+  "title": "Legea nr. 307 din 12 iulie 2006 privind apărarea împotriva incendiilor",
+  "short_title": "Legea 307/2006",
+  "canonical_citation": "Legea nr. 307/2006",
+  "type": "lege",
+  "number": "307",
+  "year": "2006",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "isu",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2006-07-12",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309352",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/309352",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-03-13",
+  "last_checked": "2026-06-28",
+  "version": "forma actualizata (LEGE A) la 13.03.2026, republicata in M.Of. nr. 297 din 17 aprilie 2019 prin Legea 28/2018",
+  "article_count": 58,
+  "annex_count": 0,
+  "import_method": "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-50-1991",
+    "lege-10-1995"
+  ],
+  "tags": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "isu",
+    "constructii",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
