@@ -124,7 +124,7 @@ function extractLegislationEntries(hash, metadata) {
 
 // 1. Read git log
 const rawLog = execSync(
-  'git log --pretty=format:"%H|%ad|%s" --date=format:"%Y-%m" main',
+  'git log --pretty=format:"%H|%ad|%s" --date=format:"%Y-%m" HEAD',
   { encoding: 'utf8' }
 ).trim()
 
