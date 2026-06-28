@@ -92,6 +92,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 16/05.01.2023
   - Status: active · metadata-only · intrată în vigoare 16.02.2023 · abrogă Mc 001/1,3,5 din 2006/2009
   - Import log: [import-log/2026-06-28-metodologie-mc001-2022.md](../import-log/2026-06-28-metodologie-mc001-2022.md)
+- [Normativ P 100-1/2013](./normativ-p100-1-2013.md)
+  - Domain: calitate (proiectare seismică) · Related: Legea 10/1995, Legea 50/1991
+  - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), poziția I-22) — O.M.D.R.A.P. nr. 2.465/08.08.2013; completare O.M.D.R.A.P. nr. 2.956/18.11.2019
+  - Status: active · metadata-only · publicat în M.Of. nr. 558 bis/03.09.2013 · înlocuiește P 100-1/2006
+  - Import log: [import-log/2026-06-29-normativ-p100-1-2013.md](../import-log/2026-06-29-normativ-p100-1-2013.md)
 
 ## Naming convention proposal
 

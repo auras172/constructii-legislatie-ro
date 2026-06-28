@@ -28,8 +28,9 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | Normativ P 118-1/2025 | incendiu | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare28) | [legi/normativ-p118-1-2025.md](./legi/normativ-p118-1-2025.md) | [metadata/acts/normativ-p118-1-2025.json](./metadata/acts/normativ-p118-1-2025.json) | Indicativ DOCX: P 118-1/2025; tabel MDLPA: P 118-2025. Text integral 698 pag., nedisponibil în repo; intrat în vigoare 08.05.2025 |
 | Normativ P 130-2025 | calitate | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare21) | [legi/normativ-p130-2025.md](./legi/normativ-p130-2025.md) | [metadata/acts/normativ-p130-2025.json](./metadata/acts/normativ-p130-2025.json) | **Anomalie documentată (2026-06-29):** `effective_date` 18.05.2025 anterioară `publication_date` 19.06.2025 — sursa MDLPA confirmă în continuare această dată; valoare păstrată din sursă cu avertisment explicit; nu verificată față de M.Of. |
 | Mc 001-2022 | nzeb | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare27) | [legi/metodologie-mc001-2022.md](./legi/metodologie-mc001-2022.md) | [metadata/acts/metodologie-mc001-2022.json](./metadata/acts/metodologie-mc001-2022.json) | Abrogă Mc 001/1-2006, Mc 001/3-2006, Mc 001/5-2009; intrat în vigoare 16.02.2023 |
+| Normativ P 100-1/2013 | calitate (seismic) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare1) | [legi/normativ-p100-1-2013.md](./legi/normativ-p100-1-2013.md) | [metadata/acts/normativ-p100-1-2013.json](./metadata/acts/normativ-p100-1-2013.json) | Cod seismic pentru clădiri noi; aprobat O.M.D.R.A.P. nr. 2.465/08.08.2013; completare 2019 (nr. 2.956); înlocuiește P 100-1/2006; text nedisponibil în repo |
 
-**Sumar:** 16 acte urmărite · 13 full-text importate · 3 metadata-only
+**Sumar:** 17 acte urmărite · 13 full-text importate · 4 metadata-only
 
 ---
 
