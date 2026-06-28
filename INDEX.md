@@ -59,7 +59,7 @@ Următoarele lipsuri sunt cunoscute și documentate. Nu adăugați acte noi în 
 
 - **ISCIR — prescripții tehnice relevante:** Niciun catalog oficial ISCIR confirmat online. Necesită cercetare de sursă înainte de orice import.
 - **ANRE — referințe autorizare electrică:** Sursele ANRE pentru autorizații electrice nu au fost identificate și verificate. Necesită cercetare de sursă.
-- **Ancore de articol (`#art-N`):** Textele importate nu au încă ancore HTML per articol. Navigarea directă la un articol specific nu este posibilă prin URL fragment.
+- **Ancore de articol (`#art-N`):** 799 ancore canonice au fost adăugate prin PR #75 (citation engine). Navigarea directă la un articol specific este posibilă prin URL fragment (ex: `legi/lege-50-1991.md#art-7`). Artefactele de citare se află în `citations/`.
 - **Verificare integritate import:** Nu există mecanism de hash/checksum pentru a valida că textul importat în `legi/*.md` corespunde exact sursei oficiale la momentul importului.
 - **Reconciliere consolidare Legea 372/2005:** Versiunea importată este consolidată la 25.07.2024. Verificați dacă există o versiune mai recentă pe Portal Legislativ.
 - **Legea 350/2001:** Versiunea importată este consolidată la 27.12.2016 — probabil există amendamente ulterioare neimportate.
