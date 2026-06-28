@@ -41,6 +41,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/309352`](https://legislatie.just.ro/Public/DetaliiDocument/309352))
   - Status: active · full official actualizata text imported 2026-06-28 · 58 articles · 0 annexes · consolidated 13.03.2026
   - Import log: [import-log/2026-06-28-lege-307-2006.md](../import-log/2026-06-28-lege-307-2006.md)
+- [OUG 195/2005](./oug-195-2005.md)
+  - Domain: mediu · Related: Legea 50/1991, Legea 10/1995
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/253015`](https://legislatie.just.ro/Public/DetaliiDocument/253015))
+  - Status: active · full official actualizata text imported 2026-06-28 · 105 articles · 0 annexes · consolidated 07.04.2022
+  - Import log: [import-log/2026-06-28-oug-195-2005.md](../import-log/2026-06-28-oug-195-2005.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
