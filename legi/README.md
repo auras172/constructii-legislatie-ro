@@ -56,6 +56,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/244539`](https://legislatie.just.ro/Public/DetaliiDocument/244539))
   - Status: active · full official actualizata text imported 2026-06-28 · 53 articles · 0 annexes · consolidated 25.07.2021
   - Import log: [import-log/2026-06-28-lege-319-2006.md](../import-log/2026-06-28-lege-319-2006.md)
+- [HG 300/2006](./hg-300-2006.md)
+  - Domain: munca · Related: Legea 319/2006
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/69995`](https://legislatie.just.ro/Public/DetaliiDocument/69995))
+  - Status: active · full official actualizata text imported 2026-06-28 · 73 articles · 4 annexes · consolidated 12.07.2007
+  - Import log: [import-log/2026-06-28-hg-300-2006.md](../import-log/2026-06-28-hg-300-2006.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
