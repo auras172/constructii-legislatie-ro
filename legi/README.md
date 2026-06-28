@@ -51,6 +51,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/307732`](https://legislatie.just.ro/Public/DetaliiDocument/307732))
   - Status: active · full official text imported 2026-06-28 · 34 articles · 5 annexes · fara amendamente identificate (forma originala)
   - Import log: [import-log/2026-06-28-lege-292-2018.md](../import-log/2026-06-28-lege-292-2018.md)
+- [Legea 319/2006](./lege-319-2006.md)
+  - Domain: munca · Related: Legea 10/1995, Legea 50/1991
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/244539`](https://legislatie.just.ro/Public/DetaliiDocument/244539))
+  - Status: active · full official actualizata text imported 2026-06-28 · 53 articles · 0 annexes · consolidated 25.07.2021
+  - Import log: [import-log/2026-06-28-lege-319-2006.md](../import-log/2026-06-28-lege-319-2006.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
