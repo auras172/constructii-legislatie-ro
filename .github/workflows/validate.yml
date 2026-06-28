@@ -35,3 +35,6 @@ jobs:
 
       - name: Generate repository health report
         run: node scripts/repository-health-report.mjs
+
+      - name: Add/verify citation anchors
+        run: node scripts/validate-citation-anchors.mjs

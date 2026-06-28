@@ -1,0 +1,4903 @@
+{
+  "generated_at": "2026-06-28T18:45:21.568Z",
+  "acts": {
+    "hg-300-2006": {
+      "title": "Hotărârea de Guvern nr. 300 din 2 martie 2006 privind cerințele minime de securitate și sănătate pentru șantierele temporare sau mobile",
+      "slug": "hg-300-2006",
+      "file": "legi/hg-300-2006.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-300-2006.md#art-1",
+          "line": 64
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-300-2006.md#art-2",
+          "line": 69
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-300-2006.md#art-3",
+          "line": 74
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-300-2006.md#art-4",
+          "line": 81
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-300-2006.md#art-5",
+          "line": 100
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/hg-300-2006.md#art-6",
+          "line": 105
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/hg-300-2006.md#art-7",
+          "line": 110
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/hg-300-2006.md#art-8",
+          "line": 115
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/hg-300-2006.md#art-9",
+          "line": 120
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/hg-300-2006.md#art-10",
+          "line": 136
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/hg-300-2006.md#art-11",
+          "line": 141
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/hg-300-2006.md#art-12",
+          "line": 146
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/hg-300-2006.md#art-13",
+          "line": 151
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/hg-300-2006.md#art-14",
+          "line": 156
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/hg-300-2006.md#art-15",
+          "line": 161
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/hg-300-2006.md#art-16",
+          "line": 166
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/hg-300-2006.md#art-17",
+          "line": 171
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/hg-300-2006.md#art-18",
+          "line": 180
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/hg-300-2006.md#art-19",
+          "line": 185
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/hg-300-2006.md#art-20",
+          "line": 200
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/hg-300-2006.md#art-21",
+          "line": 213
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/hg-300-2006.md#art-22",
+          "line": 218
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/hg-300-2006.md#art-23",
+          "line": 223
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/hg-300-2006.md#art-24",
+          "line": 230
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/hg-300-2006.md#art-25",
+          "line": 235
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/hg-300-2006.md#art-26",
+          "line": 240
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/hg-300-2006.md#art-27",
+          "line": 245
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/hg-300-2006.md#art-28",
+          "line": 250
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/hg-300-2006.md#art-29",
+          "line": 255
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/hg-300-2006.md#art-30",
+          "line": 260
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/hg-300-2006.md#art-31",
+          "line": 265
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/hg-300-2006.md#art-32",
+          "line": 277
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/hg-300-2006.md#art-33",
+          "line": 282
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/hg-300-2006.md#art-34",
+          "line": 287
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/hg-300-2006.md#art-35",
+          "line": 292
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/hg-300-2006.md#art-36",
+          "line": 299
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/hg-300-2006.md#art-37",
+          "line": 304
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/hg-300-2006.md#art-38",
+          "line": 317
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/hg-300-2006.md#art-39",
+          "line": 322
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/hg-300-2006.md#art-40",
+          "line": 327
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/hg-300-2006.md#art-41",
+          "line": 334
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/hg-300-2006.md#art-42",
+          "line": 341
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/hg-300-2006.md#art-43",
+          "line": 346
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/hg-300-2006.md#art-44",
+          "line": 351
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/hg-300-2006.md#art-45",
+          "line": 356
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/hg-300-2006.md#art-46",
+          "line": 361
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/hg-300-2006.md#art-47",
+          "line": 370
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/hg-300-2006.md#art-48",
+          "line": 377
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/hg-300-2006.md#art-49",
+          "line": 382
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/hg-300-2006.md#art-50",
+          "line": 387
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/hg-300-2006.md#art-51",
+          "line": 399
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/hg-300-2006.md#art-52",
+          "line": 408
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/hg-300-2006.md#art-53",
+          "line": 415
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/hg-300-2006.md#art-54",
+          "line": 422
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/hg-300-2006.md#art-55",
+          "line": 439
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/hg-300-2006.md#art-56",
+          "line": 453
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/hg-300-2006.md#art-57",
+          "line": 473
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/hg-300-2006.md#art-58",
+          "line": 480
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/hg-300-2006.md#art-59",
+          "line": 496
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/hg-300-2006.md#art-60",
+          "line": 510
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/hg-300-2006.md#art-61",
+          "line": 515
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/hg-300-2006.md#art-62",
+          "line": 527
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/hg-300-2006.md#art-63",
+          "line": 534
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/hg-300-2006.md#art-64",
+          "line": 545
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/hg-300-2006.md#art-65",
+          "line": 554
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/hg-300-2006.md#art-66",
+          "line": 573
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/hg-300-2006.md#art-67",
+          "line": 578
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/hg-300-2006.md#art-68",
+          "line": 587
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/hg-300-2006.md#art-69",
+          "line": 594
+        },
+        {
+          "id": "art-70",
+          "anchor": "#art-70",
+          "url_fragment": "legi/hg-300-2006.md#art-70",
+          "line": 599
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/hg-300-2006.md#art-71",
+          "line": 621
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/hg-300-2006.md#art-72",
+          "line": 626
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/hg-300-2006.md#art-73",
+          "line": 631
+        }
+      ],
+      "article_count": 73
+    },
+    "hg-343-2017": {
+      "title": "Hotărârea Guvernului nr. 343 din 18 mai 2017 pentru modificarea Hotărârii Guvernului nr. 273/1994 privind aprobarea Regulamentului de recepție a lucrărilor de construcții și instalații aferente acestora",
+      "slug": "hg-343-2017",
+      "file": "legi/hg-343-2017.md",
+      "articles": [
+        {
+          "id": "art-i",
+          "anchor": "#art-i",
+          "url_fragment": "legi/hg-343-2017.md#art-i",
+          "line": 57
+        },
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-343-2017.md#art-1",
+          "line": 63
+        },
+        {
+          "id": "art-ii",
+          "anchor": "#art-ii",
+          "url_fragment": "legi/hg-343-2017.md#art-ii",
+          "line": 68
+        },
+        {
+          "id": "art-iii",
+          "anchor": "#art-iii",
+          "url_fragment": "legi/hg-343-2017.md#art-iii",
+          "line": 73
+        },
+        {
+          "id": "art-1-b",
+          "anchor": "#art-1-b",
+          "url_fragment": "legi/hg-343-2017.md#art-1-b",
+          "line": 126
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-343-2017.md#art-2",
+          "line": 131
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-343-2017.md#art-3",
+          "line": 135
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-343-2017.md#art-4",
+          "line": 141
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-343-2017.md#art-5",
+          "line": 146
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/hg-343-2017.md#art-6",
+          "line": 151
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/hg-343-2017.md#art-7",
+          "line": 160
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/hg-343-2017.md#art-8",
+          "line": 164
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/hg-343-2017.md#art-9",
+          "line": 173
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/hg-343-2017.md#art-10",
+          "line": 178
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/hg-343-2017.md#art-11",
+          "line": 185
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/hg-343-2017.md#art-12",
+          "line": 196
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/hg-343-2017.md#art-13",
+          "line": 201
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/hg-343-2017.md#art-14",
+          "line": 206
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/hg-343-2017.md#art-15",
+          "line": 210
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/hg-343-2017.md#art-16",
+          "line": 233
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/hg-343-2017.md#art-17",
+          "line": 237
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/hg-343-2017.md#art-18",
+          "line": 246
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/hg-343-2017.md#art-19",
+          "line": 256
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/hg-343-2017.md#art-20",
+          "line": 261
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/hg-343-2017.md#art-21",
+          "line": 265
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/hg-343-2017.md#art-22",
+          "line": 270
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/hg-343-2017.md#art-23",
+          "line": 274
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/hg-343-2017.md#art-24",
+          "line": 289
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/hg-343-2017.md#art-25",
+          "line": 294
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/hg-343-2017.md#art-26",
+          "line": 301
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/hg-343-2017.md#art-27",
+          "line": 306
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/hg-343-2017.md#art-28",
+          "line": 314
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/hg-343-2017.md#art-29",
+          "line": 318
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/hg-343-2017.md#art-30",
+          "line": 322
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/hg-343-2017.md#art-31",
+          "line": 326
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/hg-343-2017.md#art-32",
+          "line": 331
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/hg-343-2017.md#art-33",
+          "line": 343
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/hg-343-2017.md#art-34",
+          "line": 348
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/hg-343-2017.md#art-35",
+          "line": 353
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/hg-343-2017.md#art-36",
+          "line": 358
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/hg-343-2017.md#art-37",
+          "line": 362
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/hg-343-2017.md#art-38",
+          "line": 368
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/hg-343-2017.md#art-39",
+          "line": 373
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/hg-343-2017.md#art-40",
+          "line": 377
+        }
+      ],
+      "article_count": 44
+    },
+    "lege-10-1995": {
+      "title": "Legea nr. 10 din 18 ianuarie 1995 privind calitatea în construcții",
+      "slug": "lege-10-1995",
+      "file": "legi/lege-10-1995.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-10-1995.md#art-1",
+          "line": 68
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-10-1995.md#art-2",
+          "line": 74
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-10-1995.md#art-3",
+          "line": 80
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-10-1995.md#art-4",
+          "line": 84
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-10-1995.md#art-5",
+          "line": 90
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-10-1995.md#art-6",
+          "line": 114
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-10-1995.md#art-7",
+          "line": 120
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-10-1995.md#art-8",
+          "line": 128
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-10-1995.md#art-9",
+          "line": 132
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-10-1995.md#art-10",
+          "line": 160
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-10-1995.md#art-11",
+          "line": 166
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-10-1995.md#art-12",
+          "line": 174
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-10-1995.md#art-13",
+          "line": 180
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-10-1995.md#art-14",
+          "line": 190
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-10-1995.md#art-15",
+          "line": 196
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-10-1995.md#art-16",
+          "line": 200
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-10-1995.md#art-17",
+          "line": 204
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-10-1995.md#art-18",
+          "line": 214
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-10-1995.md#art-19",
+          "line": 220
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-10-1995.md#art-20",
+          "line": 224
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-10-1995.md#art-21",
+          "line": 232
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-10-1995.md#art-22",
+          "line": 248
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-10-1995.md#art-23",
+          "line": 270
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-10-1995.md#art-24",
+          "line": 292
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-10-1995.md#art-25",
+          "line": 298
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-10-1995.md#art-26",
+          "line": 330
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-10-1995.md#art-27",
+          "line": 344
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-10-1995.md#art-28",
+          "line": 362
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-10-1995.md#art-29",
+          "line": 378
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-10-1995.md#art-30",
+          "line": 390
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-10-1995.md#art-32",
+          "line": 402
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-10-1995.md#art-33",
+          "line": 408
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-10-1995.md#art-34",
+          "line": 412
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-10-1995.md#art-35",
+          "line": 418
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-10-1995.md#art-36",
+          "line": 426
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-10-1995.md#art-37",
+          "line": 492
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-10-1995.md#art-38",
+          "line": 498
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-10-1995.md#art-39",
+          "line": 504
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-10-1995.md#art-40",
+          "line": 510
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-10-1995.md#art-41",
+          "line": 516
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-10-1995.md#art-42",
+          "line": 522
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-10-1995.md#art-43",
+          "line": 526
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-10-1995.md#art-44",
+          "line": 558
+        }
+      ],
+      "article_count": 43
+    },
+    "lege-292-2018": {
+      "title": "Legea nr. 292 din 3 decembrie 2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+      "slug": "lege-292-2018",
+      "file": "legi/lege-292-2018.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-292-2018.md#art-1",
+          "line": 59
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-292-2018.md#art-2",
+          "line": 64
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-292-2018.md#art-3",
+          "line": 78
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-292-2018.md#art-4",
+          "line": 82
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-292-2018.md#art-5",
+          "line": 86
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-292-2018.md#art-6",
+          "line": 99
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-292-2018.md#art-7",
+          "line": 105
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-292-2018.md#art-8",
+          "line": 114
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-292-2018.md#art-9",
+          "line": 121
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-292-2018.md#art-10",
+          "line": 130
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-292-2018.md#art-11",
+          "line": 136
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-292-2018.md#art-12",
+          "line": 146
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-292-2018.md#art-13",
+          "line": 153
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-292-2018.md#art-14",
+          "line": 161
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-292-2018.md#art-15",
+          "line": 167
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-292-2018.md#art-16",
+          "line": 185
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-292-2018.md#art-17",
+          "line": 193
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-292-2018.md#art-18",
+          "line": 203
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-292-2018.md#art-19",
+          "line": 217
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-292-2018.md#art-20",
+          "line": 225
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-292-2018.md#art-21",
+          "line": 237
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-292-2018.md#art-22",
+          "line": 241
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-292-2018.md#art-23",
+          "line": 245
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-292-2018.md#art-24",
+          "line": 249
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-292-2018.md#art-25",
+          "line": 260
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-292-2018.md#art-26",
+          "line": 271
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-292-2018.md#art-27",
+          "line": 275
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-292-2018.md#art-28",
+          "line": 282
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-292-2018.md#art-29",
+          "line": 288
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-292-2018.md#art-30",
+          "line": 292
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-292-2018.md#art-31",
+          "line": 296
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-292-2018.md#art-32",
+          "line": 301
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-292-2018.md#art-33",
+          "line": 311
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-292-2018.md#art-34",
+          "line": 315
+        }
+      ],
+      "article_count": 34
+    },
+    "lege-307-2006": {
+      "title": "Legea nr. 307 din 12 iulie 2006 privind apărarea împotriva incendiilor",
+      "slug": "lege-307-2006",
+      "file": "legi/lege-307-2006.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-307-2006.md#art-1",
+          "line": 60
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-307-2006.md#art-2",
+          "line": 124
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-307-2006.md#art-3",
+          "line": 129
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-307-2006.md#art-4",
+          "line": 160
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-307-2006.md#art-5",
+          "line": 165
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-307-2006.md#art-6",
+          "line": 176
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-307-2006.md#art-7",
+          "line": 193
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-307-2006.md#art-8",
+          "line": 197
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-307-2006.md#art-9",
+          "line": 205
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-307-2006.md#art-10",
+          "line": 210
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-307-2006.md#art-11",
+          "line": 219
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-307-2006.md#art-12",
+          "line": 228
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-307-2006.md#art-13",
+          "line": 265
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-307-2006.md#art-14",
+          "line": 281
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-307-2006.md#art-15",
+          "line": 316
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-307-2006.md#art-16",
+          "line": 331
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-307-2006.md#art-17",
+          "line": 343
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-307-2006.md#art-18",
+          "line": 353
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-307-2006.md#art-19",
+          "line": 381
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-307-2006.md#art-20",
+          "line": 544
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-307-2006.md#art-21",
+          "line": 549
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-307-2006.md#art-22",
+          "line": 558
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-307-2006.md#art-23",
+          "line": 578
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-307-2006.md#art-24",
+          "line": 615
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-307-2006.md#art-25",
+          "line": 657
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-307-2006.md#art-26",
+          "line": 670
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-307-2006.md#art-27",
+          "line": 689
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-307-2006.md#art-28",
+          "line": 722
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-307-2006.md#art-29",
+          "line": 735
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-307-2006.md#art-30",
+          "line": 748
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-307-2006.md#art-31",
+          "line": 1021
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-307-2006.md#art-32",
+          "line": 1040
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-307-2006.md#art-33",
+          "line": 1056
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-307-2006.md#art-34",
+          "line": 1080
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-307-2006.md#art-35",
+          "line": 1088
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-307-2006.md#art-36",
+          "line": 1093
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-307-2006.md#art-37",
+          "line": 1097
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-307-2006.md#art-38",
+          "line": 1114
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-307-2006.md#art-39",
+          "line": 1126
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-307-2006.md#art-40",
+          "line": 1142
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-307-2006.md#art-41",
+          "line": 1146
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-307-2006.md#art-42",
+          "line": 1150
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-307-2006.md#art-43",
+          "line": 1154
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-307-2006.md#art-44",
+          "line": 1163
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-307-2006.md#art-45",
+          "line": 1176
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-307-2006.md#art-46",
+          "line": 1424
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-307-2006.md#art-47",
+          "line": 1437
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-307-2006.md#art-48",
+          "line": 1485
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-307-2006.md#art-49",
+          "line": 1540
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-307-2006.md#art-50",
+          "line": 1558
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-307-2006.md#art-51",
+          "line": 1564
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-307-2006.md#art-52",
+          "line": 1570
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-307-2006.md#art-53",
+          "line": 1578
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/lege-307-2006.md#art-54",
+          "line": 1586
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/lege-307-2006.md#art-55",
+          "line": 1591
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/lege-307-2006.md#art-56",
+          "line": 1596
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/lege-307-2006.md#art-57",
+          "line": 1601
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/lege-307-2006.md#art-58",
+          "line": 1617
+        }
+      ],
+      "article_count": 58
+    },
+    "lege-319-2006": {
+      "title": "Legea nr. 319 din 14 iulie 2006 a securității și sănătății în muncă",
+      "slug": "lege-319-2006",
+      "file": "legi/lege-319-2006.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-319-2006.md#art-1",
+          "line": 65
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-319-2006.md#art-2",
+          "line": 69
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-319-2006.md#art-3",
+          "line": 78
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-319-2006.md#art-4",
+          "line": 82
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-319-2006.md#art-5",
+          "line": 86
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-319-2006.md#art-6",
+          "line": 117
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-319-2006.md#art-7",
+          "line": 121
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-319-2006.md#art-8",
+          "line": 151
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-319-2006.md#art-9",
+          "line": 155
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-319-2006.md#art-10",
+          "line": 166
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-319-2006.md#art-11",
+          "line": 172
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-319-2006.md#art-12",
+          "line": 183
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-319-2006.md#art-13",
+          "line": 191
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-319-2006.md#art-14",
+          "line": 215
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-319-2006.md#art-15",
+          "line": 223
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-319-2006.md#art-16",
+          "line": 231
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-319-2006.md#art-17",
+          "line": 237
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-319-2006.md#art-18",
+          "line": 249
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-319-2006.md#art-19",
+          "line": 261
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-319-2006.md#art-20",
+          "line": 270
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-319-2006.md#art-21",
+          "line": 281
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-319-2006.md#art-22",
+          "line": 303
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-319-2006.md#art-23",
+          "line": 308
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-319-2006.md#art-24",
+          "line": 325
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-319-2006.md#art-25",
+          "line": 330
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-319-2006.md#art-26",
+          "line": 341
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-319-2006.md#art-27",
+          "line": 346
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-319-2006.md#art-28",
+          "line": 353
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-319-2006.md#art-29",
+          "line": 358
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-319-2006.md#art-30",
+          "line": 370
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-319-2006.md#art-31",
+          "line": 396
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-319-2006.md#art-32",
+          "line": 405
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-319-2006.md#art-33",
+          "line": 413
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-319-2006.md#art-34",
+          "line": 418
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-319-2006.md#art-35",
+          "line": 426
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-319-2006.md#art-36",
+          "line": 431
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-319-2006.md#art-37",
+          "line": 440
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-319-2006.md#art-38",
+          "line": 451
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-319-2006.md#art-39",
+          "line": 462
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-319-2006.md#art-40",
+          "line": 491
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-319-2006.md#art-41",
+          "line": 496
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-319-2006.md#art-42",
+          "line": 501
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-319-2006.md#art-43",
+          "line": 507
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-319-2006.md#art-44",
+          "line": 511
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-319-2006.md#art-45",
+          "line": 520
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-319-2006.md#art-46",
+          "line": 535
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-319-2006.md#art-47",
+          "line": 547
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-319-2006.md#art-48",
+          "line": 559
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-319-2006.md#art-49",
+          "line": 566
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-319-2006.md#art-50",
+          "line": 571
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-319-2006.md#art-51",
+          "line": 579
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-319-2006.md#art-52",
+          "line": 585
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-319-2006.md#art-53",
+          "line": 589
+        }
+      ],
+      "article_count": 53
+    },
+    "lege-350-2001": {
+      "title": "Legea nr. 350 din 6 iulie 2001 privind amenajarea teritoriului și urbanismul",
+      "slug": "lege-350-2001",
+      "file": "legi/lege-350-2001.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-350-2001.md#art-1",
+          "line": 55
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-350-2001.md#art-2",
+          "line": 59
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-350-2001.md#art-3",
+          "line": 63
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-350-2001.md#art-4",
+          "line": 67
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-350-2001.md#art-5",
+          "line": 71
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-350-2001.md#art-6",
+          "line": 75
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-350-2001.md#art-7",
+          "line": 83
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-350-2001.md#art-8",
+          "line": 87
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-350-2001.md#art-9",
+          "line": 91
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-350-2001.md#art-10",
+          "line": 95
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-350-2001.md#art-11",
+          "line": 99
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-350-2001.md#art-12",
+          "line": 103
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-350-2001.md#art-13",
+          "line": 107
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-350-2001.md#art-14",
+          "line": 111
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-350-2001.md#art-15",
+          "line": 115
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-350-2001.md#art-16",
+          "line": 119
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-350-2001.md#art-17",
+          "line": 127
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-350-2001.md#art-18",
+          "line": 131
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-350-2001.md#art-19",
+          "line": 135
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-350-2001.md#art-20",
+          "line": 139
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-350-2001.md#art-21",
+          "line": 143
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-350-2001.md#art-22",
+          "line": 147
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-350-2001.md#art-23",
+          "line": 151
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-350-2001.md#art-24",
+          "line": 155
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-350-2001.md#art-25",
+          "line": 159
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-350-2001.md#art-26",
+          "line": 163
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-350-2001.md#art-27",
+          "line": 167
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-350-2001.md#art-28",
+          "line": 171
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-350-2001.md#art-29",
+          "line": 175
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-350-2001.md#art-30",
+          "line": 179
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-350-2001.md#art-31",
+          "line": 183
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-350-2001.md#art-32",
+          "line": 187
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-350-2001.md#art-33",
+          "line": 191
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-350-2001.md#art-34",
+          "line": 195
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-350-2001.md#art-35",
+          "line": 199
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-350-2001.md#art-36",
+          "line": 203
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-350-2001.md#art-37",
+          "line": 207
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-350-2001.md#art-38",
+          "line": 211
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-350-2001.md#art-39",
+          "line": 219
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-350-2001.md#art-40",
+          "line": 223
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-350-2001.md#art-41",
+          "line": 227
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-350-2001.md#art-42",
+          "line": 231
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-350-2001.md#art-43",
+          "line": 235
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-350-2001.md#art-44",
+          "line": 239
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-350-2001.md#art-45",
+          "line": 243
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-350-2001.md#art-46",
+          "line": 247
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-350-2001.md#art-47",
+          "line": 251
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-350-2001.md#art-48",
+          "line": 255
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-350-2001.md#art-49",
+          "line": 259
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-350-2001.md#art-50",
+          "line": 263
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-350-2001.md#art-51",
+          "line": 267
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-350-2001.md#art-52",
+          "line": 271
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-350-2001.md#art-53",
+          "line": 275
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/lege-350-2001.md#art-54",
+          "line": 279
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/lege-350-2001.md#art-55",
+          "line": 283
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/lege-350-2001.md#art-56",
+          "line": 287
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/lege-350-2001.md#art-57",
+          "line": 291
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/lege-350-2001.md#art-58",
+          "line": 295
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/lege-350-2001.md#art-59",
+          "line": 299
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/lege-350-2001.md#art-60",
+          "line": 303
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/lege-350-2001.md#art-61",
+          "line": 307
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/lege-350-2001.md#art-62",
+          "line": 311
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/lege-350-2001.md#art-63",
+          "line": 319
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/lege-350-2001.md#art-64",
+          "line": 323
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/lege-350-2001.md#art-65",
+          "line": 331
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/lege-350-2001.md#art-66",
+          "line": 335
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/lege-350-2001.md#art-67",
+          "line": 339
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/lege-350-2001.md#art-68",
+          "line": 343
+        }
+      ],
+      "article_count": 68
+    },
+    "lege-372-2005": {
+      "title": "Legea nr. 372 din 13 decembrie 2005 privind performanța energetică a clădirilor",
+      "slug": "lege-372-2005",
+      "file": "legi/lege-372-2005.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-372-2005.md#art-1",
+          "line": 59
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-372-2005.md#art-2",
+          "line": 63
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-372-2005.md#art-3",
+          "line": 82
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-372-2005.md#art-4",
+          "line": 101
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-372-2005.md#art-5",
+          "line": 124
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-372-2005.md#art-6",
+          "line": 144
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-372-2005.md#art-7",
+          "line": 161
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-372-2005.md#art-8",
+          "line": 173
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-372-2005.md#art-9",
+          "line": 187
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-372-2005.md#art-10",
+          "line": 192
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-372-2005.md#art-11",
+          "line": 206
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-372-2005.md#art-12",
+          "line": 210
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-372-2005.md#art-13",
+          "line": 218
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-372-2005.md#art-14",
+          "line": 230
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-372-2005.md#art-15",
+          "line": 236
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-372-2005.md#art-16",
+          "line": 263
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-372-2005.md#art-17",
+          "line": 271
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-372-2005.md#art-18",
+          "line": 277
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-372-2005.md#art-19",
+          "line": 286
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-372-2005.md#art-20",
+          "line": 296
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-372-2005.md#art-21",
+          "line": 305
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-372-2005.md#art-22",
+          "line": 312
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-372-2005.md#art-23",
+          "line": 316
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-372-2005.md#art-24",
+          "line": 320
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-372-2005.md#art-25",
+          "line": 325
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-372-2005.md#art-26",
+          "line": 335
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-372-2005.md#art-27",
+          "line": 339
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-372-2005.md#art-28",
+          "line": 355
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-372-2005.md#art-29",
+          "line": 359
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-372-2005.md#art-30",
+          "line": 375
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-372-2005.md#art-31",
+          "line": 380
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-372-2005.md#art-32",
+          "line": 384
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-372-2005.md#art-33",
+          "line": 392
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-372-2005.md#art-34",
+          "line": 405
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-372-2005.md#art-35",
+          "line": 411
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-372-2005.md#art-36",
+          "line": 420
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-372-2005.md#art-37",
+          "line": 440
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-372-2005.md#art-38",
+          "line": 444
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-372-2005.md#art-39",
+          "line": 453
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-372-2005.md#art-40",
+          "line": 461
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-372-2005.md#art-41",
+          "line": 466
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-372-2005.md#art-42",
+          "line": 470
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-372-2005.md#art-43",
+          "line": 475
+        }
+      ],
+      "article_count": 43
+    },
+    "lege-481-2004": {
+      "title": "Legea nr. 481 din 8 noiembrie 2004 privind protecția civilă",
+      "slug": "lege-481-2004",
+      "file": "legi/lege-481-2004.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-481-2004.md#art-1",
+          "line": 64
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-481-2004.md#art-2",
+          "line": 68
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-481-2004.md#art-3",
+          "line": 73
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-481-2004.md#art-4",
+          "line": 88
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-481-2004.md#art-5",
+          "line": 93
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-481-2004.md#art-6",
+          "line": 97
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-481-2004.md#art-7",
+          "line": 101
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-481-2004.md#art-8",
+          "line": 105
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-481-2004.md#art-9",
+          "line": 109
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-481-2004.md#art-10",
+          "line": 126
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-481-2004.md#art-11",
+          "line": 139
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-481-2004.md#art-12",
+          "line": 144
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-481-2004.md#art-13",
+          "line": 148
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-481-2004.md#art-14",
+          "line": 156
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-481-2004.md#art-15",
+          "line": 161
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-481-2004.md#art-16",
+          "line": 166
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-481-2004.md#art-17",
+          "line": 177
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-481-2004.md#art-18",
+          "line": 183
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-481-2004.md#art-19",
+          "line": 187
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-481-2004.md#art-20",
+          "line": 194
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-481-2004.md#art-21",
+          "line": 215
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-481-2004.md#art-22",
+          "line": 219
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-481-2004.md#art-23",
+          "line": 233
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-481-2004.md#art-24",
+          "line": 247
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-481-2004.md#art-25",
+          "line": 261
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-481-2004.md#art-26",
+          "line": 273
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-481-2004.md#art-27",
+          "line": 285
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-481-2004.md#art-28",
+          "line": 310
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-481-2004.md#art-29",
+          "line": 327
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-481-2004.md#art-30",
+          "line": 332
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-481-2004.md#art-31",
+          "line": 339
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-481-2004.md#art-32",
+          "line": 352
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-481-2004.md#art-33",
+          "line": 357
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-481-2004.md#art-34",
+          "line": 361
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-481-2004.md#art-35",
+          "line": 365
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-481-2004.md#art-36",
+          "line": 370
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-481-2004.md#art-37",
+          "line": 374
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-481-2004.md#art-38",
+          "line": 379
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-481-2004.md#art-39",
+          "line": 388
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-481-2004.md#art-40",
+          "line": 395
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-481-2004.md#art-41",
+          "line": 399
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-481-2004.md#art-42",
+          "line": 403
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-481-2004.md#art-43",
+          "line": 408
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-481-2004.md#art-44",
+          "line": 413
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-481-2004.md#art-45",
+          "line": 419
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-481-2004.md#art-46",
+          "line": 427
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-481-2004.md#art-47",
+          "line": 432
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-481-2004.md#art-48",
+          "line": 436
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-481-2004.md#art-49",
+          "line": 440
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-481-2004.md#art-50",
+          "line": 445
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-481-2004.md#art-51",
+          "line": 452
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-481-2004.md#art-52",
+          "line": 456
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-481-2004.md#art-53",
+          "line": 462
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/lege-481-2004.md#art-54",
+          "line": 467
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/lege-481-2004.md#art-55",
+          "line": 473
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/lege-481-2004.md#art-56",
+          "line": 478
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/lege-481-2004.md#art-57",
+          "line": 482
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/lege-481-2004.md#art-58",
+          "line": 488
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/lege-481-2004.md#art-59",
+          "line": 497
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/lege-481-2004.md#art-60",
+          "line": 501
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/lege-481-2004.md#art-61",
+          "line": 505
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/lege-481-2004.md#art-62",
+          "line": 510
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/lege-481-2004.md#art-63",
+          "line": 520
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/lege-481-2004.md#art-64",
+          "line": 525
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/lege-481-2004.md#art-65",
+          "line": 529
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/lege-481-2004.md#art-66",
+          "line": 534
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/lege-481-2004.md#art-67",
+          "line": 539
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/lege-481-2004.md#art-68",
+          "line": 545
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/lege-481-2004.md#art-69",
+          "line": 549
+        },
+        {
+          "id": "art-70",
+          "anchor": "#art-70",
+          "url_fragment": "legi/lege-481-2004.md#art-70",
+          "line": 553
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/lege-481-2004.md#art-71",
+          "line": 558
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/lege-481-2004.md#art-72",
+          "line": 563
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/lege-481-2004.md#art-73",
+          "line": 568
+        },
+        {
+          "id": "art-74",
+          "anchor": "#art-74",
+          "url_fragment": "legi/lege-481-2004.md#art-74",
+          "line": 576
+        },
+        {
+          "id": "art-75",
+          "anchor": "#art-75",
+          "url_fragment": "legi/lege-481-2004.md#art-75",
+          "line": 581
+        },
+        {
+          "id": "art-76",
+          "anchor": "#art-76",
+          "url_fragment": "legi/lege-481-2004.md#art-76",
+          "line": 603
+        },
+        {
+          "id": "art-77",
+          "anchor": "#art-77",
+          "url_fragment": "legi/lege-481-2004.md#art-77",
+          "line": 613
+        },
+        {
+          "id": "art-78",
+          "anchor": "#art-78",
+          "url_fragment": "legi/lege-481-2004.md#art-78",
+          "line": 618
+        },
+        {
+          "id": "art-79",
+          "anchor": "#art-79",
+          "url_fragment": "legi/lege-481-2004.md#art-79",
+          "line": 627
+        },
+        {
+          "id": "art-80",
+          "anchor": "#art-80",
+          "url_fragment": "legi/lege-481-2004.md#art-80",
+          "line": 631
+        },
+        {
+          "id": "art-81",
+          "anchor": "#art-81",
+          "url_fragment": "legi/lege-481-2004.md#art-81",
+          "line": 637
+        },
+        {
+          "id": "art-82",
+          "anchor": "#art-82",
+          "url_fragment": "legi/lege-481-2004.md#art-82",
+          "line": 643
+        }
+      ],
+      "article_count": 82
+    },
+    "lege-50-1991": {
+      "title": "Legea nr. 50 din 29 iulie 1991 privind autorizarea executării lucrărilor de construcții",
+      "slug": "lege-50-1991",
+      "file": "legi/lege-50-1991.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-50-1991.md#art-1",
+          "line": 70
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-50-1991.md#art-2",
+          "line": 91
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-50-1991.md#art-3",
+          "line": 181
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-50-1991.md#art-4",
+          "line": 224
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-50-1991.md#art-5",
+          "line": 316
+        },
+        {
+          "id": "art-5-1",
+          "anchor": "#art-5-1",
+          "url_fragment": "legi/lege-50-1991.md#art-5-1",
+          "line": 527
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-50-1991.md#art-6",
+          "line": 536
+        },
+        {
+          "id": "art-6-1",
+          "anchor": "#art-6-1",
+          "url_fragment": "legi/lege-50-1991.md#art-6-1",
+          "line": 652
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-50-1991.md#art-7",
+          "line": 665
+        },
+        {
+          "id": "art-7-1",
+          "anchor": "#art-7-1",
+          "url_fragment": "legi/lege-50-1991.md#art-7-1",
+          "line": 1205
+        },
+        {
+          "id": "art-7-2",
+          "anchor": "#art-7-2",
+          "url_fragment": "legi/lege-50-1991.md#art-7-2",
+          "line": 1226
+        },
+        {
+          "id": "art-7-3",
+          "anchor": "#art-7-3",
+          "url_fragment": "legi/lege-50-1991.md#art-7-3",
+          "line": 1234
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-50-1991.md#art-8",
+          "line": 1242
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-50-1991.md#art-9",
+          "line": 1258
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-50-1991.md#art-10",
+          "line": 1274
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-50-1991.md#art-11",
+          "line": 1290
+        },
+        {
+          "id": "art-11-1",
+          "anchor": "#art-11-1",
+          "url_fragment": "legi/lege-50-1991.md#art-11-1",
+          "line": 1443
+        },
+        {
+          "id": "art-11-2",
+          "anchor": "#art-11-2",
+          "url_fragment": "legi/lege-50-1991.md#art-11-2",
+          "line": 1481
+        },
+        {
+          "id": "art-11-3",
+          "anchor": "#art-11-3",
+          "url_fragment": "legi/lege-50-1991.md#art-11-3",
+          "line": 1489
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-50-1991.md#art-12",
+          "line": 1497
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-50-1991.md#art-13",
+          "line": 1533
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-50-1991.md#art-14",
+          "line": 1539
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-50-1991.md#art-15",
+          "line": 1547
+        },
+        {
+          "id": "art-15-1",
+          "anchor": "#art-15-1",
+          "url_fragment": "legi/lege-50-1991.md#art-15-1",
+          "line": 1567
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-50-1991.md#art-16",
+          "line": 1577
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-50-1991.md#art-17",
+          "line": 1584
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-50-1991.md#art-18",
+          "line": 1588
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-50-1991.md#art-19",
+          "line": 1600
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-50-1991.md#art-20",
+          "line": 1604
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-50-1991.md#art-21",
+          "line": 1608
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-50-1991.md#art-22",
+          "line": 1612
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-50-1991.md#art-23",
+          "line": 1621
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-50-1991.md#art-24",
+          "line": 1649
+        },
+        {
+          "id": "art-24-1",
+          "anchor": "#art-24-1",
+          "url_fragment": "legi/lege-50-1991.md#art-24-1",
+          "line": 1676
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-50-1991.md#art-25",
+          "line": 1685
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-50-1991.md#art-26",
+          "line": 1693
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-50-1991.md#art-27",
+          "line": 1863
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-50-1991.md#art-28",
+          "line": 1923
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-50-1991.md#art-29",
+          "line": 1949
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-50-1991.md#art-30",
+          "line": 1972
+        },
+        {
+          "id": "art-30-1",
+          "anchor": "#art-30-1",
+          "url_fragment": "legi/lege-50-1991.md#art-30-1",
+          "line": 1985
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-50-1991.md#art-31",
+          "line": 1993
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-50-1991.md#art-32",
+          "line": 2001
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-50-1991.md#art-33",
+          "line": 2023
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-50-1991.md#art-34",
+          "line": 2040
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-50-1991.md#art-35",
+          "line": 2074
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-50-1991.md#art-36",
+          "line": 2096
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-50-1991.md#art-37",
+          "line": 2101
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-50-1991.md#art-38",
+          "line": 2186
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-50-1991.md#art-39",
+          "line": 2195
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-50-1991.md#art-40",
+          "line": 2203
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-50-1991.md#art-41",
+          "line": 2213
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-50-1991.md#art-42",
+          "line": 2222
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-50-1991.md#art-43",
+          "line": 2231
+        },
+        {
+          "id": "art-43-1",
+          "anchor": "#art-43-1",
+          "url_fragment": "legi/lege-50-1991.md#art-43-1",
+          "line": 2257
+        },
+        {
+          "id": "art-43-2",
+          "anchor": "#art-43-2",
+          "url_fragment": "legi/lege-50-1991.md#art-43-2",
+          "line": 2266
+        },
+        {
+          "id": "art-43-3",
+          "anchor": "#art-43-3",
+          "url_fragment": "legi/lege-50-1991.md#art-43-3",
+          "line": 2276
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-50-1991.md#art-44",
+          "line": 2284
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-50-1991.md#art-45",
+          "line": 2289
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-50-1991.md#art-46",
+          "line": 2472
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-50-1991.md#art-47",
+          "line": 2480
+        },
+        {
+          "id": "art-47-1",
+          "anchor": "#art-47-1",
+          "url_fragment": "legi/lege-50-1991.md#art-47-1",
+          "line": 2488
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-50-1991.md#art-48",
+          "line": 2496
+        },
+        {
+          "id": "art-iii",
+          "anchor": "#art-iii",
+          "url_fragment": "legi/lege-50-1991.md#art-iii",
+          "line": 3190
+        }
+      ],
+      "article_count": 64
+    },
+    "ordin-839-2009": {
+      "title": "Ordinul nr. 839 din 12 octombrie 2009 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+      "slug": "ordin-839-2009",
+      "file": "legi/ordin-839-2009.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/ordin-839-2009.md#art-1",
+          "line": 54
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/ordin-839-2009.md#art-2",
+          "line": 60
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/ordin-839-2009.md#art-3",
+          "line": 64
+        },
+        {
+          "id": "art-1-b",
+          "anchor": "#art-1-b",
+          "url_fragment": "legi/ordin-839-2009.md#art-1-b",
+          "line": 85
+        },
+        {
+          "id": "art-2-b",
+          "anchor": "#art-2-b",
+          "url_fragment": "legi/ordin-839-2009.md#art-2-b",
+          "line": 89
+        },
+        {
+          "id": "art-3-b",
+          "anchor": "#art-3-b",
+          "url_fragment": "legi/ordin-839-2009.md#art-3-b",
+          "line": 100
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/ordin-839-2009.md#art-4",
+          "line": 104
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/ordin-839-2009.md#art-5",
+          "line": 115
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/ordin-839-2009.md#art-6",
+          "line": 119
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/ordin-839-2009.md#art-7",
+          "line": 132
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/ordin-839-2009.md#art-8",
+          "line": 145
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/ordin-839-2009.md#art-9",
+          "line": 172
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/ordin-839-2009.md#art-10",
+          "line": 183
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/ordin-839-2009.md#art-11",
+          "line": 230
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/ordin-839-2009.md#art-12",
+          "line": 241
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/ordin-839-2009.md#art-13",
+          "line": 303
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/ordin-839-2009.md#art-14",
+          "line": 314
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/ordin-839-2009.md#art-15",
+          "line": 325
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/ordin-839-2009.md#art-16",
+          "line": 329
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/ordin-839-2009.md#art-17",
+          "line": 333
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/ordin-839-2009.md#art-18",
+          "line": 337
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/ordin-839-2009.md#art-19",
+          "line": 354
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/ordin-839-2009.md#art-20",
+          "line": 358
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/ordin-839-2009.md#art-21",
+          "line": 381
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/ordin-839-2009.md#art-22",
+          "line": 395
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/ordin-839-2009.md#art-23",
+          "line": 402
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/ordin-839-2009.md#art-24",
+          "line": 413
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/ordin-839-2009.md#art-25",
+          "line": 424
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/ordin-839-2009.md#art-26",
+          "line": 459
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/ordin-839-2009.md#art-27",
+          "line": 467
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/ordin-839-2009.md#art-28",
+          "line": 473
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/ordin-839-2009.md#art-29",
+          "line": 477
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/ordin-839-2009.md#art-30",
+          "line": 510
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/ordin-839-2009.md#art-31",
+          "line": 522
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/ordin-839-2009.md#art-32",
+          "line": 526
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/ordin-839-2009.md#art-33",
+          "line": 534
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/ordin-839-2009.md#art-34",
+          "line": 538
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/ordin-839-2009.md#art-35",
+          "line": 558
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/ordin-839-2009.md#art-36",
+          "line": 578
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/ordin-839-2009.md#art-37",
+          "line": 589
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/ordin-839-2009.md#art-38",
+          "line": 601
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/ordin-839-2009.md#art-39",
+          "line": 605
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/ordin-839-2009.md#art-40",
+          "line": 609
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/ordin-839-2009.md#art-41",
+          "line": 613
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/ordin-839-2009.md#art-42",
+          "line": 634
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/ordin-839-2009.md#art-43",
+          "line": 649
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/ordin-839-2009.md#art-44",
+          "line": 653
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/ordin-839-2009.md#art-45",
+          "line": 657
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/ordin-839-2009.md#art-46",
+          "line": 661
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/ordin-839-2009.md#art-47",
+          "line": 693
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/ordin-839-2009.md#art-48",
+          "line": 697
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/ordin-839-2009.md#art-49",
+          "line": 709
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/ordin-839-2009.md#art-50",
+          "line": 728
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/ordin-839-2009.md#art-51",
+          "line": 732
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/ordin-839-2009.md#art-52",
+          "line": 736
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/ordin-839-2009.md#art-53",
+          "line": 748
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/ordin-839-2009.md#art-54",
+          "line": 762
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/ordin-839-2009.md#art-55",
+          "line": 766
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/ordin-839-2009.md#art-56",
+          "line": 791
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/ordin-839-2009.md#art-57",
+          "line": 795
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/ordin-839-2009.md#art-58",
+          "line": 806
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/ordin-839-2009.md#art-59",
+          "line": 817
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/ordin-839-2009.md#art-60",
+          "line": 841
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/ordin-839-2009.md#art-61",
+          "line": 845
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/ordin-839-2009.md#art-62",
+          "line": 849
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/ordin-839-2009.md#art-63",
+          "line": 853
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/ordin-839-2009.md#art-64",
+          "line": 857
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/ordin-839-2009.md#art-65",
+          "line": 868
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/ordin-839-2009.md#art-66",
+          "line": 879
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/ordin-839-2009.md#art-67",
+          "line": 883
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/ordin-839-2009.md#art-68",
+          "line": 887
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/ordin-839-2009.md#art-69",
+          "line": 893
+        },
+        {
+          "id": "art-70",
+          "anchor": "#art-70",
+          "url_fragment": "legi/ordin-839-2009.md#art-70",
+          "line": 897
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/ordin-839-2009.md#art-71",
+          "line": 905
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/ordin-839-2009.md#art-72",
+          "line": 909
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/ordin-839-2009.md#art-73",
+          "line": 913
+        },
+        {
+          "id": "art-74",
+          "anchor": "#art-74",
+          "url_fragment": "legi/ordin-839-2009.md#art-74",
+          "line": 917
+        },
+        {
+          "id": "art-75",
+          "anchor": "#art-75",
+          "url_fragment": "legi/ordin-839-2009.md#art-75",
+          "line": 927
+        },
+        {
+          "id": "art-76",
+          "anchor": "#art-76",
+          "url_fragment": "legi/ordin-839-2009.md#art-76",
+          "line": 931
+        },
+        {
+          "id": "art-77",
+          "anchor": "#art-77",
+          "url_fragment": "legi/ordin-839-2009.md#art-77",
+          "line": 935
+        },
+        {
+          "id": "art-78",
+          "anchor": "#art-78",
+          "url_fragment": "legi/ordin-839-2009.md#art-78",
+          "line": 941
+        },
+        {
+          "id": "art-79",
+          "anchor": "#art-79",
+          "url_fragment": "legi/ordin-839-2009.md#art-79",
+          "line": 945
+        },
+        {
+          "id": "art-80",
+          "anchor": "#art-80",
+          "url_fragment": "legi/ordin-839-2009.md#art-80",
+          "line": 951
+        },
+        {
+          "id": "art-81",
+          "anchor": "#art-81",
+          "url_fragment": "legi/ordin-839-2009.md#art-81",
+          "line": 970
+        },
+        {
+          "id": "art-82",
+          "anchor": "#art-82",
+          "url_fragment": "legi/ordin-839-2009.md#art-82",
+          "line": 974
+        }
+      ],
+      "article_count": 85
+    },
+    "oug-195-2005": {
+      "title": "Ordonanța de Urgență nr. 195 din 22 decembrie 2005 privind protecția mediului",
+      "slug": "oug-195-2005",
+      "file": "legi/oug-195-2005.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/oug-195-2005.md#art-1",
+          "line": 62
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/oug-195-2005.md#art-2",
+          "line": 70
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/oug-195-2005.md#art-3",
+          "line": 246
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/oug-195-2005.md#art-4",
+          "line": 262
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/oug-195-2005.md#art-5",
+          "line": 291
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/oug-195-2005.md#art-6",
+          "line": 316
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/oug-195-2005.md#art-7",
+          "line": 320
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/oug-195-2005.md#art-8",
+          "line": 340
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/oug-195-2005.md#art-9",
+          "line": 358
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/oug-195-2005.md#art-10",
+          "line": 362
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/oug-195-2005.md#art-11",
+          "line": 380
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/oug-195-2005.md#art-12",
+          "line": 393
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/oug-195-2005.md#art-13",
+          "line": 412
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/oug-195-2005.md#art-14",
+          "line": 416
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/oug-195-2005.md#art-15",
+          "line": 425
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/oug-195-2005.md#art-16",
+          "line": 435
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/oug-195-2005.md#art-17",
+          "line": 491
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/oug-195-2005.md#art-18",
+          "line": 505
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/oug-195-2005.md#art-19",
+          "line": 510
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/oug-195-2005.md#art-20",
+          "line": 519
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/oug-195-2005.md#art-21",
+          "line": 532
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/oug-195-2005.md#art-22",
+          "line": 540
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/oug-195-2005.md#art-23",
+          "line": 544
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/oug-195-2005.md#art-24",
+          "line": 567
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/oug-195-2005.md#art-25",
+          "line": 572
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/oug-195-2005.md#art-26",
+          "line": 576
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/oug-195-2005.md#art-27",
+          "line": 581
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/oug-195-2005.md#art-28",
+          "line": 586
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/oug-195-2005.md#art-29",
+          "line": 599
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/oug-195-2005.md#art-30",
+          "line": 604
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/oug-195-2005.md#art-31",
+          "line": 609
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/oug-195-2005.md#art-32",
+          "line": 614
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/oug-195-2005.md#art-33",
+          "line": 618
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/oug-195-2005.md#art-34",
+          "line": 626
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/oug-195-2005.md#art-35",
+          "line": 631
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/oug-195-2005.md#art-36",
+          "line": 636
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/oug-195-2005.md#art-37",
+          "line": 644
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/oug-195-2005.md#art-38",
+          "line": 649
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/oug-195-2005.md#art-39",
+          "line": 668
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/oug-195-2005.md#art-40",
+          "line": 675
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/oug-195-2005.md#art-41",
+          "line": 679
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/oug-195-2005.md#art-42",
+          "line": 683
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/oug-195-2005.md#art-43",
+          "line": 688
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/oug-195-2005.md#art-44",
+          "line": 693
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/oug-195-2005.md#art-45",
+          "line": 708
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/oug-195-2005.md#art-46",
+          "line": 713
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/oug-195-2005.md#art-47",
+          "line": 717
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/oug-195-2005.md#art-48",
+          "line": 724
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/oug-195-2005.md#art-49",
+          "line": 740
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/oug-195-2005.md#art-50",
+          "line": 754
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/oug-195-2005.md#art-51",
+          "line": 763
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/oug-195-2005.md#art-52",
+          "line": 801
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/oug-195-2005.md#art-53",
+          "line": 814
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/oug-195-2005.md#art-54",
+          "line": 822
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/oug-195-2005.md#art-55",
+          "line": 844
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/oug-195-2005.md#art-56",
+          "line": 848
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/oug-195-2005.md#art-57",
+          "line": 852
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/oug-195-2005.md#art-58",
+          "line": 861
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/oug-195-2005.md#art-59",
+          "line": 881
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/oug-195-2005.md#art-60",
+          "line": 922
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/oug-195-2005.md#art-61",
+          "line": 940
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/oug-195-2005.md#art-62",
+          "line": 958
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/oug-195-2005.md#art-63",
+          "line": 967
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/oug-195-2005.md#art-64",
+          "line": 972
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/oug-195-2005.md#art-65",
+          "line": 1038
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/oug-195-2005.md#art-66",
+          "line": 1047
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/oug-195-2005.md#art-67",
+          "line": 1051
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/oug-195-2005.md#art-68",
+          "line": 1056
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/oug-195-2005.md#art-69",
+          "line": 1064
+        },
+        {
+          "id": "art-70",
+          "anchor": "#art-70",
+          "url_fragment": "legi/oug-195-2005.md#art-70",
+          "line": 1085
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/oug-195-2005.md#art-71",
+          "line": 1145
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/oug-195-2005.md#art-72",
+          "line": 1153
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/oug-195-2005.md#art-73",
+          "line": 1161
+        },
+        {
+          "id": "art-74",
+          "anchor": "#art-74",
+          "url_fragment": "legi/oug-195-2005.md#art-74",
+          "line": 1170
+        },
+        {
+          "id": "art-75",
+          "anchor": "#art-75",
+          "url_fragment": "legi/oug-195-2005.md#art-75",
+          "line": 1208
+        },
+        {
+          "id": "art-76",
+          "anchor": "#art-76",
+          "url_fragment": "legi/oug-195-2005.md#art-76",
+          "line": 1271
+        },
+        {
+          "id": "art-77",
+          "anchor": "#art-77",
+          "url_fragment": "legi/oug-195-2005.md#art-77",
+          "line": 1275
+        },
+        {
+          "id": "art-78",
+          "anchor": "#art-78",
+          "url_fragment": "legi/oug-195-2005.md#art-78",
+          "line": 1280
+        },
+        {
+          "id": "art-79",
+          "anchor": "#art-79",
+          "url_fragment": "legi/oug-195-2005.md#art-79",
+          "line": 1285
+        },
+        {
+          "id": "art-80",
+          "anchor": "#art-80",
+          "url_fragment": "legi/oug-195-2005.md#art-80",
+          "line": 1296
+        },
+        {
+          "id": "art-81",
+          "anchor": "#art-81",
+          "url_fragment": "legi/oug-195-2005.md#art-81",
+          "line": 1308
+        },
+        {
+          "id": "art-82",
+          "anchor": "#art-82",
+          "url_fragment": "legi/oug-195-2005.md#art-82",
+          "line": 1318
+        },
+        {
+          "id": "art-83",
+          "anchor": "#art-83",
+          "url_fragment": "legi/oug-195-2005.md#art-83",
+          "line": 1357
+        },
+        {
+          "id": "art-84",
+          "anchor": "#art-84",
+          "url_fragment": "legi/oug-195-2005.md#art-84",
+          "line": 1367
+        },
+        {
+          "id": "art-85",
+          "anchor": "#art-85",
+          "url_fragment": "legi/oug-195-2005.md#art-85",
+          "line": 1377
+        },
+        {
+          "id": "art-86",
+          "anchor": "#art-86",
+          "url_fragment": "legi/oug-195-2005.md#art-86",
+          "line": 1388
+        },
+        {
+          "id": "art-87",
+          "anchor": "#art-87",
+          "url_fragment": "legi/oug-195-2005.md#art-87",
+          "line": 1402
+        },
+        {
+          "id": "art-88",
+          "anchor": "#art-88",
+          "url_fragment": "legi/oug-195-2005.md#art-88",
+          "line": 1420
+        },
+        {
+          "id": "art-89",
+          "anchor": "#art-89",
+          "url_fragment": "legi/oug-195-2005.md#art-89",
+          "line": 1430
+        },
+        {
+          "id": "art-90",
+          "anchor": "#art-90",
+          "url_fragment": "legi/oug-195-2005.md#art-90",
+          "line": 1441
+        },
+        {
+          "id": "art-91",
+          "anchor": "#art-91",
+          "url_fragment": "legi/oug-195-2005.md#art-91",
+          "line": 1501
+        },
+        {
+          "id": "art-92",
+          "anchor": "#art-92",
+          "url_fragment": "legi/oug-195-2005.md#art-92",
+          "line": 1510
+        },
+        {
+          "id": "art-93",
+          "anchor": "#art-93",
+          "url_fragment": "legi/oug-195-2005.md#art-93",
+          "line": 1519
+        },
+        {
+          "id": "art-94",
+          "anchor": "#art-94",
+          "url_fragment": "legi/oug-195-2005.md#art-94",
+          "line": 1526
+        },
+        {
+          "id": "art-95",
+          "anchor": "#art-95",
+          "url_fragment": "legi/oug-195-2005.md#art-95",
+          "line": 1597
+        },
+        {
+          "id": "art-96",
+          "anchor": "#art-96",
+          "url_fragment": "legi/oug-195-2005.md#art-96",
+          "line": 1605
+        },
+        {
+          "id": "art-97",
+          "anchor": "#art-97",
+          "url_fragment": "legi/oug-195-2005.md#art-97",
+          "line": 1828
+        },
+        {
+          "id": "art-98",
+          "anchor": "#art-98",
+          "url_fragment": "legi/oug-195-2005.md#art-98",
+          "line": 1845
+        },
+        {
+          "id": "art-99",
+          "anchor": "#art-99",
+          "url_fragment": "legi/oug-195-2005.md#art-99",
+          "line": 1906
+        },
+        {
+          "id": "art-100",
+          "anchor": "#art-100",
+          "url_fragment": "legi/oug-195-2005.md#art-100",
+          "line": 1914
+        },
+        {
+          "id": "art-101",
+          "anchor": "#art-101",
+          "url_fragment": "legi/oug-195-2005.md#art-101",
+          "line": 1923
+        },
+        {
+          "id": "art-102",
+          "anchor": "#art-102",
+          "url_fragment": "legi/oug-195-2005.md#art-102",
+          "line": 1928
+        },
+        {
+          "id": "art-103",
+          "anchor": "#art-103",
+          "url_fragment": "legi/oug-195-2005.md#art-103",
+          "line": 1936
+        },
+        {
+          "id": "art-104",
+          "anchor": "#art-104",
+          "url_fragment": "legi/oug-195-2005.md#art-104",
+          "line": 1945
+        },
+        {
+          "id": "art-105",
+          "anchor": "#art-105",
+          "url_fragment": "legi/oug-195-2005.md#art-105",
+          "line": 1958
+        }
+      ],
+      "article_count": 105
+    },
+    "oug-21-2004": {
+      "title": "Ordonanța de Urgență nr. 21 din 15 aprilie 2004 privind Sistemul Național de Management al Situațiilor de Urgență",
+      "slug": "oug-21-2004",
+      "file": "legi/oug-21-2004.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/oug-21-2004.md#art-1",
+          "line": 57
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/oug-21-2004.md#art-2",
+          "line": 59
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/oug-21-2004.md#art-3",
+          "line": 98
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/oug-21-2004.md#art-4",
+          "line": 108
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/oug-21-2004.md#art-5",
+          "line": 190
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/oug-21-2004.md#art-6",
+          "line": 200
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/oug-21-2004.md#art-7",
+          "line": 221
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/oug-21-2004.md#art-8",
+          "line": 240
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/oug-21-2004.md#art-9",
+          "line": 273
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/oug-21-2004.md#art-10",
+          "line": 275
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/oug-21-2004.md#art-11",
+          "line": 281
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/oug-21-2004.md#art-12",
+          "line": 292
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/oug-21-2004.md#art-13",
+          "line": 297
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/oug-21-2004.md#art-14",
+          "line": 314
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/oug-21-2004.md#art-15",
+          "line": 325
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/oug-21-2004.md#art-16",
+          "line": 350
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/oug-21-2004.md#art-17",
+          "line": 355
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/oug-21-2004.md#art-18",
+          "line": 360
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/oug-21-2004.md#art-19",
+          "line": 366
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/oug-21-2004.md#art-20",
+          "line": 372
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/oug-21-2004.md#art-21",
+          "line": 415
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/oug-21-2004.md#art-22",
+          "line": 427
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/oug-21-2004.md#art-23",
+          "line": 441
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/oug-21-2004.md#art-24",
+          "line": 455
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/oug-21-2004.md#art-25",
+          "line": 486
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/oug-21-2004.md#art-26",
+          "line": 518
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/oug-21-2004.md#art-27",
+          "line": 534
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/oug-21-2004.md#art-28",
+          "line": 545
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/oug-21-2004.md#art-29",
+          "line": 548
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/oug-21-2004.md#art-30",
+          "line": 553
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/oug-21-2004.md#art-31",
+          "line": 556
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/oug-21-2004.md#art-32",
+          "line": 567
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/oug-21-2004.md#art-33",
+          "line": 571
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/oug-21-2004.md#art-34",
+          "line": 573
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/oug-21-2004.md#art-35",
+          "line": 576
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/oug-21-2004.md#art-36",
+          "line": 582
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/oug-21-2004.md#art-37",
+          "line": 584
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/oug-21-2004.md#art-38",
+          "line": 593
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/oug-21-2004.md#art-39",
+          "line": 600
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/oug-21-2004.md#art-40",
+          "line": 603
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/oug-21-2004.md#art-41",
+          "line": 609
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/oug-21-2004.md#art-42",
+          "line": 611
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/oug-21-2004.md#art-43",
+          "line": 623
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/oug-21-2004.md#art-44",
+          "line": 625
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/oug-21-2004.md#art-45",
+          "line": 627
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/oug-21-2004.md#art-46",
+          "line": 632
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/oug-21-2004.md#art-47",
+          "line": 637
+        }
+      ],
+      "article_count": 47
+    }
+  }
+}

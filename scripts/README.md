@@ -57,6 +57,41 @@ Generates `reports/repository-health.json` and `reports/repository-health.md` wi
 Exits with code 0 always — warnings are collected and reported but never fail the script.
 Runs in the CI validate workflow after `check-official-text-integrity`.
 
+## add-article-anchors.mjs
+
+```sh
+node scripts/add-article-anchors.mjs
+```
+
+One-time modification script. Adds `{#art-N}` anchors to article headings within `<!-- OFFICIAL_TEXT_START -->`/`<!-- OFFICIAL_TEXT_END -->` blocks in all full-text `legi/*.md` files. Skips metadata-only acts. Idempotent — running it twice produces the same result. Handles duplicate article numbers (e.g. acts with two document sections) by appending `-b`, `-c`, etc.
+
+Do **not** add this to CI — it is a one-time modifier, not a validator.
+
+## generate-citation-index.mjs
+
+```sh
+node scripts/generate-citation-index.mjs
+```
+
+Reads all anchored full-text `legi/*.md` files and produces `citations/citation-index.json` — a machine-readable registry mapping every act's articles to their canonical anchors and line numbers. AI agents and RAG systems can use this index to resolve citations like "Legea 50/1991 art. 7" → `legi/lege-50-1991.md#art-7` at line N.
+
+Re-run this script after any import or anchor update.
+
+## validate-citation-anchors.mjs
+
+```sh
+node scripts/validate-citation-anchors.mjs
+```
+
+Validates that:
+
+- `citations/citation-index.json` exists and is non-empty
+- All full-text acts have at least 1 `{#art-N}` anchor within their `OFFICIAL_TEXT` block
+- Anchors match the `{#art-N}` format (`art-` followed by lowercase alphanumeric/hyphens)
+- No duplicate anchors appear within the same file
+
+Exits with code 1 if any check fails. Added to CI after `repository-health-report`.
+
 ## Rules
 
 Scripts must not scrape websites unless explicitly approved and legally permitted.
