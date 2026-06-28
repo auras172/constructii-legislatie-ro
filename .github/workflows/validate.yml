@@ -41,3 +41,6 @@ jobs:
 
       - name: Generate changelog
         run: node scripts/generate-changelog.mjs
+
+      - name: Generate OCKI manifest
+        run: node scripts/generate-manifest.mjs
