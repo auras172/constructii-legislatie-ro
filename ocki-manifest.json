@@ -1,0 +1,297 @@
+{
+  "ocki_version": "1.0",
+  "manifest_version": "1.0",
+  "generated_at": "2026-06-28T19:36:10.703Z",
+  "repository": {
+    "name": "constructii-legislatie-ro",
+    "slug": "constructii-legislatie-ro",
+    "owner": "auras172",
+    "description": "Open-source versioned Romanian construction legislation",
+    "domain": "construction",
+    "jurisdiction": "RO",
+    "language": "ro",
+    "license": "MIT",
+    "url": "https://github.com/auras172/constructii-legislatie-ro",
+    "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
+  },
+  "content": {
+    "acts_total": 16,
+    "acts_full_text": 12,
+    "acts_metadata_only": 3,
+    "article_anchors_total": 799,
+    "import_logs_total": 17,
+    "domains": [
+      "autorizatii",
+      "calitate",
+      "incendiu",
+      "mediu",
+      "munca",
+      "nzeb",
+      "receptie",
+      "urbanism"
+    ],
+    "act_types": [
+      "hotarare",
+      "lege",
+      "normativ",
+      "ordin",
+      "ordonanta"
+    ]
+  },
+  "relationships": {
+    "confirmed_relationships": 30,
+    "auto_detected_references": 165,
+    "resolved_cross_references": 18
+  },
+  "infrastructure": {
+    "validators": [
+      "validate-metadata.mjs",
+      "check-markdown-hygiene.mjs",
+      "check-metadata-parity.mjs",
+      "check-official-text-integrity.mjs",
+      "validate-citation-anchors.mjs"
+    ],
+    "generators": [
+      "generate-changelog.mjs",
+      "generate-citation-index.mjs",
+      "detect-cross-references.mjs",
+      "repository-health-report.mjs",
+      "generate-manifest.mjs"
+    ],
+    "ci_workflow": ".github/workflows/validate.yml",
+    "health_score": 97.5
+  },
+  "acts": [
+    {
+      "slug": "hg-300-2006",
+      "title": "Hotărârea de Guvern nr. 300 din 2 martie 2006 privind cerințele minime de securitate și sănătate pentru șantierele temporare sau mobile",
+      "short_title": "HG 300/2006",
+      "type": "hotarare",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 73,
+      "anchor_count": 73,
+      "file": "legi/hg-300-2006.md",
+      "metadata_file": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "slug": "hg-343-2017",
+      "title": "Hotărârea Guvernului nr. 343 din 18 mai 2017 pentru modificarea Hotărârii Guvernului nr. 273/1994 privind aprobarea Regulamentului de recepție a lucrărilor de construcții și instalații aferente acestora",
+      "short_title": "HG 343/2017",
+      "type": "hotarare",
+      "domain": "receptie",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 43,
+      "anchor_count": 44,
+      "file": "legi/hg-343-2017.md",
+      "metadata_file": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "slug": "lege-10-1995",
+      "title": "Legea nr. 10 din 18 ianuarie 1995 privind calitatea în construcții",
+      "short_title": "Legea 10/1995",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 44,
+      "anchor_count": 43,
+      "file": "legi/lege-10-1995.md",
+      "metadata_file": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "slug": "lege-292-2018",
+      "title": "Legea nr. 292 din 3 decembrie 2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+      "short_title": "Legea 292/2018",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 34,
+      "anchor_count": 34,
+      "file": "legi/lege-292-2018.md",
+      "metadata_file": "metadata/acts/lege-292-2018.json"
+    },
+    {
+      "slug": "lege-307-2006",
+      "title": "Legea nr. 307 din 12 iulie 2006 privind apărarea împotriva incendiilor",
+      "short_title": "Legea 307/2006",
+      "type": "lege",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 58,
+      "anchor_count": 58,
+      "file": "legi/lege-307-2006.md",
+      "metadata_file": "metadata/acts/lege-307-2006.json"
+    },
+    {
+      "slug": "lege-319-2006",
+      "title": "Legea nr. 319 din 14 iulie 2006 a securității și sănătății în muncă",
+      "short_title": "Legea 319/2006",
+      "type": "lege",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 53,
+      "anchor_count": 53,
+      "file": "legi/lege-319-2006.md",
+      "metadata_file": "metadata/acts/lege-319-2006.json"
+    },
+    {
+      "slug": "lege-350-2001",
+      "title": "Legea nr. 350 din 6 iulie 2001 privind amenajarea teritoriului și urbanismul",
+      "short_title": "Legea 350/2001",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 68,
+      "anchor_count": 68,
+      "file": "legi/lege-350-2001.md",
+      "metadata_file": "metadata/acts/lege-350-2001.json"
+    },
+    {
+      "slug": "lege-372-2005",
+      "title": "Legea nr. 372 din 13 decembrie 2005 privind performanța energetică a clădirilor",
+      "short_title": "Legea 372/2005",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 43,
+      "anchor_count": 43,
+      "file": "legi/lege-372-2005.md",
+      "metadata_file": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "slug": "lege-481-2004",
+      "title": "Legea nr. 481 din 8 noiembrie 2004 privind protecția civilă",
+      "short_title": "Legea 481/2004",
+      "type": "lege",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 82,
+      "anchor_count": 82,
+      "file": "legi/lege-481-2004.md",
+      "metadata_file": "metadata/acts/lege-481-2004.json"
+    },
+    {
+      "slug": "lege-50-1991",
+      "title": "Legea nr. 50 din 29 iulie 1991 privind autorizarea executării lucrărilor de construcții",
+      "short_title": "Legea 50/1991",
+      "type": "lege",
+      "domain": "autorizatii",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 64,
+      "anchor_count": 64,
+      "file": "legi/lege-50-1991.md",
+      "metadata_file": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "slug": "metodologie-mc001-2022",
+      "title": "Metodologie de calcul al performanței energetice a clădirilor, indicativ Mc 001-2022",
+      "short_title": "Mc 001-2022",
+      "type": "normativ",
+      "domain": "nzeb",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/metodologie-mc001-2022.md",
+      "metadata_file": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "slug": "normativ-p118-1-2025",
+      "title": "Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118-1/2025",
+      "short_title": "Normativ P 118-1/2025",
+      "type": "normativ",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-p118-1-2025.md",
+      "metadata_file": "metadata/acts/normativ-p118-1-2025.json"
+    },
+    {
+      "slug": "normativ-p130-2025",
+      "title": "Normativ privind urmărirea comportării în exploatare a construcțiilor, indicativ P 130-2025",
+      "short_title": "Normativ P 130-2025",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-p130-2025.md",
+      "metadata_file": "metadata/acts/normativ-p130-2025.json"
+    },
+    {
+      "slug": "ordin-839-2009",
+      "title": "Ordinul nr. 839 din 12 octombrie 2009 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+      "short_title": "Ordin MDRAP 839/2009",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 85,
+      "anchor_count": 85,
+      "file": "legi/ordin-839-2009.md",
+      "metadata_file": "metadata/acts/ordin-839-2009.json"
+    },
+    {
+      "slug": "oug-195-2005",
+      "title": "Ordonanța de Urgență nr. 195 din 22 decembrie 2005 privind protecția mediului",
+      "short_title": "OUG 195/2005",
+      "type": "ordonanta",
+      "domain": "mediu",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 105,
+      "anchor_count": 105,
+      "file": "legi/oug-195-2005.md",
+      "metadata_file": "metadata/acts/oug-195-2005.json"
+    },
+    {
+      "slug": "oug-21-2004",
+      "title": "Ordonanța de Urgență nr. 21 din 15 aprilie 2004 privind Sistemul Național de Management al Situațiilor de Urgență",
+      "short_title": "",
+      "type": "ordonanta",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text",
+      "article_count": 47,
+      "anchor_count": 47,
+      "file": "legi/oug-21-2004.md",
+      "metadata_file": "metadata/acts/oug-21-2004.json"
+    }
+  ],
+  "ai_guidance": {
+    "read_order": [
+      "ocki-manifest.json",
+      "INDEX.md",
+      "AGENTS.md",
+      "metadata/acts/{slug}.json",
+      "legi/{slug}.md",
+      "import-log/"
+    ],
+    "citation_format": "legi/{slug}.md#{anchor}",
+    "citation_index": "citations/citation-index.json",
+    "cross_references": "cross-references/relationships-auto.json",
+    "do_not": [
+      "Do not cite text outside OFFICIAL_TEXT_START/END markers",
+      "Do not invent URLs or article numbers",
+      "Do not modify official text",
+      "Do not add legal interpretation"
+    ]
+  },
+  "schema": {
+    "metadata_schema": "metadata/schema.json",
+    "schema_version": "2.0"
+  }
+}

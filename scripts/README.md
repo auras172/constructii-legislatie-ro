@@ -99,6 +99,20 @@ Validates that:
 - No duplicate anchors appear within the same file
 Exits with code 1 if any check fails. Added to CI after `repository-health-report`.
 
+## generate-manifest.mjs
+
+```sh
+node scripts/generate-manifest.mjs
+```
+
+Reads all `metadata/acts/*.json`, `citations/citation-index.json`, `cross-references/relationships-auto.json`, and `reports/repository-health.json` to produce:
+
+- `ocki-manifest.json` — machine-readable repository entry point for AI agents and external tools. Contains content statistics (acts total, full-text vs metadata-only, article anchors, domains, act types), relationship counts, infrastructure inventory, per-act index, and AI guidance (citation format, read order, do-not list).
+- `reports/manifest-summary.md` — human-readable one-pager with tables for content stats, acts index, and AI guidance.
+
+Repository-level fields (name, owner, URL) are hardcoded — they don't change.
+Idempotent. Exits 0 always. Integrated into the CI validate workflow (runs last).
+
 ## Rules
 
 Scripts must not scrape websites unless explicitly approved and legally permitted.
