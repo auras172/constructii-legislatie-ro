@@ -75,6 +75,27 @@ Outputs (all in `cross-references/`):
 
 Not in CI — this is a generation script. See `cross-references/README.md` for usage instructions.
 
+## generate-changelog.mjs
+
+```sh
+node scripts/generate-changelog.mjs
+```
+
+Reads the full git log of the `main` branch, classifies each commit by type
+(legislation import, infrastructure, documentation, fix, misc), and
+cross-references `metadata/acts/` for act details (short title, domain,
+import method). Generates two output files:
+
+- `CHANGELOG.md` — human-readable changelog grouped by month, with legislation
+  entries marked ✅ `[full-text]` or 📋 `[metadata-only]`
+- `reports/changelog.json` — machine-readable equivalent with per-month arrays
+  and summary totals
+
+The script is idempotent: running it twice produces the same output.
+The generated `CHANGELOG.md` contains a `<!-- do not edit manually -->` comment.
+
+Exits with code 0 always. Integrated into the CI validate workflow.
+
 ## Rules
 
 Scripts must not scrape websites unless explicitly approved and legally permitted.
