@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/constructii-legislatie-ro/metadata/schema.json",
+  "title": "Romanian construction legislation metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "title",
+    "type",
+    "domain",
+    "status",
+    "source_url",
+    "last_checked",
+    "tags"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "short_title": {
+      "type": "string"
+    },
+    "canonical_citation": {
+      "type": "string",
+      "description": "Human-readable canonical citation, e.g. 'Legea nr. 50/1991'"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "lege",
+        "ordonanta",
+        "hotarare",
+        "ordin",
+        "normativ",
+        "ghid",
+        "procedura"
+      ]
+    },
+    "number": {
+      "type": ["string", "integer"]
+    },
+    "year": {
+      "type": ["string", "integer"]
+    },
+    "issuer": {
+      "type": "string",
+      "description": "Official issuing body name, e.g. 'Parlamentul României'"
+    },
+    "issuing_body_kind": {
+      "type": "string",
+      "enum": ["parlament", "guvern", "minister", "autoritate", "other"]
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "autorizatii",
+        "urbanism",
+        "executie",
+        "receptie",
+        "calitate",
+        "isc",
+        "anre",
+        "iscir",
+        "incendiu",
+        "nzeb",
+        "fiscal",
+        "munca",
+        "mediu"
+      ]
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Secondary classification topics, supplementing 'domain'"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "repealed",
+        "partially_repealed",
+        "unknown"
+      ]
+    },
+    "issue_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the act was issued or signed, YYYY-MM-DD"
+    },
+    "effective_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the act entered into force, YYYY-MM-DD"
+    },
+    "publication_medium": {
+      "type": "string",
+      "enum": ["monitorul-oficial", "portal-legislativ", "minister", "other"]
+    },
+    "publication_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of official publication, YYYY-MM-DD"
+    },
+    "source_url": {
+      "type": "string",
+      "minLength": 1
+    },
+    "official_source": {
+      "type": "string"
+    },
+    "official_detail_url": {
+      "type": "string",
+      "description": "Direct URL to the official detail page for this act"
+    },
+    "version_kind": {
+      "type": "string",
+      "enum": ["original", "republicat", "consolidat", "excerpt-only"],
+      "description": "Nature of the text version tracked"
+    },
+    "consolidated_as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of the consolidated form tracked, YYYY-MM-DD"
+    },
+    "last_checked": {
+      "type": "string",
+      "format": "date"
+    },
+    "version": {
+      "type": "string"
+    },
+    "article_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "annex_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "import_method": {
+      "type": "string",
+      "description": "How the official text was imported, e.g. 'printable HTML → Markdown'"
+    },
+    "rights_note": {
+      "type": "string",
+      "description": "Note on reuse rights or uncertainty for this specific act"
+    },
+    "related_acts": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts with a general relationship to this one"
+    },
+    "implements": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that this act implements or applies"
+    },
+    "amends": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that this act amends"
+    },
+    "amended_by": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that have amended this act"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  }
+}
