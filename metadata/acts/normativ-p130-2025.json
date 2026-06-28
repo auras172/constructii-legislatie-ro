@@ -20,6 +20,6 @@
   "last_checked": "2026-06-28",
   "tags": ["urmarire-exploatare", "constructii", "normativ-tehnic", "calitate", "mdlpa"],
   "related_acts": ["lege-10-1995", "lege-50-1991"],
-  "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 770/30.05.2025, publicat în M.Of. nr. 568 și 568bis/19.VI.2025. Metadata-only — textul nu este importat în acest repo.",
+  "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 770/30.05.2025, publicat în M.Of. nr. 568 și 568bis/19.VI.2025. Metadata-only — textul nu este importat în acest repo. ANOMALIE effective_date: sursa MDLPA (reglementare21, verificat 2026-06-29) menționează explicit 'La data intrării în vigoare (18 mai 2025)' — dată anterioară publicării (19.VI.2025), ceea ce este juridic imposibil în absența unei dispoziții exprese retroactive. Valoarea 2025-05-18 este preluată fidel din sursa oficială MDLPA; nu a putut fi confirmată din textul M.Of. (nedisponibil). Nu tratați această dată ca fapt juridic confirmat. Verificare ulterioară față de textul integral din M.Of. nr. 568/568bis este necesară.",
   "import_method": "metadata-only"
 }
