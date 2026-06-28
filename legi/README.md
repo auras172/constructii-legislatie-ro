@@ -71,6 +71,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/303043`](https://legislatie.just.ro/Public/DetaliiDocument/303043))
   - Status: active · full official actualizata text imported 2026-06-28 · 47 articles · 2 annexes (ambele abrogate) · consolidated 25.10.2025
   - Import log: [import-log/2026-06-28-oug-21-2004.md](../import-log/2026-06-28-oug-21-2004.md)
+- [Normativ P 130-2025](./normativ-p130-2025.md)
+  - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
+  - Official source checked: MDLPA ([reglementare21](https://www.mdlpa.ro/pages/reglementare21)) — O.M.D.L.P.A. nr. 770/30.05.2025
+  - Status: active · metadata-only · intrat în vigoare 18.05.2025 · înlocuiește P 130 din 1999/2003
+  - Import log: [import-log/2026-06-28-normativ-p130-2025.md](../import-log/2026-06-28-normativ-p130-2025.md)
 - Normativ P118
   - Domain: incendiu
   - TODO: verify official title/source and applicable version(s)
