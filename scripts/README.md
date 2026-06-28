@@ -57,39 +57,46 @@ Generates `reports/repository-health.json` and `reports/repository-health.md` wi
 Exits with code 0 always — warnings are collected and reported but never fail the script.
 Runs in the CI validate workflow after `check-official-text-integrity`.
 
+## detect-cross-references.mjs
+
+```sh
+node scripts/detect-cross-references.mjs
+```
+Scans all full-text `legi/<slug>.md` files (between `OFFICIAL_TEXT_START` and `OFFICIAL_TEXT_END` markers) for references to other Romanian legal acts and generates suggestion files for human review. Skips metadata-only acts. Does not modify any metadata or text files.
+Detects patterns like `Legea nr. 50/1991`, `HG 343/2017`, `OUG nr. 195/2005`, `Ordinul nr. 839/2009`, and article-level references (`art. 7 alin. (1)`) on the same line as an act citation. Resolves references to known slugs via `metadata/acts/`.
+Outputs (all in `cross-references/`):
+- `cross-references-raw.json` — every individual reference match with source line, matched text, resolved slug, and status
+- `relationships-auto.json` — aggregated per-source-act view with resolved/unresolved sets and article-level references
+- `relationships-diff.md` — human-readable diff comparing detected references against existing `related_acts` in metadata
+Not in CI — this is a generation script. See `cross-references/README.md` for usage instructions.
+## generate-changelog.mjs
+node scripts/generate-changelog.mjs
+Reads the full git log of the `main` branch, classifies each commit by type
+(legislation import, infrastructure, documentation, fix, misc), and
+cross-references `metadata/acts/` for act details (short title, domain,
+import method). Generates two output files:
+- `CHANGELOG.md` — human-readable changelog grouped by month, with legislation
+  entries marked ✅ `[full-text]` or 📋 `[metadata-only]`
+- `reports/changelog.json` — machine-readable equivalent with per-month arrays
+  and summary totals
+The script is idempotent: running it twice produces the same output.
+The generated `CHANGELOG.md` contains a `<!-- do not edit manually -->` comment.
+Exits with code 0 always. Integrated into the CI validate workflow.
 ## add-article-anchors.mjs
-
-```sh
 node scripts/add-article-anchors.mjs
-```
-
 One-time modification script. Adds `{#art-N}` anchors to article headings within `<!-- OFFICIAL_TEXT_START -->`/`<!-- OFFICIAL_TEXT_END -->` blocks in all full-text `legi/*.md` files. Skips metadata-only acts. Idempotent — running it twice produces the same result. Handles duplicate article numbers (e.g. acts with two document sections) by appending `-b`, `-c`, etc.
-
 Do **not** add this to CI — it is a one-time modifier, not a validator.
-
 ## generate-citation-index.mjs
-
-```sh
 node scripts/generate-citation-index.mjs
-```
-
 Reads all anchored full-text `legi/*.md` files and produces `citations/citation-index.json` — a machine-readable registry mapping every act's articles to their canonical anchors and line numbers. AI agents and RAG systems can use this index to resolve citations like "Legea 50/1991 art. 7" → `legi/lege-50-1991.md#art-7` at line N.
-
 Re-run this script after any import or anchor update.
-
 ## validate-citation-anchors.mjs
-
-```sh
 node scripts/validate-citation-anchors.mjs
-```
-
 Validates that:
-
 - `citations/citation-index.json` exists and is non-empty
 - All full-text acts have at least 1 `{#art-N}` anchor within their `OFFICIAL_TEXT` block
 - Anchors match the `{#art-N}` format (`art-` followed by lowercase alphanumeric/hyphens)
 - No duplicate anchors appear within the same file
-
 Exits with code 1 if any check fails. Added to CI after `repository-health-report`.
 
 ## Rules

@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-06-28T19:22:57.089Z",
+  "months": [
+    {
+      "month": "2026-06",
+      "label": "June 2026",
+      "legislation_added": [
+        {
+          "slug": "normativ-p130-2025",
+          "short_title": "Normativ P 130-2025",
+          "domain": "calitate",
+          "import_method": "metadata-only"
+        },
+        {
+          "slug": "metodologie-mc001-2022",
+          "short_title": "Mc 001-2022",
+          "domain": "nzeb",
+          "import_method": "metadata-only"
+        },
+        {
+          "slug": "oug-21-2004",
+          "short_title": "Ordonanta 21/2004",
+          "domain": "incendiu",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-481-2004",
+          "short_title": "Legea 481/2004",
+          "domain": "incendiu",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "hg-300-2006",
+          "short_title": "HG 300/2006",
+          "domain": "munca",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-319-2006",
+          "short_title": "Legea 319/2006",
+          "domain": "munca",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-292-2018",
+          "short_title": "Legea 292/2018",
+          "domain": "mediu",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "oug-195-2005",
+          "short_title": "OUG 195/2005",
+          "domain": "mediu",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-307-2006",
+          "short_title": "Legea 307/2006",
+          "domain": "incendiu",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-372-2005",
+          "short_title": "Legea 372/2005",
+          "domain": "nzeb",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "hg-343-2017",
+          "short_title": "HG 343/2017",
+          "domain": "receptie",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "ordin-839-2009",
+          "short_title": "Ordin MDRAP 839/2009",
+          "domain": "autorizatii",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-350-2001",
+          "short_title": "Legea 350/2001",
+          "domain": "urbanism",
+          "import_method": "full-text"
+        },
+        {
+          "slug": "lege-10-1995",
+          "short_title": "Legea 10/1995",
+          "domain": "calitate",
+          "import_method": "full-text"
+        }
+      ],
+      "infrastructure": [
+        "feat(ci): add repository health report script and initial reports (#74)",
+        "feat(ci): validate official text markers and import logs (#71)",
+        "feat(site): add github and mit visual links (#51)",
+        "feat(metadata): add act relationship graph and 4 new metadata-only acts (#31)",
+        "feat(ci): add metadata/frontmatter parity check (#29)",
+        "feat(site): per-act pages, provenance, search, site CI (#28)"
+      ],
+      "documentation": [
+        "docs: map MDLPA construction regulations backlog (#67)",
+        "docs: add legislation index and status matrix (#66)",
+        "docs: define verified excerpts boundary (#50)"
+      ],
+      "fixes": [
+        "fix(metadata): clarify P118 indicativ provenance, remove invalid frontmatter field (#70)"
+      ],
+      "misc": [
+        "fix(changelog): use HEAD instead of main for CI compatibility",
+        "fix(changelog): use HEAD instead of main for CI compatibility",
+        "feat(changelog): add changelog generator from git history",
+        "feat(cross-refs): auto-detect act cross-references in official text",
+        "feat(legi): add metadata entry for Normativ P 118-2025 (securitate incendiu) (#61)",
+        "Consolidate repo metadata and contribution infrastructure (#26)"
+      ]
+    }
+  ],
+  "totals": {
+    "legislation_added": 14,
+    "full_text": 12,
+    "metadata_only": 2,
+    "infrastructure_changes": 6
+  }
+}
