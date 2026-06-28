@@ -29,3 +29,6 @@ jobs:
 
       - name: Check metadata/frontmatter parity
         run: node scripts/check-metadata-parity.mjs
+
+      - name: Check official text integrity
+        run: node scripts/check-official-text-integrity.mjs
