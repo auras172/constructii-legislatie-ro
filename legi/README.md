@@ -71,9 +71,9 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/303043`](https://legislatie.just.ro/Public/DetaliiDocument/303043))
   - Status: active · full official actualizata text imported 2026-06-28 · 47 articles · 2 annexes (ambele abrogate) · consolidated 25.10.2025
   - Import log: [import-log/2026-06-28-oug-21-2004.md](../import-log/2026-06-28-oug-21-2004.md)
-- [Normativ P 118-2025](./normativ-p118-2025.md)
+- [Normativ P 118-1/2025](./normativ-p118-1-2025.md)
   - Domain: incendiu · Related: Legea 307/2006, Legea 481/2004, OUG 21/2004
-  - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28)) — O.M.D.L.P.A. nr. 267/28.02.2025
+  - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28)) — tabel `P 118-2025`, DOCX `INDICATIV P 118-1/2025`, O.M.D.L.P.A. nr. 267/28.02.2025
   - Status: active · metadata-only (698 pag., text integral nedisponibil în repo) · intrat în vigoare 08.05.2025
   - Import log: [import-log/2026-06-28-normativ-p118-2025.md](../import-log/2026-06-28-normativ-p118-2025.md)
 - [Normativ P 130-2025](./normativ-p130-2025.md)
