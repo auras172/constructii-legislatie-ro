@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-28T19:36:10.703Z",
+  "generated_at": "2026-06-28T21:37:02.200Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,7 +16,7 @@
   },
   "content": {
     "acts_total": 16,
-    "acts_full_text": 12,
+    "acts_full_text": 13,
     "acts_metadata_only": 3,
     "article_anchors_total": 799,
     "import_logs_total": 17,

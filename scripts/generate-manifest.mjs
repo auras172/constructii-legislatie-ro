@@ -34,6 +34,46 @@ function writeFile(relPath, content) {
   fs.writeFileSync(abs, content, 'utf8');
 }
 
+function normalizeImportMethod(value) {
+  return (value || '').toLowerCase() === 'metadata-only'
+    ? 'metadata-only'
+    : 'full-text';
+}
+
+function validateManifestCounts(manifestData, label) {
+  const actsList = Array.isArray(manifestData?.acts) ? manifestData.acts : [];
+  const content = manifestData?.content || {};
+  const fullText = actsList.filter(a => a.import_method === 'full-text').length;
+  const metadataOnly = actsList.filter(a => a.import_method === 'metadata-only').length;
+
+  const errors = [];
+  if (content.acts_total !== actsList.length) {
+    errors.push(`acts_total=${content.acts_total} but acts.length=${actsList.length}`);
+  }
+  if (content.acts_full_text !== fullText) {
+    errors.push(`acts_full_text=${content.acts_full_text} but acts[] full-text=${fullText}`);
+  }
+  if (content.acts_metadata_only !== metadataOnly) {
+    errors.push(`acts_metadata_only=${content.acts_metadata_only} but acts[] metadata-only=${metadataOnly}`);
+  }
+  if (content.acts_total !== content.acts_full_text + content.acts_metadata_only) {
+    errors.push(
+      `acts_total=${content.acts_total} but acts_full_text + acts_metadata_only=${content.acts_full_text + content.acts_metadata_only}`
+    );
+  }
+
+  if (errors.length > 0) {
+    throw new Error(`${label} manifest count mismatch:\n- ${errors.join('\n- ')}`);
+  }
+}
+
+function validateExistingManifest() {
+  const existing = readJson('ocki-manifest.json');
+  if (existing) {
+    validateManifestCounts(existing, 'existing ocki-manifest.json');
+  }
+}
+
 // ── read source files ─────────────────────────────────────────────────────────
 
 const actsDir = path.join(ROOT, 'metadata', 'acts');
@@ -52,18 +92,7 @@ const citationIndex = readJson('citations/citation-index.json');
 const relationshipsAuto = readJson('cross-references/relationships-auto.json');
 const healthReport = readJson('reports/repository-health.json');
 
-// ── counts ────────────────────────────────────────────────────────────────────
-
-const actsTotal = acts.length;
-
-const actsFullText = acts.filter(a => {
-  const m = (a.meta.import_method || '').toLowerCase();
-  return m !== 'metadata-only' && m !== '';
-}).length;
-
-const actsMetadataOnly = acts.filter(a =>
-  (a.meta.import_method || '').toLowerCase() === 'metadata-only'
-).length;
+validateExistingManifest();
 
 // Article anchors from citation index
 let articleAnchorsTotal = 0;
@@ -123,9 +152,7 @@ const actsArray = acts.map(({ slug, meta }) => {
   const anchorCount = ciAct ? (ciAct.articles || []).length : 0;
 
   // Determine import method label
-  const importMethod = (meta.import_method || '').toLowerCase() === 'metadata-only'
-    ? 'metadata-only'
-    : 'full-text';
+  const importMethod = normalizeImportMethod(meta.import_method);
 
   return {
     slug,
@@ -141,6 +168,12 @@ const actsArray = acts.map(({ slug, meta }) => {
     metadata_file: `metadata/acts/${slug}.json`,
   };
 });
+
+// ── counts ────────────────────────────────────────────────────────────────────
+
+const actsTotal = actsArray.length;
+const actsFullText = actsArray.filter(a => a.import_method === 'full-text').length;
+const actsMetadataOnly = actsArray.filter(a => a.import_method === 'metadata-only').length;
 
 // ── build manifest ────────────────────────────────────────────────────────────
 
@@ -217,6 +250,8 @@ const manifest = {
     schema_version: '2.0',
   },
 };
+
+validateManifestCounts(manifest, 'generated ocki-manifest.json');
 
 // ── write ocki-manifest.json ──────────────────────────────────────────────────
 
