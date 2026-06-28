@@ -72,6 +72,18 @@ A consistent Markdown and metadata structure can later support:
 
 Any future RAG or assistant workflow must cite sources and must not present generated output as legal advice.
 
+### Verified Excerpts vs Generated Output
+
+Future search, RAG, and assistant workflows must keep a strict boundary between verified source text and model-generated text.
+
+**Verified Excerpt** means text extracted directly from an official or primary source, such as Monitorul Oficial, ANRE, ISCIR, MF, ANAF, or another source recorded in this repository's source policy. A verified excerpt must include complete metadata: source URL or file, publication date when available, article or paragraph reference, extraction timestamp, and content hash. Any citation in downstream output must point back to the exact original source reference and must be marked as verified.
+
+**Generated Output** means text produced by an AI model, including classification, summarization, drafting, restructuring, or interpretation. Generated output must be marked explicitly as generated, must not be cited as a primary source, and must be grounded in at least one verified excerpt when it makes a factual claim.
+
+Boundary rule: no generated output may be presented as verified. If a model cannot anchor its output in a verified excerpt, the system must return `unverified - manual review required` instead of generating unsourced content.
+
+Audit trail: every output, whether verified or generated, should carry provenance metadata: source URL or file, extraction timestamp, model version when generated, confidence score, and human review status.
+
 ## Official sources remain authoritative
 
 Always verify against official or primary sources before relying on any information here. Relevant official sources may include:
