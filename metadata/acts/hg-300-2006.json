@@ -1,0 +1,48 @@
+{
+  "title": "Hotărârea de Guvern nr. 300 din 2 martie 2006 privind cerințele minime de securitate și sănătate pentru șantierele temporare sau mobile",
+  "short_title": "HG 300/2006",
+  "canonical_citation": "HG nr. 300/2006",
+  "type": "hotarare",
+  "number": "300",
+  "year": "2006",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "munca",
+  "topics": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "santier",
+    "santiere-temporare-mobile",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2006-03-02",
+  "publication_medium": "portal-legislativ",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69995",
+  "official_source": "Portal Legislativ — legislatie.just.ro",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/69995",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2007-07-12",
+  "last_checked": "2026-06-28",
+  "article_count": 73,
+  "annex_count": 4,
+  "import_method": "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
+  "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
+  "related_acts": [
+    "lege-319-2006",
+    "lege-10-1995",
+    "lege-50-1991"
+  ],
+  "tags": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "santier",
+    "santiere-temporare-mobile",
+    "constructii",
+    "text-oficial",
+    "forma-actualizata",
+    "markdown-import"
+  ]
+}
