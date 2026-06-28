@@ -1,0 +1,46 @@
+name: Validate repository
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check whitespace
+        run: git diff --check
+
+      - name: Validate metadata
+        run: node scripts/validate-metadata.mjs
+
+      - name: Check Markdown hygiene
+        run: node scripts/check-markdown-hygiene.mjs
+
+      - name: Check metadata/frontmatter parity
+        run: node scripts/check-metadata-parity.mjs
+
+      - name: Check official text integrity
+        run: node scripts/check-official-text-integrity.mjs
+
+      - name: Generate repository health report
+        run: node scripts/repository-health-report.mjs
+
+      - name: Add/verify citation anchors
+        run: node scripts/validate-citation-anchors.mjs
+
+      - name: Generate changelog
+        run: node scripts/generate-changelog.mjs
+
+      - name: Generate OCKI manifest
+        run: node scripts/generate-manifest.mjs
