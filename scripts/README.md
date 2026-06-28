@@ -57,6 +57,24 @@ Generates `reports/repository-health.json` and `reports/repository-health.md` wi
 Exits with code 0 always — warnings are collected and reported but never fail the script.
 Runs in the CI validate workflow after `check-official-text-integrity`.
 
+## detect-cross-references.mjs
+
+```sh
+node scripts/detect-cross-references.mjs
+```
+
+Scans all full-text `legi/<slug>.md` files (between `OFFICIAL_TEXT_START` and `OFFICIAL_TEXT_END` markers) for references to other Romanian legal acts and generates suggestion files for human review. Skips metadata-only acts. Does not modify any metadata or text files.
+
+Detects patterns like `Legea nr. 50/1991`, `HG 343/2017`, `OUG nr. 195/2005`, `Ordinul nr. 839/2009`, and article-level references (`art. 7 alin. (1)`) on the same line as an act citation. Resolves references to known slugs via `metadata/acts/`.
+
+Outputs (all in `cross-references/`):
+
+- `cross-references-raw.json` — every individual reference match with source line, matched text, resolved slug, and status
+- `relationships-auto.json` — aggregated per-source-act view with resolved/unresolved sets and article-level references
+- `relationships-diff.md` — human-readable diff comparing detected references against existing `related_acts` in metadata
+
+Not in CI — this is a generation script. See `cross-references/README.md` for usage instructions.
+
 ## Rules
 
 Scripts must not scrape websites unless explicitly approved and legally permitted.
