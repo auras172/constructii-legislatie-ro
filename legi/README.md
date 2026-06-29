@@ -112,6 +112,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
   - Status: active · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrat în vigoare 01.01.2026 · înlocuiește NP 007-1997
   - Import log: [import-log/2026-06-29-normativ-np007-2025.md](../import-log/2026-06-29-normativ-np007-2025.md)
+- [Normativ NP 051-2012](./normativ-np051-2012.md)
+  - Domain: calitate (accesibilitate clădiri civile) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.R.A.P. nr. 189/12.02.2013
+  - Status: active · metadata-only · publicat în M.Of. Partea I, nr. 121 bis/05.03.2013 · intrat în vigoare est. 04.04.2013 · abrogă NP 051-2000
+  - Import log: [import-log/2026-06-29-normativ-np051-2012.md](../import-log/2026-06-29-normativ-np051-2012.md)
 - [Normativ NP 133-2022](./normativ-np133-2022.md)
   - Domain: calitate (apă-canal) · Related: Legea 10/1995, Legea 50/1991
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — 3 volume: O.M.D.L.P.A. nr. 15/05.01.2023 (Vol. I), nr. 14/05.01.2023 (Vol. II), nr. 19/05.01.2023 (Vol. III)

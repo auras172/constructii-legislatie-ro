@@ -126,6 +126,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np051-2012",
+      "label": "Normativ NP 051-2012",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np133-2022",
       "label": "Normativ NP 133-2022",
       "type": "normativ",
@@ -402,6 +410,13 @@
       "evidence": "metadata/acts/normativ-np007-2025.json"
     },
     {
+      "source": "normativ-np051-2012",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np051-2012.json"
+    },
+    {
       "source": "normativ-np133-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -529,8 +544,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 23,
-    "confirmed_edges": 48,
+    "total_nodes": 24,
+    "confirmed_edges": 49,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
