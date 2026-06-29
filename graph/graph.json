@@ -190,9 +190,9 @@
     {
       "source": "hg-343-2017",
       "target": "lege-307-2006",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-343-2017.json"
     },
     {
       "source": "hg-343-2017",
@@ -239,9 +239,9 @@
     {
       "source": "lege-307-2006",
       "target": "oug-21-2004",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-307-2006.json"
     },
     {
       "source": "lege-319-2006",
@@ -288,9 +288,9 @@
     {
       "source": "lege-481-2004",
       "target": "oug-21-2004",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-481-2004.json"
     },
     {
       "source": "lege-50-1991",
@@ -309,9 +309,9 @@
     {
       "source": "lege-50-1991",
       "target": "lege-292-2018",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-50-1991.json"
     },
     {
       "source": "lege-50-1991",
@@ -428,9 +428,9 @@
     {
       "source": "ordin-839-2009",
       "target": "lege-50-1991",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
       "source": "oug-195-2005",
@@ -463,8 +463,8 @@
   ],
   "stats": {
     "total_nodes": 19,
-    "confirmed_edges": 36,
-    "auto_detected_edges": 7,
+    "confirmed_edges": 41,
+    "auto_detected_edges": 2,
     "unresolved_skipped": 0
   }
 }
