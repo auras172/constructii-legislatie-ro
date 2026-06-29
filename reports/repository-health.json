@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:08:39.571Z",
+  "generated_at": "2026-06-29T18:02:40.993Z",
   "summary": {
-    "total_metadata_entries": 24,
+    "total_metadata_entries": 25,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 11,
-    "total_import_logs": 24,
-    "total_relationship_links": 52,
+    "total_metadata_only_acts": 12,
+    "total_import_logs": 25,
+    "total_relationship_links": 53,
     "total_unique_domains": 8,
     "total_unique_issuers": 3
   },
@@ -107,6 +107,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-cr2-1-1-1-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -231,7 +240,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
-      "calitate": 10,
+      "calitate": 11,
       "mediu": 2,
       "incendiu": 4,
       "urbanism": 1,
@@ -241,7 +250,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 8,
-      "minister": 12
+      "minister": 13
     },
     "publication_years": {
       "1991": 1,
@@ -257,7 +266,7 @@
       "2018": 1,
       "2019": 1,
       "2022": 1,
-      "2023": 3,
+      "2023": 4,
       "2025": 3
     },
     "import_methods": {
@@ -267,20 +276,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 11,
+      "metadata-only": 12,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 98.3,
+    "score": 98.4,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 95.83,
+      "import_logs": 96,
       "relationships": 100,
       "official_markers": 100,
-      "provenance": 95.83
+      "provenance": 96
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },

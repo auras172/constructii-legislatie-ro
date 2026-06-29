@@ -94,6 +94,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-cr2-1-1-1-2022",
+      "label": "CR 2-1-1.1/2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-i7-2011",
       "label": "Normativ I 7-2011",
       "type": "normativ",
@@ -375,6 +383,13 @@
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
     },
     {
+      "source": "normativ-cr2-1-1-1-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-cr2-1-1-1-2022.json"
+    },
+    {
       "source": "normativ-i7-2011",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -544,8 +559,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 24,
-    "confirmed_edges": 49,
+    "total_nodes": 25,
+    "confirmed_edges": 50,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

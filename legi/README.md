@@ -132,6 +132,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare12](https://www.mdlpa.ro/pages/reglementare12)) — O.M.D.R.T. nr. 2.741/01.10.2011
   - Status: active · metadata-only · publicat în M.Of. nr. 802 bis/14.11.2011 · completare 2023 (O.M.D.L.P.A. nr. 959/2023, vigoare 11.07.2023) · probabil abrogă I 7-2002 (neconfirmat)
   - Import log: [import-log/2026-06-29-normativ-i7-2011.md](../import-log/2026-06-29-normativ-i7-2011.md)
+- [Normativ CR 2-1-1.1/2022](./normativ-cr2-1-1-1-2022.md)
+  - Domain: calitate (pereți structurali beton armat) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), intrarea I-21) — O.M.D.L.P.A. nr. 171/01.02.2023
+  - Status: active · metadata-only · publicat în M.Of. nr. 104 și 104 bis/07.02.2023 · intrat în vigoare 09.03.2023 · abrogă CR 2-1-1.1/2013
+  - Import log: [import-log/2026-06-29-normativ-cr2-1-1-1-2022.md](../import-log/2026-06-29-normativ-cr2-1-1-1-2022.md)
 
 ## Naming convention proposal
 
