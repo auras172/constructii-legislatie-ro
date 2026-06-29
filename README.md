@@ -6,6 +6,11 @@
 
 See [INDEX.md](./INDEX.md) for the current legislation status matrix.
 
+<!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
+| Acts | Full-text | Metadata-only | Health | License | OCKI |
+|------|-----------|---------------|--------|---------|------|
+| [19](./INDEX.md) | 13 | 6 | [97.9/100](./reports/repository-health.md) | [MIT](./LICENSE) | [v1](./ocki-manifest.json) |
+
 ## The Problem
 
 Romanian construction legislation is difficult to use in technical workflows because the relevant material is spread across laws, government decisions, ministerial orders, norms, methodologies, authority pages, and official publications. These documents change over time, often reference each other, and are usually consumed as web pages, PDFs, DOCX files, or fragmented excerpts.
