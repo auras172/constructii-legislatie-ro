@@ -102,6 +102,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
   - Status: active · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrat în vigoare 01.01.2026 · înlocuiește NP 007-1997
   - Import log: [import-log/2026-06-29-normativ-np007-2025.md](../import-log/2026-06-29-normativ-np007-2025.md)
+- [Normativ NP 133-2022](./normativ-np133-2022.md)
+  - Domain: calitate (apă-canal) · Related: Legea 10/1995, Legea 50/1991
+  - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — 3 volume: O.M.D.L.P.A. nr. 15/05.01.2023 (Vol. I), nr. 14/05.01.2023 (Vol. II), nr. 19/05.01.2023 (Vol. III)
+  - Status: active · metadata-only · Vol. I intrat în vigoare 15.02.2023 · Vol. II intrat în vigoare 12.02.2023 · abrogă NP 133-2013
+  - Import log: [import-log/2026-06-29-normativ-np133-2022.md](../import-log/2026-06-29-normativ-np133-2022.md)
 
 ## Naming convention proposal
 
