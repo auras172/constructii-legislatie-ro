@@ -34,8 +34,9 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | Normativ NP 007-2025 | calitate | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare4) | [legi/normativ-np007-2025.md](./legi/normativ-np007-2025.md) | [metadata/acts/normativ-np007-2025.json](./metadata/acts/normativ-np007-2025.json) | Intrat în vigoare 01.01.2026; înlocuiește NP 007-1997; text integral nedisponibil în repo |
 | Normativ NP 133-2022 | calitate (apă-canal) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare13) | [legi/normativ-np133-2022.md](./legi/normativ-np133-2022.md) | [metadata/acts/normativ-np133-2022.json](./metadata/acts/normativ-np133-2022.json) | Normativ apă-canal, 3 volume (Vol. I — O.M.D.L.P.A. nr. 15/05.01.2023; Vol. II — nr. 14; Vol. III — nr. 19); M.Of. nr. 43-44bis/ian. 2023; intrat în vigoare feb. 2023; abrogă NP 133-2013; text nedisponibil în repo |
 | Normativ I 9-2022 | calitate (instalații sanitare) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare13) | [legi/normativ-i9-2022.md](./legi/normativ-i9-2022.md) | [metadata/acts/normativ-i9-2022.json](./metadata/acts/normativ-i9-2022.json) | Instalații sanitare aferente clădirilor; aprobat O.M.D.L.P.A. nr. 2960/15.11.2022; M.Of. nr. 1167 și 1167bis/06.12.2022; intrat în vigoare 06.01.2023; abrogă I9-2015; text nedisponibil în repo |
+| Normativ I 7-2011 | calitate (instalații electrice) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare12) | [legi/normativ-i7-2011.md](./legi/normativ-i7-2011.md) | [metadata/acts/normativ-i7-2011.json](./metadata/acts/normativ-i7-2011.json) | Instalații electrice aferente clădirilor; aprobat O.M.D.R.T. nr. 2.741/01.10.2011; M.Of. nr. 802 bis/14.11.2011; completare O.M.D.L.P.A. nr. 959/2023 (M.Of. 512/2023, vigoare 11.07.2023); probabil abrogă I 7-2002 (neconfirmat); text nedisponibil în repo |
 
-**Sumar:** 22 acte urmărite · 13 full-text importate · 9 metadata-only
+**Sumar:** 23 acte urmărite · 13 full-text importate · 10 metadata-only
 
 ---
 

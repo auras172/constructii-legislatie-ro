@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T09:16:05.456Z",
+  "generated_at": "2026-06-29T12:57:49.021Z",
   "summary": {
-    "total_metadata_entries": 22,
+    "total_metadata_entries": 23,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 9,
-    "total_import_logs": 22,
-    "total_relationship_links": 50,
+    "total_metadata_only_acts": 10,
+    "total_import_logs": 23,
+    "total_relationship_links": 51,
     "total_unique_domains": 8,
     "total_unique_issuers": 3
   },
@@ -107,6 +107,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-i7-2011",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -213,7 +222,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
-      "calitate": 8,
+      "calitate": 9,
       "mediu": 2,
       "incendiu": 4,
       "urbanism": 1,
@@ -223,7 +232,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 8,
-      "minister": 10
+      "minister": 11
     },
     "publication_years": {
       "1991": 1,
@@ -233,6 +242,7 @@
       "2005": 2,
       "2006": 3,
       "2009": 1,
+      "2011": 1,
       "2013": 1,
       "2017": 1,
       "2018": 1,
@@ -248,20 +258,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 9,
+      "metadata-only": 10,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 98.2,
+    "score": 98.3,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 95.45,
+      "import_logs": 95.65,
       "relationships": 100,
       "official_markers": 100,
-      "provenance": 95.45
+      "provenance": 95.65
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },

@@ -122,6 +122,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — O.M.D.L.P.A. nr. 2960/15.11.2022
   - Status: active · metadata-only · publicat în M.Of. nr. 1167 și 1167bis/06.12.2022 · intrat în vigoare 06.01.2023 · abrogă I9-2015
   - Import log: [import-log/2026-06-29-normativ-i9-2022.md](../import-log/2026-06-29-normativ-i9-2022.md)
+- [Normativ I 7-2011](./normativ-i7-2011.md)
+  - Domain: calitate (instalații electrice aferente clădirilor) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare12](https://www.mdlpa.ro/pages/reglementare12)) — O.M.D.R.T. nr. 2.741/01.10.2011
+  - Status: active · metadata-only · publicat în M.Of. nr. 802 bis/14.11.2011 · completare 2023 (O.M.D.L.P.A. nr. 959/2023, vigoare 11.07.2023) · probabil abrogă I 7-2002 (neconfirmat)
+  - Import log: [import-log/2026-06-29-normativ-i7-2011.md](../import-log/2026-06-29-normativ-i7-2011.md)
 
 ## Naming convention proposal
 

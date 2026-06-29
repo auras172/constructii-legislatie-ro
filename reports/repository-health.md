@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-29T09:16:05.456Z
+Generated: 2026-06-29T12:57:49.021Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 22 |
+| Total metadata entries | 23 |
 | Full-text acts | 13 |
-| Metadata-only acts | 9 |
-| Import log files | 22 |
-| Total relationship links | 50 |
+| Metadata-only acts | 10 |
+| Import log files | 23 |
+| Total relationship links | 51 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -29,6 +29,7 @@ Generated: 2026-06-29T09:16:05.456Z
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np005-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -47,7 +48,7 @@ Generated: 2026-06-29T09:16:05.456Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 8 |
+| calitate | 9 |
 | incendiu | 4 |
 | munca | 2 |
 | mediu | 2 |
@@ -60,7 +61,7 @@ Generated: 2026-06-29T09:16:05.456Z
 
 | Value | Count |
 | --- | --- |
-| minister | 10 |
+| minister | 11 |
 | parlament | 8 |
 | guvern | 4 |
 
@@ -77,6 +78,7 @@ Generated: 2026-06-29T09:16:05.456Z
 | 1995 | 1 |
 | 2001 | 1 |
 | 2009 | 1 |
+| 2011 | 1 |
 | 2013 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
@@ -87,7 +89,7 @@ Generated: 2026-06-29T09:16:05.456Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 9 |
+| metadata-only | 10 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -100,16 +102,16 @@ Generated: 2026-06-29T09:16:05.456Z
 
 ## Health Score
 
-**Score: 98.2 / 100**
+**Score: 98.3 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 95.45 | 20 |
+| Import logs | 95.65 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 95.45 | 20 |
-| **Total** | **98.2** | **100** |
+| Provenance | 95.65 | 20 |
+| **Total** | **98.3** | **100** |
 
 ### Formula
 
