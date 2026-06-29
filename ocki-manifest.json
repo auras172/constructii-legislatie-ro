@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-28T23:48:51.098Z",
+  "generated_at": "2026-06-29T06:43:37.903Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 17,
+    "acts_total": 19,
     "acts_full_text": 13,
-    "acts_metadata_only": 4,
+    "acts_metadata_only": 6,
     "article_anchors_total": 799,
-    "import_logs_total": 18,
+    "import_logs_total": 20,
     "domains": [
       "autorizatii",
       "calitate",
@@ -39,7 +39,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 32,
+    "confirmed_relationships": 36,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -204,6 +204,32 @@
       "anchor_count": 0,
       "file": "legi/metodologie-mc001-2022.md",
       "metadata_file": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "slug": "normativ-np007-2025",
+      "title": "Cod de proiectare pentru structuri în cadre din beton armat, indicativ NP 007-2025",
+      "short_title": "Normativ NP 007-2025",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-np007-2025.md",
+      "metadata_file": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "slug": "normativ-np133-2022",
+      "title": "Normativ privind proiectarea, execuția și exploatarea sistemelor de alimentare cu apă și canalizare ale localităților, Indicativ NP 133-2022",
+      "short_title": "Normativ NP 133-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-np133-2022.md",
+      "metadata_file": "metadata/acts/normativ-np133-2022.json"
     },
     {
       "slug": "normativ-p100-1-2013",

@@ -97,6 +97,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), poziția I-22) — O.M.D.R.A.P. nr. 2.465/08.08.2013; completare O.M.D.R.A.P. nr. 2.956/18.11.2019
   - Status: active · metadata-only · publicat în M.Of. nr. 558 bis/03.09.2013 · înlocuiește P 100-1/2006
   - Import log: [import-log/2026-06-29-normativ-p100-1-2013.md](../import-log/2026-06-29-normativ-p100-1-2013.md)
+- [Normativ NP 007-2025](./normativ-np007-2025.md)
+  - Domain: calitate (structuri beton armat) · Related: Legea 10/1995, Normativ P 100-1/2013
+  - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
+  - Status: active · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrat în vigoare 01.01.2026 · înlocuiește NP 007-1997
+  - Import log: [import-log/2026-06-29-normativ-np007-2025.md](../import-log/2026-06-29-normativ-np007-2025.md)
 
 ## Naming convention proposal
 
