@@ -414,16 +414,16 @@
     {
       "source": "ordin-839-2009",
       "target": "lege-10-1995",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
       "source": "ordin-839-2009",
       "target": "lege-350-2001",
-      "relationship": "cites",
-      "review_status": "needs_review",
-      "evidence": "cross-references/relationships-auto.json"
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
       "source": "ordin-839-2009",
@@ -463,8 +463,8 @@
   ],
   "stats": {
     "total_nodes": 19,
-    "confirmed_edges": 41,
-    "auto_detected_edges": 2,
+    "confirmed_edges": 43,
+    "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
 }
