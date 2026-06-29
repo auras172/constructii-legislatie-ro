@@ -110,6 +110,13 @@ Act metadata lives in [metadata/acts/](./metadata/acts/) and is validated agains
 
 Relationship fields and generated cross-reference artifacts help identify how acts refer to, implement, amend, or depend on each other. Suggested relationships still require human review before becoming canonical metadata.
 
+### Knowledge graph
+
+- `graph/graph.json` — node/edge graph (19 acts, 36 confirmed relationships); `confirmed` edges sourced from reviewed metadata, `needs_review` edges from auto-detected references
+- `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
+- Regenerate: `node scripts/generate-graph.mjs`
+- Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)
+
 ### Citations
 
 Citation anchors allow direct references to article-level sections such as `legi/lege-50-1991.md#art-7`. Citation artifacts live in [citations/](./citations/) where generated.
