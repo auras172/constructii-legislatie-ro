@@ -118,6 +118,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-p100-3-2019",
+      "label": "Normativ P 100-3/2019",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-p118-1-2025",
       "label": "Normativ P 118-1/2025",
       "type": "normativ",
@@ -377,6 +385,20 @@
       "evidence": "metadata/acts/normativ-p100-1-2013.json"
     },
     {
+      "source": "normativ-p100-3-2019",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p100-3-2019.json"
+    },
+    {
+      "source": "normativ-p100-3-2019",
+      "target": "normativ-p100-1-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p100-3-2019.json"
+    },
+    {
       "source": "normativ-p118-1-2025",
       "target": "lege-307-2006",
       "relationship": "related",
@@ -462,8 +484,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 19,
-    "confirmed_edges": 43,
+    "total_nodes": 20,
+    "confirmed_edges": 45,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
