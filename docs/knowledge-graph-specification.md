@@ -1101,7 +1101,7 @@ Machine-readable node/edge representation of the relationship graph. Generated b
   - `review_status: "needs_review"` — sourced from auto-detected text references in `cross-references/relationships-auto.json`; navigational hints only, not canonical; do not assert legal relationships from these edges without verifying in official text
 - **stats** — summary counts: `total_nodes`, `confirmed_edges`, `auto_detected_edges`, `unresolved_skipped`
 
-Current counts (from `graph/graph.json`): 19 nodes, 36 confirmed edges, 7 auto-detected edges.
+Current counts (from `graph/graph.json`): 19 nodes, 41 confirmed edges, 2 auto-detected edges.
 
 **Deduplication rule:** if the same source→target pair appears in both sources, the `confirmed` edge is kept and the `needs_review` edge is dropped.
 
