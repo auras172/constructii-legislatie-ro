@@ -191,6 +191,33 @@ Good contributions include:
 
 Do not mass-import unverified text. Do not add legal interpretation as fact. Do not copy commercial legal database content.
 
+## Working with Forks
+
+Contributors and autonomous agents should fork the repository rather than maintaining detached clones. Forks make it easier to synchronize with upstream changes, preserve Git history, simplify pull requests, and keep metadata, graph, validation scripts, and documentation current. Detached clones drift quickly as the corpus grows.
+
+### Recommended workflow
+
+1. Fork `auras172/constructii-legislatie-ro` on GitHub.
+2. Clone your fork locally.
+3. Add the canonical repository as `upstream`.
+4. Fetch upstream before each task.
+5. Create one branch per change.
+6. Run validations before opening a pull request.
+7. Open the pull request back to `auras172/constructii-legislatie-ro`.
+
+```bash
+git clone https://github.com/<your-user>/constructii-legislatie-ro.git
+cd constructii-legislatie-ro
+
+git remote add upstream https://github.com/auras172/constructii-legislatie-ro.git
+
+git fetch upstream
+
+git checkout -b add/example upstream/main
+```
+
+> **Note for AI agents:** Before creating branches or opening pull requests, verify that the remote is `auras172/constructii-legislatie-ro`. Never open pull requests against unrelated repositories. If repository identity cannot be confirmed, stop and report before proceeding.
+
 ## Disclaimer
 
 This repository is not legal advice and is not an official government source.
