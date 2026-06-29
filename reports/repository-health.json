@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T23:48:51.219Z",
+  "generated_at": "2026-06-29T06:47:50.896Z",
   "summary": {
-    "total_metadata_entries": 17,
+    "total_metadata_entries": 18,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 4,
-    "total_import_logs": 17,
-    "total_relationship_links": 35,
+    "total_metadata_only_acts": 5,
+    "total_import_logs": 18,
+    "total_relationship_links": 37,
     "total_unique_domains": 8,
     "total_unique_issuers": 3
   },
@@ -110,6 +110,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-np133-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "normativ-p100-1-2013",
       "full_text": false,
       "metadata": true,
@@ -168,7 +177,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
-      "calitate": 3,
+      "calitate": 4,
       "mediu": 2,
       "incendiu": 4,
       "urbanism": 1,
@@ -178,7 +187,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 8,
-      "minister": 5
+      "minister": 6
     },
     "publication_years": {
       "1991": 1,
@@ -191,7 +200,7 @@
       "2013": 1,
       "2017": 1,
       "2018": 1,
-      "2023": 1,
+      "2023": 2,
       "2025": 2
     },
     "import_methods": {
@@ -201,20 +210,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 4,
+      "metadata-only": 5,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 97.6,
+    "score": 97.8,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 94.12,
+      "import_logs": 94.44,
       "relationships": 100,
       "official_markers": 100,
-      "provenance": 94.12
+      "provenance": 94.44
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },

@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-28T23:48:51.219Z
+Generated: 2026-06-29T06:47:50.896Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 17 |
+| Total metadata entries | 18 |
 | Full-text acts | 13 |
-| Metadata-only acts | 4 |
-| Import log files | 17 |
-| Total relationship links | 35 |
+| Metadata-only acts | 5 |
+| Import log files | 18 |
+| Total relationship links | 37 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -29,6 +29,7 @@ Generated: 2026-06-28T23:48:51.219Z
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -42,8 +43,8 @@ Generated: 2026-06-28T23:48:51.219Z
 
 | Value | Count |
 | --- | --- |
+| calitate | 4 |
 | incendiu | 4 |
-| calitate | 3 |
 | munca | 2 |
 | mediu | 2 |
 | nzeb | 2 |
@@ -56,7 +57,7 @@ Generated: 2026-06-28T23:48:51.219Z
 | Value | Count |
 | --- | --- |
 | parlament | 8 |
-| minister | 5 |
+| minister | 6 |
 | guvern | 4 |
 
 ### Publication Years
@@ -66,6 +67,7 @@ Generated: 2026-06-28T23:48:51.219Z
 | 2006 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
+| 2023 | 2 |
 | 2025 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
@@ -74,14 +76,13 @@ Generated: 2026-06-28T23:48:51.219Z
 | 2013 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
-| 2023 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
+| metadata-only | 5 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
-| metadata-only | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
@@ -93,16 +94,16 @@ Generated: 2026-06-28T23:48:51.219Z
 
 ## Health Score
 
-**Score: 97.6 / 100**
+**Score: 97.8 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 94.12 | 20 |
+| Import logs | 94.44 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 94.12 | 20 |
-| **Total** | **97.6** | **100** |
+| Provenance | 94.44 | 20 |
+| **Total** | **97.8** | **100** |
 
 ### Formula
 
