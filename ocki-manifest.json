@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-29T18:02:15.421Z",
+  "generated_at": "2026-06-29T20:47:32.246Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,15 +15,16 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 25,
+    "acts_total": 27,
     "acts_full_text": 13,
-    "acts_metadata_only": 12,
+    "acts_metadata_only": 14,
     "article_anchors_total": 799,
-    "import_logs_total": 26,
+    "import_logs_total": 28,
     "domains": [
       "autorizatii",
       "calitate",
       "incendiu",
+      "iscir",
       "mediu",
       "munca",
       "nzeb",
@@ -39,7 +40,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 50,
+    "confirmed_relationships": 52,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -347,6 +348,32 @@
       "anchor_count": 0,
       "file": "legi/normativ-p130-2025.md",
       "metadata_file": "metadata/acts/normativ-p130-2025.json"
+    },
+    {
+      "slug": "normativ-pt-a1-2010",
+      "title": "Prescripție Tehnică PT A 1-2010 privind aparatele de încălzit alimentate cu combustibil solid, lichid sau gazos cu puteri nominale ≤ 400 kW",
+      "short_title": "PT A 1-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-a1-2010.md",
+      "metadata_file": "metadata/acts/normativ-pt-a1-2010.json"
+    },
+    {
+      "slug": "normativ-pt-r2-2010",
+      "title": "Prescripție Tehnică PT R 2-2010 privind ascensoarele electrice și hidraulice de persoane, de persoane și mărfuri sau de mărfuri cu comandă interioară",
+      "short_title": "PT R 2-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-r2-2010.md",
+      "metadata_file": "metadata/acts/normativ-pt-r2-2010.json"
     },
     {
       "slug": "ordin-839-2009",
