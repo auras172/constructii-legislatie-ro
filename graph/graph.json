@@ -526,7 +526,14 @@
     },
     {
       "source": "normativ-pt-a1-2010",
-      "target": "lege-10-1995",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-a1-2010.json"
+    },
+    {
+      "source": "normativ-pt-a1-2010",
+      "target": "lege-319-2006",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-pt-a1-2010.json"
@@ -590,7 +597,7 @@
   ],
   "stats": {
     "total_nodes": 27,
-    "confirmed_edges": 52,
+    "confirmed_edges": 53,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
