@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-29T06:47:50.896Z
+Generated: 2026-06-29T08:14:25.959Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 19 |
+| Total metadata entries | 20 |
 | Full-text acts | 13 |
-| Metadata-only acts | 6 |
-| Import log files | 19 |
-| Total relationship links | 39 |
+| Metadata-only acts | 7 |
+| Import log files | 20 |
+| Total relationship links | 48 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -19,22 +19,23 @@ Generated: 2026-06-29T06:47:50.896Z
 | slug | full text | metadata | import log | markers | relationships | provenance |
 | --- | --- | --- | --- | --- | --- | --- |
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
-| hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
+| hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
-| lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
+| lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | lege-319-2006 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-350-2001 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-372-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
-| lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
-| lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
+| lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
+| lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-i9-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
+| ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 
@@ -44,7 +45,7 @@ Generated: 2026-06-29T06:47:50.896Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 5 |
+| calitate | 6 |
 | incendiu | 4 |
 | munca | 2 |
 | mediu | 2 |
@@ -58,7 +59,7 @@ Generated: 2026-06-29T06:47:50.896Z
 | Value | Count |
 | --- | --- |
 | parlament | 8 |
-| minister | 7 |
+| minister | 8 |
 | guvern | 4 |
 
 ### Publication Years
@@ -77,12 +78,13 @@ Generated: 2026-06-29T06:47:50.896Z
 | 2013 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
+| 2022 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 6 |
+| metadata-only | 7 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -95,16 +97,16 @@ Generated: 2026-06-29T06:47:50.896Z
 
 ## Health Score
 
-**Score: 97.9 / 100**
+**Score: 98 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 94.74 | 20 |
+| Import logs | 95 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 94.74 | 20 |
-| **Total** | **97.9** | **100** |
+| Provenance | 95 | 20 |
+| **Total** | **98** | **100** |
 
 ### Formula
 

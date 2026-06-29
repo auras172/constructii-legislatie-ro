@@ -31,8 +31,9 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | Normativ P 100-1/2013 | calitate (seismic) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare1) | [legi/normativ-p100-1-2013.md](./legi/normativ-p100-1-2013.md) | [metadata/acts/normativ-p100-1-2013.json](./metadata/acts/normativ-p100-1-2013.json) | Cod seismic pentru clădiri noi; aprobat O.M.D.R.A.P. nr. 2.465/08.08.2013; completare 2019 (nr. 2.956); înlocuiește P 100-1/2006; text nedisponibil în repo |
 | Normativ NP 007-2025 | calitate | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare4) | [legi/normativ-np007-2025.md](./legi/normativ-np007-2025.md) | [metadata/acts/normativ-np007-2025.json](./metadata/acts/normativ-np007-2025.json) | Intrat în vigoare 01.01.2026; înlocuiește NP 007-1997; text integral nedisponibil în repo |
 | Normativ NP 133-2022 | calitate (apă-canal) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare13) | [legi/normativ-np133-2022.md](./legi/normativ-np133-2022.md) | [metadata/acts/normativ-np133-2022.json](./metadata/acts/normativ-np133-2022.json) | Normativ apă-canal, 3 volume (Vol. I — O.M.D.L.P.A. nr. 15/05.01.2023; Vol. II — nr. 14; Vol. III — nr. 19); M.Of. nr. 43-44bis/ian. 2023; intrat în vigoare feb. 2023; abrogă NP 133-2013; text nedisponibil în repo |
+| Normativ I 9-2022 | calitate (instalații sanitare) | normativ | metadata-only | — | — | — | [MDLPA](https://www.mdlpa.ro/pages/reglementare13) | [legi/normativ-i9-2022.md](./legi/normativ-i9-2022.md) | [metadata/acts/normativ-i9-2022.json](./metadata/acts/normativ-i9-2022.json) | Instalații sanitare aferente clădirilor; aprobat O.M.D.L.P.A. nr. 2960/15.11.2022; M.Of. nr. 1167 și 1167bis/06.12.2022; intrat în vigoare 06.01.2023; abrogă I9-2015; text nedisponibil în repo |
 
-**Sumar:** 19 acte urmărite · 13 full-text importate · 6 metadata-only
+**Sumar:** 20 acte urmărite · 13 full-text importate · 7 metadata-only
 
 ---
 
