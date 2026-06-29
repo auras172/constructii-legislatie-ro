@@ -1,6 +1,6 @@
 ---
 title: "Normativ pentru construcții spitalicești, Indicativ NP 015-2022"
-short_title: "Normativ NP 015-2022"
+short_title: "NP 015-2022"
 type: normativ
 number: "2412"
 year: "2022"
