@@ -1,0 +1,69 @@
+graph LR
+
+  %% Nodes
+  hg-300-2006["HG 300/2006\n[hotarare · munca]"]
+  hg-343-2017["HG 343/2017\n[hotarare · receptie]"]
+  lege-10-1995["Legea 10/1995\n[lege · calitate]"]
+  lege-292-2018["Legea 292/2018\n[lege · mediu]"]
+  lege-307-2006["Legea 307/2006\n[lege · incendiu]"]
+  lege-319-2006["Legea 319/2006\n[lege · munca]"]
+  lege-350-2001["Legea 350/2001\n[lege · urbanism]"]
+  lege-372-2005["Legea 372/2005\n[lege · nzeb]"]
+  lege-481-2004["Legea 481/2004\n[lege · incendiu]"]
+  lege-50-1991["Legea 50/1991\n[lege · autorizatii]"]
+  metodologie-mc001-2022["Mc 001-2022\n[normativ · nzeb]"]
+  normativ-np007-2025["Normativ NP 007-2025\n[normativ · calitate]"]
+  normativ-np133-2022["Normativ NP 133-2022\n[normativ · calitate]"]
+  normativ-p100-1-2013["Normativ P 100-1/2013\n[normativ · calitate]"]
+  normativ-p118-1-2025["Normativ P 118-1/2025\n[normativ · incendiu]"]
+  normativ-p130-2025["Normativ P 130-2025\n[normativ · calitate]"]
+  ordin-839-2009["Ordin MDRAP 839/2009\n[ordin · autorizatii]"]
+  oug-195-2005["OUG 195/2005\n[ordonanta · mediu]"]
+  oug-21-2004["oug-21-2004\n[ordonanta · incendiu]"]
+
+  %% Confirmed relationships (from metadata related_acts)
+  hg-300-2006 -->|related| lege-10-1995
+  hg-300-2006 -->|related| lege-319-2006
+  hg-300-2006 -->|related| lege-50-1991
+  hg-343-2017 -->|related| lege-10-1995
+  hg-343-2017 -->|related| lege-50-1991
+  lege-10-1995 -->|related| lege-50-1991
+  lege-292-2018 -->|related| lege-50-1991
+  lege-292-2018 -->|related| oug-195-2005
+  lege-307-2006 -->|related| lege-10-1995
+  lege-307-2006 -->|related| lege-50-1991
+  lege-319-2006 -->|related| lege-10-1995
+  lege-319-2006 -->|related| lege-50-1991
+  lege-350-2001 -->|related| lege-50-1991
+  lege-372-2005 -->|related| lege-10-1995
+  lege-372-2005 -->|related| lege-50-1991
+  lege-481-2004 -->|related| lege-307-2006
+  lege-50-1991 -->|related| hg-343-2017
+  lege-50-1991 -->|related| lege-10-1995
+  lege-50-1991 -->|related| lege-350-2001
+  metodologie-mc001-2022 -->|related| lege-10-1995
+  metodologie-mc001-2022 -->|related| lege-372-2005
+  normativ-np007-2025 -->|related| lege-10-1995
+  normativ-np007-2025 -->|related| normativ-p100-1-2013
+  normativ-np133-2022 -->|related| lege-10-1995
+  normativ-np133-2022 -->|related| lege-50-1991
+  normativ-p100-1-2013 -->|related| lege-10-1995
+  normativ-p100-1-2013 -->|related| lege-50-1991
+  normativ-p118-1-2025 -->|related| lege-307-2006
+  normativ-p118-1-2025 -->|related| lege-481-2004
+  normativ-p118-1-2025 -->|related| oug-21-2004
+  normativ-p130-2025 -->|related| lege-10-1995
+  normativ-p130-2025 -->|related| lege-50-1991
+  oug-195-2005 -->|related| lege-10-1995
+  oug-195-2005 -->|related| lege-50-1991
+  oug-21-2004 -->|related| lege-307-2006
+  oug-21-2004 -->|related| lege-481-2004
+
+  %% Auto-detected relationships (needs_review)
+  hg-343-2017 -.->|cites - needs_review| lege-307-2006
+  lege-307-2006 -.->|cites - needs_review| oug-21-2004
+  lege-481-2004 -.->|cites - needs_review| oug-21-2004
+  lege-50-1991 -.->|cites - needs_review| lege-292-2018
+  ordin-839-2009 -.->|cites - needs_review| lege-10-1995
+  ordin-839-2009 -.->|cites - needs_review| lege-350-2001
+  ordin-839-2009 -.->|cites - needs_review| lege-50-1991

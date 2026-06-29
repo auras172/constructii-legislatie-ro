@@ -113,6 +113,24 @@ Reads all `metadata/acts/*.json`, `citations/citation-index.json`, `cross-refere
 Repository-level fields (name, owner, URL) are hardcoded — they don't change.
 Idempotent. Exits 0 always. Integrated into the CI validate workflow (runs last).
 
+## generate-graph.mjs
+
+```sh
+node scripts/generate-graph.mjs
+```
+
+Generates `graph/graph.json` and `graph/graph.mmd` from metadata relationship fields and
+auto-detected cross-references. Confirmed metadata edges are marked `confirmed`;
+auto-detected edges are marked `needs_review`. Run after updating metadata or cross-references.
+
+- Nodes: one per act in `metadata/acts/*.json`
+- Confirmed edges: from `related_acts` in each metadata JSON (human-verified)
+- Auto-detected edges: from `cross-references/relationships-auto.json` where both source
+  and target slugs resolve to known acts; unresolved references are skipped
+- Deduplication: if the same source→target pair appears in both sources, the confirmed
+  edge is kept and the auto-detected one is dropped
+- Output is deterministic and idempotent — sort order is fixed, no timestamps in content
+
 ## Rules
 
 Scripts must not scrape websites unless explicitly approved and legally permitted.

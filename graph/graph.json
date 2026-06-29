@@ -1,0 +1,470 @@
+{
+  "ocki_graph_version": "1.0",
+  "generated_from": [
+    "metadata/acts/",
+    "cross-references/relationships-auto.json"
+  ],
+  "nodes": [
+    {
+      "id": "hg-300-2006",
+      "label": "HG 300/2006",
+      "type": "hotarare",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "hg-343-2017",
+      "label": "HG 343/2017",
+      "type": "hotarare",
+      "domain": "receptie",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-10-1995",
+      "label": "Legea 10/1995",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-292-2018",
+      "label": "Legea 292/2018",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-307-2006",
+      "label": "Legea 307/2006",
+      "type": "lege",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-319-2006",
+      "label": "Legea 319/2006",
+      "type": "lege",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-350-2001",
+      "label": "Legea 350/2001",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-372-2005",
+      "label": "Legea 372/2005",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-481-2004",
+      "label": "Legea 481/2004",
+      "type": "lege",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "lege-50-1991",
+      "label": "Legea 50/1991",
+      "type": "lege",
+      "domain": "autorizatii",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "metodologie-mc001-2022",
+      "label": "Mc 001-2022",
+      "type": "normativ",
+      "domain": "nzeb",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-np007-2025",
+      "label": "Normativ NP 007-2025",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-np133-2022",
+      "label": "Normativ NP 133-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-p100-1-2013",
+      "label": "Normativ P 100-1/2013",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-p118-1-2025",
+      "label": "Normativ P 118-1/2025",
+      "type": "normativ",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-p130-2025",
+      "label": "Normativ P 130-2025",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "ordin-839-2009",
+      "label": "Ordin MDRAP 839/2009",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "oug-195-2005",
+      "label": "OUG 195/2005",
+      "type": "ordonanta",
+      "domain": "mediu",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
+      "id": "oug-21-2004",
+      "label": "oug-21-2004",
+      "type": "ordonanta",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "full-text"
+    }
+  ],
+  "edges": [
+    {
+      "source": "hg-300-2006",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "source": "hg-300-2006",
+      "target": "lege-319-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "source": "hg-300-2006",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "source": "hg-343-2017",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "hg-343-2017",
+      "target": "lege-307-2006",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "hg-343-2017",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-292-2018",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-292-2018.json"
+    },
+    {
+      "source": "lege-292-2018",
+      "target": "oug-195-2005",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-292-2018.json"
+    },
+    {
+      "source": "lege-307-2006",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-307-2006.json"
+    },
+    {
+      "source": "lege-307-2006",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-307-2006.json"
+    },
+    {
+      "source": "lege-307-2006",
+      "target": "oug-21-2004",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-319-2006",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-319-2006.json"
+    },
+    {
+      "source": "lege-319-2006",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-319-2006.json"
+    },
+    {
+      "source": "lege-350-2001",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-350-2001.json"
+    },
+    {
+      "source": "lege-372-2005",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "source": "lege-372-2005",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "source": "lege-481-2004",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-481-2004.json"
+    },
+    {
+      "source": "lege-481-2004",
+      "target": "oug-21-2004",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-50-1991",
+      "target": "hg-343-2017",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "source": "lege-50-1991",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "source": "lege-50-1991",
+      "target": "lege-292-2018",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-50-1991",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "source": "metodologie-mc001-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "source": "metodologie-mc001-2022",
+      "target": "lege-372-2005",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "source": "normativ-np007-2025",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "source": "normativ-np007-2025",
+      "target": "normativ-p100-1-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "source": "normativ-np133-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np133-2022.json"
+    },
+    {
+      "source": "normativ-np133-2022",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np133-2022.json"
+    },
+    {
+      "source": "normativ-p100-1-2013",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p100-1-2013.json"
+    },
+    {
+      "source": "normativ-p100-1-2013",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p100-1-2013.json"
+    },
+    {
+      "source": "normativ-p118-1-2025",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p118-1-2025.json"
+    },
+    {
+      "source": "normativ-p118-1-2025",
+      "target": "lege-481-2004",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p118-1-2025.json"
+    },
+    {
+      "source": "normativ-p118-1-2025",
+      "target": "oug-21-2004",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p118-1-2025.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p130-2025.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p130-2025.json"
+    },
+    {
+      "source": "ordin-839-2009",
+      "target": "lege-10-1995",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "ordin-839-2009",
+      "target": "lege-350-2001",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "ordin-839-2009",
+      "target": "lege-50-1991",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "oug-195-2005",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-195-2005.json"
+    },
+    {
+      "source": "oug-195-2005",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-195-2005.json"
+    },
+    {
+      "source": "oug-21-2004",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-21-2004.json"
+    },
+    {
+      "source": "oug-21-2004",
+      "target": "lege-481-2004",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-21-2004.json"
+    }
+  ],
+  "stats": {
+    "total_nodes": 19,
+    "confirmed_edges": 36,
+    "auto_detected_edges": 7,
+    "unresolved_skipped": 0
+  }
+}
