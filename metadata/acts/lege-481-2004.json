@@ -28,7 +28,8 @@
   "import_method": "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
   "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "related_acts": [
-    "lege-307-2006"
+    "lege-307-2006",
+    "oug-21-2004"
   ],
   "tags": [
     "protectie-civila",

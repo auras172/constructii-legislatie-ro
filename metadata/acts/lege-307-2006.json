@@ -29,8 +29,9 @@
   "import_method": "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale",
   "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "related_acts": [
+    "lege-10-1995",
     "lege-50-1991",
-    "lege-10-1995"
+    "oug-21-2004"
   ],
   "tags": [
     "incendiu",

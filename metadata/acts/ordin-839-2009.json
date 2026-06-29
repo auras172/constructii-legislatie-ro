@@ -24,6 +24,9 @@
   "import_method": "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat",
   "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "implements": ["lege-50-1991"],
+  "related_acts": [
+    "lege-50-1991"
+  ],
   "tags": [
     "autorizatii",
     "norme-metodologice",

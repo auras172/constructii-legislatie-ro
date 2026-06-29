@@ -27,8 +27,9 @@
   "import_method": "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale",
   "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară. Notă structură: article_count=43 este numărul semantic (3 articole HG + 40 articole Regulament). Numărul de headings Markdown ### este 44 deoarece Articolul I conține un heading nested 'Articolul 1 {#art-1}' reprezentând textul de înlocuire al art. 1 din HG 273/1994 — nu un articol propriu al HG 343/2017. Ancora {#art-1-b} identifică primul articol al Regulamentului (Anexă). A se vedea import-log și docs/anchor-convention.md pentru detalii.",
   "related_acts": [
-    "lege-50-1991",
-    "lege-10-1995"
+    "lege-10-1995",
+    "lege-307-2006",
+    "lege-50-1991"
   ],
   "amends": [
     "hg-273-1994"
