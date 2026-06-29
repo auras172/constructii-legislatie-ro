@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-29T08:14:25.959Z
+Generated: 2026-06-29T08:23:31.307Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 20 |
+| Total metadata entries | 21 |
 | Full-text acts | 13 |
-| Metadata-only acts | 7 |
-| Import log files | 20 |
-| Total relationship links | 48 |
+| Metadata-only acts | 8 |
+| Import log files | 21 |
+| Total relationship links | 50 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -33,6 +33,7 @@ Generated: 2026-06-29T08:14:25.959Z
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
+| normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
@@ -45,7 +46,7 @@ Generated: 2026-06-29T08:14:25.959Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 6 |
+| calitate | 7 |
 | incendiu | 4 |
 | munca | 2 |
 | mediu | 2 |
@@ -58,8 +59,8 @@ Generated: 2026-06-29T08:14:25.959Z
 
 | Value | Count |
 | --- | --- |
+| minister | 9 |
 | parlament | 8 |
-| minister | 8 |
 | guvern | 4 |
 
 ### Publication Years
@@ -78,13 +79,14 @@ Generated: 2026-06-29T08:14:25.959Z
 | 2013 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
+| 2019 | 1 |
 | 2022 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 7 |
+| metadata-only | 8 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -97,16 +99,16 @@ Generated: 2026-06-29T08:14:25.959Z
 
 ## Health Score
 
-**Score: 98 / 100**
+**Score: 98.1 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 95 | 20 |
+| Import logs | 95.24 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 95 | 20 |
-| **Total** | **98** | **100** |
+| Provenance | 95.24 | 20 |
+| **Total** | **98.1** | **100** |
 
 ### Formula
 
