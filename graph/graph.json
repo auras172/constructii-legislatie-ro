@@ -358,13 +358,6 @@
       "evidence": "metadata/acts/normativ-i9-2022.json"
     },
     {
-      "source": "normativ-i9-2022",
-      "target": "lege-50-1991",
-      "relationship": "related",
-      "review_status": "confirmed",
-      "evidence": "metadata/acts/normativ-i9-2022.json"
-    },
-    {
       "source": "normativ-np007-2025",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -507,7 +500,7 @@
   ],
   "stats": {
     "total_nodes": 21,
-    "confirmed_edges": 47,
+    "confirmed_edges": 46,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
