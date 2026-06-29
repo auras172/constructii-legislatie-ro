@@ -1,17 +1,17 @@
 # Repository Health Report
 
-Generated: 2026-06-29T18:02:40.993Z
+Generated: 2026-06-29T20:47:31.884Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 25 |
+| Total metadata entries | 27 |
 | Full-text acts | 13 |
-| Metadata-only acts | 12 |
-| Import log files | 25 |
-| Total relationship links | 53 |
-| Unique domains | 8 |
+| Metadata-only acts | 14 |
+| Import log files | 27 |
+| Total relationship links | 55 |
+| Unique domains | 9 |
 | Unique issuers | 3 |
 
 ## Coverage Matrix
@@ -40,6 +40,8 @@ Generated: 2026-06-29T18:02:40.993Z
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -56,6 +58,7 @@ Generated: 2026-06-29T18:02:40.993Z
 | mediu | 2 |
 | nzeb | 2 |
 | autorizatii | 2 |
+| iscir | 2 |
 | receptie | 1 |
 | urbanism | 1 |
 
@@ -63,7 +66,7 @@ Generated: 2026-06-29T18:02:40.993Z
 
 | Value | Count |
 | --- | --- |
-| minister | 13 |
+| minister | 15 |
 | parlament | 8 |
 | guvern | 4 |
 
@@ -76,6 +79,7 @@ Generated: 2026-06-29T18:02:40.993Z
 | 2025 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
+| 2010 | 2 |
 | 2013 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
@@ -91,7 +95,7 @@ Generated: 2026-06-29T18:02:40.993Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 12 |
+| metadata-only | 14 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -104,16 +108,16 @@ Generated: 2026-06-29T18:02:40.993Z
 
 ## Health Score
 
-**Score: 98.4 / 100**
+**Score: 98.5 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 96 | 20 |
+| Import logs | 96.3 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 96 | 20 |
-| **Total** | **98.4** | **100** |
+| Provenance | 96.3 | 20 |
+| **Total** | **98.5** | **100** |
 
 ### Formula
 

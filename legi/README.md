@@ -81,9 +81,19 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare21](https://www.mdlpa.ro/pages/reglementare21)) — O.M.D.L.P.A. nr. 770/30.05.2025
   - Status: active · metadata-only · intrat în vigoare 18.05.2025 · înlocuiește P 130 din 1999/2003
   - Import log: [import-log/2026-06-28-normativ-p130-2025.md](../import-log/2026-06-28-normativ-p130-2025.md)
+- [Prescripție Tehnică PT A 1-2010](./normativ-pt-a1-2010.md)
+  - Domain: iscir · Related: Legea 10/1995
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1007/22.06.2010
+  - Status: active · metadata-only · publicat în M.Of. nr. 450 bis/02.07.2010 · înlocuiește PT A1-2002
+  - Import log: [import-log/2026-06-29-normativ-pt-a1-2010.md](../import-log/2026-06-29-normativ-pt-a1-2010.md)
+- [Prescripție Tehnică PT R 2-2010](./normativ-pt-r2-2010.md)
+  - Domain: iscir · Related: Legea 10/1995
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010
+  - Status: active · metadata-only · publicat în M.Of. nr. 634/09.09.2010 · înlocuiește PT R2-2003
+  - Import log: [import-log/2026-06-29-normativ-pt-r2-2010.md](../import-log/2026-06-29-normativ-pt-r2-2010.md)
 - ISCIR relevant prescriptions
   - Domain: iscir
-  - TODO: identify relevant prescriptions and official sources
+  - TODO: continue audit for PT CR 4-2009 and other prescriptions before import
 - ANRE electric authorization references
   - Domain: anre
   - TODO: identify relevant authorization references and official sources
