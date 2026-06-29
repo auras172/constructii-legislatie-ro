@@ -1101,7 +1101,12 @@ Machine-readable node/edge representation of the relationship graph. Generated b
   - `review_status: "needs_review"` — sourced from auto-detected text references in `cross-references/relationships-auto.json`; navigational hints only, not canonical; do not assert legal relationships from these edges without verifying in official text
 - **stats** — summary counts: `total_nodes`, `confirmed_edges`, `auto_detected_edges`, `unresolved_skipped`
 
-Current counts (from `graph/graph.json`): 19 nodes, 41 confirmed edges, 2 auto-detected edges.
+Current counts (from `graph/graph.json`): 19 nodes, 43 confirmed edges, 0 auto-detected edges.
+
+**Knowledge Graph v1 review status (as of 2026-06-29):**
+All 2 auto-detected `needs_review` edges have been reviewed for the current 19-act corpus.
+Current state: 19 nodes · 43 confirmed edges · 0 needs_review.
+Future act imports may produce new `needs_review` edges requiring review.
 
 **Deduplication rule:** if the same source→target pair appears in both sources, the `confirmed` edge is kept and the `needs_review` edge is dropped.
 
