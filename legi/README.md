@@ -112,6 +112,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — 3 volume: O.M.D.L.P.A. nr. 15/05.01.2023 (Vol. I), nr. 14/05.01.2023 (Vol. II), nr. 19/05.01.2023 (Vol. III)
   - Status: active · metadata-only · Vol. I intrat în vigoare 15.02.2023 · Vol. II intrat în vigoare 12.02.2023 · abrogă NP 133-2013
   - Import log: [import-log/2026-06-29-normativ-np133-2022.md](../import-log/2026-06-29-normativ-np133-2022.md)
+- [Normativ I 9-2022](./normativ-i9-2022.md)
+  - Domain: calitate (instalații sanitare) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — O.M.D.L.P.A. nr. 2960/15.11.2022
+  - Status: active · metadata-only · publicat M.Of. nr. 1167 și 1167 bis/06.12.2022 · intrat în vigoare 06.01.2023 · abrogă I 9-2015 · RTC 11 (M.Of. 949/20.10.2023), RTC 12 (M.Of. 971/26.10.2023)
+  - Import log: [import-log/2026-06-29-normativ-i9-2022.md](../import-log/2026-06-29-normativ-i9-2022.md)
 
 ## Naming convention proposal
 
