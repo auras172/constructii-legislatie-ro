@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-06-29T08:23:31.307Z
+Generated: 2026-06-29T08:32:21.281Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-06-29T08:23:31.307Z
 | Full-text acts | 13 |
 | Metadata-only acts | 8 |
 | Import log files | 21 |
-| Total relationship links | 50 |
+| Total relationship links | 49 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -29,7 +29,7 @@ Generated: 2026-06-29T08:23:31.307Z
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-i9-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |

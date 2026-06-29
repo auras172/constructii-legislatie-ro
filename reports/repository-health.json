@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T08:23:31.307Z",
+  "generated_at": "2026-06-29T08:32:21.281Z",
   "summary": {
     "total_metadata_entries": 21,
     "total_full_text_acts": 13,
     "total_metadata_only_acts": 8,
     "total_import_logs": 21,
-    "total_relationship_links": 50,
+    "total_relationship_links": 49,
     "total_unique_domains": 8,
     "total_unique_issuers": 3
   },
@@ -115,7 +115,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 2,
+      "relationships": 1,
       "provenance": true
     },
     {
