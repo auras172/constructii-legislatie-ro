@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-29T08:32:21.369Z",
+  "generated_at": "2026-06-29T09:16:05.737Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 21,
+    "acts_total": 22,
     "acts_full_text": 13,
-    "acts_metadata_only": 8,
+    "acts_metadata_only": 9,
     "article_anchors_total": 799,
-    "import_logs_total": 22,
+    "import_logs_total": 23,
     "domains": [
       "autorizatii",
       "calitate",
@@ -39,7 +39,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 46,
+    "confirmed_relationships": 47,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -217,6 +217,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-i9-2022.md",
       "metadata_file": "metadata/acts/normativ-i9-2022.json"
+    },
+    {
+      "slug": "normativ-np005-2022",
+      "title": "Normativ privind proiectarea și verificarea construcțiilor din lemn, Indicativ NP 005-2022",
+      "short_title": "Normativ NP 005-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-np005-2022.md",
+      "metadata_file": "metadata/acts/normativ-np005-2022.json"
     },
     {
       "slug": "normativ-np007-2025",

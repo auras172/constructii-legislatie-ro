@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-29T08:32:21.281Z
+Generated: 2026-06-29T09:16:05.456Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 21 |
+| Total metadata entries | 22 |
 | Full-text acts | 13 |
-| Metadata-only acts | 8 |
-| Import log files | 21 |
-| Total relationship links | 49 |
+| Metadata-only acts | 9 |
+| Import log files | 22 |
+| Total relationship links | 50 |
 | Unique domains | 8 |
 | Unique issuers | 3 |
 
@@ -30,6 +30,7 @@ Generated: 2026-06-29T08:32:21.281Z
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-np005-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -46,7 +47,7 @@ Generated: 2026-06-29T08:32:21.281Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 7 |
+| calitate | 8 |
 | incendiu | 4 |
 | munca | 2 |
 | mediu | 2 |
@@ -59,7 +60,7 @@ Generated: 2026-06-29T08:32:21.281Z
 
 | Value | Count |
 | --- | --- |
-| minister | 9 |
+| minister | 10 |
 | parlament | 8 |
 | guvern | 4 |
 
@@ -68,10 +69,10 @@ Generated: 2026-06-29T08:32:21.281Z
 | Value | Count |
 | --- | --- |
 | 2006 | 3 |
+| 2023 | 3 |
 | 2025 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
-| 2023 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 2001 | 1 |
@@ -86,7 +87,7 @@ Generated: 2026-06-29T08:32:21.281Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 8 |
+| metadata-only | 9 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -99,16 +100,16 @@ Generated: 2026-06-29T08:32:21.281Z
 
 ## Health Score
 
-**Score: 98.1 / 100**
+**Score: 98.2 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 95.24 | 20 |
+| Import logs | 95.45 | 20 |
 | Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 95.24 | 20 |
-| **Total** | **98.1** | **100** |
+| Provenance | 95.45 | 20 |
+| **Total** | **98.2** | **100** |
 
 ### Formula
 
