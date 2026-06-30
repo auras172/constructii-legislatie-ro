@@ -47,7 +47,7 @@ Ordinul ANRE nr. 66/2023 abrogă **Ordinul ANRE nr. 99/2021** (confirmat direct 
 
 ## Modificări ulterioare
 
-Regulamentul-anexă a fost modificat prin **Ordinul ANRE nr. 65/10.09.2024** (M.Of. nr. 925/13.09.2024, Art. I) — confirmat din nota de subsol a Regulamentului (document ID 288046). Ordinul 65/2024 **nu este importat ca act separat** în acest PR, deoarece modifică exclusiv anexa (Regulamentul), nu ordinul de aprobare propriu-zis — scop limitat al acestei intrări.
+Regulamentul-anexă a fost modificat prin **Ordinul ANRE nr. 65/10.09.2024** (M.Of. nr. 925/13.09.2024, Art. I) — confirmat din nota de subsol a Regulamentului (document ID 288046). Ordinul 65/2024 este urmărit separat ca intrare metadata-only în acest repo: [Ordin ANRE 65/2024](./ordin-anre-65-2024.md).
 
 ## Relații documentate în metadata
 

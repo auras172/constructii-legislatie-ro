@@ -18,7 +18,8 @@
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270203",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/288046",
   "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 66/10.05.2023, publicat în M.Of. Partea I, nr. 417/16.05.2023. Abrogă Ordinul ANRE nr. 99/2021. Regulamentul-anexă modificat prin Ordinul ANRE nr. 65/10.09.2024 (M.Of. nr. 925/13.09.2024), Art. I — singura modificare oficială confirmată; Ordin 65/2024 nu este importat ca act separat în acest PR (modifică doar anexa, nu ordinul de aprobare). Bază legală citată: Legea energiei electrice și a gazelor naturale nr. 123/2012, Ordonanța de urgență a Guvernului nr. 33/2007, Legea nr. 160/2012 — niciuna nu este în prezent importată în acest repo. Nicio relație cu normativ-i7-2011 sau lege-50-1991 nu a fost identificată în sursa oficială. Metadata-only — textul integral nu este importat în acest repo.",
+  "rights_note": "Ordin ANRE nr. 66/10.05.2023, publicat în M.Of. Partea I, nr. 417/16.05.2023. Abrogă Ordinul ANRE nr. 99/2021. Regulamentul-anexă modificat prin Ordinul ANRE nr. 65/10.09.2024 (M.Of. nr. 925/13.09.2024), Art. I — singura modificare oficială confirmată; Ordin 65/2024 este urmărit separat ca intrare metadata-only în acest repo. Bază legală citată: Legea energiei electrice și a gazelor naturale nr. 123/2012, Ordonanța de urgență a Guvernului nr. 33/2007, Legea nr. 160/2012 — niciuna nu este în prezent importată în acest repo. Nicio relație cu normativ-i7-2011 sau lege-50-1991 nu a fost identificată în sursa oficială. Metadata-only — textul integral nu este importat în acest repo.",
   "tags": ["anre", "autorizare-electricieni", "verificatori-proiecte", "experti-tehnici", "instalatii-electrice", "energie-electrica"],
-  "related_acts": []
+  "related_acts": [],
+  "amended_by": ["ordin-anre-65-2024"]
 }

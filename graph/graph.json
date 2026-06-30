@@ -238,6 +238,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-anre-65-2024",
+      "label": "Ordin ANRE 65/2024",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-66-2023",
       "label": "Ordin ANRE 66/2023",
       "type": "ordin",
@@ -614,6 +622,13 @@
       "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
+      "source": "ordin-anre-65-2024",
+      "target": "ordin-anre-66-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-65-2024.json"
+    },
+    {
       "source": "oug-195-2005",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -643,8 +658,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 32,
-    "confirmed_edges": 54,
+    "total_nodes": 33,
+    "confirmed_edges": 55,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
