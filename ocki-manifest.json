@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-30T10:45:38.006Z",
+  "generated_at": "2026-06-30T13:36:42.010Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 32,
+    "acts_total": 33,
     "acts_full_text": 13,
-    "acts_metadata_only": 19,
+    "acts_metadata_only": 20,
     "article_anchors_total": 799,
-    "import_logs_total": 33,
+    "import_logs_total": 34,
     "domains": [
       "anre",
       "autorizatii",
@@ -41,7 +41,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 54,
+    "confirmed_relationships": 55,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -440,6 +440,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-anre-59-2013.md",
       "metadata_file": "metadata/acts/ordin-anre-59-2013.json"
+    },
+    {
+      "slug": "ordin-anre-65-2024",
+      "title": "Ordin ANRE nr. 65/2024 privind modificarea Regulamentului pentru autorizarea electricienilor in domeniul instalatiilor electrice, respectiv a verificatorilor de proiecte si a expertilor tehnici de calitate si extrajudiciari in domeniul instalatiilor electrice tehnologice",
+      "short_title": "Ordin ANRE 65/2024",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-65-2024.md",
+      "metadata_file": "metadata/acts/ordin-anre-65-2024.json"
     },
     {
       "slug": "ordin-anre-66-2023",

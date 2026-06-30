@@ -107,8 +107,13 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [Ordin ANRE 66/2023](./ordin-anre-66-2023.md)
   - Domain: anre · Related: none (evidence-first — bază legală citată în preambul absentă din repo)
   - Official source checked: Portal Legislativ ([DetaliiDocument/270203](https://legislatie.just.ro/Public/DetaliiDocument/270203)) — Ordin ANRE nr. 66/10.05.2023
-  - Status: active · metadata-only · publicat în M.Of. nr. 417/16.05.2023 · abrogă Ordinul ANRE nr. 99/2021 (confirmat direct) · consolidat la 2024-09-13 (anexă modificată prin Ordinul ANRE 65/10.09.2024, NU importat separat)
+  - Status: active · metadata-only · publicat în M.Of. nr. 417/16.05.2023 · abrogă Ordinul ANRE nr. 99/2021 (confirmat direct) · consolidat la 2024-09-13 (anexă modificată prin Ordinul ANRE 65/10.09.2024, importat separat ca metadata-only)
   - Import log: [import-log/2026-06-30-ordin-anre-66-2023.md](../import-log/2026-06-30-ordin-anre-66-2023.md)
+- [Ordin ANRE 65/2024](./ordin-anre-65-2024.md)
+  - Domain: anre · Related: Ordin ANRE 66/2023 · Amends: Ordin ANRE 66/2023
+  - Official source checked: Portal Legislativ ([DetaliiDocument/288327](https://legislatie.just.ro/Public/DetaliiDocument/288327)) — Ordin ANRE nr. 65/10.09.2024
+  - Status: active · metadata-only · publicat in M.Of. nr. 925/13.09.2024 · modifica Regulamentul aprobat prin Ordinul ANRE nr. 66/2023
+  - Import log: [import-log/2026-06-30-ordin-anre-65-2024.md](../import-log/2026-06-30-ordin-anre-65-2024.md)
 - [Ordin ANRE 59/2013](./ordin-anre-59-2013.md)
   - Domain: anre · Related: none (evidence-first — no citation to lege-50-1991 or normativ-i7-2011 found)
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/150711](https://legislatie.just.ro/Public/DetaliiDocumentAfis/150711)) — Ordin ANRE nr. 59/02.08.2013 (corrected from earlier wrong ID 150033, documented in PR #127 readiness report)
