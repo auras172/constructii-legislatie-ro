@@ -1,7 +1,7 @@
 # ANRE Track B Readiness — Ordin ANRE 59/2013 (racordare utilizatori)
 
 **Research date:** 2026-06-30
-**Status:** Documentation only — NO metadata import has been performed for this act.
+**Status:** Readiness/audit document. Metadata-only import was completed later in PR #128.
 **Primary sources used:** legislatie.just.ro (browser-assisted, dynamic sections inspected directly), Monitorul Oficial references as displayed by Portal Legislativ.
 **Researcher note:** No secondary sources (DSO mirror PDFs, professional service websites) were treated as proof for any fact in this document. A DSO mirror (Distribuție Oltenia) was consulted only to cross-check the "în vigoare de la" framing and is cited explicitly where used — it was not used as a primary source for any date or legal fact; every claim below traces to a legislatie.just.ro document ID.
 
@@ -70,6 +70,19 @@ Plus, modifying **ANEXA 1** specifically (the Regulament text, not the base orde
 
 **Total: 15 amendments to the base act + 3 amendments to the annex = 18 confirmed amendment events**, spanning 2014–2026. This is the single largest amendment chain encountered so far in this repository's ANRE/ISCIR work.
 
+### Major recent amendments with Portal IDs
+
+The following recent amendments were additionally pinned to Portal Legislativ document IDs during the follow-up audit. These IDs should be treated as amendment-level references, not as separate graph relationships unless a later import models amendment nodes explicitly.
+
+| Act | Portal ID | M.Of. reference | Construction relevance | Import handling |
+|---|---|---|---|---|
+| Ordin ANRE 4/2023 | [264185](https://legislatie.just.ro/Public/DetaliiDocument/264185) | M.Of. nr. 88 / 01.02.2023 | Meter purchase/default and financial guarantee timing. | Context in `rights_note` |
+| Ordin ANRE 70/2023 | [267850](https://legislatie.just.ro/Public/DetaliiDocument/267850) | M.Of. nr. 477 / 30.05.2023 | Refined connection workflow for public networks. | Context in `rights_note` |
+| Ordin ANRE 53/2024 | [286055](https://legislatie.just.ro/Public/DetaliiDocument/286055) | M.Of. nr. 750 / 31.07.2024 | Auction-based capacity allocation; guarantee for projects above 1 MW. | Candidate for separate metadata review |
+| Ordin ANRE 60/2024 | [288588](https://legislatie.just.ro/Public/DetaliiDocument/288588) | M.Of. nr. 863 / 28.08.2024 | Synchronization with capacity allocation rules. | Context in `rights_note` |
+| Ordin ANRE 20/2025 | [297329](https://legislatie.just.ro/Public/DetaliiDocument/297329) | M.Of. nr. 498 / 29.05.2025 | Power injection limits in ATR and solution-study rules. | Context in `rights_note` |
+| Ordin ANRE 15/2026 | [310639](https://legislatie.just.ro/Public/DetaliiDocument/310639) | M.Of. nr. 436 / 21.05.2026 | Recent alignment of connection procedures. | Context in `rights_note` |
+
 ---
 
 ## 4. 2024 amendment candidates — status of each claim
@@ -78,7 +91,7 @@ Plus, modifying **ANEXA 1** specifically (the Regulament text, not the base orde
 |---|---|---|
 | **Ordin ANRE 53/30.07.2024** | ✅ CONFIRMED | Listed directly in "Acțiuni suferite" of ID 150711, targeting ANEXA 1 |
 | **Ordin ANRE 60/28.08.2024** | ✅ CONFIRMED | Listed directly in "Acțiuni suferite" of ID 150711, targeting ANEXA 1 |
-| **Ordin ANRE 67/2024** | ❌ NOT FOUND | Does not appear in either "Acțiuni suferite" or "Referit de" (100+ entries) for ID 150711. No evidence this act exists or relates to Ordin 59/2013. Treat as unconfirmed until independently located on legislatie.just.ro. |
+| **Ordin ANRE 67/2024** | ✅ OUT OF SCOPE FOR 59/2013 | Follow-up audit identified it as tariff/distribution-methodology material, not an amendment to Ordin ANRE 59/2013. It does not appear as a modifier of ID 150711. |
 
 ---
 
@@ -110,9 +123,9 @@ If a future full-text or deeper-citation review of the Regulament annex (ID to b
 
 ---
 
-## 8. Implementer checklist (for the future metadata import PR)
+## 8. Maintenance checklist for future ANRE 59/2013 work
 
-When a metadata-only import of Ordin ANRE 59/2013 is undertaken:
+When Ordin ANRE 59/2013 metadata or future amendment coverage is updated:
 
 - [ ] Use Portal Legislativ ID **150711** (NOT 150033 — confirmed wrong, points to an unrelated OUG)
 - [ ] Slug: follow existing `ordin-` convention used for `ordin-anre-66-2023` (e.g. `ordin-anre-59-2013`), per `type: "ordin"` naming rule
