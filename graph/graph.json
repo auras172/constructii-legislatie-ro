@@ -86,6 +86,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-64-2008",
+      "label": "Legea 64/2008",
+      "type": "lege",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "metodologie-mc001-2022",
       "label": "Mc 001-2022",
       "type": "normativ",
@@ -594,6 +602,20 @@
       "evidence": "metadata/acts/normativ-pt-a1-2010.json"
     },
     {
+      "source": "normativ-pt-cr4-2009",
+      "target": "lege-64-2008",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-cr4-2009.json"
+    },
+    {
+      "source": "normativ-pt-cr8-2009",
+      "target": "lege-64-2008",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-cr8-2009.json"
+    },
+    {
       "source": "normativ-pt-r2-2010",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -658,8 +680,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 33,
-    "confirmed_edges": 55,
+    "total_nodes": 34,
+    "confirmed_edges": 57,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

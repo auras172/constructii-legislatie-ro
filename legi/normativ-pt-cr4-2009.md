@@ -18,7 +18,8 @@ tags:
   - instalatii-iscir
   - prescriptie-tehnica
   - ptcr4
-related_acts: []
+related_acts:
+  - lege-64-2008
 import_method: metadata-only
 ---
 
@@ -44,7 +45,7 @@ Textul complet este disponibil prin:
 
 ## Notă privind documentul combinat
 
-PDF-ul oficial ISCIR combină **PT CR 4-2009** (autorizarea persoanelor juridice) cu **PT CR 8-2009** (autorizarea personalului de deservire) sub același fișier. Această intrare acoperă **exclusiv PT CR 4-2009**. PT CR 8-2009 nu este importat în acest repo (out of scope pentru acest PR).
+PDF-ul oficial ISCIR combină **PT CR 4-2009** (autorizarea persoanelor juridice) cu **PT CR 8-2009** (autorizarea personalului de deservire) sub același fișier. Această intrare acoperă **exclusiv PT CR 4-2009**. PT CR 8-2009 este urmărit separat ca intrare metadata-only în acest repo.
 
 ## Abrogări parțiale
 
@@ -52,7 +53,7 @@ Conform Art. 3 și Anexa nr. 3 a ordinului de aprobare, sunt abrogate prevederi 
 
 ## Relații documentate în metadata
 
-`related_acts: []` — nicio relație adăugată. Baza legală citată explicit în textul prescripției (Legea nr. 64/2008, H.G. nr. 1.340/2001, O.U.G. nr. 49/2009) nu există în prezent în acest repo.
+`related_acts: ["lege-64-2008"]` — Legea nr. 64/2008 este citată explicit în textul prescripției ca bază legală și este urmărită separat ca metadata-only în acest repo. H.G. nr. 1.340/2001 și O.U.G. nr. 49/2009 nu există în prezent în repo.
 
 ---
 

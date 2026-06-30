@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-30T13:36:41.608Z
+Generated: 2026-06-30T15:07:30.026Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 33 |
+| Total metadata entries | 34 |
 | Full-text acts | 13 |
-| Metadata-only acts | 20 |
-| Import log files | 33 |
-| Total relationship links | 60 |
+| Metadata-only acts | 21 |
+| Import log files | 34 |
+| Total relationship links | 62 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -28,6 +28,7 @@ Generated: 2026-06-30T13:36:41.608Z
 | lege-372-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
+| lege-64-2008 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-cr2-1-1-1-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -42,8 +43,8 @@ Generated: 2026-06-30T13:36:41.608Z
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 0 | ✓ |
-| normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
@@ -59,8 +60,8 @@ Generated: 2026-06-30T13:36:41.608Z
 | Value | Count |
 | --- | --- |
 | calitate | 12 |
+| iscir | 5 |
 | incendiu | 4 |
-| iscir | 4 |
 | anre | 3 |
 | munca | 2 |
 | mediu | 2 |
@@ -74,7 +75,7 @@ Generated: 2026-06-30T13:36:41.608Z
 | Value | Count |
 | --- | --- |
 | minister | 18 |
-| parlament | 8 |
+| parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
 
@@ -94,6 +95,7 @@ Generated: 2026-06-30T13:36:41.608Z
 | 1991 | 1 |
 | 1995 | 1 |
 | 2001 | 1 |
+| 2008 | 1 |
 | 2011 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
@@ -104,7 +106,7 @@ Generated: 2026-06-30T13:36:41.608Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 20 |
+| metadata-only | 21 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -117,16 +119,16 @@ Generated: 2026-06-30T13:36:41.608Z
 
 ## Health Score
 
-**Score: 97.4 / 100**
+**Score: 97.9 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 96.97 | 20 |
-| Relationships | 90.91 | 15 |
+| Import logs | 97.06 | 20 |
+| Relationships | 94.12 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 96.97 | 20 |
-| **Total** | **97.4** | **100** |
+| Provenance | 97.06 | 20 |
+| **Total** | **97.9** | **100** |
 
 ### Formula
 
@@ -140,6 +142,5 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 ## Warnings
 
-- **[missing_relationships]** `normativ-pt-cr4-2009`: No relationship links (related_acts/implements/amends/amended_by)
-- **[missing_relationships]** `normativ-pt-cr8-2009`: No relationship links (related_acts/implements/amends/amended_by)
+- **[missing_relationships]** `lege-64-2008`: No relationship links (related_acts/implements/amends/amended_by)
 - **[missing_relationships]** `ordin-anre-59-2013`: No relationship links (related_acts/implements/amends/amended_by)
