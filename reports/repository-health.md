@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-06-29T20:47:31.884Z
+Generated: 2026-06-29T21:57:36.374Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-06-29T20:47:31.884Z
 | Full-text acts | 13 |
 | Metadata-only acts | 14 |
 | Import log files | 27 |
-| Total relationship links | 55 |
+| Total relationship links | 56 |
 | Unique domains | 9 |
 | Unique issuers | 3 |
 
@@ -40,7 +40,7 @@ Generated: 2026-06-29T20:47:31.884Z
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
