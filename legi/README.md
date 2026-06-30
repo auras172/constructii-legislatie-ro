@@ -92,18 +92,23 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: active · metadata-only · publicat în M.Of. nr. 634/09.09.2010 · înlocuiește PT R2-2003
   - Import log: [import-log/2026-06-29-normativ-pt-r2-2010.md](../import-log/2026-06-29-normativ-pt-r2-2010.md)
 - [Prescripție Tehnică PT CR 4-2009](./normativ-pt-cr4-2009.md)
-  - Domain: iscir · Related: none (evidence-first — bază legală citată în text absentă din repo)
+  - Domain: iscir · Related: Legea 64/2008
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009
-  - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial PT A1-2002, PT A3-2003, PT C1-2003 ș.a. (nu modelat ca "replaces") · PT CR 8-2009 (document combinat) NU importat
+  - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial PT A1-2002, PT A3-2003, PT C1-2003 ș.a. (nu modelat ca "replaces") · PT CR 8-2009 importat separat
   - Import log: [import-log/2026-06-30-normativ-pt-cr4-2009.md](../import-log/2026-06-30-normativ-pt-cr4-2009.md)
 - [Prescripție Tehnică PT CR 8-2009](./normativ-pt-cr8-2009.md)
-  - Domain: iscir · Related: none (evidence-first — bază legală citată în text absentă din repo)
+  - Domain: iscir · Related: Legea 64/2008
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009 (Anexa 2)
   - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial prescripții anterioare privind personalul de deservire (nu modelat ca "replaces") · document combinat cu PT CR 4-2009, fără relație modelată între ele
   - Import log: [import-log/2026-06-30-normativ-pt-cr8-2009.md](../import-log/2026-06-30-normativ-pt-cr8-2009.md)
 - ISCIR relevant prescriptions
   - Domain: iscir
   - TODO: continue audit for other ISCIR prescriptions before import
+- [Legea 64/2008](./lege-64-2008.md)
+  - Domain: iscir · Related: none (cited by PT CR 4-2009 and PT CR 8-2009)
+  - Official source checked: Portal Legislativ ([DetaliiDocument/90716](https://legislatie.just.ro/Public/DetaliiDocument/90716)) — Legea nr. 64/21.03.2008
+  - Status: active · metadata-only · publicată în M.Of. nr. 240/27.03.2008 · republicată în M.Of. nr. 399/08.06.2015 · consolidată la 13.12.2023
+  - Import log: [import-log/2026-06-30-lege-64-2008.md](../import-log/2026-06-30-lege-64-2008.md)
 - [Ordin ANRE 66/2023](./ordin-anre-66-2023.md)
   - Domain: anre · Related: none (evidence-first — bază legală citată în preambul absentă din repo)
   - Official source checked: Portal Legislativ ([DetaliiDocument/270203](https://legislatie.just.ro/Public/DetaliiDocument/270203)) — Ordin ANRE nr. 66/10.05.2023

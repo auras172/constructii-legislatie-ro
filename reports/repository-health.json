@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:36:41.608Z",
+  "generated_at": "2026-06-30T15:07:30.026Z",
   "summary": {
-    "total_metadata_entries": 33,
+    "total_metadata_entries": 34,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 20,
-    "total_import_logs": 33,
-    "total_relationship_links": 60,
+    "total_metadata_only_acts": 21,
+    "total_import_logs": 34,
+    "total_relationship_links": 62,
     "total_unique_domains": 10,
     "total_unique_issuers": 4
   },
@@ -98,6 +98,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 4,
+      "provenance": true
+    },
+    {
+      "slug": "lege-64-2008",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -232,7 +241,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -241,7 +250,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -318,12 +327,12 @@
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
-      "iscir": 4,
+      "iscir": 5,
       "anre": 3
     },
     "issuers": {
       "guvern": 4,
-      "parlament": 8,
+      "parlament": 9,
       "minister": 18,
       "autoritate": 3
     },
@@ -334,6 +343,7 @@
       "2004": 2,
       "2005": 2,
       "2006": 3,
+      "2008": 1,
       "2009": 3,
       "2010": 2,
       "2011": 1,
@@ -353,32 +363,27 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 20,
+      "metadata-only": 21,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 97.4,
+    "score": 97.9,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 96.97,
-      "relationships": 90.91,
+      "import_logs": 97.06,
+      "relationships": 94.12,
       "official_markers": 100,
-      "provenance": 96.97
+      "provenance": 97.06
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
   "warnings": [
     {
       "type": "missing_relationships",
-      "slug": "normativ-pt-cr4-2009",
-      "message": "No relationship links (related_acts/implements/amends/amended_by)"
-    },
-    {
-      "type": "missing_relationships",
-      "slug": "normativ-pt-cr8-2009",
+      "slug": "lege-64-2008",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     },
     {

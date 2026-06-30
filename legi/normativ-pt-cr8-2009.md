@@ -19,7 +19,8 @@ tags:
   - instalatii-iscir
   - prescriptie-tehnica
   - ptcr8
-related_acts: []
+related_acts:
+  - lege-64-2008
 import_method: metadata-only
 ---
 
@@ -53,7 +54,7 @@ Conform Art. 3 și Anexa nr. 3 secțiunea 1 a ordinului de aprobare, sunt abroga
 
 ## Relații documentate în metadata
 
-`related_acts: []` — nicio relație adăugată. Baza legală citată explicit în Art. 3 al prescripției (14 acte, lit. a-n: Legea nr. 64/2008, H.G. nr. 1.340/2001, H.G. nr. 920/2009, Legea nr. 87/2006, O.G. nr. 129/2000, H.G. nr. 522/2003, ordine comune MMSSF/MECT nr. 353/5.202/2003, nr. 501/5.253/2003 și nr. 35/3.112/2004, ordine ISCIR nr. 147/2006 și nr. 382/2009, Legea nr. 200/2004, Ordinul MMSSF nr. 701/2003, O.U.G. nr. 49/2009) nu există în prezent în acest repo. `lege-10-1995` și `lege-50-1991` **NU** sunt citate explicit în textul PT CR 8-2009, prin urmare nu au fost adăugate ca relații (evidence-first).
+`related_acts: ["lege-64-2008"]` — Legea nr. 64/2008 este citată explicit în Art. 3 lit. a) al prescripției ca bază legală și este urmărită separat ca metadata-only în acest repo. Celelalte acte din lista de bază legală nu există în prezent în repo. `lege-10-1995` și `lege-50-1991` **NU** sunt citate explicit în textul PT CR 8-2009, prin urmare nu au fost adăugate ca relații (evidence-first).
 
 ---
 
