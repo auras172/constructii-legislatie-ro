@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-30T20:51:17.166Z
+Generated: 2026-06-30T21:49:41.353Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 35 |
+| Total metadata entries | 36 |
 | Full-text acts | 13 |
-| Metadata-only acts | 22 |
-| Import log files | 35 |
-| Total relationship links | 63 |
+| Metadata-only acts | 23 |
+| Import log files | 36 |
+| Total relationship links | 64 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -44,6 +44,7 @@ Generated: 2026-06-30T20:51:17.166Z
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-c1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-pt-c4-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -61,7 +62,7 @@ Generated: 2026-06-30T20:51:17.166Z
 | Value | Count |
 | --- | --- |
 | calitate | 12 |
-| iscir | 6 |
+| iscir | 7 |
 | incendiu | 4 |
 | anre | 3 |
 | munca | 2 |
@@ -75,7 +76,7 @@ Generated: 2026-06-30T20:51:17.166Z
 
 | Value | Count |
 | --- | --- |
-| minister | 19 |
+| minister | 20 |
 | parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
@@ -85,9 +86,9 @@ Generated: 2026-06-30T20:51:17.166Z
 | Value | Count |
 | --- | --- |
 | 2023 | 5 |
+| 2010 | 4 |
 | 2006 | 3 |
 | 2009 | 3 |
-| 2010 | 3 |
 | 2013 | 3 |
 | 2025 | 3 |
 | 2004 | 2 |
@@ -107,7 +108,7 @@ Generated: 2026-06-30T20:51:17.166Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 22 |
+| metadata-only | 23 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -120,16 +121,16 @@ Generated: 2026-06-30T20:51:17.166Z
 
 ## Health Score
 
-**Score: 98 / 100**
+**Score: 98.1 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 97.14 | 20 |
-| Relationships | 94.29 | 15 |
+| Import logs | 97.22 | 20 |
+| Relationships | 94.44 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 97.14 | 20 |
-| **Total** | **98** | **100** |
+| Provenance | 97.22 | 20 |
+| **Total** | **98.1** | **100** |
 
 ### Formula
 
