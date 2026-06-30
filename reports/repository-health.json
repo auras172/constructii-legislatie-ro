@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-30T09:44:08.425Z",
+  "generated_at": "2026-06-30T10:45:38.149Z",
   "summary": {
-    "total_metadata_entries": 31,
+    "total_metadata_entries": 32,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 18,
-    "total_import_logs": 31,
+    "total_metadata_only_acts": 19,
+    "total_import_logs": 32,
     "total_relationship_links": 57,
     "total_unique_domains": 10,
     "total_unique_issuers": 4
@@ -263,6 +263,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-59-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
       "slug": "ordin-anre-66-2023",
       "full_text": false,
       "metadata": true,
@@ -301,13 +310,13 @@
       "nzeb": 2,
       "autorizatii": 2,
       "iscir": 4,
-      "anre": 1
+      "anre": 2
     },
     "issuers": {
       "guvern": 4,
       "parlament": 8,
       "minister": 18,
-      "autoritate": 1
+      "autoritate": 2
     },
     "publication_years": {
       "1991": 1,
@@ -319,7 +328,7 @@
       "2009": 3,
       "2010": 2,
       "2011": 1,
-      "2013": 2,
+      "2013": 3,
       "2017": 1,
       "2018": 1,
       "2019": 1,
@@ -334,20 +343,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 18,
+      "metadata-only": 19,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 97.3,
+    "score": 96.9,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 96.77,
-      "relationships": 90.32,
+      "import_logs": 96.88,
+      "relationships": 87.5,
       "official_markers": 100,
-      "provenance": 96.77
+      "provenance": 96.88
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
@@ -360,6 +369,11 @@
     {
       "type": "missing_relationships",
       "slug": "normativ-pt-cr8-2009",
+      "message": "No relationship links (related_acts/implements/amends/amended_by)"
+    },
+    {
+      "type": "missing_relationships",
+      "slug": "ordin-anre-59-2013",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     },
     {
