@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-30T09:43:43.558Z",
+  "generated_at": "2026-06-30T10:45:38.006Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 31,
+    "acts_total": 32,
     "acts_full_text": 13,
-    "acts_metadata_only": 18,
+    "acts_metadata_only": 19,
     "article_anchors_total": 799,
-    "import_logs_total": 32,
+    "import_logs_total": 33,
     "domains": [
       "anre",
       "autorizatii",
@@ -427,6 +427,19 @@
       "anchor_count": 85,
       "file": "legi/ordin-839-2009.md",
       "metadata_file": "metadata/acts/ordin-839-2009.json"
+    },
+    {
+      "slug": "ordin-anre-59-2013",
+      "title": "Ordinul nr. 59 din 2 august 2013 pentru aprobarea Regulamentului privind racordarea utilizatorilor la rețelele electrice de interes public",
+      "short_title": "Ordin ANRE 59/2013",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-59-2013.md",
+      "metadata_file": "metadata/acts/ordin-anre-59-2013.json"
     },
     {
       "slug": "ordin-anre-66-2023",

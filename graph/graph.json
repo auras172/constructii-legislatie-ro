@@ -230,6 +230,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "ordin-anre-59-2013",
+      "label": "Ordin ANRE 59/2013",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-66-2023",
       "label": "Ordin ANRE 66/2023",
       "type": "ordin",
@@ -635,7 +643,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 31,
+    "total_nodes": 32,
     "confirmed_edges": 54,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
