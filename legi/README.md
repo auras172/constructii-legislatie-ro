@@ -96,9 +96,14 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009
   - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial PT A1-2002, PT A3-2003, PT C1-2003 ș.a. (nu modelat ca "replaces") · PT CR 8-2009 (document combinat) NU importat
   - Import log: [import-log/2026-06-30-normativ-pt-cr4-2009.md](../import-log/2026-06-30-normativ-pt-cr4-2009.md)
+- [Prescripție Tehnică PT CR 8-2009](./normativ-pt-cr8-2009.md)
+  - Domain: iscir · Related: none (evidence-first — bază legală citată în text absentă din repo)
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009 (Anexa 2)
+  - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial prescripții anterioare privind personalul de deservire (nu modelat ca "replaces") · document combinat cu PT CR 4-2009, fără relație modelată între ele
+  - Import log: [import-log/2026-06-30-normativ-pt-cr8-2009.md](../import-log/2026-06-30-normativ-pt-cr8-2009.md)
 - ISCIR relevant prescriptions
   - Domain: iscir
-  - TODO: continue audit for PT CR 8-2009 and other prescriptions before import
+  - TODO: continue audit for other ISCIR prescriptions before import
 - ANRE electric authorization references
   - Domain: anre
   - TODO: identify relevant authorization references and official sources
