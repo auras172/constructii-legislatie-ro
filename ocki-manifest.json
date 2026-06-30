@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-30T08:37:05.118Z",
+  "generated_at": "2026-06-30T09:43:43.558Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,12 +15,13 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 30,
+    "acts_total": 31,
     "acts_full_text": 13,
-    "acts_metadata_only": 17,
+    "acts_metadata_only": 18,
     "article_anchors_total": 799,
-    "import_logs_total": 31,
+    "import_logs_total": 32,
     "domains": [
+      "anre",
       "autorizatii",
       "calitate",
       "incendiu",
@@ -426,6 +427,19 @@
       "anchor_count": 85,
       "file": "legi/ordin-839-2009.md",
       "metadata_file": "metadata/acts/ordin-839-2009.json"
+    },
+    {
+      "slug": "ordin-anre-66-2023",
+      "title": "Ordin ANRE nr. 66/2023 pentru aprobarea Regulamentului pentru autorizarea electricienilor în domeniul instalațiilor electrice, respectiv a verificatorilor de proiecte și a experților tehnici de calitate și extrajudiciari în domeniul instalațiilor electrice tehnologice",
+      "short_title": "Ordin ANRE 66/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-66-2023.md",
+      "metadata_file": "metadata/acts/ordin-anre-66-2023.json"
     },
     {
       "slug": "oug-195-2005",

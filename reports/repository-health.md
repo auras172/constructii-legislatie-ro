@@ -1,18 +1,18 @@
 # Repository Health Report
 
-Generated: 2026-06-30T08:37:05.212Z
+Generated: 2026-06-30T09:44:08.425Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 30 |
+| Total metadata entries | 31 |
 | Full-text acts | 13 |
-| Metadata-only acts | 17 |
-| Import log files | 30 |
+| Metadata-only acts | 18 |
+| Import log files | 31 |
 | Total relationship links | 57 |
-| Unique domains | 9 |
-| Unique issuers | 3 |
+| Unique domains | 10 |
+| Unique issuers | 4 |
 
 ## Coverage Matrix
 
@@ -46,6 +46,7 @@ Generated: 2026-06-30T08:37:05.212Z
 | normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
+| ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 
@@ -64,6 +65,7 @@ Generated: 2026-06-30T08:37:05.212Z
 | autorizatii | 2 |
 | receptie | 1 |
 | urbanism | 1 |
+| anre | 1 |
 
 ### Issuers
 
@@ -72,12 +74,13 @@ Generated: 2026-06-30T08:37:05.212Z
 | minister | 18 |
 | parlament | 8 |
 | guvern | 4 |
+| autoritate | 1 |
 
 ### Publication Years
 
 | Value | Count |
 | --- | --- |
-| 2023 | 4 |
+| 2023 | 5 |
 | 2006 | 3 |
 | 2009 | 3 |
 | 2025 | 3 |
@@ -98,7 +101,7 @@ Generated: 2026-06-30T08:37:05.212Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 17 |
+| metadata-only | 18 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -111,16 +114,16 @@ Generated: 2026-06-30T08:37:05.212Z
 
 ## Health Score
 
-**Score: 97.7 / 100**
+**Score: 97.3 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 96.67 | 20 |
-| Relationships | 93.33 | 15 |
+| Import logs | 96.77 | 20 |
+| Relationships | 90.32 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 96.67 | 20 |
-| **Total** | **97.7** | **100** |
+| Provenance | 96.77 | 20 |
+| **Total** | **97.3** | **100** |
 
 ### Formula
 
@@ -136,3 +139,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 - **[missing_relationships]** `normativ-pt-cr4-2009`: No relationship links (related_acts/implements/amends/amended_by)
 - **[missing_relationships]** `normativ-pt-cr8-2009`: No relationship links (related_acts/implements/amends/amended_by)
+- **[missing_relationships]** `ordin-anre-66-2023`: No relationship links (related_acts/implements/amends/amended_by)
