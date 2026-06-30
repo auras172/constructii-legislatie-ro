@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-06-30T07:31:41.372Z
+Generated: 2026-06-30T07:59:37.432Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 28 |
+| Total metadata entries | 29 |
 | Full-text acts | 13 |
-| Metadata-only acts | 15 |
-| Import log files | 28 |
+| Metadata-only acts | 16 |
+| Import log files | 29 |
 | Total relationship links | 57 |
 | Unique domains | 9 |
 | Unique issuers | 3 |
@@ -42,6 +42,7 @@ Generated: 2026-06-30T07:31:41.372Z
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -55,11 +56,11 @@ Generated: 2026-06-30T07:31:41.372Z
 | --- | --- |
 | calitate | 12 |
 | incendiu | 4 |
+| iscir | 3 |
 | munca | 2 |
 | mediu | 2 |
 | nzeb | 2 |
 | autorizatii | 2 |
-| iscir | 2 |
 | receptie | 1 |
 | urbanism | 1 |
 
@@ -67,7 +68,7 @@ Generated: 2026-06-30T07:31:41.372Z
 
 | Value | Count |
 | --- | --- |
-| minister | 16 |
+| minister | 17 |
 | parlament | 8 |
 | guvern | 4 |
 
@@ -80,13 +81,13 @@ Generated: 2026-06-30T07:31:41.372Z
 | 2025 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
+| 2009 | 2 |
 | 2010 | 2 |
 | 2013 | 2 |
 | 2022 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 2001 | 1 |
-| 2009 | 1 |
 | 2011 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
@@ -96,7 +97,7 @@ Generated: 2026-06-30T07:31:41.372Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 15 |
+| metadata-only | 16 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -109,16 +110,16 @@ Generated: 2026-06-30T07:31:41.372Z
 
 ## Health Score
 
-**Score: 98.6 / 100**
+**Score: 98.1 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 96.43 | 20 |
-| Relationships | 100 | 15 |
+| Import logs | 96.55 | 20 |
+| Relationships | 96.55 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 96.43 | 20 |
-| **Total** | **98.6** | **100** |
+| Provenance | 96.55 | 20 |
+| **Total** | **98.1** | **100** |
 
 ### Formula
 
@@ -132,4 +133,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 ## Warnings
 
-No warnings — repository is clean.
+- **[missing_relationships]** `normativ-pt-cr4-2009`: No relationship links (related_acts/implements/amends/amended_by)
