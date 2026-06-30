@@ -230,6 +230,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "ordin-anre-66-2023",
+      "label": "Ordin ANRE 66/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-195-2005",
       "label": "OUG 195/2005",
       "type": "ordonanta",
@@ -627,7 +635,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 30,
+    "total_nodes": 31,
     "confirmed_edges": 54,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
