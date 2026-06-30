@@ -206,6 +206,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-pt-cr8-2009",
+      "label": "PT CR 8-2009",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-pt-r2-2010",
       "label": "PT R 2-2010",
       "type": "normativ",
@@ -619,7 +627,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 29,
+    "total_nodes": 30,
     "confirmed_edges": 54,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0

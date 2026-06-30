@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-30T07:59:37.432Z",
+  "generated_at": "2026-06-30T08:37:05.212Z",
   "summary": {
-    "total_metadata_entries": 29,
+    "total_metadata_entries": 30,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 16,
-    "total_import_logs": 29,
+    "total_metadata_only_acts": 17,
+    "total_import_logs": 30,
     "total_relationship_links": 57,
     "total_unique_domains": 9,
     "total_unique_issuers": 3
@@ -236,6 +236,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-pt-cr8-2009",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
       "slug": "normativ-pt-r2-2010",
       "full_text": false,
       "metadata": true,
@@ -282,12 +291,12 @@
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
-      "iscir": 3
+      "iscir": 4
     },
     "issuers": {
       "guvern": 4,
       "parlament": 8,
-      "minister": 17
+      "minister": 18
     },
     "publication_years": {
       "1991": 1,
@@ -296,7 +305,7 @@
       "2004": 2,
       "2005": 2,
       "2006": 3,
-      "2009": 2,
+      "2009": 3,
       "2010": 2,
       "2011": 1,
       "2013": 2,
@@ -314,20 +323,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 16,
+      "metadata-only": 17,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 98.1,
+    "score": 97.7,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 96.55,
-      "relationships": 96.55,
+      "import_logs": 96.67,
+      "relationships": 93.33,
       "official_markers": 100,
-      "provenance": 96.55
+      "provenance": 96.67
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
@@ -335,6 +344,11 @@
     {
       "type": "missing_relationships",
       "slug": "normativ-pt-cr4-2009",
+      "message": "No relationship links (related_acts/implements/amends/amended_by)"
+    },
+    {
+      "type": "missing_relationships",
+      "slug": "normativ-pt-cr8-2009",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     }
   ]
