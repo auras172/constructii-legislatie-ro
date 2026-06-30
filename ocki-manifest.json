@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-06-29T17:08:39.440Z",
+  "generated_at": "2026-06-30T17:32:35.753Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,15 +15,17 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 24,
+    "acts_total": 33,
     "acts_full_text": 13,
-    "acts_metadata_only": 11,
+    "acts_metadata_only": 20,
     "article_anchors_total": 799,
-    "import_logs_total": 25,
+    "import_logs_total": 34,
     "domains": [
+      "anre",
       "autorizatii",
       "calitate",
       "incendiu",
+      "iscir",
       "mediu",
       "munca",
       "nzeb",
@@ -39,7 +41,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 49,
+    "confirmed_relationships": 55,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -206,6 +208,19 @@
       "metadata_file": "metadata/acts/metodologie-mc001-2022.json"
     },
     {
+      "slug": "normativ-cr2-1-1-1-2022",
+      "title": "Cod de proiectare a construcţiilor cu pereţi structurali de beton armat, Indicativ CR 2-1-1.1/2022",
+      "short_title": "CR 2-1-1.1/2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-cr2-1-1-1-2022.md",
+      "metadata_file": "metadata/acts/normativ-cr2-1-1-1-2022.json"
+    },
+    {
       "slug": "normativ-i7-2011",
       "title": "Normativ pentru proiectarea, execuția și exploatarea instalațiilor electrice aferente clădirilor, Indicativ I 7-2011",
       "short_title": "Normativ I 7-2011",
@@ -256,6 +271,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-np007-2025.md",
       "metadata_file": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "slug": "normativ-np015-2022",
+      "title": "Normativ pentru construcții spitalicești, Indicativ NP 015-2022",
+      "short_title": "NP 015-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-np015-2022.md",
+      "metadata_file": "metadata/acts/normativ-np015-2022.json"
     },
     {
       "slug": "normativ-np051-2012",
@@ -336,6 +364,58 @@
       "metadata_file": "metadata/acts/normativ-p130-2025.json"
     },
     {
+      "slug": "normativ-pt-a1-2010",
+      "title": "Prescripție Tehnică PT A 1-2010 privind aparatele de încălzit alimentate cu combustibil solid, lichid sau gazos cu puteri nominale ≤ 400 kW",
+      "short_title": "PT A 1-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-a1-2010.md",
+      "metadata_file": "metadata/acts/normativ-pt-a1-2010.json"
+    },
+    {
+      "slug": "normativ-pt-cr4-2009",
+      "title": "Prescripție Tehnică PT CR 4-2009 privind autorizarea persoanelor juridice pentru efectuarea de lucrări la instalații/echipamente",
+      "short_title": "PT CR 4-2009",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-cr4-2009.md",
+      "metadata_file": "metadata/acts/normativ-pt-cr4-2009.json"
+    },
+    {
+      "slug": "normativ-pt-cr8-2009",
+      "title": "Prescripție Tehnică PT CR 8-2009 privind autorizarea personalului de deservire a instalațiilor/echipamentelor și acceptarea personalului auxiliar de deservire",
+      "short_title": "PT CR 8-2009",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-cr8-2009.md",
+      "metadata_file": "metadata/acts/normativ-pt-cr8-2009.json"
+    },
+    {
+      "slug": "normativ-pt-r2-2010",
+      "title": "Prescripție Tehnică PT R 2-2010 privind ascensoarele electrice și hidraulice de persoane, de persoane și mărfuri sau de mărfuri cu comandă interioară",
+      "short_title": "PT R 2-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-r2-2010.md",
+      "metadata_file": "metadata/acts/normativ-pt-r2-2010.json"
+    },
+    {
       "slug": "ordin-839-2009",
       "title": "Ordinul nr. 839 din 12 octombrie 2009 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
       "short_title": "Ordin MDRAP 839/2009",
@@ -347,6 +427,45 @@
       "anchor_count": 85,
       "file": "legi/ordin-839-2009.md",
       "metadata_file": "metadata/acts/ordin-839-2009.json"
+    },
+    {
+      "slug": "ordin-anre-59-2013",
+      "title": "Ordinul nr. 59 din 2 august 2013 pentru aprobarea Regulamentului privind racordarea utilizatorilor la rețelele electrice de interes public",
+      "short_title": "Ordin ANRE 59/2013",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-59-2013.md",
+      "metadata_file": "metadata/acts/ordin-anre-59-2013.json"
+    },
+    {
+      "slug": "ordin-anre-65-2024",
+      "title": "Ordin ANRE nr. 65/2024 privind modificarea Regulamentului pentru autorizarea electricienilor in domeniul instalatiilor electrice, respectiv a verificatorilor de proiecte si a expertilor tehnici de calitate si extrajudiciari in domeniul instalatiilor electrice tehnologice",
+      "short_title": "Ordin ANRE 65/2024",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-65-2024.md",
+      "metadata_file": "metadata/acts/ordin-anre-65-2024.json"
+    },
+    {
+      "slug": "ordin-anre-66-2023",
+      "title": "Ordin ANRE nr. 66/2023 pentru aprobarea Regulamentului pentru autorizarea electricienilor în domeniul instalațiilor electrice, respectiv a verificatorilor de proiecte și a experților tehnici de calitate și extrajudiciari în domeniul instalațiilor electrice tehnologice",
+      "short_title": "Ordin ANRE 66/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-66-2023.md",
+      "metadata_file": "metadata/acts/ordin-anre-66-2023.json"
     },
     {
       "slug": "oug-195-2005",

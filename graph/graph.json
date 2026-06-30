@@ -94,6 +94,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-cr2-1-1-1-2022",
+      "label": "CR 2-1-1.1/2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-i7-2011",
       "label": "Normativ I 7-2011",
       "type": "normativ",
@@ -120,6 +128,14 @@
     {
       "id": "normativ-np007-2025",
       "label": "Normativ NP 007-2025",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-np015-2022",
+      "label": "NP 015-2022",
       "type": "normativ",
       "domain": "calitate",
       "status": "active",
@@ -174,12 +190,68 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-pt-a1-2010",
+      "label": "PT A 1-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-pt-cr4-2009",
+      "label": "PT CR 4-2009",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-pt-cr8-2009",
+      "label": "PT CR 8-2009",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "normativ-pt-r2-2010",
+      "label": "PT R 2-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
       "domain": "autorizatii",
       "status": "active",
       "import_method": "full-text"
+    },
+    {
+      "id": "ordin-anre-59-2013",
+      "label": "Ordin ANRE 59/2013",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "ordin-anre-65-2024",
+      "label": "Ordin ANRE 65/2024",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
+      "id": "ordin-anre-66-2023",
+      "label": "Ordin ANRE 66/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
     },
     {
       "id": "oug-195-2005",
@@ -375,6 +447,13 @@
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
     },
     {
+      "source": "normativ-cr2-1-1-1-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-cr2-1-1-1-2022.json"
+    },
+    {
       "source": "normativ-i7-2011",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -408,6 +487,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "source": "normativ-np015-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-np015-2022.json"
     },
     {
       "source": "normativ-np051-2012",
@@ -494,6 +580,27 @@
       "evidence": "metadata/acts/normativ-p130-2025.json"
     },
     {
+      "source": "normativ-pt-a1-2010",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-a1-2010.json"
+    },
+    {
+      "source": "normativ-pt-a1-2010",
+      "target": "lege-319-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-a1-2010.json"
+    },
+    {
+      "source": "normativ-pt-r2-2010",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-r2-2010.json"
+    },
+    {
       "source": "ordin-839-2009",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -513,6 +620,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ordin-839-2009.json"
+    },
+    {
+      "source": "ordin-anre-65-2024",
+      "target": "ordin-anre-66-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-65-2024.json"
     },
     {
       "source": "oug-195-2005",
@@ -544,8 +658,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 24,
-    "confirmed_edges": 49,
+    "total_nodes": 33,
+    "confirmed_edges": 55,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
