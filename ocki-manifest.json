@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-01T07:47:32.669Z",
+  "generated_at": "2026-07-01T18:54:52.971Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 38,
+    "acts_total": 39,
     "acts_full_text": 13,
-    "acts_metadata_only": 25,
+    "acts_metadata_only": 26,
     "article_anchors_total": 799,
-    "import_logs_total": 39,
+    "import_logs_total": 40,
     "domains": [
       "anre",
       "autorizatii",
@@ -388,6 +388,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-p118-2-2013.md",
       "metadata_file": "metadata/acts/normativ-p118-2-2013.json"
+    },
+    {
+      "slug": "normativ-p118-3-2015",
+      "title": "Normativ privind securitatea la incendiu a construcțiilor, Partea a III-a - Instalații de detectare, semnalizare și avertizare incendiu, indicativ P 118/3-2015",
+      "short_title": "Normativ P 118/3-2015",
+      "type": "normativ",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-p118-3-2015.md",
+      "metadata_file": "metadata/acts/normativ-p118-3-2015.json"
     },
     {
       "slug": "normativ-p130-2025",

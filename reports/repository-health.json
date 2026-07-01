@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-01T07:47:32.607Z",
+  "generated_at": "2026-07-01T18:54:52.975Z",
   "summary": {
-    "total_metadata_entries": 38,
+    "total_metadata_entries": 39,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 25,
-    "total_import_logs": 38,
+    "total_metadata_only_acts": 26,
+    "total_import_logs": 39,
     "total_relationship_links": 66,
     "total_unique_domains": 10,
     "total_unique_issuers": 4
@@ -236,6 +236,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-p118-3-2015",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
       "slug": "normativ-p130-2025",
       "full_text": false,
       "metadata": true,
@@ -359,7 +368,7 @@
       "receptie": 1,
       "calitate": 13,
       "mediu": 2,
-      "incendiu": 5,
+      "incendiu": 6,
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
@@ -369,7 +378,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 9,
-      "minister": 22,
+      "minister": 23,
       "autoritate": 3
     },
     "publication_years": {
@@ -384,6 +393,7 @@
       "2010": 4,
       "2011": 1,
       "2013": 5,
+      "2015": 1,
       "2017": 1,
       "2018": 1,
       "2019": 1,
@@ -399,20 +409,20 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 25,
+      "metadata-only": 26,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 97.8,
+    "score": 97.4,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 97.37,
-      "relationships": 92.11,
+      "import_logs": 97.44,
+      "relationships": 89.74,
       "official_markers": 100,
-      "provenance": 97.37
+      "provenance": 97.44
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
@@ -425,6 +435,11 @@
     {
       "type": "missing_relationships",
       "slug": "normativ-p118-2-2013",
+      "message": "No relationship links (related_acts/implements/amends/amended_by)"
+    },
+    {
+      "type": "missing_relationships",
+      "slug": "normativ-p118-3-2015",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     },
     {

@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-07-01T07:47:32.607Z
+Generated: 2026-07-01T18:54:52.975Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 38 |
+| Total metadata entries | 39 |
 | Full-text acts | 13 |
-| Metadata-only acts | 25 |
-| Import log files | 38 |
+| Metadata-only acts | 26 |
+| Import log files | 39 |
 | Total relationship links | 66 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
@@ -43,6 +43,7 @@ Generated: 2026-07-01T07:47:32.607Z
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
 | normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-c1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -65,7 +66,7 @@ Generated: 2026-07-01T07:47:32.607Z
 | --- | --- |
 | calitate | 13 |
 | iscir | 7 |
-| incendiu | 5 |
+| incendiu | 6 |
 | anre | 3 |
 | munca | 2 |
 | mediu | 2 |
@@ -78,7 +79,7 @@ Generated: 2026-07-01T07:47:32.607Z
 
 | Value | Count |
 | --- | --- |
-| minister | 22 |
+| minister | 23 |
 | parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
@@ -101,6 +102,7 @@ Generated: 2026-07-01T07:47:32.607Z
 | 2001 | 1 |
 | 2008 | 1 |
 | 2011 | 1 |
+| 2015 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
 | 2019 | 1 |
@@ -110,7 +112,7 @@ Generated: 2026-07-01T07:47:32.607Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 25 |
+| metadata-only | 26 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -123,16 +125,16 @@ Generated: 2026-07-01T07:47:32.607Z
 
 ## Health Score
 
-**Score: 97.8 / 100**
+**Score: 97.4 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 97.37 | 20 |
-| Relationships | 92.11 | 15 |
+| Import logs | 97.44 | 20 |
+| Relationships | 89.74 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 97.37 | 20 |
-| **Total** | **97.8** | **100** |
+| Provenance | 97.44 | 20 |
+| **Total** | **97.4** | **100** |
 
 ### Formula
 
@@ -148,4 +150,5 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 - **[missing_relationships]** `lege-64-2008`: No relationship links (related_acts/implements/amends/amended_by)
 - **[missing_relationships]** `normativ-p118-2-2013`: No relationship links (related_acts/implements/amends/amended_by)
+- **[missing_relationships]** `normativ-p118-3-2015`: No relationship links (related_acts/implements/amends/amended_by)
 - **[missing_relationships]** `ordin-anre-59-2013`: No relationship links (related_acts/implements/amends/amended_by)
