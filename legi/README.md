@@ -81,9 +81,59 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare21](https://www.mdlpa.ro/pages/reglementare21)) — O.M.D.L.P.A. nr. 770/30.05.2025
   - Status: active · metadata-only · intrat în vigoare 18.05.2025 · înlocuiește P 130 din 1999/2003
   - Import log: [import-log/2026-06-28-normativ-p130-2025.md](../import-log/2026-06-28-normativ-p130-2025.md)
+- [Prescripție Tehnică PT A 1-2010](./normativ-pt-a1-2010.md)
+  - Domain: iscir · Related: Legea 10/1995
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1007/22.06.2010
+  - Status: active · metadata-only · publicat în M.Of. nr. 450 bis/02.07.2010 · înlocuiește PT A1-2002
+  - Import log: [import-log/2026-06-29-normativ-pt-a1-2010.md](../import-log/2026-06-29-normativ-pt-a1-2010.md)
+- [Prescripție Tehnică PT C 1-2010](./normativ-pt-c1-2010.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 663/12.04.2010
+  - Status: active · metadata-only · publicat în M.Of. nr. 385 și 385 bis/10.06.2010 · intră în vigoare 10.07.2010 · înlocuiește PT C 1-2003
+  - Import log: [import-log/2026-06-30-normativ-pt-c1-2010.md](../import-log/2026-06-30-normativ-pt-c1-2010.md)
+- [Prescripție Tehnică PT R 2-2010](./normativ-pt-r2-2010.md)
+  - Domain: iscir · Related: Legea 10/1995
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010
+  - Status: active · metadata-only · publicat în M.Of. nr. 634/09.09.2010 · înlocuiește PT R2-2003
+  - Import log: [import-log/2026-06-29-normativ-pt-r2-2010.md](../import-log/2026-06-29-normativ-pt-r2-2010.md)
+- [Prescripție Tehnică PT CR 4-2009](./normativ-pt-cr4-2009.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009
+  - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial PT A1-2002, PT A3-2003, PT C1-2003 ș.a. (nu modelat ca "replaces") · PT CR 8-2009 importat separat
+  - Import log: [import-log/2026-06-30-normativ-pt-cr4-2009.md](../import-log/2026-06-30-normativ-pt-cr4-2009.md)
+- [Prescripție Tehnică PT CR 8-2009](./normativ-pt-cr8-2009.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009 (Anexa 2)
+  - Status: active · metadata-only · publicat în M.Of. nr. 11/08.01.2010 · abrogă parțial prescripții anterioare privind personalul de deservire (nu modelat ca "replaces") · document combinat cu PT CR 4-2009, fără relație modelată între ele
+  - Import log: [import-log/2026-06-30-normativ-pt-cr8-2009.md](../import-log/2026-06-30-normativ-pt-cr8-2009.md)
 - ISCIR relevant prescriptions
   - Domain: iscir
-  - TODO: identify relevant prescriptions and official sources
+  - TODO: continue audit for other ISCIR prescriptions before import
+- [Legea 64/2008](./lege-64-2008.md)
+  - Domain: iscir · Related: none (cited by PT CR 4-2009 and PT CR 8-2009)
+  - Official source checked: Portal Legislativ ([DetaliiDocument/90716](https://legislatie.just.ro/Public/DetaliiDocument/90716)) — Legea nr. 64/21.03.2008
+  - Status: active · metadata-only · publicată în M.Of. nr. 240/27.03.2008 · republicată în M.Of. nr. 399/08.06.2015 · consolidată la 13.12.2023
+  - Import log: [import-log/2026-06-30-lege-64-2008.md](../import-log/2026-06-30-lege-64-2008.md)
+- [Ordin ANRE 66/2023](./ordin-anre-66-2023.md)
+  - Domain: anre · Related: none (evidence-first — bază legală citată în preambul absentă din repo)
+  - Official source checked: Portal Legislativ ([DetaliiDocument/270203](https://legislatie.just.ro/Public/DetaliiDocument/270203)) — Ordin ANRE nr. 66/10.05.2023
+  - Status: active · metadata-only · publicat în M.Of. nr. 417/16.05.2023 · abrogă Ordinul ANRE nr. 99/2021 (confirmat direct) · consolidat la 2024-09-13 (anexă modificată prin Ordinul ANRE 65/10.09.2024, importat separat ca metadata-only)
+  - Import log: [import-log/2026-06-30-ordin-anre-66-2023.md](../import-log/2026-06-30-ordin-anre-66-2023.md)
+- [Ordin ANRE 65/2024](./ordin-anre-65-2024.md)
+  - Domain: anre · Related: Ordin ANRE 66/2023 · Amends: Ordin ANRE 66/2023
+  - Official source checked: Portal Legislativ ([DetaliiDocument/288327](https://legislatie.just.ro/Public/DetaliiDocument/288327)) — Ordin ANRE nr. 65/10.09.2024
+  - Status: active · metadata-only · publicat in M.Of. nr. 925/13.09.2024 · modifica Regulamentul aprobat prin Ordinul ANRE nr. 66/2023
+  - Import log: [import-log/2026-06-30-ordin-anre-65-2024.md](../import-log/2026-06-30-ordin-anre-65-2024.md)
+- [Ordin ANRE 59/2013](./ordin-anre-59-2013.md)
+  - Domain: anre · Related: none (evidence-first — no citation to lege-50-1991 or normativ-i7-2011 found)
+  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/150711](https://legislatie.just.ro/Public/DetaliiDocumentAfis/150711)) — Ordin ANRE nr. 59/02.08.2013 (corrected from earlier wrong ID 150033, documented in PR #127 readiness report)
+  - Status: active · metadata-only · publicat în M.Of. nr. 517/19.08.2013 · intră în vigoare 18.12.2013 (Art. 3 → abrogare HG 90/2008 prin HG 1028/2013) · 18 amendamente confirmate 2014-2026 (15 ordin de bază + 3 anexă) · Ordin 67/2024 verificat și NU găsit · consolidat la 2026-05-21 (snapshot din docs/anre-racordare-track-b-readiness.md, nereverificat live)
+  - Import log: [import-log/2026-06-30-ordin-anre-59-2013.md](../import-log/2026-06-30-ordin-anre-59-2013.md)
+- [Ordin ANRE 53/2024](./ordin-anre-53-2024.md)
+  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
+  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/286055](https://legislatie.just.ro/Public/DetaliiDocumentAfis/286055)) — Ordin ANRE nr. 53/30.07.2024
+  - Status: active · metadata-only · publicat în M.Of. nr. 758/02.08.2024 · aprobă Metodologia de alocare a capacității rețelei
+  - Import log: [import-log/2026-06-30-ordin-anre-53-2024.md](../import-log/2026-06-30-ordin-anre-53-2024.md)
 - ANRE electric authorization references
   - Domain: anre
   - TODO: identify relevant authorization references and official sources
@@ -112,6 +162,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
   - Status: active · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrat în vigoare 01.01.2026 · înlocuiește NP 007-1997
   - Import log: [import-log/2026-06-29-normativ-np007-2025.md](../import-log/2026-06-29-normativ-np007-2025.md)
+- [Normativ NP 015-2022](./normativ-np015-2022.md)
+  - Domain: calitate (construcții spitalicești) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.L.P.A. nr. 2412/15.09.2022
+  - Status: active · metadata-only · publicat în M.Of. nr. 919 și 919 bis/20.09.2022 · intrat în vigoare 21.10.2022 · abrogă NP 015-1997
+  - Import log: [import-log/2026-06-29-normativ-np015-2022.md](../import-log/2026-06-29-normativ-np015-2022.md)
 - [Normativ NP 051-2012](./normativ-np051-2012.md)
   - Domain: calitate (accesibilitate clădiri civile) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.R.A.P. nr. 189/12.02.2013
@@ -132,6 +187,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare12](https://www.mdlpa.ro/pages/reglementare12)) — O.M.D.R.T. nr. 2.741/01.10.2011
   - Status: active · metadata-only · publicat în M.Of. nr. 802 bis/14.11.2011 · completare 2023 (O.M.D.L.P.A. nr. 959/2023, vigoare 11.07.2023) · probabil abrogă I 7-2002 (neconfirmat)
   - Import log: [import-log/2026-06-29-normativ-i7-2011.md](../import-log/2026-06-29-normativ-i7-2011.md)
+- [Normativ CR 2-1-1.1/2022](./normativ-cr2-1-1-1-2022.md)
+  - Domain: calitate (pereți structurali beton armat) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), intrarea I-21) — O.M.D.L.P.A. nr. 171/01.02.2023
+  - Status: active · metadata-only · publicat în M.Of. nr. 104 și 104 bis/07.02.2023 · intrat în vigoare 09.03.2023 · abrogă CR 2-1-1.1/2013
+  - Import log: [import-log/2026-06-29-normativ-cr2-1-1-1-2022.md](../import-log/2026-06-29-normativ-cr2-1-1-1-2022.md)
 
 ## Naming convention proposal
 
