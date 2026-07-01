@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T20:41:57.931Z",
+  "generated_at": "2026-07-01T21:24:04.589Z",
   "summary": {
-    "total_metadata_entries": 39,
+    "total_metadata_entries": 40,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 26,
-    "total_import_logs": 39,
-    "total_relationship_links": 68,
+    "total_metadata_only_acts": 27,
+    "total_import_logs": 40,
+    "total_relationship_links": 69,
     "total_unique_domains": 10,
     "total_unique_issuers": 4
   },
@@ -147,6 +147,15 @@
     },
     {
       "slug": "normativ-i9-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-ne012-1-2007",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -366,7 +375,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
-      "calitate": 13,
+      "calitate": 14,
       "mediu": 2,
       "incendiu": 6,
       "urbanism": 1,
@@ -378,7 +387,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 9,
-      "minister": 23,
+      "minister": 24,
       "autoritate": 3
     },
     "publication_years": {
@@ -388,7 +397,7 @@
       "2004": 2,
       "2005": 2,
       "2006": 3,
-      "2008": 1,
+      "2008": 2,
       "2009": 3,
       "2010": 4,
       "2011": 1,
@@ -409,7 +418,7 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 26,
+      "metadata-only": 27,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
@@ -420,7 +429,7 @@
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 89.74,
+      "relationships": 90,
       "official_markers": 100,
       "provenance": 100
     },

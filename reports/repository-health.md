@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-01T20:41:57.931Z
+Generated: 2026-07-01T21:24:04.589Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 39 |
+| Total metadata entries | 40 |
 | Full-text acts | 13 |
-| Metadata-only acts | 26 |
-| Import log files | 39 |
-| Total relationship links | 68 |
+| Metadata-only acts | 27 |
+| Import log files | 40 |
+| Total relationship links | 69 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -34,6 +34,7 @@ Generated: 2026-07-01T20:41:57.931Z
 | normativ-cr6-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-ne012-1-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np005-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -64,7 +65,7 @@ Generated: 2026-07-01T20:41:57.931Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 13 |
+| calitate | 14 |
 | iscir | 7 |
 | incendiu | 6 |
 | anre | 3 |
@@ -79,7 +80,7 @@ Generated: 2026-07-01T20:41:57.931Z
 
 | Value | Count |
 | --- | --- |
-| minister | 23 |
+| minister | 24 |
 | parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
@@ -96,11 +97,11 @@ Generated: 2026-07-01T20:41:57.931Z
 | 2025 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
+| 2008 | 2 |
 | 2022 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 2001 | 1 |
-| 2008 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
 | 2017 | 1 |
@@ -112,7 +113,7 @@ Generated: 2026-07-01T20:41:57.931Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 26 |
+| metadata-only | 27 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -131,7 +132,7 @@ Generated: 2026-07-01T20:41:57.931Z
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 89.74 | 15 |
+| Relationships | 90 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
 | **Total** | **98.5** | **100** |

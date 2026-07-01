@@ -134,6 +134,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-ne012-1-2007",
+      "label": "NE 012/1-2007",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np005-2022",
       "label": "Normativ NP 005-2022",
       "type": "normativ",
@@ -544,6 +552,13 @@
       "evidence": "metadata/acts/normativ-i9-2022.json"
     },
     {
+      "source": "normativ-ne012-1-2007",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-ne012-1-2007.json"
+    },
+    {
       "source": "normativ-np005-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -762,8 +777,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 39,
-    "confirmed_edges": 63,
+    "total_nodes": 40,
+    "confirmed_edges": 64,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
