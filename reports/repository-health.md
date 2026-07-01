@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-06-30T21:49:41.353Z
+Generated: 2026-07-01T07:31:31.526Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 36 |
+| Total metadata entries | 37 |
 | Full-text acts | 13 |
-| Metadata-only acts | 23 |
-| Import log files | 36 |
-| Total relationship links | 64 |
+| Metadata-only acts | 24 |
+| Import log files | 37 |
+| Total relationship links | 66 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -31,6 +31,7 @@ Generated: 2026-06-30T21:49:41.353Z
 | lege-64-2008 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-cr2-1-1-1-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-cr6-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np005-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -61,7 +62,7 @@ Generated: 2026-06-30T21:49:41.353Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 12 |
+| calitate | 13 |
 | iscir | 7 |
 | incendiu | 4 |
 | anre | 3 |
@@ -76,7 +77,7 @@ Generated: 2026-06-30T21:49:41.353Z
 
 | Value | Count |
 | --- | --- |
-| minister | 20 |
+| minister | 21 |
 | parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
@@ -87,9 +88,9 @@ Generated: 2026-06-30T21:49:41.353Z
 | --- | --- |
 | 2023 | 5 |
 | 2010 | 4 |
+| 2013 | 4 |
 | 2006 | 3 |
 | 2009 | 3 |
-| 2013 | 3 |
 | 2025 | 3 |
 | 2004 | 2 |
 | 2005 | 2 |
@@ -108,7 +109,7 @@ Generated: 2026-06-30T21:49:41.353Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 23 |
+| metadata-only | 24 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -126,10 +127,10 @@ Generated: 2026-06-30T21:49:41.353Z
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 97.22 | 20 |
-| Relationships | 94.44 | 15 |
+| Import logs | 97.3 | 20 |
+| Relationships | 94.59 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 97.22 | 20 |
+| Provenance | 97.3 | 20 |
 | **Total** | **98.1** | **100** |
 
 ### Formula

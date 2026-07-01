@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T21:49:41.353Z",
+  "generated_at": "2026-07-01T07:31:31.526Z",
   "summary": {
-    "total_metadata_entries": 36,
+    "total_metadata_entries": 37,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 23,
-    "total_import_logs": 36,
-    "total_relationship_links": 64,
+    "total_metadata_only_acts": 24,
+    "total_import_logs": 37,
+    "total_relationship_links": 66,
     "total_unique_domains": 10,
     "total_unique_issuers": 4
   },
@@ -125,6 +125,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-cr6-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -339,7 +348,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
-      "calitate": 12,
+      "calitate": 13,
       "mediu": 2,
       "incendiu": 4,
       "urbanism": 1,
@@ -351,7 +360,7 @@
     "issuers": {
       "guvern": 4,
       "parlament": 9,
-      "minister": 20,
+      "minister": 21,
       "autoritate": 3
     },
     "publication_years": {
@@ -365,7 +374,7 @@
       "2009": 3,
       "2010": 4,
       "2011": 1,
-      "2013": 3,
+      "2013": 4,
       "2017": 1,
       "2018": 1,
       "2019": 1,
@@ -381,7 +390,7 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 23,
+      "metadata-only": 24,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
@@ -391,10 +400,10 @@
     "score": 98.1,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 97.22,
-      "relationships": 94.44,
+      "import_logs": 97.3,
+      "relationships": 94.59,
       "official_markers": 100,
-      "provenance": 97.22
+      "provenance": 97.3
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
