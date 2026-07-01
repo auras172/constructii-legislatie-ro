@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-01T18:54:52.975Z
+Generated: 2026-07-01T19:37:39.686Z
 
 ## Summary
 
@@ -41,7 +41,7 @@ Generated: 2026-07-01T18:54:52.975Z
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-p118-1-2025 | ✗ | ✓ | ✗ | — | 3 | ✗ |
+| normativ-p118-1-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -125,16 +125,16 @@ Generated: 2026-07-01T18:54:52.975Z
 
 ## Health Score
 
-**Score: 97.4 / 100**
+**Score: 98.5 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
-| Import logs | 97.44 | 20 |
+| Import logs | 100 | 20 |
 | Relationships | 89.74 | 15 |
 | Official markers | 100 | 25 |
-| Provenance | 97.44 | 20 |
-| **Total** | **97.4** | **100** |
+| Provenance | 100 | 20 |
+| **Total** | **98.5** | **100** |
 
 ### Formula
 

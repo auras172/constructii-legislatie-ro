@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T18:54:52.975Z",
+  "generated_at": "2026-07-01T19:37:39.686Z",
   "summary": {
     "total_metadata_entries": 39,
     "total_full_text_acts": 13,
@@ -221,10 +221,10 @@
       "slug": "normativ-p118-1-2025",
       "full_text": false,
       "metadata": true,
-      "import_log": false,
+      "import_log": true,
       "official_markers": null,
       "relationships": 3,
-      "provenance": false
+      "provenance": true
     },
     {
       "slug": "normativ-p118-2-2013",
@@ -416,13 +416,13 @@
     }
   },
   "health_score": {
-    "score": 97.4,
+    "score": 98.5,
     "dimensions": {
       "metadata_completeness": 100,
-      "import_logs": 97.44,
+      "import_logs": 100,
       "relationships": 89.74,
       "official_markers": 100,
-      "provenance": 97.44
+      "provenance": 100
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
