@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-01T19:37:39.686Z
+Generated: 2026-07-01T20:41:57.931Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-07-01T19:37:39.686Z
 | Full-text acts | 13 |
 | Metadata-only acts | 26 |
 | Import log files | 39 |
-| Total relationship links | 66 |
+| Total relationship links | 68 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -22,7 +22,7 @@ Generated: 2026-07-01T19:37:39.686Z
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
-| lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
+| lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 5 | ✓ |
 | lege-319-2006 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-350-2001 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-372-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |

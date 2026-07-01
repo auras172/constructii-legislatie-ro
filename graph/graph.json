@@ -398,6 +398,20 @@
     },
     {
       "source": "lege-307-2006",
+      "target": "normativ-p118-1-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-307-2006.json"
+    },
+    {
+      "source": "lege-307-2006",
+      "target": "normativ-p118-3-2015",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-307-2006.json"
+    },
+    {
+      "source": "lege-307-2006",
       "target": "oug-21-2004",
       "relationship": "related",
       "review_status": "confirmed",
@@ -749,7 +763,7 @@
   ],
   "stats": {
     "total_nodes": 39,
-    "confirmed_edges": 61,
+    "confirmed_edges": 63,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
