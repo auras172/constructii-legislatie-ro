@@ -334,6 +334,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-anre-60-2024",
+      "label": "Ordin ANRE 60/2024",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-65-2024",
       "label": "Ordin ANRE 65/2024",
       "type": "ordin",
@@ -837,6 +845,13 @@
       "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
+      "source": "ordin-anre-60-2024",
+      "target": "ordin-anre-59-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-60-2024.json"
+    },
+    {
       "source": "ordin-anre-65-2024",
       "target": "ordin-anre-66-2023",
       "relationship": "related",
@@ -873,8 +888,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 45,
-    "confirmed_edges": 72,
+    "total_nodes": 46,
+    "confirmed_edges": 73,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
