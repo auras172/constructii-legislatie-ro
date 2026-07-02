@@ -860,6 +860,13 @@
       "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
+      "source": "ordin-anre-59-2013",
+      "target": "normativ-i7-2011",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-59-2013.json"
+    },
+    {
       "source": "ordin-anre-60-2024",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
@@ -904,7 +911,7 @@
   ],
   "stats": {
     "total_nodes": 47,
-    "confirmed_edges": 74,
+    "confirmed_edges": 75,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
