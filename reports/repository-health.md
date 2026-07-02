@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-01T21:24:04.589Z
+Generated: 2026-07-02T06:39:04.505Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 40 |
+| Total metadata entries | 41 |
 | Full-text acts | 13 |
-| Metadata-only acts | 27 |
-| Import log files | 40 |
-| Total relationship links | 69 |
+| Metadata-only acts | 28 |
+| Import log files | 41 |
+| Total relationship links | 70 |
 | Unique domains | 10 |
 | Unique issuers | 4 |
 
@@ -35,6 +35,7 @@ Generated: 2026-07-01T21:24:04.589Z
 | normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-ne012-1-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-ne012-2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np005-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -65,7 +66,7 @@ Generated: 2026-07-01T21:24:04.589Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 14 |
+| calitate | 15 |
 | iscir | 7 |
 | incendiu | 6 |
 | anre | 3 |
@@ -80,7 +81,7 @@ Generated: 2026-07-01T21:24:04.589Z
 
 | Value | Count |
 | --- | --- |
-| minister | 24 |
+| minister | 25 |
 | parlament | 9 |
 | guvern | 4 |
 | autoritate | 3 |
@@ -89,9 +90,9 @@ Generated: 2026-07-01T21:24:04.589Z
 
 | Value | Count |
 | --- | --- |
+| 2010 | 5 |
 | 2013 | 5 |
 | 2023 | 5 |
-| 2010 | 4 |
 | 2006 | 3 |
 | 2009 | 3 |
 | 2025 | 3 |
@@ -113,7 +114,7 @@ Generated: 2026-07-01T21:24:04.589Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 27 |
+| metadata-only | 28 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -132,7 +133,7 @@ Generated: 2026-07-01T21:24:04.589Z
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 90 | 15 |
+| Relationships | 90.24 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
 | **Total** | **98.5** | **100** |
