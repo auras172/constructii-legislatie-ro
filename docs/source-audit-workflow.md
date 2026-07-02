@@ -47,7 +47,7 @@ Running the helper prints one audit record to stdout:
 | `slug` | The act slug passed on the command line |
 | `title` | `title` from the act's metadata file |
 | `source_url` / `official_detail_url` / `fetched_url` | The URLs recorded in metadata, and which one was actually fetched |
-| `authority` | Source classification: `Portal Legislativ`, `MDLPA`, `ISCIR`, `ANRE`, or `other` |
+| `authority` | Source classification: `Portal Legislativ`, `Monitorul Oficial`, `MDLPA`, `ISCIR`, `ANRE`, or `other` |
 | `http_status` | HTTP status code returned by the fetch |
 | `content_type` | The response's `content-type` header |
 | `byte_size` | Size in bytes of the fetched response body |
@@ -81,6 +81,36 @@ record and then exits with a non-zero status.
    [`docs/ai-contract.md`](ai-contract.md) — in particular, any full-text
    import still requires a reviewer to spot-check article text against the
    official source.
+
+## Pull request automation
+
+The repository also runs this helper automatically in GitHub Actions.
+
+Workflow: `.github/workflows/source-audit.yml`
+
+The workflow runs on pull requests that change:
+
+- `metadata/acts/*.json`
+- `scripts/audit-source-url.mjs`
+- `.github/workflows/source-audit.yml`
+
+For each added or modified metadata file in a pull request, the workflow:
+
+1. determines the changed `metadata/acts/*.json` files;
+2. verifies that the selected source URL belongs to an approved official-source
+   hostname (`legislatie.just.ro`, `monitoruloficial.ro`, `mdlpa.ro`,
+   `iscir.ro`, or `anre.ro`);
+3. runs `node scripts/audit-source-url.mjs <slug>`;
+4. fails the pull request check if the URL is missing, the hostname is outside
+   the automated-audit allowlist, the fetch fails, or the HTTP status is not
+   successful.
+
+If a pull request does not change any metadata files, the workflow exits
+successfully without running source audits.
+
+This automation is a gate for fetch-level evidence only. It does not make the
+source legally authoritative, does not import text, and does not replace human
+review.
 
 ## Boundaries
 

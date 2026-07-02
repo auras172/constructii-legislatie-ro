@@ -26,6 +26,7 @@ function classifyAuthority(url) {
   }
 
   if (hostname === 'legislatie.just.ro') return 'Portal Legislativ'
+  if (hostname === 'monitoruloficial.ro' || hostname.endsWith('.monitoruloficial.ro')) return 'Monitorul Oficial'
   if (hostname === 'mdlpa.ro' || hostname.endsWith('.mdlpa.ro')) return 'MDLPA'
   if (hostname === 'iscir.ro' || hostname.endsWith('.iscir.ro')) return 'ISCIR'
   if (hostname === 'anre.ro' || hostname.endsWith('.anre.ro')) return 'ANRE'
