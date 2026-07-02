@@ -1,0 +1,1 @@
+$(view_text_website "https://legislatie.just.ro/Public/DetaliiDocumentAfis/160289")
