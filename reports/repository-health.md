@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-02T17:15:24.553Z
+Generated: 2026-07-02T19:31:59.701Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-07-02T17:15:24.553Z
 | Full-text acts | 13 |
 | Metadata-only acts | 35 |
 | Import log files | 48 |
-| Total relationship links | 85 |
+| Total relationship links | 86 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -49,7 +49,7 @@ Generated: 2026-07-02T17:15:24.553Z
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-c1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -135,16 +135,16 @@ Generated: 2026-07-02T17:15:24.553Z
 
 ## Health Score
 
-**Score: 99.4 / 100**
+**Score: 99.7 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 95.83 | 15 |
+| Relationships | 97.92 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
-| **Total** | **99.4** | **100** |
+| **Total** | **99.7** | **100** |
 
 ### Formula
 
@@ -159,4 +159,3 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 ## Warnings
 
 - **[missing_relationships]** `lege-64-2008`: No relationship links (related_acts/implements/amends/amended_by)
-- **[missing_relationships]** `normativ-p118-3-2015`: No relationship links (related_acts/implements/amends/amended_by)

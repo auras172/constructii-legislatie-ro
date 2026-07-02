@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:15:24.553Z",
+  "generated_at": "2026-07-02T19:31:59.701Z",
   "summary": {
     "total_metadata_entries": 48,
     "total_full_text_acts": 13,
     "total_metadata_only_acts": 35,
     "total_import_logs": 48,
-    "total_relationship_links": 85,
+    "total_relationship_links": 86,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -295,7 +295,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -498,11 +498,11 @@
     }
   },
   "health_score": {
-    "score": 99.4,
+    "score": 99.7,
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 95.83,
+      "relationships": 97.92,
       "official_markers": 100,
       "provenance": 100
     },
@@ -512,11 +512,6 @@
     {
       "type": "missing_relationships",
       "slug": "lege-64-2008",
-      "message": "No relationship links (related_acts/implements/amends/amended_by)"
-    },
-    {
-      "type": "missing_relationships",
-      "slug": "normativ-p118-3-2015",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     }
   ]
