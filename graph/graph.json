@@ -206,6 +206,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np086-2005",
+      "label": "NP 086-2005",
+      "type": "normativ",
+      "domain": "incendiu",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np133-2022",
       "label": "Normativ NP 133-2022",
       "type": "normativ",
@@ -762,6 +770,13 @@
       "evidence": "metadata/acts/normativ-p118-1-2025.json"
     },
     {
+      "source": "normativ-p118-2-2013",
+      "target": "normativ-np086-2005",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p118-2-2013.json"
+    },
+    {
       "source": "normativ-p130-2025",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -910,8 +925,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 47,
-    "confirmed_edges": 75,
+    "total_nodes": 48,
+    "confirmed_edges": 76,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -77,10 +77,15 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: active · metadata-only (698 pag., text integral nedisponibil în repo) · intrat în vigoare 08.05.2025
   - Import log: [import-log/2026-06-28-normativ-p118-1-2025.md](../import-log/2026-06-28-normativ-p118-1-2025.md)
 - [Normativ P 118/2-2013](./normativ-p118-2-2013.md)
-  - Domain: incendiu (instalații de stingere) · Related: none source-backed
+  - Domain: incendiu (instalații de stingere) · Related: NP 086-2005 (abrogat de acest act)
   - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28), poziția XXVIII-15) — O.M.D.R.A.P. nr. 2.463/08.08.2013
-  - Status: active · metadata-only · publicat în M.Of. nr. 595 bis/24.09.2013 · modificat prin O.M.D.R.A.P. nr. 6026/25.10.2018 · effective date neconfirmată · abrogă NP 086-2005
+  - Status: active · metadata-only · publicat în M.Of. nr. 595 bis/24.09.2013 · modificat prin O.M.D.R.A.P. nr. 6026/25.10.2018 · effective date neconfirmată · abrogă NP 086-2005 (relație promovată 2026-07-02, `amends`/`related_acts`)
   - Import log: [import-log/2026-07-01-normativ-p118-2-2013.md](../import-log/2026-07-01-normativ-p118-2-2013.md)
+- [NP 086-2005](./normativ-np086-2005.md)
+  - Domain: incendiu (instalații de stingere) · Related: none · Amended by: Normativ P 118/2-2013
+  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/62176](https://legislatie.just.ro/Public/DetaliiDocumentAfis/62176)) — Ordinul MTCT nr. 217/17.02.2005; abrogare confirmată încrucișat prin Ordinul MDRAP nr. 2.463/2013 ([DetaliiDocumentAfis/151521](https://legislatie.just.ro/Public/DetaliiDocumentAfis/151521), Art. 3) și MDLPA reglementare28
+  - Status: repealed · metadata-only · publicat în M.Of. nr. 479/07.06.2005 · intrat în vigoare 07.07.2005 (Art. 2: 30 zile de la publicare) · abrogat de P 118/2-2013
+  - Import log: [import-log/2026-07-02-normativ-np086-2005.md](../import-log/2026-07-02-normativ-np086-2005.md)
 - [Normativ P 118/3-2015](./normativ-p118-3-2015.md)
   - Domain: incendiu (detectare, semnalizare și avertizare incendiu) · Related: none source-backed
   - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28), poziția XXVIII-16) — O.M.D.R.A.P. nr. 364/09.03.2015

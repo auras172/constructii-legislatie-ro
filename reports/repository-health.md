@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-02T17:00:39.816Z
+Generated: 2026-07-02T17:15:24.553Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 47 |
+| Total metadata entries | 48 |
 | Full-text acts | 13 |
-| Metadata-only acts | 34 |
-| Import log files | 47 |
-| Total relationship links | 82 |
+| Metadata-only acts | 35 |
+| Import log files | 48 |
+| Total relationship links | 85 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -43,11 +43,12 @@ Generated: 2026-07-02T17:00:39.816Z
 | normativ-np007-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np051-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -74,7 +75,7 @@ Generated: 2026-07-02T17:00:39.816Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 8 |
-| incendiu | 6 |
+| incendiu | 7 |
 | anre | 4 |
 | munca | 2 |
 | isc | 2 |
@@ -88,7 +89,7 @@ Generated: 2026-07-02T17:00:39.816Z
 
 | Value | Count |
 | --- | --- |
-| minister | 28 |
+| minister | 29 |
 | parlament | 9 |
 | guvern | 6 |
 | autoritate | 4 |
@@ -100,12 +101,12 @@ Generated: 2026-07-02T17:00:39.816Z
 | 2023 | 7 |
 | 2010 | 6 |
 | 2013 | 6 |
+| 2005 | 3 |
 | 2006 | 3 |
 | 2009 | 3 |
 | 2025 | 3 |
 | 2001 | 2 |
 | 2004 | 2 |
-| 2005 | 2 |
 | 2008 | 2 |
 | 2022 | 2 |
 | 2024 | 2 |
@@ -121,7 +122,7 @@ Generated: 2026-07-02T17:00:39.816Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 34 |
+| metadata-only | 35 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -134,16 +135,16 @@ Generated: 2026-07-02T17:00:39.816Z
 
 ## Health Score
 
-**Score: 99 / 100**
+**Score: 99.4 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 93.62 | 15 |
+| Relationships | 95.83 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
-| **Total** | **99** | **100** |
+| **Total** | **99.4** | **100** |
 
 ### Formula
 
@@ -158,5 +159,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 ## Warnings
 
 - **[missing_relationships]** `lege-64-2008`: No relationship links (related_acts/implements/amends/amended_by)
-- **[missing_relationships]** `normativ-p118-2-2013`: No relationship links (related_acts/implements/amends/amended_by)
 - **[missing_relationships]** `normativ-p118-3-2015`: No relationship links (related_acts/implements/amends/amended_by)
