@@ -20,7 +20,8 @@ tags:
   - normativ-tehnic
   - mdlpa
   - p118
-related_acts: []
+related_acts:
+  - lege-307-2006
 import_method: metadata-only
 ---
 
@@ -58,7 +59,9 @@ Tabelul MDLPA afișează pentru rândul XXVIII-16 formularea „Partea a II-a - 
 
 ## Relații modelate
 
-Nu au fost adăugate relații repo-locale. Verificarea PDF-ului oficial și a rândului MDLPA nu a identificat citări explicite către `lege-307-2006`, `lege-10-1995`, `normativ-p118-1-2025`, `normativ-p118-2-2013` sau alte acte urmărite în repo. Familia P 118 și domeniul de securitate la incendiu nu sunt suficiente pentru o relație de graf.
+- `lege-307-2006` — relație promovată prin corecția din 2026-07-02: Legea 307/2006 art. 6 alin. (5), în textul oficial importat în repo, citează explicit P 118/3-2015.
+
+Nu au fost adăugate relații către `lege-10-1995`, `normativ-p118-1-2025`, `normativ-p118-2-2013` sau alte acte pe baza familiei P 118 ori a domeniului comun de securitate la incendiu.
 
 ## Caveat privind modificarea din 2018
 

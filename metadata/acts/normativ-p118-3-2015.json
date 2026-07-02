@@ -20,5 +20,5 @@
   "import_method": "metadata-only",
   "rights_note": "Normativ tehnic MDLPA, Domeniul XXVIII, intrarea XXVIII-16, aprobat prin O.M.D.R.A.P. nr. 364/09.03.2015 și publicat în Monitorul Oficial al României, Partea I, nr. 243 bis din 09.04.2015. Pagina MDLPA notează modificarea prin O.M.D.R.A.P. nr. 6025/25.10.2018, publicată în M.Of. nr. 977/19.11.2018, și încetarea aplicabilității I 18/2-2002, precum și a oricăror dispoziții contrare. Tabelul MDLPA etichetează titlul ca Partea a II-a, dar PDF-ul oficial linkuit are pagina de titlu Partea a III-a; titlul canonic folosește PDF-ul oficial. PDF-ul oficial MDLPA a fost verificat HTTP 200 la 2026-07-01; metadata-only — textul integral nu este importat în acest repo. Nu a fost identificată în sursa MDLPA o dată explicită de intrare în vigoare; câmpul effective_date este omis.",
   "tags": ["securitate-incendiu", "detectare-incendiu", "semnalizare-incendiu", "avertizare-incendiu", "constructii", "normativ-tehnic", "mdlpa", "p118"],
-  "related_acts": []
+  "related_acts": ["lege-307-2006"]
 }

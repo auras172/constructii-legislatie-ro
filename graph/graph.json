@@ -777,6 +777,13 @@
       "evidence": "metadata/acts/normativ-p118-2-2013.json"
     },
     {
+      "source": "normativ-p118-3-2015",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-p118-3-2015.json"
+    },
+    {
       "source": "normativ-p130-2025",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -926,7 +933,7 @@
   ],
   "stats": {
     "total_nodes": 48,
-    "confirmed_edges": 76,
+    "confirmed_edges": 77,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
