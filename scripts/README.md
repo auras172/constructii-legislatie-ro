@@ -60,6 +60,10 @@ not parse official text into Markdown.
 Warning: this helper does not import official text and does not certify legal
 accuracy. It only records fetch-level evidence for a single source URL.
 
+See [`docs/source-audit-workflow.md`](../docs/source-audit-workflow.md) for
+when to run this helper before source-backed import work, what to record in
+the PR/import-log, and its full boundaries and non-goals.
+
 ## repository-health-report.mjs
 
 ```sh
