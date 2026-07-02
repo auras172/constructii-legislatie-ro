@@ -1,0 +1,23 @@
+{
+  "title": "Normativ pentru producerea şi executarea lucrărilor din beton, beton armat şi beton precomprimat - Partea 2: Executarea lucrărilor din beton, indicativ NE 012/2-2010",
+  "short_title": "NE 012/2-2010",
+  "canonical_citation": "NE 012/2-2010",
+  "type": "normativ",
+  "number": "2514",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["beton", "beton-armat", "beton-precomprimat", "executarea-lucrarilor-din-beton", "executie"],
+  "status": "repealed",
+  "publication_date": "2010-12-20",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-07-02",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare4",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/263990",
+  "import_method": "metadata-only",
+  "rights_note": "Aprobat prin Ordinul ministrului dezvoltării regionale şi turismului nr. 2.514/2010, publicat în M.Of. nr. 853 şi 853 bis din 20 decembrie 2010; identitatea ordinului şi referinţa M.Of. sunt confirmate de art. 4 al Ordinului MDLPA nr. 28/2023 (Portal Legislativ, DetaliiDocument/263990). Abrogat: pagina MDLPA reglementare4 (poziţia IV-40, NE 012/2-2022) notează că la data intrării în vigoare a NE 012/2-2022 (18 februarie 2023) normativul NE 012/2-2010 se abrogă. Pagină Portal Legislativ dedicată Ordinului nr. 2.514/2010 nu a fost identificată; data emiterii ordinului şi clauza de intrare în vigoare nu sunt confirmate de o sursă primară, deci issue_date şi effective_date sunt omise. Metadata-only — textul integral nu este importat în acest repo.",
+  "tags": ["beton", "beton-armat", "beton-precomprimat", "executare-lucrari-beton", "normativ-tehnic", "mdlpa", "ne012"],
+  "related_acts": ["normativ-ne012-1-2007"]
+}
