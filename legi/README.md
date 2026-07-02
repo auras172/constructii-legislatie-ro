@@ -106,6 +106,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 663/12.04.2010
   - Status: active · metadata-only · publicat în M.Of. nr. 385 și 385 bis/10.06.2010 · intră în vigoare 10.07.2010 · înlocuiește PT C 4/1-2003 · modificat punctual prin O.M.E. nr. 557/2014
   - Import log: [import-log/2026-06-30-normativ-pt-c4-2010.md](../import-log/2026-06-30-normativ-pt-c4-2010.md)
+- [Prescripție Tehnică PT C 6-2010](./normativ-pt-c6-2010.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 663/12.04.2010; PDF combinat (496 pagini) descărcat și verificat integral (pagina 199, Anexa nr. 3)
+  - Status: active · metadata-only · publicat în M.Of. nr. 385 și 385 bis/10.06.2010 · intră în vigoare 10.07.2010 · înlocuiește PT C 6-2003 · Ordinul 557/2014 verificat direct și NU modifică anexa PT C 6 (doar anexele 2 și 5, contrazice un rezumat automat inițial)
+  - Import log: [import-log/2026-07-02-normativ-pt-c6-2010.md](../import-log/2026-07-02-normativ-pt-c6-2010.md)
 - [Prescripție Tehnică PT R 2-2010](./normativ-pt-r2-2010.md)
   - Domain: iscir · Related: Legea 10/1995
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010

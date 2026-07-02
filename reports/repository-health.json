@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T12:31:47.693Z",
+  "generated_at": "2026-07-02T16:48:38.813Z",
   "summary": {
-    "total_metadata_entries": 46,
+    "total_metadata_entries": 47,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 33,
-    "total_import_logs": 46,
-    "total_relationship_links": 80,
+    "total_metadata_only_acts": 34,
+    "total_import_logs": 47,
+    "total_relationship_links": 81,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -326,6 +326,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-pt-c6-2010",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "normativ-pt-cr4-2009",
       "full_text": false,
       "metadata": true,
@@ -436,13 +445,13 @@
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
-      "iscir": 7,
+      "iscir": 8,
       "anre": 4
     },
     "issuers": {
       "guvern": 6,
       "parlament": 9,
-      "minister": 27,
+      "minister": 28,
       "autoritate": 4
     },
     "publication_years": {
@@ -454,7 +463,7 @@
       "2006": 3,
       "2008": 2,
       "2009": 3,
-      "2010": 5,
+      "2010": 6,
       "2011": 1,
       "2013": 6,
       "2015": 1,
@@ -469,7 +478,7 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 33,
+      "metadata-only": 34,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
@@ -484,7 +493,7 @@
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 93.48,
+      "relationships": 93.62,
       "official_markers": 100,
       "provenance": 100
     },

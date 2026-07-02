@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-02T12:31:47.693Z
+Generated: 2026-07-02T16:48:38.813Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 46 |
+| Total metadata entries | 47 |
 | Full-text acts | 13 |
-| Metadata-only acts | 33 |
-| Import log files | 46 |
-| Total relationship links | 80 |
+| Metadata-only acts | 34 |
+| Import log files | 47 |
+| Total relationship links | 81 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -53,6 +53,7 @@ Generated: 2026-07-02T12:31:47.693Z
 | normativ-pt-a1-2010 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-pt-c1-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-c4-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-pt-c6-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -72,7 +73,7 @@ Generated: 2026-07-02T12:31:47.693Z
 | Value | Count |
 | --- | --- |
 | calitate | 17 |
-| iscir | 7 |
+| iscir | 8 |
 | incendiu | 6 |
 | anre | 4 |
 | munca | 2 |
@@ -87,7 +88,7 @@ Generated: 2026-07-02T12:31:47.693Z
 
 | Value | Count |
 | --- | --- |
-| minister | 27 |
+| minister | 28 |
 | parlament | 9 |
 | guvern | 6 |
 | autoritate | 4 |
@@ -97,8 +98,8 @@ Generated: 2026-07-02T12:31:47.693Z
 | Value | Count |
 | --- | --- |
 | 2023 | 7 |
+| 2010 | 6 |
 | 2013 | 6 |
-| 2010 | 5 |
 | 2006 | 3 |
 | 2009 | 3 |
 | 2025 | 3 |
@@ -120,7 +121,7 @@ Generated: 2026-07-02T12:31:47.693Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 33 |
+| metadata-only | 34 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -139,7 +140,7 @@ Generated: 2026-07-02T12:31:47.693Z
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 93.48 | 15 |
+| Relationships | 93.62 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
 | **Total** | **99** | **100** |
