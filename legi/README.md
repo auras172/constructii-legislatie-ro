@@ -227,6 +227,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), intrarea I-21) — O.M.D.L.P.A. nr. 171/01.02.2023
   - Status: active · metadata-only · publicat în M.Of. nr. 104 și 104 bis/07.02.2023 · intrat în vigoare 09.03.2023 · abrogă CR 2-1-1.1/2013
   - Import log: [import-log/2026-06-29-normativ-cr2-1-1-1-2022.md](../import-log/2026-06-29-normativ-cr2-1-1-1-2022.md)
+- [OG 63/2001](./og-63-2001.md)
+  - Domain: isc (înființarea Inspectoratului de Stat în Construcții) · Related: Legea 10/1995
+  - Official source checked: Portal Legislativ ([DetaliiDocument/30389](https://legislatie.just.ro/Public/DetaliiDocument/30389), formă consolidată, ultima consolidare 23.07.2021); ISC ([legislatie_1.html](https://isc.gov.ro/legislatie_1.html)) confirmă că actul rămâne baza legală curentă, folosită doar ca dovadă suplimentară
+  - Status: active · metadata-only · publicat în M.Of. nr. 536/01.09.2001 · intrat în vigoare 01.10.2001 (Art. 9: 30 zile de la publicare) · Art. 3 abrogat de OUG 16/2012, restul actului activ
+  - Import log: [import-log/2026-07-02-og-63-2001.md](../import-log/2026-07-02-og-63-2001.md)
 
 ## Naming convention proposal
 

@@ -302,6 +302,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "og-63-2001",
+      "label": "OG 63/2001",
+      "type": "ordonanta",
+      "domain": "isc",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
@@ -786,6 +794,13 @@
       "evidence": "metadata/acts/normativ-pt-r2-2010.json"
     },
     {
+      "source": "og-63-2001",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/og-63-2001.json"
+    },
+    {
       "source": "ordin-839-2009",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -843,8 +858,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 43,
-    "confirmed_edges": 70,
+    "total_nodes": 44,
+    "confirmed_edges": 71,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

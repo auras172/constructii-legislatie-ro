@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-02T07:28:16.840Z",
+  "generated_at": "2026-07-02T07:48:54.793Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,16 +15,17 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 43,
+    "acts_total": 44,
     "acts_full_text": 13,
-    "acts_metadata_only": 30,
+    "acts_metadata_only": 31,
     "article_anchors_total": 799,
-    "import_logs_total": 44,
+    "import_logs_total": 45,
     "domains": [
       "anre",
       "autorizatii",
       "calitate",
       "incendiu",
+      "isc",
       "iscir",
       "mediu",
       "munca",
@@ -41,7 +42,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 70,
+    "confirmed_relationships": 71,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -544,6 +545,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-pt-r2-2010.md",
       "metadata_file": "metadata/acts/normativ-pt-r2-2010.json"
+    },
+    {
+      "slug": "og-63-2001",
+      "title": "Ordonanţa Guvernului nr. 63 din 30 august 2001 privind înfiinţarea Inspectoratului de Stat în Construcţii - I.S.C.",
+      "short_title": "OG 63/2001",
+      "type": "ordonanta",
+      "domain": "isc",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/og-63-2001.md",
+      "metadata_file": "metadata/acts/og-63-2001.json"
     },
     {
       "slug": "ordin-839-2009",
