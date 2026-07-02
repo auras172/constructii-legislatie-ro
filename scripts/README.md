@@ -40,6 +40,26 @@ node scripts/check-official-text-integrity.mjs
 
 For every JSON file under `metadata/acts/`, skips acts with `import_method: "metadata-only"` and verifies that all full-text imported acts have: a corresponding `legi/<slug>.md` file, exactly one `OFFICIAL_TEXT_START` and one `OFFICIAL_TEXT_END` marker in the correct order, and a non-empty import log file under `import-log/` matching the slug. Exits with code 1 if any check fails — a failure means a full-text act is missing its official text markers or import record.
 
+## audit-source-url.mjs
+
+```sh
+node scripts/audit-source-url.mjs <slug>
+node scripts/audit-source-url.mjs <slug> --official-detail
+```
+
+Reads one metadata file from `metadata/acts/<slug>.json`, fetches its `source_url`
+(or `official_detail_url` with `--official-detail`), and prints a small audit
+record: slug, title, URL, HTTP status, content type, byte size, SHA-256 hash, and
+whether the URL belongs to Portal Legislativ, MDLPA, ISCIR, ANRE, or another
+source.
+
+Fetched bodies are saved only under `/tmp/constructii-source-audit/<slug>/`.
+The script never writes to `legi/`, `metadata/`, or `import-log/`, and it does
+not parse official text into Markdown.
+
+Warning: this helper does not import official text and does not certify legal
+accuracy. It only records fetch-level evidence for a single source URL.
+
 ## repository-health-report.mjs
 
 ```sh
