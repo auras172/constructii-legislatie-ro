@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T07:48:54.721Z",
+  "generated_at": "2026-07-02T07:57:53.425Z",
   "summary": {
-    "total_metadata_entries": 44,
+    "total_metadata_entries": 45,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 31,
-    "total_import_logs": 44,
-    "total_relationship_links": 76,
+    "total_metadata_only_acts": 32,
+    "total_import_logs": 45,
+    "total_relationship_links": 77,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -26,6 +26,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 4,
+      "provenance": true
+    },
+    {
+      "slug": "hg-525-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -411,6 +420,7 @@
     "domains": {
       "munca": 2,
       "receptie": 1,
+      "isc": 2,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 6,
@@ -418,11 +428,10 @@
       "nzeb": 2,
       "autorizatii": 2,
       "iscir": 7,
-      "isc": 1,
       "anre": 3
     },
     "issuers": {
-      "guvern": 5,
+      "guvern": 6,
       "parlament": 9,
       "minister": 27,
       "autoritate": 3
@@ -438,7 +447,7 @@
       "2009": 3,
       "2010": 5,
       "2011": 1,
-      "2013": 5,
+      "2013": 6,
       "2015": 1,
       "2017": 1,
       "2018": 1,
@@ -451,22 +460,22 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
+      "metadata-only": 32,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 31,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
     }
   },
   "health_score": {
-    "score": 98.6,
+    "score": 98.7,
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 90.91,
+      "relationships": 91.11,
       "official_markers": 100,
       "provenance": 100
     },
