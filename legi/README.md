@@ -162,6 +162,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4), poziţia IV-40) confirmă abrogarea prin NE 012/2-2022; Portal Legislativ ([DetaliiDocument/263990](https://legislatie.just.ro/Public/DetaliiDocument/263990), Ordinul MDLPA nr. 28/2023, art. 4) confirmă Ordinul MDRT nr. 2.514/2010 şi M.Of. nr. 853 şi 853 bis/20.12.2010
   - Status: repealed · metadata-only · publicat în M.Of. nr. 853 şi 853 bis/20.12.2010 · abrogat la 18.02.2023 · issue/effective date neconfirmate din sursă primară
   - Import log: [import-log/2026-07-02-normativ-ne012-2-2010.md](../import-log/2026-07-02-normativ-ne012-2-2010.md)
+- [Normativ NE 012/1-2022](./normativ-ne012-1-2022.md)
+  - Domain: calitate (beton, producerea betonului) · Related: NE 012/1-2007 (abrogat de acest act), Legea 10/1995
+  - Official source checked: Portal Legislativ ([DetaliiDocument/264039](https://legislatie.just.ro/Public/DetaliiDocument/264039), Ordinul MDLPA nr. 30/2023, art. 2 şi art. 4); MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4), poziţia IV-39) declară explicit data intrării în vigoare
+  - Status: active · metadata-only · publicat în M.Of. nr. 53 şi 53 bis/19.01.2023 · intrat în vigoare 20.04.2023 (dată declarată de MDLPA; calcul literal al regulii de 90 zile dă 19.04.2023 — diferenţă neinvestigată) · abrogă NE 012/1-2007 · NE 012/2-2022 out of scope
+  - Import log: [import-log/2026-07-02-normativ-ne012-1-2022.md](../import-log/2026-07-02-normativ-ne012-1-2022.md)
 - [Normativ P 100-1/2013](./normativ-p100-1-2013.md)
   - Domain: calitate (proiectare seismică) · Related: Legea 10/1995, Legea 50/1991
   - Official source checked: MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1), poziția I-22) — O.M.D.R.A.P. nr. 2.465/08.08.2013; completare O.M.D.R.A.P. nr. 2.956/18.11.2019
