@@ -1,17 +1,17 @@
 # Repository Health Report
 
-Generated: 2026-07-02T07:28:16.767Z
+Generated: 2026-07-02T07:48:54.721Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 43 |
+| Total metadata entries | 44 |
 | Full-text acts | 13 |
-| Metadata-only acts | 30 |
-| Import log files | 43 |
-| Total relationship links | 75 |
-| Unique domains | 10 |
+| Metadata-only acts | 31 |
+| Import log files | 44 |
+| Total relationship links | 76 |
+| Unique domains | 11 |
 | Unique issuers | 4 |
 
 ## Coverage Matrix
@@ -55,6 +55,7 @@ Generated: 2026-07-02T07:28:16.767Z
 | normativ-pt-cr4-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-cr8-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -78,6 +79,7 @@ Generated: 2026-07-02T07:28:16.767Z
 | autorizatii | 2 |
 | receptie | 1 |
 | urbanism | 1 |
+| isc | 1 |
 
 ### Issuers
 
@@ -85,7 +87,7 @@ Generated: 2026-07-02T07:28:16.767Z
 | --- | --- |
 | minister | 27 |
 | parlament | 9 |
-| guvern | 4 |
+| guvern | 5 |
 | autoritate | 3 |
 
 ### Publication Years
@@ -98,13 +100,13 @@ Generated: 2026-07-02T07:28:16.767Z
 | 2006 | 3 |
 | 2009 | 3 |
 | 2025 | 3 |
+| 2001 | 2 |
 | 2004 | 2 |
 | 2005 | 2 |
 | 2008 | 2 |
 | 2022 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
-| 2001 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
 | 2017 | 1 |
@@ -116,7 +118,7 @@ Generated: 2026-07-02T07:28:16.767Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 30 |
+| metadata-only | 31 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -135,7 +137,7 @@ Generated: 2026-07-02T07:28:16.767Z
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 90.7 | 15 |
+| Relationships | 90.91 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
 | **Total** | **98.6** | **100** |

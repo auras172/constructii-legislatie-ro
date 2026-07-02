@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-02T07:28:16.767Z",
+  "generated_at": "2026-07-02T07:48:54.721Z",
   "summary": {
-    "total_metadata_entries": 43,
+    "total_metadata_entries": 44,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 30,
-    "total_import_logs": 43,
-    "total_relationship_links": 75,
-    "total_unique_domains": 10,
+    "total_metadata_only_acts": 31,
+    "total_import_logs": 44,
+    "total_relationship_links": 76,
+    "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
   "coverage": [
@@ -344,6 +344,15 @@
       "provenance": true
     },
     {
+      "slug": "og-63-2001",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "ordin-839-2009",
       "full_text": true,
       "metadata": true,
@@ -409,10 +418,11 @@
       "nzeb": 2,
       "autorizatii": 2,
       "iscir": 7,
+      "isc": 1,
       "anre": 3
     },
     "issuers": {
-      "guvern": 4,
+      "guvern": 5,
       "parlament": 9,
       "minister": 27,
       "autoritate": 3
@@ -420,7 +430,7 @@
     "publication_years": {
       "1991": 1,
       "1995": 1,
-      "2001": 1,
+      "2001": 2,
       "2004": 2,
       "2005": 2,
       "2006": 3,
@@ -445,7 +455,7 @@
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "metadata-only": 30,
+      "metadata-only": 31,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "full-text": 1
@@ -456,7 +466,7 @@
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 90.7,
+      "relationships": 90.91,
       "official_markers": 100,
       "provenance": 100
     },
