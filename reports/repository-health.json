@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T07:57:53.425Z",
+  "generated_at": "2026-07-02T12:31:47.693Z",
   "summary": {
-    "total_metadata_entries": 45,
+    "total_metadata_entries": 46,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 32,
-    "total_import_logs": 45,
-    "total_relationship_links": 77,
+    "total_metadata_only_acts": 33,
+    "total_import_logs": 46,
+    "total_relationship_links": 80,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -376,7 +376,16 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-anre-60-2024",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -428,13 +437,13 @@
       "nzeb": 2,
       "autorizatii": 2,
       "iscir": 7,
-      "anre": 3
+      "anre": 4
     },
     "issuers": {
       "guvern": 6,
       "parlament": 9,
       "minister": 27,
-      "autoritate": 3
+      "autoritate": 4
     },
     "publication_years": {
       "1991": 1,
@@ -454,13 +463,13 @@
       "2019": 1,
       "2022": 2,
       "2023": 7,
-      "2024": 1,
+      "2024": 2,
       "2025": 3
     },
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 32,
+      "metadata-only": 33,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
@@ -471,11 +480,11 @@
     }
   },
   "health_score": {
-    "score": 98.7,
+    "score": 99,
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 91.11,
+      "relationships": 93.48,
       "official_markers": 100,
       "provenance": 100
     },
@@ -495,11 +504,6 @@
     {
       "type": "missing_relationships",
       "slug": "normativ-p118-3-2015",
-      "message": "No relationship links (related_acts/implements/amends/amended_by)"
-    },
-    {
-      "type": "missing_relationships",
-      "slug": "ordin-anre-59-2013",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     }
   ]
