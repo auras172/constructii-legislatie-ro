@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-02T16:48:38.813Z
+Generated: 2026-07-02T17:00:39.816Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-07-02T16:48:38.813Z
 | Full-text acts | 13 |
 | Metadata-only acts | 34 |
 | Import log files | 47 |
-| Total relationship links | 81 |
+| Total relationship links | 82 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -59,7 +59,7 @@ Generated: 2026-07-02T16:48:38.813Z
 | normativ-pt-r2-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
