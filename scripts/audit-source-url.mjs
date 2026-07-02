@@ -26,9 +26,15 @@ function classifyAuthority(url) {
   }
 
   if (hostname === 'legislatie.just.ro') return 'Portal Legislativ'
+  if (hostname === 'monitoruloficial.ro' || hostname.endsWith('.monitoruloficial.ro')) return 'Monitorul Oficial'
   if (hostname === 'mdlpa.ro' || hostname.endsWith('.mdlpa.ro')) return 'MDLPA'
   if (hostname === 'iscir.ro' || hostname.endsWith('.iscir.ro')) return 'ISCIR'
   if (hostname === 'anre.ro' || hostname.endsWith('.anre.ro')) return 'ANRE'
+  if (hostname === 'igsu.ro' || hostname.endsWith('.igsu.ro')) return 'IGSU'
+  if (hostname === 'asro.ro' || hostname.endsWith('.asro.ro')) return 'ASRO'
+  if (hostname === 'mmediu.ro' || hostname.endsWith('.mmediu.ro')) return 'Ministerul Mediului'
+  if (hostname === 'anap.gov.ro' || hostname.endsWith('.anap.gov.ro')) return 'ANAP'
+  if (hostname === 'isc.gov.ro' || hostname.endsWith('.isc.gov.ro')) return 'ISC'
   return 'other'
 }
 
