@@ -14,11 +14,12 @@
   "publication_date": "2013-09-24",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-01",
+  "last_checked": "2026-07-02",
   "source_url": "https://www.mdlpa.ro/pages/reglementare28",
   "official_detail_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXVIII/28_15_P118_2_2013.pdf",
   "import_method": "metadata-only",
-  "rights_note": "Normativ tehnic MDLPA, Domeniul XXVIII, intrarea XXVIII-15, aprobat prin O.M.D.R.A.P. nr. 2.463/08.08.2013 și publicat în Monitorul Oficial al României, Partea I, nr. 595 bis din 24.09.2013. Pagina MDLPA notează modificarea prin O.M.D.R.A.P. nr. 6026/25.10.2018, publicată în M.Of. nr. 966/15.11.2018, și abrogarea NP 086-2005. PDF-ul oficial MDLPA a fost verificat HTTP 200 la 2026-07-01; metadata-only — textul integral nu este importat în acest repo. Nu a fost identificată în sursa MDLPA o dată explicită de intrare în vigoare; câmpul effective_date este omis.",
+  "rights_note": "Normativ tehnic MDLPA, Domeniul XXVIII, intrarea XXVIII-15, aprobat prin O.M.D.R.A.P. nr. 2.463/08.08.2013 și publicat în Monitorul Oficial al României, Partea I, nr. 595 bis din 24.09.2013. Pagina MDLPA notează modificarea prin O.M.D.R.A.P. nr. 6026/25.10.2018, publicată în M.Of. nr. 966/15.11.2018, și abrogarea NP 086-2005. PDF-ul oficial MDLPA a fost verificat HTTP 200 la 2026-07-01; metadata-only — textul integral nu este importat în acest repo. Nu a fost identificată în sursa MDLPA o dată explicită de intrare în vigoare; câmpul effective_date este omis. ACTUALIZARE 2026-07-02: relația de abrogare cu NP 086-2005 a fost promovată în metadata (related_acts, amends) după import-ul actului `normativ-np086-2005`, confirmată direct la Art. 3 din Ordinul MDRAP nr. 2.463/2013 (Portal Legislativ, DetaliiDocumentAfis/151521): 'La data intrării în vigoare a prezentului ordin, Ordinul ... nr. 217/2005 ... indicativ NP 086-2005 ... se abrogă.' Vezi import-log/2026-07-02-normativ-np086-2005.md.",
   "tags": ["securitate-incendiu", "instalatii-stingere", "constructii", "normativ-tehnic", "mdlpa", "p118"],
-  "related_acts": []
+  "related_acts": ["normativ-np086-2005"],
+  "amends": ["normativ-np086-2005"]
 }

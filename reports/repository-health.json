@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:00:39.816Z",
+  "generated_at": "2026-07-02T17:15:24.553Z",
   "summary": {
-    "total_metadata_entries": 47,
+    "total_metadata_entries": 48,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 34,
-    "total_import_logs": 47,
-    "total_relationship_links": 82,
+    "total_metadata_only_acts": 35,
+    "total_import_logs": 48,
+    "total_relationship_links": 85,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -236,6 +236,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-np086-2005",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "normativ-np133-2022",
       "full_text": false,
       "metadata": true,
@@ -277,7 +286,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -441,7 +450,7 @@
       "isc": 2,
       "calitate": 17,
       "mediu": 2,
-      "incendiu": 6,
+      "incendiu": 7,
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
@@ -451,7 +460,7 @@
     "issuers": {
       "guvern": 6,
       "parlament": 9,
-      "minister": 28,
+      "minister": 29,
       "autoritate": 4
     },
     "publication_years": {
@@ -459,7 +468,7 @@
       "1995": 1,
       "2001": 2,
       "2004": 2,
-      "2005": 2,
+      "2005": 3,
       "2006": 3,
       "2008": 2,
       "2009": 3,
@@ -478,7 +487,7 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 34,
+      "metadata-only": 35,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
@@ -489,11 +498,11 @@
     }
   },
   "health_score": {
-    "score": 99,
+    "score": 99.4,
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 93.62,
+      "relationships": 95.83,
       "official_markers": 100,
       "provenance": 100
     },
@@ -503,11 +512,6 @@
     {
       "type": "missing_relationships",
       "slug": "lege-64-2008",
-      "message": "No relationship links (related_acts/implements/amends/amended_by)"
-    },
-    {
-      "type": "missing_relationships",
-      "slug": "normativ-p118-2-2013",
       "message": "No relationship links (related_acts/implements/amends/amended_by)"
     },
     {
