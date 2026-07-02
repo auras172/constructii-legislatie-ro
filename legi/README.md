@@ -232,6 +232,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocument/30389](https://legislatie.just.ro/Public/DetaliiDocument/30389), formă consolidată, ultima consolidare 23.07.2021); ISC ([legislatie_1.html](https://isc.gov.ro/legislatie_1.html)) confirmă că actul rămâne baza legală curentă, folosită doar ca dovadă suplimentară
   - Status: active · metadata-only · publicat în M.Of. nr. 536/01.09.2001 · intrat în vigoare 01.10.2001 (Art. 9: 30 zile de la publicare) · Art. 3 abrogat de OUG 16/2012, restul actului activ
   - Import log: [import-log/2026-07-02-og-63-2001.md](../import-log/2026-07-02-og-63-2001.md)
+- [HG 525/2013](./hg-525-2013.md)
+  - Domain: isc (atribuții, structură organizatorică, posturi I.S.C.) · Related: OG 63/2001
+  - Official source checked: Portal Legislativ ([DetaliiDocument/150407](https://legislatie.just.ro/Public/DetaliiDocument/150407), formă consolidată, ultima consolidare 01.07.2024); ISC ([legislatie_1.html](https://isc.gov.ro/legislatie_1.html)) listează actul, folosit doar ca dovadă suplimentară
+  - Status: active · metadata-only · publicat în M.Of. nr. 487/02.08.2013 · fără clauză explicită de intrare în vigoare (effective_date omisă) · abrogă HG 1.211/2012 · nu citează Legea 10/1995 sau Legea 50/1991
+  - Import log: [import-log/2026-07-02-hg-525-2013.md](../import-log/2026-07-02-hg-525-2013.md)
 
 ## Naming convention proposal
 

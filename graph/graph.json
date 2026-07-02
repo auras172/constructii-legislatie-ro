@@ -22,6 +22,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-525-2013",
+      "label": "HG 525/2013",
+      "type": "hotarare",
+      "domain": "isc",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-10-1995",
       "label": "Legea 10/1995",
       "type": "lege",
@@ -400,6 +408,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "hg-525-2013",
+      "target": "og-63-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-525-2013.json"
     },
     {
       "source": "lege-10-1995",
@@ -858,8 +873,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 44,
-    "confirmed_edges": 71,
+    "total_nodes": 45,
+    "confirmed_edges": 72,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
