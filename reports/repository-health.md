@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-02T19:31:59.701Z
+Generated: 2026-07-03T07:26:46.511Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-07-02T19:31:59.701Z
 | Full-text acts | 13 |
 | Metadata-only acts | 35 |
 | Import log files | 48 |
-| Total relationship links | 86 |
+| Total relationship links | 91 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -29,7 +29,7 @@ Generated: 2026-07-02T19:31:59.701Z
 | lege-372-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
-| lege-64-2008 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| lege-64-2008 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-cr2-1-1-1-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-cr6-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -135,16 +135,16 @@ Generated: 2026-07-02T19:31:59.701Z
 
 ## Health Score
 
-**Score: 99.7 / 100**
+**Score: 100 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 97.92 | 15 |
+| Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
-| **Total** | **99.7** | **100** |
+| **Total** | **100** | **100** |
 
 ### Formula
 
@@ -158,4 +158,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 ## Warnings
 
-- **[missing_relationships]** `lege-64-2008`: No relationship links (related_acts/implements/amends/amended_by)
+No warnings — repository is clean.

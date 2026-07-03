@@ -574,6 +574,41 @@
       "evidence": "metadata/acts/lege-50-1991.json"
     },
     {
+      "source": "lege-64-2008",
+      "target": "normativ-pt-c1-2010",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-64-2008.json"
+    },
+    {
+      "source": "lege-64-2008",
+      "target": "normativ-pt-c4-2010",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-64-2008.json"
+    },
+    {
+      "source": "lege-64-2008",
+      "target": "normativ-pt-c6-2010",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-64-2008.json"
+    },
+    {
+      "source": "lege-64-2008",
+      "target": "normativ-pt-cr4-2009",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-64-2008.json"
+    },
+    {
+      "source": "lege-64-2008",
+      "target": "normativ-pt-cr8-2009",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-64-2008.json"
+    },
+    {
       "source": "metodologie-mc001-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -933,7 +968,7 @@
   ],
   "stats": {
     "total_nodes": 48,
-    "confirmed_edges": 77,
+    "confirmed_edges": 82,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
