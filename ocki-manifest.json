@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-03T07:38:30.393Z",
+  "generated_at": "2026-07-03T07:54:41.198Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 49,
+    "acts_total": 50,
     "acts_full_text": 13,
-    "acts_metadata_only": 36,
+    "acts_metadata_only": 37,
     "article_anchors_total": 799,
-    "import_logs_total": 50,
+    "import_logs_total": 51,
     "domains": [
       "anre",
       "autorizatii",
@@ -42,7 +42,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 83,
+    "confirmed_relationships": 84,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -545,6 +545,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-pt-c6-2010.md",
       "metadata_file": "metadata/acts/normativ-pt-c6-2010.json"
+    },
+    {
+      "slug": "normativ-pt-c7-2010",
+      "title": "Prescripție Tehnică PT C 7-2010 privind dispozitivele de siguranță",
+      "short_title": "PT C 7-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-pt-c7-2010.md",
+      "metadata_file": "metadata/acts/normativ-pt-c7-2010.json"
     },
     {
       "slug": "normativ-pt-cr4-2009",
