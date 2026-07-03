@@ -20,7 +20,13 @@
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90716",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90716",
   "import_method": "metadata-only",
-  "rights_note": "Legea nr. 64/21.03.2008, publicată în M.Of. nr. 240/27.03.2008; forma consolidată curentă pe Portal Legislativ este afișată la document ID 90716, cu republicare în M.Of. nr. 399/08.06.2015 și consolidare la 13.12.2023. Art. 29 prevede intrarea în vigoare la 90 de zile de la publicare; effective_date este calculată ca 2008-06-25 și documentată în import-log. Metadata-only — textul integral nu este importat în acest repo. PT CR 4-2009 și PT CR 8-2009 citează Legea 64/2008 ca bază legală explicită.",
+  "rights_note": "Legea nr. 64/21.03.2008, publicată în M.Of. nr. 240/27.03.2008; forma consolidată curentă pe Portal Legislativ este afișată la document ID 90716, cu republicare în M.Of. nr. 399/08.06.2015 și consolidare la 13.12.2023. Art. 29 prevede intrarea în vigoare la 90 de zile de la publicare; effective_date este calculată ca 2008-06-25 și documentată în import-log. Metadata-only — textul integral nu este importat în acest repo. PT CR 4-2009, PT CR 8-2009, PT C 1-2010, PT C 4-2010 și PT C 6-2010 citează Legea 64/2008 ca bază legală explicită.",
   "tags": ["iscir", "lege", "instalatii-sub-presiune", "instalatii-de-ridicat", "aparate-consumatoare-combustibil", "securitate-tehnica"],
-  "related_acts": []
+  "related_acts": [
+    "normativ-pt-c1-2010",
+    "normativ-pt-c4-2010",
+    "normativ-pt-c6-2010",
+    "normativ-pt-cr4-2009",
+    "normativ-pt-cr8-2009"
+  ]
 }
