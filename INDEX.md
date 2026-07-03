@@ -64,7 +64,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | OG 63/2001 | isc | ordonanta | metadata-only | — | — | 01.10.2001 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/30389) | [legi/og-63-2001.md](./legi/og-63-2001.md) | [metadata/acts/og-63-2001.json](./metadata/acts/og-63-2001.json) | Înființarea Inspectoratului de Stat în Construcții - I.S.C.; M.Of. nr. 536/01.09.2001; Art. 1(2) (modificat prin Legea 707/2001) stabilește mandatul ISC (disciplină urbanism, autorizare construcții, calitate); Art. 4(2) citează explicit Legea 10/1995; Art. 3 abrogat de OUG 16/2012, restul actului activ; intrat în vigoare 01.10.2001 (Art. 9: 30 zile de la publicare); text nedisponibil în repo |
 | HG 525/2013 | isc | hotarare | metadata-only | — | — | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/150407) | [legi/hg-525-2013.md](./legi/hg-525-2013.md) | [metadata/acts/hg-525-2013.json](./metadata/acts/hg-525-2013.json) | Atribuțiile generale și specifice, structura organizatorică, numărul maxim de posturi și normarea parcului auto ale I.S.C.; M.Of. nr. 487/02.08.2013; preambul citează explicit art. 7(1) din OG 63/2001; Art. 6 abrogă HG 1.211/2012 (neurmărit); nicio clauză de intrare în vigoare identificată — effective_date omisă; nu citează Legea 10/1995 sau Legea 50/1991; text nedisponibil în repo |
 
-**Sumar:** 50 acte urmărite · 13 full-text importate · 37 metadata-only
+**Sumar:** 51 acte urmărite · 13 full-text importate · 38 metadata-only
 
 ---
 
