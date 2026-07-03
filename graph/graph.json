@@ -326,6 +326,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-pt-c9-2010",
+      "label": "PT C 9-2010",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-pt-cr4-2009",
       "label": "PT CR 4-2009",
       "type": "normativ",
@@ -921,6 +929,13 @@
       "evidence": "metadata/acts/normativ-pt-c8-2010.json"
     },
     {
+      "source": "normativ-pt-c9-2010",
+      "target": "lege-64-2008",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-pt-c9-2010.json"
+    },
+    {
       "source": "normativ-pt-cr4-2009",
       "target": "lege-64-2008",
       "relationship": "related",
@@ -1034,8 +1049,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 52,
-    "confirmed_edges": 87,
+    "total_nodes": 53,
+    "confirmed_edges": 88,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
