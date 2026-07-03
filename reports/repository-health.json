@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T19:31:59.701Z",
+  "generated_at": "2026-07-03T07:35:50.464Z",
   "summary": {
-    "total_metadata_entries": 48,
+    "total_metadata_entries": 49,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 35,
-    "total_import_logs": 48,
-    "total_relationship_links": 86,
+    "total_metadata_only_acts": 36,
+    "total_import_logs": 49,
+    "total_relationship_links": 89,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -389,12 +389,21 @@
       "provenance": true
     },
     {
-      "slug": "ordin-anre-59-2013",
+      "slug": "ordin-anre-53-2024",
       "full_text": false,
       "metadata": true,
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-anre-59-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -455,13 +464,13 @@
       "nzeb": 2,
       "autorizatii": 2,
       "iscir": 8,
-      "anre": 4
+      "anre": 5
     },
     "issuers": {
       "guvern": 6,
       "parlament": 9,
       "minister": 29,
-      "autoritate": 4
+      "autoritate": 5
     },
     "publication_years": {
       "1991": 1,
@@ -481,13 +490,13 @@
       "2019": 1,
       "2022": 2,
       "2023": 7,
-      "2024": 2,
+      "2024": 3,
       "2025": 3
     },
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 35,
+      "metadata-only": 36,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
@@ -502,7 +511,7 @@
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 97.92,
+      "relationships": 97.96,
       "official_markers": 100,
       "provenance": 100
     },
