@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
+import { findRecordedHash, hashOfficialText } from './hash-official-text.mjs'
 
 const root = process.cwd()
 const actsDir = path.join(root, 'metadata', 'acts')
@@ -8,10 +9,17 @@ const importLogDir = path.join(root, 'import-log')
 
 let checked = 0
 let skipped = 0
+let hashValidated = 0
+let hashMissing = 0
 const failures = []
+const warnings = []
 
 function fail(slug, reason) {
   failures.push({ slug, reason })
+}
+
+function warn(slug, reason) {
+  warnings.push({ slug, reason })
 }
 
 if (!fs.existsSync(actsDir)) {
@@ -48,7 +56,8 @@ for (const file of jsonFiles) {
     continue
   }
 
-  const lines = fs.readFileSync(mdPath, 'utf8').split('\n')
+  const markdown = fs.readFileSync(mdPath, 'utf8')
+  const lines = markdown.split('\n')
 
   const startLines = lines.reduce((acc, line, i) => line.includes('OFFICIAL_TEXT_START') ? [...acc, i + 1] : acc, [])
   const endLines = lines.reduce((acc, line, i) => line.includes('OFFICIAL_TEXT_END') ? [...acc, i + 1] : acc, [])
@@ -89,12 +98,33 @@ for (const file of jsonFiles) {
     continue
   }
 
+  const logContent = fs.readFileSync(logPath, 'utf8')
+  const recordedHash = findRecordedHash(data, logContent)
+  const actualHash = hashOfficialText(markdown, slug)
+
+  if (recordedHash) {
+    if (recordedHash.hash !== actualHash) {
+      fail(slug, `official text hash mismatch: recorded ${recordedHash.hash} (${recordedHash.source}), actual ${actualHash}`)
+      continue
+    }
+    hashValidated++
+  } else {
+    hashMissing++
+    warn(slug, `missing recorded official text hash; computed ${actualHash}`)
+  }
+
   checked++
 }
 
 // Summary
 if (checked > 0) console.log(`✓ checked ${checked} full-text act(s)`)
+if (hashValidated > 0) console.log(`✓ validated ${hashValidated} official text hash(es)`)
+if (hashMissing > 0) console.warn(`⚠ ${hashMissing} full-text act(s) do not yet record an official text hash`)
 if (skipped > 0) console.log(`○ skipped ${skipped} metadata-only act(s)`)
+
+for (const { slug, reason } of warnings) {
+  console.warn(`⚠ ${slug}: ${reason}`)
+}
 
 for (const { slug, reason } of failures) {
   console.error(`✗ ${slug}: ${reason}`)
