@@ -142,7 +142,11 @@ if (relationshipsAuto && relationshipsAuto.suggested_relationships) {
 
 // ── health score ──────────────────────────────────────────────────────────────
 
-const healthScore = healthReport?.score?.score ?? healthReport?.score ?? 97.5;
+const healthScore =
+  healthReport?.health_score?.score ??
+  healthReport?.score?.score ??
+  healthReport?.score ??
+  97.5;
 
 // ── acts array ────────────────────────────────────────────────────────────────
 
