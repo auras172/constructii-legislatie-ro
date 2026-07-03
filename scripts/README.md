@@ -38,7 +38,21 @@ Exits with code 1 if any check fails.
 node scripts/check-official-text-integrity.mjs
 ```
 
-For every JSON file under `metadata/acts/`, skips acts with `import_method: "metadata-only"` and verifies that all full-text imported acts have: a corresponding `legi/<slug>.md` file, exactly one `OFFICIAL_TEXT_START` and one `OFFICIAL_TEXT_END` marker in the correct order, and a non-empty import log file under `import-log/` matching the slug. Exits with code 1 if any check fails — a failure means a full-text act is missing its official text markers or import record.
+For every JSON file under `metadata/acts/`, skips acts with `import_method: "metadata-only"` and verifies that all full-text imported acts have: a corresponding `legi/<slug>.md` file, exactly one `OFFICIAL_TEXT_START` and one `OFFICIAL_TEXT_END` marker in the correct order, and a non-empty import log file under `import-log/` matching the slug.
+
+The script also computes a SHA-256 hash for the Markdown official text block after normalizing line endings to LF. If a recorded hash is present in metadata or the matching import log, the script validates it and fails on mismatch. Existing full-text acts without recorded hashes warn only in the first rollout so CI remains backward compatible while hashes are backfilled.
+
+Exits with code 1 if a hard integrity check fails — for example missing markers, missing import log, or recorded-hash mismatch.
+
+## hash-official-text.mjs
+
+```sh
+node scripts/hash-official-text.mjs --report
+node scripts/hash-official-text.mjs --report lege-50-1991
+node scripts/hash-official-text.mjs --check
+```
+
+Computes SHA-256 hashes for the content between `OFFICIAL_TEXT_START` and `OFFICIAL_TEXT_END` markers in full-text `legi/*.md` files. Line endings are normalized to LF before hashing. The default/report mode prints `slug hash`; check mode verifies that the blocks can be hashed and prints a summary. The helper does not fetch official sources, does not parse source HTML/PDF, and does not certify legal accuracy.
 
 ## audit-source-url.mjs
 
