@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T12:01:57.186Z",
+  "generated_at": "2026-07-03T12:40:55.081Z",
   "summary": {
-    "total_metadata_entries": 51,
+    "total_metadata_entries": 52,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 38,
-    "total_import_logs": 51,
-    "total_relationship_links": 96,
+    "total_metadata_only_acts": 39,
+    "total_import_logs": 52,
+    "total_relationship_links": 98,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -30,6 +30,15 @@
     },
     {
       "slug": "hg-525-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-90-2008",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -421,7 +430,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 3,
+      "relationships": 4,
       "provenance": true
     },
     {
@@ -475,17 +484,17 @@
       "munca": 2,
       "receptie": 1,
       "isc": 2,
+      "anre": 6,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 7,
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
-      "iscir": 10,
-      "anre": 5
+      "iscir": 10
     },
     "issuers": {
-      "guvern": 6,
+      "guvern": 7,
       "parlament": 9,
       "minister": 31,
       "autoritate": 5
@@ -497,7 +506,7 @@
       "2004": 2,
       "2005": 3,
       "2006": 3,
-      "2008": 2,
+      "2008": 3,
       "2009": 3,
       "2010": 8,
       "2011": 1,
@@ -514,7 +523,7 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 38,
+      "metadata-only": 39,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,

@@ -19,7 +19,9 @@ tags:
   - retele-electrice
   - energie-electrica
   - regulament-racordare
-related_acts: []
+related_acts:
+  - hg-90-2008
+  - normativ-i7-2011
 import_method: metadata-only
 ---
 
@@ -62,7 +64,10 @@ Divergența de aproximativ 4 luni între `publication_date` (2013-08-19) și `ef
 
 ## Relații documentate în metadata
 
-`related_acts: []` — nicio relație adăugată. Nicio sursă oficială revizuită (Ordin 59/2013, Regulamentul-anexă, lanțul efectiv de intrare în vigoare) nu citează explicit `lege-50-1991` sau `normativ-i7-2011`.
+- `hg-90-2008` — relație source-backed de dependență pentru data de intrare în vigoare: Art. 3 al Ordinului ANRE 59/2013 prevede intrarea în vigoare la data abrogării HG 90/2008.
+- `normativ-i7-2011` — relație source-backed, confirmată la 2026-07-02 în forma completă a Regulamentului (Portal Legislativ ID 286056), Art. 54 alin. (1) lit. a).
+
+Relația cu `lege-50-1991` rămâne respinsă: nicio citare explicită identificată.
 
 ---
 
