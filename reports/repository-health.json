@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T22:48:35.545Z",
+  "generated_at": "2026-07-04T07:59:51.663Z",
   "summary": {
-    "total_metadata_entries": 54,
+    "total_metadata_entries": 55,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 41,
-    "total_import_logs": 54,
-    "total_relationship_links": 100,
+    "total_metadata_only_acts": 42,
+    "total_import_logs": 55,
+    "total_relationship_links": 101,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -407,6 +407,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-pt-r1-2010",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "normativ-pt-r2-2010",
       "full_text": false,
       "metadata": true,
@@ -509,12 +518,12 @@
       "urbanism": 1,
       "nzeb": 2,
       "autorizatii": 2,
-      "iscir": 12
+      "iscir": 13
     },
     "issuers": {
       "guvern": 7,
       "parlament": 9,
-      "minister": 33,
+      "minister": 34,
       "autoritate": 5
     },
     "publication_years": {
@@ -526,7 +535,7 @@
       "2006": 3,
       "2008": 3,
       "2009": 3,
-      "2010": 10,
+      "2010": 11,
       "2011": 1,
       "2013": 6,
       "2015": 1,
@@ -541,7 +550,7 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 41,
+      "metadata-only": 42,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
