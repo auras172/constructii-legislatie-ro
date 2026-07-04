@@ -151,6 +151,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010; PDF combinat (204 pagini) descărcat și verificat integral (pagina 138, Anexa nr. 3)
   - Status: active · metadata-only · publicat în M.Of. nr. 634 și 634 bis/09.09.2010 · intră în vigoare 09.10.2010 · înlocuiește PT R14-2002 · niciun ordin ulterior de modificare directă identificat pe pagina ISCIR verificată
   - Import log: [import-log/2026-07-04-normativ-pt-r3-2010.md](../import-log/2026-07-04-normativ-pt-r3-2010.md)
+- [Prescripție Tehnică PT R 8-2010](./normativ-pt-r8-2010.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010; PDF combinat (204 pagini) descărcat și verificat integral (pagina 157, Anexa nr. 4)
+  - Status: active · metadata-only · publicat în M.Of. nr. 634 și 634 bis/09.09.2010 · intră în vigoare 09.10.2010 · Art. 5 lit. f abrogă PT R6-2002; pagina ISCIR listează separat PT_R8_2003, dar Ordinul 1404/2010 nu îl abrogă explicit · niciun ordin ulterior de modificare directă identificat pe pagina ISCIR verificată
+  - Import log: [import-log/2026-07-04-normativ-pt-r8-2010.md](../import-log/2026-07-04-normativ-pt-r8-2010.md)
 - [Prescripție Tehnică PT CR 4-2009](./normativ-pt-cr4-2009.md)
   - Domain: iscir · Related: Legea 64/2008
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009
