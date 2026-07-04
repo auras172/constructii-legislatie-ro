@@ -146,6 +146,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010
   - Status: active · metadata-only · publicat în M.Of. nr. 634/09.09.2010 · înlocuiește PT R2-2003
   - Import log: [import-log/2026-06-29-normativ-pt-r2-2010.md](../import-log/2026-06-29-normativ-pt-r2-2010.md)
+- [Prescripție Tehnică PT R 3-2010](./normativ-pt-r3-2010.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1404/27.07.2010; PDF combinat (204 pagini) descărcat și verificat integral (pagina 138, Anexa nr. 3)
+  - Status: active · metadata-only · publicat în M.Of. nr. 634 și 634 bis/09.09.2010 · intră în vigoare 09.10.2010 · înlocuiește PT R14-2002 · niciun ordin ulterior de modificare directă identificat pe pagina ISCIR verificată
+  - Import log: [import-log/2026-07-04-normativ-pt-r3-2010.md](../import-log/2026-07-04-normativ-pt-r3-2010.md)
 - [Prescripție Tehnică PT CR 4-2009](./normativ-pt-cr4-2009.md)
   - Domain: iscir · Related: Legea 64/2008
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — Ordinul ministrului economiei nr. 2.154/11.12.2009
