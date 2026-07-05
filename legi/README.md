@@ -194,6 +194,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/252388](https://legislatie.just.ro/Public/DetaliiDocumentAfis/252388)) — Ordin ANRE nr. 17/02.03.2022
   - Status: active · metadata-only · publicat în M.Of. nr. 216/04.03.2022 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · effective_date omisă (fără clauză generală explicită identificată) · candidatul Ordin ANRE 19/2022 respins prin acțiuni suferite ID 150711
   - Import log: [import-log/2026-07-04-ordin-anre-17-2022.md](../import-log/2026-07-04-ordin-anre-17-2022.md)
+- [Ordin ANRE 81/2022](./ordin-anre-81-2022.md)
+  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
+  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/256502](https://legislatie.just.ro/Public/DetaliiDocumentAfis/256502)) — Ordin ANRE nr. 81/15.06.2022
+  - Status: active · metadata-only · publicat în M.Of. nr. 590/17.06.2022 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · effective_date 17.06.2022 · limitarea operațională a puterii evacuate și documentație prosumatori
+  - Import log: [import-log/2026-07-05-ordin-anre-81-2022.md](../import-log/2026-07-05-ordin-anre-81-2022.md)
 - [Ordin ANRE 133/2022](./ordin-anre-133-2022.md)
   - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/260682](https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682)) — Ordin ANRE nr. 133/19.10.2022
@@ -207,7 +212,7 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [Ordin ANRE 59/2013](./ordin-anre-59-2013.md)
   - Domain: anre · Related: HG 90/2008, Normativ I 7-2011
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/150711](https://legislatie.just.ro/Public/DetaliiDocumentAfis/150711)) — Ordin ANRE nr. 59/02.08.2013 (corrected from earlier wrong ID 150033, documented in PR #127 readiness report)
-  - Status: active · metadata-only · publicat în M.Of. nr. 517/19.08.2013 · intră în vigoare 18.12.2013 (Art. 3 → abrogare HG 90/2008 prin HG 1028/2013) · 18 amendamente confirmate 2014-2026 (15 ordin de bază + 3 anexă) · Ordin 67/2024 verificat și NU găsit · consolidat la 2026-05-21 (snapshot din docs/anre-racordare-track-b-readiness.md, nereverificat live) · amended_by: Ordin ANRE 17/2022, Ordin ANRE 133/2022, Ordin ANRE 53/2024, Ordin ANRE 60/2024
+  - Status: active · metadata-only · publicat în M.Of. nr. 517/19.08.2013 · intră în vigoare 18.12.2013 (Art. 3 → abrogare HG 90/2008 prin HG 1028/2013) · 18 amendamente confirmate 2014-2026 (15 ordin de bază + 3 anexă) · Ordin 67/2024 verificat și NU găsit · consolidat la 2026-05-21 (snapshot din docs/anre-racordare-track-b-readiness.md, nereverificat live) · amended_by: Ordin ANRE 17/2022, Ordin ANRE 81/2022, Ordin ANRE 133/2022, Ordin ANRE 53/2024, Ordin ANRE 60/2024
   - Import log: [import-log/2026-06-30-ordin-anre-59-2013.md](../import-log/2026-06-30-ordin-anre-59-2013.md)
 - [Ordin ANRE 60/2024](./ordin-anre-60-2024.md)
   - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013 (doar Art. II; ordin-omnibus Art. I-IX)
