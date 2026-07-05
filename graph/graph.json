@@ -406,6 +406,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "ordin-anre-133-2022",
+      "label": "Ordin ANRE 133/2022",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-17-2022",
       "label": "Ordin ANRE 17/2022",
       "type": "ordin",
@@ -1053,6 +1061,13 @@
       "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
+      "source": "ordin-anre-133-2022",
+      "target": "ordin-anre-59-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-133-2022.json"
+    },
+    {
       "source": "ordin-anre-17-2022",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
@@ -1124,8 +1139,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 58,
-    "confirmed_edges": 93,
+    "total_nodes": 59,
+    "confirmed_edges": 94,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
