@@ -212,6 +212,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 16/05.01.2023
   - Status: active · metadata-only · intrată în vigoare 16.02.2023 · abrogă Mc 001/1,3,5 din 2006/2009
   - Import log: [import-log/2026-06-28-metodologie-mc001-2022.md](../import-log/2026-06-28-metodologie-mc001-2022.md)
+- [RTC 3-2022](./ghid-rtc3-2022.md)
+  - Domain: nzeb · Related: Legea 372/2005, Metodologie Mc 001-2022, Legea 10/1995
+  - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 2819/02.11.2022
+  - Status: active · metadata-only · publicat în M.Of. nr. 1099 și 1099 bis/15.11.2022 · intrat în vigoare 15.12.2022
+  - Import log: [import-log/2026-07-05-ghid-rtc3-2022.md](../import-log/2026-07-05-ghid-rtc3-2022.md)
 - [Normativ NE 012/1-2007](./normativ-ne012-1-2007.md)
   - Domain: calitate (beton, producerea betonului) · Related: Legea 10/1995
   - Official source checked: Portal Legislativ ([DetaliiDocument/92956](https://legislatie.just.ro/Public/DetaliiDocument/92956)); MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) confirmă abrogarea prin NE 012/1-2022
