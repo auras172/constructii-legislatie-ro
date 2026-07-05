@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-04T08:31:53.632Z
+Generated: 2026-07-05T08:27:01.980Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 57 |
+| Total metadata entries | 58 |
 | Full-text acts | 13 |
-| Metadata-only acts | 44 |
-| Import log files | 57 |
-| Total relationship links | 103 |
+| Metadata-only acts | 45 |
+| Import log files | 58 |
+| Total relationship links | 106 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -68,8 +68,9 @@ Generated: 2026-07-04T08:31:53.632Z
 | normativ-pt-r8-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
+| ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -84,8 +85,8 @@ Generated: 2026-07-04T08:31:53.632Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 15 |
+| anre | 7 |
 | incendiu | 7 |
-| anre | 6 |
 | munca | 2 |
 | isc | 2 |
 | mediu | 2 |
@@ -101,7 +102,7 @@ Generated: 2026-07-04T08:31:53.632Z
 | minister | 36 |
 | parlament | 9 |
 | guvern | 7 |
-| autoritate | 5 |
+| autoritate | 6 |
 
 ### Publication Years
 
@@ -114,11 +115,11 @@ Generated: 2026-07-04T08:31:53.632Z
 | 2006 | 3 |
 | 2008 | 3 |
 | 2009 | 3 |
+| 2022 | 3 |
 | 2024 | 3 |
 | 2025 | 3 |
 | 2001 | 2 |
 | 2004 | 2 |
-| 2022 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 2011 | 1 |
@@ -131,7 +132,7 @@ Generated: 2026-07-04T08:31:53.632Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 44 |
+| metadata-only | 45 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
