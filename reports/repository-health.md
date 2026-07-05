@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-05T08:44:17.931Z
+Generated: 2026-07-05T08:55:08.271Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 59 |
+| Total metadata entries | 60 |
 | Full-text acts | 13 |
-| Metadata-only acts | 46 |
-| Import log files | 59 |
-| Total relationship links | 109 |
+| Metadata-only acts | 47 |
+| Import log files | 60 |
+| Total relationship links | 112 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -71,10 +71,11 @@ Generated: 2026-07-05T08:44:17.931Z
 | ordin-anre-133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 6 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 7 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 
@@ -86,7 +87,7 @@ Generated: 2026-07-05T08:44:17.931Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 15 |
-| anre | 8 |
+| anre | 9 |
 | incendiu | 7 |
 | munca | 2 |
 | isc | 2 |
@@ -102,8 +103,8 @@ Generated: 2026-07-05T08:44:17.931Z
 | --- | --- |
 | minister | 36 |
 | parlament | 9 |
+| autoritate | 8 |
 | guvern | 7 |
-| autoritate | 7 |
 
 ### Publication Years
 
@@ -112,7 +113,7 @@ Generated: 2026-07-05T08:44:17.931Z
 | 2010 | 13 |
 | 2023 | 7 |
 | 2013 | 6 |
-| 2022 | 4 |
+| 2022 | 5 |
 | 2005 | 3 |
 | 2006 | 3 |
 | 2008 | 3 |
@@ -133,7 +134,7 @@ Generated: 2026-07-05T08:44:17.931Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 46 |
+| metadata-only | 47 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

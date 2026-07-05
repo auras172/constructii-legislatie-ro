@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T08:44:17.931Z",
+  "generated_at": "2026-07-05T08:55:08.271Z",
   "summary": {
-    "total_metadata_entries": 59,
+    "total_metadata_entries": 60,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 46,
-    "total_import_logs": 59,
-    "total_relationship_links": 109,
+    "total_metadata_only_acts": 47,
+    "total_import_logs": 60,
+    "total_relationship_links": 112,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -493,7 +493,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 6,
+      "relationships": 7,
       "provenance": true
     },
     {
@@ -524,6 +524,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-81-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "oug-195-2005",
       "full_text": true,
       "metadata": true,
@@ -547,7 +556,7 @@
       "munca": 2,
       "receptie": 1,
       "isc": 2,
-      "anre": 8,
+      "anre": 9,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 7,
@@ -560,7 +569,7 @@
       "guvern": 7,
       "parlament": 9,
       "minister": 36,
-      "autoritate": 7
+      "autoritate": 8
     },
     "publication_years": {
       "1991": 1,
@@ -578,7 +587,7 @@
       "2017": 1,
       "2018": 1,
       "2019": 1,
-      "2022": 4,
+      "2022": 5,
       "2023": 7,
       "2024": 3,
       "2025": 3
@@ -586,7 +595,7 @@
     "import_methods": {
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 46,
+      "metadata-only": 47,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
