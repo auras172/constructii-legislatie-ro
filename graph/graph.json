@@ -6,6 +6,14 @@
   ],
   "nodes": [
     {
+      "id": "ghid-rtc3-2022",
+      "label": "RTC 3-2022",
+      "type": "ghid",
+      "domain": "nzeb",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-300-2006",
       "label": "HG 300/2006",
       "type": "hotarare",
@@ -487,6 +495,27 @@
     }
   ],
   "edges": [
+    {
+      "source": "ghid-rtc3-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc3-2022.json"
+    },
+    {
+      "source": "ghid-rtc3-2022",
+      "target": "lege-372-2005",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc3-2022.json"
+    },
+    {
+      "source": "ghid-rtc3-2022",
+      "target": "metodologie-mc001-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc3-2022.json"
+    },
     {
       "source": "hg-300-2006",
       "target": "lege-10-1995",
@@ -1154,8 +1183,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 60,
-    "confirmed_edges": 95,
+    "total_nodes": 61,
+    "confirmed_edges": 98,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
