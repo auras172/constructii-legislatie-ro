@@ -5,6 +5,7 @@ import path from 'node:path'
 
 const root = process.cwd()
 const outRoot = '/tmp/constructii-source-audit'
+const fetchTimeoutMs = 15000
 
 function fail(message) {
   console.error(message)
@@ -90,6 +91,11 @@ function fetchWithCurl(url, outputDir) {
     [
       '-L',
       '-sS',
+      '--ipv4',
+      '--connect-timeout',
+      '10',
+      '--max-time',
+      String(Math.ceil(fetchTimeoutMs / 1000)),
       '-A',
       'constructii-legislatie-ro source audit helper',
       '-D',
@@ -171,6 +177,7 @@ try {
     headers: {
       'User-Agent': 'constructii-legislatie-ro source audit helper',
     },
+    signal: AbortSignal.timeout(fetchTimeoutMs),
   })
   body = Buffer.from(await response.arrayBuffer())
 } catch (error) {
