@@ -189,21 +189,6 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/89489](https://legislatie.just.ro/Public/DetaliiDocumentAfis/89489)) — HG nr. 90/23.01.2008
   - Status: repealed · metadata-only · publicată în M.Of. nr. 109/12.02.2008 · Art. 4 alin. (1) prevede intrarea în vigoare la 4 luni de la publicare (effective_date omisă) · abrogată de HG 1028/2013, documentată ca dovadă externă · dependență source-backed pentru effective_date Ordin ANRE 59/2013
   - Import log: [import-log/2026-07-03-hg-90-2008.md](../import-log/2026-07-03-hg-90-2008.md)
-- [Ordin ANRE 17/2022](./ordin-anre-17-2022.md)
-  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
-  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/252388](https://legislatie.just.ro/Public/DetaliiDocumentAfis/252388)) — Ordin ANRE nr. 17/02.03.2022
-  - Status: active · metadata-only · publicat în M.Of. nr. 216/04.03.2022 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · effective_date omisă (fără clauză generală explicită identificată) · candidatul Ordin ANRE 19/2022 respins prin acțiuni suferite ID 150711
-  - Import log: [import-log/2026-07-04-ordin-anre-17-2022.md](../import-log/2026-07-04-ordin-anre-17-2022.md)
-- [Ordin ANRE 81/2022](./ordin-anre-81-2022.md)
-  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
-  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/256502](https://legislatie.just.ro/Public/DetaliiDocumentAfis/256502)) — Ordin ANRE nr. 81/15.06.2022
-  - Status: active · metadata-only · publicat în M.Of. nr. 590/17.06.2022 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · effective_date 17.06.2022 · limitarea operațională a puterii evacuate și documentație prosumatori
-  - Import log: [import-log/2026-07-05-ordin-anre-81-2022.md](../import-log/2026-07-05-ordin-anre-81-2022.md)
-- [Ordin ANRE 133/2022](./ordin-anre-133-2022.md)
-  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
-  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/260682](https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682)) — Ordin ANRE nr. 133/19.10.2022
-  - Status: active · metadata-only · publicat în M.Of. nr. 1028/21.10.2022 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · effective_date 21.10.2022
-  - Import log: [import-log/2026-07-05-ordin-anre-133-2022.md](../import-log/2026-07-05-ordin-anre-133-2022.md)
 - [Ordin ANRE 53/2024](./ordin-anre-53-2024.md)
   - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
   - Official source checked: Portal Legislativ ([DetaliiDocument/286490](https://legislatie.just.ro/Public/DetaliiDocument/286490)) — Ordin ANRE nr. 53/30.07.2024
@@ -212,7 +197,7 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [Ordin ANRE 59/2013](./ordin-anre-59-2013.md)
   - Domain: anre · Related: HG 90/2008, Normativ I 7-2011
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/150711](https://legislatie.just.ro/Public/DetaliiDocumentAfis/150711)) — Ordin ANRE nr. 59/02.08.2013 (corrected from earlier wrong ID 150033, documented in PR #127 readiness report)
-  - Status: active · metadata-only · publicat în M.Of. nr. 517/19.08.2013 · intră în vigoare 18.12.2013 (Art. 3 → abrogare HG 90/2008 prin HG 1028/2013) · 18 amendamente confirmate 2014-2026 (15 ordin de bază + 3 anexă) · Ordin 67/2024 verificat și NU găsit · consolidat la 2026-05-21 (snapshot din docs/anre-racordare-track-b-readiness.md, nereverificat live) · amended_by: Ordin ANRE 17/2022, Ordin ANRE 81/2022, Ordin ANRE 133/2022, Ordin ANRE 53/2024, Ordin ANRE 60/2024
+  - Status: active · metadata-only · publicat în M.Of. nr. 517/19.08.2013 · intră în vigoare 18.12.2013 (Art. 3 → abrogare HG 90/2008 prin HG 1028/2013) · 18 amendamente confirmate 2014-2026 (15 ordin de bază + 3 anexă) · Ordin 67/2024 verificat și NU găsit · consolidat la 2026-05-21 (snapshot din docs/anre-racordare-track-b-readiness.md, nereverificat live) · amended_by: Ordin ANRE 53/2024, Ordin ANRE 60/2024
   - Import log: [import-log/2026-06-30-ordin-anre-59-2013.md](../import-log/2026-06-30-ordin-anre-59-2013.md)
 - [Ordin ANRE 60/2024](./ordin-anre-60-2024.md)
   - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013 (doar Art. II; ordin-omnibus Art. I-IX)
@@ -227,6 +212,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 16/05.01.2023
   - Status: active · metadata-only · intrată în vigoare 16.02.2023 · abrogă Mc 001/1,3,5 din 2006/2009
   - Import log: [import-log/2026-06-28-metodologie-mc001-2022.md](../import-log/2026-06-28-metodologie-mc001-2022.md)
+- [RTC 3-2022](./ghid-rtc3-2022.md)
+  - Domain: nzeb · Related: Legea 372/2005, Metodologie Mc 001-2022, Legea 10/1995
+  - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 2819/02.11.2022
+  - Status: active · metadata-only · publicat în M.Of. nr. 1099 și 1099 bis/15.11.2022 · intrat în vigoare 15.12.2022
+  - Import log: [import-log/2026-07-05-ghid-rtc3-2022.md](../import-log/2026-07-05-ghid-rtc3-2022.md)
 - [Normativ NE 012/1-2007](./normativ-ne012-1-2007.md)
   - Domain: calitate (beton, producerea betonului) · Related: Legea 10/1995
   - Official source checked: Portal Legislativ ([DetaliiDocument/92956](https://legislatie.just.ro/Public/DetaliiDocument/92956)); MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) confirmă abrogarea prin NE 012/1-2022
