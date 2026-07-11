@@ -189,6 +189,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/89489](https://legislatie.just.ro/Public/DetaliiDocumentAfis/89489)) — HG nr. 90/23.01.2008
   - Status: repealed · metadata-only · publicată în M.Of. nr. 109/12.02.2008 · Art. 4 alin. (1) prevede intrarea în vigoare la 4 luni de la publicare (effective_date omisă) · abrogată de HG 1028/2013, documentată ca dovadă externă · dependență source-backed pentru effective_date Ordin ANRE 59/2013
   - Import log: [import-log/2026-07-03-hg-90-2008.md](../import-log/2026-07-03-hg-90-2008.md)
+- [Ordin ANRE 4/2023](./ordin-anre-4-2023.md)
+  - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
+  - Official source checked: Portal Legislativ ([DetaliiDocument/264578](https://legislatie.just.ro/Public/DetaliiDocument/264578)) — Ordin ANRE nr. 4/01.02.2023
+  - Status: active · metadata-only · publicat în M.Of. nr. 95/03.02.2023 · modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · clauză de aplicare fără dată calendaristică explicită în art. VII
+  - Import log: [import-log/2026-07-11-ordin-anre-4-2023.md](../import-log/2026-07-11-ordin-anre-4-2023.md)
 - [Ordin ANRE 53/2024](./ordin-anre-53-2024.md)
   - Domain: anre · Related: Ordin ANRE 59/2013 · Amends: Ordin ANRE 59/2013
   - Official source checked: Portal Legislativ ([DetaliiDocument/286490](https://legislatie.just.ro/Public/DetaliiDocument/286490)) — Ordin ANRE nr. 53/30.07.2024

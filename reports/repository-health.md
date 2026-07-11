@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-05T09:00:12.555Z
+Generated: 2026-07-11T12:52:58.995Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 60 |
+| Total metadata entries | 62 |
 | Full-text acts | 13 |
-| Metadata-only acts | 47 |
-| Import log files | 60 |
-| Total relationship links | 112 |
+| Metadata-only acts | 49 |
+| Import log files | 62 |
+| Total relationship links | 118 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -18,6 +18,7 @@ Generated: 2026-07-05T09:00:12.555Z
 
 | slug | full text | metadata | import log | markers | relationships | provenance |
 | --- | --- | --- | --- | --- | --- | --- |
+| ghid-rtc3-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -70,8 +71,9 @@ Generated: 2026-07-05T09:00:12.555Z
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | ordin-anre-133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 7 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 8 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -87,12 +89,12 @@ Generated: 2026-07-05T09:00:12.555Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 15 |
-| anre | 9 |
+| anre | 10 |
 | incendiu | 7 |
+| nzeb | 3 |
 | munca | 2 |
 | isc | 2 |
 | mediu | 2 |
-| nzeb | 2 |
 | autorizatii | 2 |
 | receptie | 1 |
 | urbanism | 1 |
@@ -101,9 +103,9 @@ Generated: 2026-07-05T09:00:12.555Z
 
 | Value | Count |
 | --- | --- |
-| minister | 36 |
+| minister | 37 |
 | parlament | 9 |
-| autoritate | 8 |
+| autoritate | 9 |
 | guvern | 7 |
 
 ### Publication Years
@@ -111,9 +113,9 @@ Generated: 2026-07-05T09:00:12.555Z
 | Value | Count |
 | --- | --- |
 | 2010 | 13 |
-| 2023 | 7 |
+| 2023 | 8 |
 | 2013 | 6 |
-| 2022 | 5 |
+| 2022 | 6 |
 | 2005 | 3 |
 | 2006 | 3 |
 | 2008 | 3 |
@@ -134,7 +136,7 @@ Generated: 2026-07-05T09:00:12.555Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 47 |
+| metadata-only | 49 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

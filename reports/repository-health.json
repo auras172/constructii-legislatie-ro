@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-07-05T09:00:12.555Z",
+  "generated_at": "2026-07-11T12:52:58.995Z",
   "summary": {
-    "total_metadata_entries": 60,
+    "total_metadata_entries": 62,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 47,
-    "total_import_logs": 60,
-    "total_relationship_links": 112,
+    "total_metadata_only_acts": 49,
+    "total_import_logs": 62,
+    "total_relationship_links": 118,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
   "coverage": [
+    {
+      "slug": "ghid-rtc3-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
+      "provenance": true
+    },
     {
       "slug": "hg-300-2006",
       "full_text": true,
@@ -479,6 +488,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-4-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-anre-53-2024",
       "full_text": false,
       "metadata": true,
@@ -493,7 +511,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 7,
+      "relationships": 8,
       "provenance": true
     },
     {
@@ -553,23 +571,23 @@
   ],
   "statistics": {
     "domains": {
+      "nzeb": 3,
       "munca": 2,
       "receptie": 1,
       "isc": 2,
-      "anre": 9,
+      "anre": 10,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 7,
       "urbanism": 1,
-      "nzeb": 2,
       "autorizatii": 2,
       "iscir": 15
     },
     "issuers": {
+      "minister": 37,
       "guvern": 7,
       "parlament": 9,
-      "minister": 36,
-      "autoritate": 8
+      "autoritate": 9
     },
     "publication_years": {
       "1991": 1,
@@ -587,15 +605,15 @@
       "2017": 1,
       "2018": 1,
       "2019": 1,
-      "2022": 5,
-      "2023": 7,
+      "2022": 6,
+      "2023": 8,
       "2024": 3,
       "2025": 3
     },
     "import_methods": {
+      "metadata-only": 49,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "metadata-only": 47,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
