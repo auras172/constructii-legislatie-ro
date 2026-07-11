@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-10T21:20:26.918Z
+Generated: 2026-07-11T12:57:33.421Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 61 |
+| Total metadata entries | 62 |
 | Full-text acts | 13 |
-| Metadata-only acts | 48 |
-| Import log files | 61 |
-| Total relationship links | 115 |
+| Metadata-only acts | 49 |
+| Import log files | 62 |
+| Total relationship links | 118 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -71,8 +71,9 @@ Generated: 2026-07-10T21:20:26.918Z
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | ordin-anre-133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 7 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 8 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -88,7 +89,7 @@ Generated: 2026-07-10T21:20:26.918Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 15 |
-| anre | 9 |
+| anre | 10 |
 | incendiu | 7 |
 | nzeb | 3 |
 | munca | 2 |
@@ -104,7 +105,7 @@ Generated: 2026-07-10T21:20:26.918Z
 | --- | --- |
 | minister | 37 |
 | parlament | 9 |
-| autoritate | 8 |
+| autoritate | 9 |
 | guvern | 7 |
 
 ### Publication Years
@@ -112,7 +113,7 @@ Generated: 2026-07-10T21:20:26.918Z
 | Value | Count |
 | --- | --- |
 | 2010 | 13 |
-| 2023 | 7 |
+| 2023 | 8 |
 | 2013 | 6 |
 | 2022 | 6 |
 | 2005 | 3 |
@@ -135,7 +136,7 @@ Generated: 2026-07-10T21:20:26.918Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 48 |
+| metadata-only | 49 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
