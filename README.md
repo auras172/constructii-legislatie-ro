@@ -9,7 +9,7 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix.
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [64](./INDEX.md) | 13 | 51 | [100/100](./reports/repository-health.md) | [MIT](./LICENSE) | [v1](./ocki-manifest.json) |
+| [65](./INDEX.md) | 13 | 52 | [100/100](./reports/repository-health.md) | [MIT](./LICENSE) | [v1](./ocki-manifest.json) |
 
 ## The Problem
 
@@ -112,7 +112,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Knowledge graph
 
-- `graph/graph.json` — node/edge graph (64 acts, 101 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. All auto-detected references are reviewed for the current corpus (0 pending).
+- `graph/graph.json` — node/edge graph (65 acts, 103 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. All auto-detected references are reviewed for the current corpus (0 pending).
 - `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
 - Regenerate: `node scripts/generate-graph.mjs`
 - Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)
