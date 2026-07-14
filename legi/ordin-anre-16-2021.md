@@ -11,7 +11,7 @@ issue_date: "2021-03-10"
 publication_date: "2021-03-16"
 published_in: "Monitorul Oficial al României, Partea I, nr. 262 din 16 martie 2021"
 source_url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/239296"
-last_checked: "2026-07-15"
+last_checked: "2026-07-14"
 tags:
   - anre
   - racordare
