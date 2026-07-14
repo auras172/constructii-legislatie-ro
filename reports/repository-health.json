@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T12:57:33.421Z",
+  "generated_at": "2026-07-14T13:28:30.950Z",
   "summary": {
-    "total_metadata_entries": 62,
+    "total_metadata_entries": 63,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 49,
-    "total_import_logs": 62,
-    "total_relationship_links": 118,
+    "total_metadata_only_acts": 50,
+    "total_import_logs": 63,
+    "total_relationship_links": 121,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -511,7 +511,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 8,
+      "relationships": 9,
       "provenance": true
     },
     {
@@ -539,6 +539,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-anre-70-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -575,7 +584,7 @@
       "munca": 2,
       "receptie": 1,
       "isc": 2,
-      "anre": 10,
+      "anre": 11,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 7,
@@ -587,7 +596,7 @@
       "minister": 37,
       "guvern": 7,
       "parlament": 9,
-      "autoritate": 9
+      "autoritate": 10
     },
     "publication_years": {
       "1991": 1,
@@ -606,12 +615,12 @@
       "2018": 1,
       "2019": 1,
       "2022": 6,
-      "2023": 8,
+      "2023": 9,
       "2024": 3,
       "2025": 3
     },
     "import_methods": {
-      "metadata-only": 49,
+      "metadata-only": 50,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,

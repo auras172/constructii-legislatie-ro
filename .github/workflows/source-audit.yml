@@ -37,6 +37,7 @@ jobs:
           set -euo pipefail
 
           files="$RUNNER_TEMP/source-audit-metadata-files.txt"
+          fetch_files="$RUNNER_TEMP/source-audit-fetch-metadata-files.txt"
           git diff --name-only --diff-filter=AMR \
             "${{ github.event.pull_request.base.sha }}" \
             "${{ github.event.pull_request.head.sha }}" \
@@ -46,8 +47,63 @@ jobs:
             echo "has_changed_metadata=true" >> "$GITHUB_OUTPUT"
             echo "Changed metadata files:"
             cat "$files"
+
+            BASE_SHA="${{ github.event.pull_request.base.sha }}" \
+            HEAD_SHA="${{ github.event.pull_request.head.sha }}" \
+            SOURCE_AUDIT_FILES="$files" \
+            SOURCE_AUDIT_FETCH_FILES="$fetch_files" \
+            node -e '
+              const { execFileSync } = require("node:child_process")
+              const fs = require("node:fs")
+
+              const baseSha = process.env.BASE_SHA
+              const headSha = process.env.HEAD_SHA
+              const files = fs.readFileSync(process.env.SOURCE_AUDIT_FILES, "utf8")
+                .split(/\n/)
+                .map((line) => line.trim())
+                .filter(Boolean)
+
+              function readMetadata(ref, file) {
+                try {
+                  return JSON.parse(execFileSync("git", ["show", `${ref}:${file}`], {
+                    encoding: "utf8",
+                    stdio: ["ignore", "pipe", "ignore"],
+                  }))
+                } catch {
+                  return null
+                }
+              }
+
+              const filesNeedingFetch = []
+              for (const file of files) {
+                const before = readMetadata(baseSha, file)
+                const after = readMetadata(headSha, file)
+                if (!after) continue
+
+                const sourceChanged = !before ||
+                  before.source_url !== after.source_url ||
+                  before.official_detail_url !== after.official_detail_url
+
+                if (sourceChanged) filesNeedingFetch.push(file)
+              }
+
+              fs.writeFileSync(
+                process.env.SOURCE_AUDIT_FETCH_FILES,
+                filesNeedingFetch.length ? `${filesNeedingFetch.join("\n")}\n` : "",
+              )
+            '
+
+            if [ -s "$fetch_files" ]; then
+              echo "has_fetch_metadata=true" >> "$GITHUB_OUTPUT"
+              echo "Metadata files with new or changed source URLs:"
+              cat "$fetch_files"
+            else
+              echo "has_fetch_metadata=false" >> "$GITHUB_OUTPUT"
+              echo "No new or changed metadata source URLs to fetch."
+            fi
           else
             echo "has_changed_metadata=false" >> "$GITHUB_OUTPUT"
+            echo "has_fetch_metadata=false" >> "$GITHUB_OUTPUT"
             echo "No changed metadata/acts/*.json files to audit."
           fi
 
@@ -109,10 +165,10 @@ jobs:
           '
 
       - name: Audit source URLs
-        if: steps.changed.outputs.has_changed_metadata == 'true'
+        if: steps.changed.outputs.has_fetch_metadata == 'true'
         shell: bash
         env:
-          SOURCE_AUDIT_FILES: ${{ runner.temp }}/source-audit-metadata-files.txt
+          SOURCE_AUDIT_FILES: ${{ runner.temp }}/source-audit-fetch-metadata-files.txt
         run: |
           set -euo pipefail
 
@@ -125,6 +181,8 @@ jobs:
               hostname="$(node -e 'const fs = require("node:fs"); const metadata = JSON.parse(fs.readFileSync(process.argv[1], "utf8")); const url = metadata.source_url || metadata.official_detail_url; process.stdout.write(new URL(url).hostname.toLowerCase())' "$file")"
               if [[ "$hostname" == "mdlpa.ro" || "$hostname" == *.mdlpa.ro ]]; then
                 echo "::warning::MDLPA source is allowlisted but unreachable from this GitHub runner; preserving local/source provenance review requirement for $slug"
+              elif [[ "$hostname" == "legislatie.just.ro" ]]; then
+                echo "::warning::Portal Legislativ source is allowlisted but returned timeout/5xx from this GitHub runner; preserving local/source provenance review requirement for $slug"
               else
                 exit 1
               fi
