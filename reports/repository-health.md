@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-14T19:55:01.525Z
+Generated: 2026-07-14T20:06:55.754Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 65 |
+| Total metadata entries | 66 |
 | Full-text acts | 13 |
-| Metadata-only acts | 52 |
-| Import log files | 65 |
-| Total relationship links | 130 |
+| Metadata-only acts | 53 |
+| Import log files | 66 |
+| Total relationship links | 134 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -71,11 +71,12 @@ Generated: 2026-07-14T19:55:01.525Z
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | ordin-anre-133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-15-2026 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-anre-160-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-20-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 11 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 12 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -92,7 +93,7 @@ Generated: 2026-07-14T19:55:01.525Z
 | --- | --- |
 | calitate | 17 |
 | iscir | 15 |
-| anre | 13 |
+| anre | 14 |
 | incendiu | 7 |
 | nzeb | 3 |
 | munca | 2 |
@@ -107,7 +108,7 @@ Generated: 2026-07-14T19:55:01.525Z
 | Value | Count |
 | --- | --- |
 | minister | 37 |
-| autoritate | 12 |
+| autoritate | 13 |
 | parlament | 9 |
 | guvern | 7 |
 
@@ -134,13 +135,14 @@ Generated: 2026-07-14T19:55:01.525Z
 | 2017 | 1 |
 | 2018 | 1 |
 | 2019 | 1 |
+| 2020 | 1 |
 | 2026 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 52 |
+| metadata-only | 53 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
