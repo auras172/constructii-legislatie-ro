@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-07-14T20:40:56.634Z
+Generated: 2026-07-14T20:50:56.567Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 67 |
+| Total metadata entries | 68 |
 | Full-text acts | 13 |
-| Metadata-only acts | 54 |
-| Import log files | 67 |
-| Total relationship links | 137 |
+| Metadata-only acts | 55 |
+| Import log files | 68 |
+| Total relationship links | 140 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -74,9 +74,10 @@ Generated: 2026-07-14T20:40:56.634Z
 | ordin-anre-160-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-20-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-22-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 13 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 14 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -93,7 +94,7 @@ Generated: 2026-07-14T20:40:56.634Z
 | Value | Count |
 | --- | --- |
 | calitate | 17 |
-| anre | 15 |
+| anre | 16 |
 | iscir | 15 |
 | incendiu | 7 |
 | nzeb | 3 |
@@ -109,7 +110,7 @@ Generated: 2026-07-14T20:40:56.634Z
 | Value | Count |
 | --- | --- |
 | minister | 37 |
-| autoritate | 14 |
+| autoritate | 15 |
 | parlament | 9 |
 | guvern | 7 |
 
@@ -126,10 +127,10 @@ Generated: 2026-07-14T20:40:56.634Z
 | 2006 | 3 |
 | 2008 | 3 |
 | 2009 | 3 |
+| 2020 | 3 |
 | 2024 | 3 |
 | 2001 | 2 |
 | 2004 | 2 |
-| 2020 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 2011 | 1 |
@@ -143,7 +144,7 @@ Generated: 2026-07-14T20:40:56.634Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 54 |
+| metadata-only | 55 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
