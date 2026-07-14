@@ -181,6 +181,8 @@ jobs:
               hostname="$(node -e 'const fs = require("node:fs"); const metadata = JSON.parse(fs.readFileSync(process.argv[1], "utf8")); const url = metadata.source_url || metadata.official_detail_url; process.stdout.write(new URL(url).hostname.toLowerCase())' "$file")"
               if [[ "$hostname" == "mdlpa.ro" || "$hostname" == *.mdlpa.ro ]]; then
                 echo "::warning::MDLPA source is allowlisted but unreachable from this GitHub runner; preserving local/source provenance review requirement for $slug"
+              elif [[ "$hostname" == "legislatie.just.ro" ]]; then
+                echo "::warning::Portal Legislativ source is allowlisted but returned timeout/5xx from this GitHub runner; preserving local/source provenance review requirement for $slug"
               else
                 exit 1
               fi

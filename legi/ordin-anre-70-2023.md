@@ -54,6 +54,20 @@ nr. 70/2023](https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917)
 Această intrare metadata-only urmărește identitatea și proveniența actului
 modificator; textul integral nu este reprodus.
 
+### Stare audit link oficial
+
+La verificarea CI din 2026-07-14, linkul oficial Portal Legislativ pentru ID
+`270917` a returnat timeout/HTTP 502 din GitHub Actions, iar aceeași problemă a
+fost reprodusă local pentru endpointurile:
+
+- `https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917`
+- `https://legislatie.just.ro/Public/DetaliiDocument/270917`
+- `https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917?fiseact=true`
+
+Aceasta este tratată ca indisponibilitate temporară a sursei oficiale, nu ca
+înlocuire a sursei. Metadata păstrează URL-ul oficial; Monitorul Oficial și
+Portalul Legislativ rămân sursele autoritare.
+
 ## Conținut relevant confirmat
 
 Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE nr.
