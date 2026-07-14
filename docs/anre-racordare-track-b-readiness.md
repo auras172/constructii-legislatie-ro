@@ -81,7 +81,7 @@ The following recent amendments were additionally pinned to Portal Legislativ do
 | Ordin ANRE 53/2024 | [286055](https://legislatie.just.ro/Public/DetaliiDocument/286055) | M.Of. nr. 750 / 31.07.2024 | Auction-based capacity allocation; guarantee for projects above 1 MW. | Candidate for separate metadata review |
 | Ordin ANRE 60/2024 | [288588](https://legislatie.just.ro/Public/DetaliiDocument/288588) | M.Of. nr. 863 / 28.08.2024 | Synchronization with capacity allocation rules. | Context in `rights_note` |
 | Ordin ANRE 20/2025 | [297329](https://legislatie.just.ro/Public/DetaliiDocument/297329) | M.Of. nr. 498 / 29.05.2025 | Power injection limits in ATR and solution-study rules. | Context in `rights_note` |
-| Ordin ANRE 15/2026 | [310639](https://legislatie.just.ro/Public/DetaliiDocument/310639) | M.Of. nr. 436 / 21.05.2026 | Recent alignment of connection procedures. | Context in `rights_note` |
+| Ordin ANRE 15/2026 | [310984](https://legislatie.just.ro/Public/DetaliiDocument/310984) | M.Of. nr. 436 / 25.05.2026 | Recent alignment of connection procedures; `310639` is the updated form of Ordin ANRE 59/2013, not the amendment act. | Imported separately as `ordin-anre-15-2026` |
 
 ---
 

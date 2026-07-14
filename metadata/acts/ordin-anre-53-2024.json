@@ -22,5 +22,6 @@
   "rights_note": "Ordin ANRE nr. 53/30.07.2024, publicat în M.Of. Partea I, nr. 758 din 2 august 2024. Portal Legislativ document ID 286490 confirmă actul, iar Art. 2 modifică și completează Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013. Art. 7 alin. (1) prevede că ordinul intră în vigoare la data publicării, deci effective_date este 2024-08-02; Art. 7 alin. (2) prevede separat că metodologia de la Art. 1 se aplică de la 2026-01-01 pentru cererile de alocare de capacitate vizate. Pagina actului indică formă consolidată la 19.12.2025; Anexa nr. 1 / Metodologia are pagină separată DetaliiDocumentAfis/310644, cu istoric propriu de consolidare, și rămâne documentată ca sursă oficială secundară pentru anexă. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește doar related_acts.",
   "tags": ["anre", "racordare", "capacitate-retea", "energie-electrica", "amendament", "ordin-anre-59-2013"],
   "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "amends": ["ordin-anre-59-2013"],
+  "amended_by": ["ordin-anre-15-2026"]
 }
