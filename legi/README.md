@@ -224,6 +224,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/310984](https://legislatie.just.ro/Public/DetaliiDocumentAfis/310984)) — Ordin ANRE nr. 15/21.05.2026
   - Status: active · metadata-only · publicat în M.Of. nr. 436/25.05.2026 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · Art. IV modifică metodologia aprobată prin Ordinul ANRE 53/2024 · effective_date omisă (fără dată explicită)
   - Import log: [import-log/2026-07-14-ordin-anre-15-2026.md](../import-log/2026-07-14-ordin-anre-15-2026.md)
+- [Ordin ANRE 160/2020](./ordin-anre-160-2020.md)
+  - Domain: anre · Related: Ordin ANRE 59/2013, Normativ I 7-2011 · Amends: Ordin ANRE 59/2013
+  - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/229885](https://legislatie.just.ro/Public/DetaliiDocumentAfis/229885)) — Ordin ANRE nr. 160/03.09.2020
+  - Status: active · metadata-only · publicat în M.Of. nr. 831/10.09.2020 · Art. I modifică și completează Regulamentul aprobat prin Ordinul ANRE 59/2013 · Art. I pct. 41 citează I7-2011 aprobat prin Ordinul nr. 2.741/2011 · effective_date 01.01.2021, cu excepții la data publicării pentru Art. I pct. 14 și Art. IV
+  - Import log: [import-log/2026-07-14-ordin-anre-160-2020.md](../import-log/2026-07-14-ordin-anre-160-2020.md)
 - ANRE electric authorization references
   - Domain: anre
   - TODO: identify relevant authorization references and official sources
