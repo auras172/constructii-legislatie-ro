@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-14T14:37:09.453Z",
+  "generated_at": "2026-07-14T19:17:39.399Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 63,
+    "acts_total": 64,
     "acts_full_text": 13,
-    "acts_metadata_only": 50,
+    "acts_metadata_only": 51,
     "article_anchors_total": 799,
-    "import_logs_total": 64,
+    "import_logs_total": 65,
     "domains": [
       "anre",
       "autorizatii",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 100,
+    "confirmed_relationships": 101,
     "auto_detected_references": 165,
     "resolved_cross_references": 18
   },
@@ -754,6 +754,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-anre-17-2022.md",
       "metadata_file": "metadata/acts/ordin-anre-17-2022.json"
+    },
+    {
+      "slug": "ordin-anre-20-2025",
+      "title": "Ordinul ANRE nr. 20 din 27 mai 2025 pentru modificarea și completarea unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei din domeniul racordării utilizatorilor la rețeaua electrică de interes public",
+      "short_title": "Ordin ANRE 20/2025",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-20-2025.md",
+      "metadata_file": "metadata/acts/ordin-anre-20-2025.json"
     },
     {
       "slug": "ordin-anre-4-2023",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T14:37:09.557Z",
+  "generated_at": "2026-07-14T19:17:39.253Z",
   "summary": {
-    "total_metadata_entries": 63,
+    "total_metadata_entries": 64,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 50,
-    "total_import_logs": 63,
-    "total_relationship_links": 121,
+    "total_metadata_only_acts": 51,
+    "total_import_logs": 64,
+    "total_relationship_links": 124,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -488,6 +488,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-20-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-anre-4-2023",
       "full_text": false,
       "metadata": true,
@@ -511,7 +520,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 9,
+      "relationships": 10,
       "provenance": true
     },
     {
@@ -584,7 +593,7 @@
       "munca": 2,
       "receptie": 1,
       "isc": 2,
-      "anre": 11,
+      "anre": 12,
       "calitate": 17,
       "mediu": 2,
       "incendiu": 7,
@@ -596,7 +605,7 @@
       "minister": 37,
       "guvern": 7,
       "parlament": 9,
-      "autoritate": 10
+      "autoritate": 11
     },
     "publication_years": {
       "1991": 1,
@@ -617,10 +626,10 @@
       "2022": 6,
       "2023": 9,
       "2024": 3,
-      "2025": 3
+      "2025": 4
     },
     "import_methods": {
-      "metadata-only": 50,
+      "metadata-only": 51,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
