@@ -11,7 +11,7 @@ issue_date: "2013-08-02"
 publication_date: "2013-08-19"
 published_in: "Monitorul Oficial al României, Partea I, nr. 517 din 19 august 2013 (anexa: nr. 517 bis)"
 source_url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/150711"
-last_checked: "2026-06-30"
+last_checked: "2026-07-14"
 tags:
   - anre
   - racordare
