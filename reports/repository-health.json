@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:05:40.975Z",
+  "generated_at": "2026-07-14T21:41:34.859Z",
   "summary": {
-    "total_metadata_entries": 69,
+    "total_metadata_entries": 70,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 56,
-    "total_import_logs": 69,
-    "total_relationship_links": 143,
+    "total_metadata_only_acts": 57,
+    "total_import_logs": 70,
+    "total_relationship_links": 145,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -62,6 +62,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-141-2026",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -636,7 +645,7 @@
     "domains": {
       "nzeb": 3,
       "munca": 2,
-      "receptie": 1,
+      "receptie": 2,
       "isc": 2,
       "anre": 17,
       "calitate": 17,
@@ -649,7 +658,7 @@
     "issuers": {
       "minister": 37,
       "guvern": 7,
-      "parlament": 9,
+      "parlament": 10,
       "autoritate": 16
     },
     "publication_years": {
@@ -674,10 +683,10 @@
       "2023": 9,
       "2024": 3,
       "2025": 4,
-      "2026": 1
+      "2026": 2
     },
     "import_methods": {
-      "metadata-only": 56,
+      "metadata-only": 57,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 2,
