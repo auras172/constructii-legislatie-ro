@@ -31,6 +31,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocumentAfis/189596`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596))
   - Status: active · full official text imported 2026-06-28 · 43 articles (3 HG + 40 Regulament) · 6 annexes
   - Import log: [import-log/2026-06-28-hg-343-2017.md](../import-log/2026-06-28-hg-343-2017.md)
+- [Legea 141/2026](./lege-141-2026.md)
+  - Domain: receptie · Related: Legea 307/2006, Legea 10/1995
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/312240`](https://legislatie.just.ro/Public/DetaliiDocument/312240)) + Monitorul Oficial nr. 575/13.07.2026 PDF atașat importului
+  - Status: active · metadata-only · publicată în M.Of. nr. 575/13.07.2026 · 18 articles · 0 annexes · effective date neconfirmată
+  - Import log: [import-log/2026-07-15-lege-141-2026.md](../import-log/2026-07-15-lege-141-2026.md)
 - [Legea 372/2005](./lege-372-2005.md)
   - Domain: energetic · Related: Legea 50/1991, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/265880`](https://legislatie.just.ro/Public/DetaliiDocument/265880))

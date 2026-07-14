@@ -54,6 +54,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-141-2026",
+      "label": "Legea 141/2026",
+      "type": "lege",
+      "domain": "receptie",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -642,6 +650,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-141-2026",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-141-2026.json"
+    },
+    {
+      "source": "lege-141-2026",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-141-2026.json"
     },
     {
       "source": "lege-292-2018",
@@ -1317,8 +1339,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 69,
-    "confirmed_edges": 108,
+    "total_nodes": 70,
+    "confirmed_edges": 110,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
