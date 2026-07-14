@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-14T21:41:34.935Z",
+  "generated_at": "2026-07-14T22:27:16.540Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -19,7 +19,7 @@
     "acts_full_text": 13,
     "acts_metadata_only": 57,
     "article_anchors_total": 799,
-    "import_logs_total": 71,
+    "import_logs_total": 70,
     "domains": [
       "anre",
       "autorizatii",

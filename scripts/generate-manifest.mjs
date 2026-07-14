@@ -106,7 +106,9 @@ if (citationIndex && citationIndex.acts) {
 const importLogDir = path.join(ROOT, 'import-log');
 let importLogsTotal = 0;
 if (fs.existsSync(importLogDir)) {
-  importLogsTotal = fs.readdirSync(importLogDir).filter(f => f.endsWith('.md')).length;
+  importLogsTotal = fs.readdirSync(importLogDir)
+    .filter(f => f.endsWith('.md') && f !== 'README.md')
+    .length;
 }
 
 // Unique domains
