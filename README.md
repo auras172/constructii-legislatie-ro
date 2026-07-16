@@ -112,7 +112,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Knowledge graph
 
-- `graph/graph.json` — node/edge graph (70 acts, 110 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. All auto-detected references are reviewed for the current corpus (0 pending).
+- `graph/graph.json` — node/edge graph (70 nodes, 110 confirmed relationships, 1 needs_review/pending edge); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain pending until human review.
 - `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
 - Regenerate: `node scripts/generate-graph.mjs`
 - Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)

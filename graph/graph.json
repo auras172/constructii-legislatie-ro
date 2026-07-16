@@ -647,7 +647,7 @@
     {
       "source": "lege-10-1995",
       "target": "hg-525-2013",
-      "relationship": "cites",
+      "relationship": "references",
       "review_status": "needs_review",
       "evidence": "cross-references/relationships-auto.json"
     },

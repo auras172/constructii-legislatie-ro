@@ -96,6 +96,9 @@ for (const source of Object.keys(suggested).sort()) {
     continue;
   }
   const refs = [...(suggested[source].references_in_text || [])].sort();
+  const articleRefTargets = new Set(
+    (suggested[source].article_level_refs || []).map(ref => ref.target)
+  );
   for (const target of refs) {
     if (!metaSlugs.has(target)) {
       unresolvedSkipped++;
@@ -104,7 +107,7 @@ for (const source of Object.keys(suggested).sort()) {
     autoEdges.push({
       source,
       target,
-      relationship: 'cites',
+      relationship: articleRefTargets.has(target) ? 'cites' : 'references',
       review_status: 'needs_review',
       evidence: 'cross-references/relationships-auto.json',
     });
