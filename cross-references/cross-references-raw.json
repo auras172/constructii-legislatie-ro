@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T18:53:10.095Z",
+  "generated_at": "2026-07-16T21:56:57.614Z",
   "summary": {
-    "total_references_found": 272,
-    "resolved_to_known_acts": 42,
-    "unresolved": 230,
+    "total_references_found": 293,
+    "resolved_to_known_acts": 46,
+    "unresolved": 247,
     "source_acts_scanned": 13
   },
   "references": [
@@ -411,8 +411,8 @@
       "number": "525",
       "year": "2013",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-525-2013",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-292-2018",
@@ -1120,7 +1120,18 @@
     },
     {
       "source_slug": "lege-350-2001",
-      "source_line": 70,
+      "source_line": 53,
+      "matched_text": "Ordonanța Guvernului nr. 4/2010",
+      "act_type": "ordonanta",
+      "number": "4",
+      "year": "2010",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 53,
       "matched_text": "Legea nr. 190/2010",
       "act_type": "lege",
       "number": "190",
@@ -1131,7 +1142,161 @@
     },
     {
       "source_slug": "lege-350-2001",
-      "source_line": 274,
+      "source_line": 92,
+      "matched_text": "Legea nr. 554/2004",
+      "act_type": "lege",
+      "number": "554",
+      "year": "2004",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 92,
+      "matched_text": "Legea nr. 554/2004",
+      "act_type": "lege",
+      "number": "554",
+      "year": "2004",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 104,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 107,
+      "matched_text": "Legea nr. 289/2006",
+      "act_type": "lege",
+      "number": "289",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 119,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 119,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 119,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 119,
+      "matched_text": "Legea nr. 161/2003",
+      "act_type": "lege",
+      "number": "161",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 155,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 85/2012",
+      "act_type": "ordonanta",
+      "number": "85",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 155,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 85/2012",
+      "act_type": "ordonanta",
+      "number": "85",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 170,
+      "matched_text": "Legea nr. 273/2006",
+      "act_type": "lege",
+      "number": "273",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 185,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 31/2025",
+      "act_type": "ordonanta",
+      "number": "31",
+      "year": "2025",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 185,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 185,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 31/2025",
+      "act_type": "ordonanta",
+      "number": "31",
+      "year": "2025",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 209,
       "matched_text": "Legea nr. 180/2002",
       "act_type": "lege",
       "number": "180",
@@ -1142,7 +1307,18 @@
     },
     {
       "source_slug": "lege-350-2001",
-      "source_line": 294,
+      "source_line": 209,
+      "matched_text": "Legea nr. 180/2002",
+      "act_type": "lege",
+      "number": "180",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 221,
       "matched_text": "Legea nr. 50/1991",
       "act_type": "lege",
       "number": "50",
@@ -1150,6 +1326,61 @@
       "article_ref": null,
       "suggested_target_slug": "lege-50-1991",
       "status": "resolved"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 227,
+      "matched_text": "Legea nr. 180/2002",
+      "act_type": "lege",
+      "number": "180",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 227,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 227,
+      "matched_text": "Hotărârea Guvernului nr. 525/1996",
+      "act_type": "hotarare",
+      "number": "525",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 227,
+      "matched_text": "Hotărârea Guvernului nr. 932/2007",
+      "act_type": "hotarare",
+      "number": "932",
+      "year": "2007",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-350-2001",
+      "source_line": 227,
+      "matched_text": "Hotărârea Guvernului nr. 932/2007",
+      "act_type": "hotarare",
+      "number": "932",
+      "year": "2007",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
     },
     {
       "source_slug": "lege-372-2005",

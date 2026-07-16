@@ -646,6 +646,13 @@
     },
     {
       "source": "lege-10-1995",
+      "target": "hg-525-2013",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-10-1995",
       "target": "lege-50-1991",
       "relationship": "related",
       "review_status": "confirmed",
@@ -1341,7 +1348,7 @@
   "stats": {
     "total_nodes": 70,
     "confirmed_edges": 110,
-    "auto_detected_edges": 0,
+    "auto_detected_edges": 1,
     "unresolved_skipped": 0
   }
 }
