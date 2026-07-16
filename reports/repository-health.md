@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-07-14T21:41:34.859Z
+Generated: 2026-07-16T21:34:47.949Z
 
 ## Summary
 
@@ -149,9 +149,10 @@ Generated: 2026-07-14T21:41:34.859Z
 | --- | --- |
 | metadata-only | 57 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
-| Portal Legislativ forma printabila → text extract via curl → Markdown | 2 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
+| Portal Legislativ forma printabila → text extract via curl → Markdown | 1 |
+| Portal Legislativ forma printabilă consolidată 2026 → text extract via Python HTML parser → Markdown | 1 |
 | Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | printable HTML → Markdown | 1 |
 | Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat | 1 |

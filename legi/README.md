@@ -18,8 +18,8 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Import log: [import-log/2026-06-27-lege-10-1995.md](../import-log/2026-06-27-lege-10-1995.md)
 - [Legea 350/2001](./lege-350-2001.md)
   - Domain: urbanism · Related: Legea 50/1991
-  - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/184772`)
-  - Status: active · full official actualizata text imported 2026-06-27 · 68 articles · 2 annexe
+  - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/307036`)
+  - Status: active · full official consolidated text reconciled 2026-07-17 · consolidated 25.02.2026 · 68 articles · 2 annexe
   - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
 - [Ordin MDRAP 839/2009](./ordin-839-2009.md)
   - Domain: autorizatii · Implements: Legea 50/1991
