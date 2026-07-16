@@ -1,6 +1,6 @@
 # Cross-Reference Suggestions
 
-Generated: 2026-07-16T21:56:57.621Z
+Generated: 2026-07-16T22:19:02.412Z
 
 > Auto-detected only. Review and manually update `metadata/acts/*.json` if confirmed.
 
@@ -35,10 +35,8 @@ Generated: 2026-07-16T21:56:57.621Z
 ## lege-10-1995
 
 ### Already in related_acts
+- hg-525-2013 ✓
 - lege-50-1991 ✓
-
-### Detected in text but NOT in related_acts (suggested additions)
-- hg-525-2013 — line 552: "Hotărârea Guvernului nr. 525/2013"
 
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 203/2003
