@@ -1,6 +1,6 @@
 # Cross-Reference Suggestions
 
-Generated: 2026-06-28T18:53:10.098Z
+Generated: 2026-07-16T21:56:57.621Z
 
 > Auto-detected only. Review and manually update `metadata/acts/*.json` if confirmed.
 
@@ -24,10 +24,8 @@ Generated: 2026-06-28T18:53:10.098Z
 
 ### Already in related_acts
 - lege-10-1995 ✓
+- lege-307-2006 ✓
 - lege-50-1991 ✓
-
-### Detected in text but NOT in related_acts (suggested additions)
-- lege-307-2006 — line 146: "Legea nr. 307/2006"
 
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 273/1994
@@ -39,12 +37,14 @@ Generated: 2026-06-28T18:53:10.098Z
 ### Already in related_acts
 - lege-50-1991 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-525-2013 — line 552: "Hotărârea Guvernului nr. 525/2013"
+
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 203/2003
 - Hotărârea Guvernului nr. 273/1994
 - Hotărârea Guvernului nr. 28/2008
 - Hotărârea Guvernului nr. 498/2001
-- Hotărârea Guvernului nr. 525/2013
 - Hotărârea Guvernului nr. 622/2004
 - Hotărârea Guvernului nr. 766/1997
 - Hotărârea Guvernului nr. 925/1995
@@ -83,12 +83,12 @@ Generated: 2026-06-28T18:53:10.098Z
 
 ### Already in related_acts
 - lege-50-1991 ✓
-
-### Detected in text but NOT in related_acts (suggested additions)
-- oug-21-2004 — line 15: "Ordonanța de urgență a Guvernului nr. 21/2004"
+- oug-21-2004 ✓
 
 ### In related_acts but NOT detected in text
 - lege-10-1995
+- normativ-p118-1-2025
+- normativ-p118-3-2015
 
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 160/2007
@@ -134,8 +134,18 @@ Generated: 2026-06-28T18:53:10.098Z
 - lege-50-1991 ✓
 
 ### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 525/1996
+- Hotărârea Guvernului nr. 932/2007
+- Legea nr. 161/2003
 - Legea nr. 180/2002
 - Legea nr. 190/2010
+- Legea nr. 273/2006
+- Legea nr. 289/2006
+- Legea nr. 554/2004
+- Ordonanța Guvernului nr. 4/2010
+- Ordonanța de urgență a Guvernului nr. 31/2025
+- Ordonanța de urgență a Guvernului nr. 57/2019
+- Ordonanța de urgență a Guvernului nr. 85/2012
 
 ## lege-372-2005
 
@@ -153,8 +163,8 @@ Generated: 2026-06-28T18:53:10.098Z
 
 ## lege-481-2004
 
-### Detected in text but NOT in related_acts (suggested additions)
-- oug-21-2004 — line 69: "Ordonanța de urgență a Guvernului nr. 21/2004"
+### Already in related_acts
+- oug-21-2004 ✓
 
 ### In related_acts but NOT detected in text
 - lege-307-2006
@@ -179,10 +189,8 @@ Generated: 2026-06-28T18:53:10.098Z
 ## lege-50-1991
 
 ### Already in related_acts
+- lege-292-2018 ✓
 - lege-350-2001 ✓
-
-### Detected in text but NOT in related_acts (suggested additions)
-- lege-292-2018 — line 2522: "Legea nr. 292/2018"
 
 ### In related_acts but NOT detected in text
 - hg-343-2017
@@ -216,10 +224,10 @@ Generated: 2026-06-28T18:53:10.098Z
 
 ## ordin-839-2009
 
-### Detected in text but NOT in related_acts (suggested additions)
-- lege-10-1995 — line 850: "Legea nr. 10/1995"
-- lege-350-2001 — line 172: "Legea nr. 350/2001"
-- lege-50-1991 — line 28: "Legea nr. 50/1991"
+### Already in related_acts
+- lege-10-1995 ✓
+- lege-350-2001 ✓
+- lege-50-1991 ✓
 
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 28/2008
