@@ -30,6 +30,11 @@ const VERSION_KIND_LABEL = {
   'excerpt-only': 'Extras parțial',
 }
 
+const IMPORT_KIND_LABEL = {
+  'full-text': 'Text integral',
+  'metadata-only': 'Doar metadate',
+}
+
 const RELATION_LABEL = {
   relatedActs: 'Acte corelate',
   implements: 'Implementează',
@@ -97,6 +102,14 @@ export default function ActPage({ params }) {
           <div>
             <dt>Statut</dt>
             <dd className={`status-badge status-${act.status}`}>{STATUS_LABEL[act.status] ?? act.status}</dd>
+          </div>
+          <div>
+            <dt>Text</dt>
+            <dd>
+              <span className={`import-badge import-${act.importKind}`}>
+                {IMPORT_KIND_LABEL[act.importKind] ?? act.importKind}
+              </span>
+            </dd>
           </div>
           {act.issuer && (
             <div>

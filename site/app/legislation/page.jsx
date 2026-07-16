@@ -6,6 +6,11 @@ export const metadata = {
   title: 'Index legislație | Legislație Construcții România',
 }
 
+const IMPORT_KIND_LABEL = {
+  'full-text': 'Text integral',
+  'metadata-only': 'Doar metadate',
+}
+
 export default function LegislationPage() {
   const acts = getActs()
 
@@ -37,7 +42,11 @@ export default function LegislationPage() {
                 </td>
                 <td>{act.domain}</td>
                 <td>{act.status}</td>
-                <td>{act.textImported ? 'Importat' : 'Doar metadate'}</td>
+                <td>
+                  <span className={`import-badge import-${act.importKind}`}>
+                    {IMPORT_KIND_LABEL[act.importKind] ?? act.importKind}
+                  </span>
+                </td>
                 <td><a href={act.sourceUrl} target="_blank" rel="noopener noreferrer">Sursă oficială ↗</a></td>
               </tr>
             ))}

@@ -301,6 +301,9 @@ td a { color: var(--accent); font-weight: 700; }
 .status-repealed { background: #fee2e2; color: #991b1b; }
 .status-partially_repealed { background: #fef3c7; color: #92400e; }
 .status-unknown { background: var(--border); color: var(--muted); }
+.import-badge { display: inline-block; padding: 2px 10px; border-radius: 99px; font-size: 0.8rem; font-weight: 700; white-space: nowrap; }
+.import-full-text { background: #dbeafe; color: #1e3a8a; }
+.import-metadata-only { background: #f3e8ff; color: #6b21a8; }
 .tag-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .tag { background: var(--border); color: var(--muted); padding: 3px 10px; border-radius: 99px; font-size: 0.78rem; }
 

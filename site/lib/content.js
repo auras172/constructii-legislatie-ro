@@ -55,6 +55,9 @@ function buildActFromSlug(slug, metadata) {
         .sort()
     : []
 
+  const importMethod = metadata.import_method ?? null
+  const importKind = importMethod === 'metadata-only' ? 'metadata-only' : 'full-text'
+
   return {
     slug,
     title: metadata.title,
@@ -79,7 +82,8 @@ function buildActFromSlug(slug, metadata) {
     tags: metadata.tags ?? [],
     articleCount: metadata.article_count ?? (markdownExists ? countHeadings(markdown, '### Articolul') : 0),
     annexCount: metadata.annex_count ?? (markdownExists ? countHeadings(markdown, '### Anexa') : 0),
-    importMethod: metadata.import_method ?? null,
+    importMethod,
+    importKind,
     rightsNote: metadata.rights_note ?? null,
     relatedActs: metadata.related_acts ?? [],
     implements: metadata.implements ?? [],
