@@ -179,6 +179,7 @@ Start here:
 - [AGENTS.md](./AGENTS.md) — rules for human + AI-assisted repository work;
 - [PROMPTS.md](./PROMPTS.md) — reusable prompts for AI-assisted contributions;
 - [docs/contributor-examples.md](./docs/contributor-examples.md) — examples of good PR scope and common anti-patterns;
+- [docs/source-drift-runbook.md](./docs/source-drift-runbook.md) — source drift and compromise response runbook;
 - [docs/ai-contributor-onboarding.md](./docs/ai-contributor-onboarding.md) — first AI-assisted pull request guide.
 
 Good contributions include:
