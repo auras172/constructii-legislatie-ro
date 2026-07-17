@@ -178,6 +178,7 @@ Start here:
 - [CONTRIBUTING.md](./CONTRIBUTING.md) — contribution rules and source-backed workflow;
 - [AGENTS.md](./AGENTS.md) — rules for human + AI-assisted repository work;
 - [PROMPTS.md](./PROMPTS.md) — reusable prompts for AI-assisted contributions;
+- [docs/contributor-examples.md](./docs/contributor-examples.md) — examples of good PR scope and common anti-patterns;
 - [docs/ai-contributor-onboarding.md](./docs/ai-contributor-onboarding.md) — first AI-assisted pull request guide.
 
 Good contributions include:
