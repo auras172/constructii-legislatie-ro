@@ -12,6 +12,9 @@ This document explains when and how contributors and AI agents should use
 `scripts/audit-source-url.mjs` before source-backed import work — metadata-only
 or full-text — in this repository.
 
+For a recent human-readable sample of source-link audit results, see
+[`docs/source-link-check.md`](source-link-check.md).
+
 It does not replace [`docs/ai-contract.md`](ai-contract.md) or
 [`CONTRIBUTING.md`](../CONTRIBUTING.md). Those documents govern what may be
 imported and when human review is required. This document only covers the
