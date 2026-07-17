@@ -20,7 +20,7 @@ Good scope:
 - add one `legi/<slug>.md` placeholder;
 - add one `import-log/<date>-<slug>.md`;
 - update `INDEX.md` and `legi/README.md`;
-- regenerate graph, manifest, and health artifacts only if metadata changed.
+- regenerate graph, health, and then manifest artifacts only if metadata changed.
 
 Why this is good:
 
@@ -34,7 +34,7 @@ Why this is good:
 Good scope:
 
 - run `node scripts/audit-source-url.mjs <slug>`;
-- record HTTP status, source authority, byte size, and SHA-256 in a short report or import log;
+- record fetch date, HTTP status, source authority, byte size, and SHA-256 in a short report or import log;
 - leave metadata unchanged unless the source URL is actually wrong.
 
 Why this is good:
@@ -78,7 +78,7 @@ Good scope:
 
 - promote one or a small set of explicit relationships;
 - cite the official evidence in the import log or PR body;
-- regenerate graph artifacts;
+- regenerate graph, health, and then manifest artifacts;
 - leave unrelated relationships untouched.
 
 Why this is good:
@@ -168,7 +168,7 @@ Before opening a pull request:
 - keep the file list narrow;
 - cite official sources for provenance claims;
 - run the relevant validation scripts;
-- include a PR Evidence Footer;
+- include the six-field PR Evidence Footer defined in `docs/ocki-repository-specification-v1.md`;
 - explain any uncertainty or skipped validation.
 
 ## Useful Commands
