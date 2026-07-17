@@ -179,6 +179,7 @@ Start here:
 - [AGENTS.md](./AGENTS.md) — rules for human + AI-assisted repository work;
 - [PROMPTS.md](./PROMPTS.md) — reusable prompts for AI-assisted contributions;
 - [docs/contributor-examples.md](./docs/contributor-examples.md) — examples of good PR scope and common anti-patterns;
+- [docs/taxonomy.md](./docs/taxonomy.md) — domain taxonomy for classifying tracked acts;
 - [docs/ai-contributor-onboarding.md](./docs/ai-contributor-onboarding.md) — first AI-assisted pull request guide.
 
 Good contributions include:
