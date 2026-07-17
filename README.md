@@ -4,7 +4,7 @@
 
 `constructii-legislatie-ro` is a provenance-first knowledge repository for Romanian construction-related legislation, technical norms, metadata, relationships, citations, and validation artifacts. It is designed to be readable by humans, reviewable through Git, and usable by search systems, RAG pipelines, and AI agents without treating generated output as legal authority.
 
-See [INDEX.md](./INDEX.md) for the current legislation status matrix.
+See [INDEX.md](./INDEX.md) for the current legislation status matrix. International contributors can start with the short [English overview](./docs/overview.en.md).
 
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
