@@ -218,7 +218,18 @@
           "source_url": { "type": "string" },
           "evidence_path": { "type": "string" },
           "notes": { "type": "string" }
-        }
+        },
+        "allOf": [
+          {
+            "not": {
+              "properties": {
+                "confidence": { "const": "confirmed" },
+                "evidence_type": { "const": "inferred" }
+              },
+              "required": ["confidence", "evidence_type"]
+            }
+          }
+        ]
       }
     },
     "tags": {

@@ -69,6 +69,7 @@ const nodes = Object.keys(actMeta).sort().map(slug => {
 const confirmedEdges = [];
 const structuredReviewEdges = [];
 const metadataEdgeKeys = new Set();
+const metadataEdgesByKey = new Map();
 
 function reviewStatus(confidence) {
   return confidence === 'confirmed' ? 'confirmed' : 'needs_review';
@@ -96,6 +97,7 @@ for (const slug of Object.keys(actMeta).sort()) {
         evidence: `metadata/acts/${slug}.json`,
       };
       metadataEdgeKeys.add(edgeKey(edge));
+      metadataEdgesByKey.set(edgeKey(edge), edge);
       confirmedEdges.push(edge);
     }
   }
@@ -130,9 +132,23 @@ for (const slug of Object.keys(actMeta).sort()) {
     }
 
     const dedupeKey = edgeKey({ ...edge, relationship: dedupeRelationshipLabel(edge.relationship) });
-    if (metadataEdgeKeys.has(dedupeKey)) continue;
+    if (metadataEdgesByKey.has(dedupeKey)) {
+      Object.assign(metadataEdgesByKey.get(dedupeKey), {
+        confidence: edge.confidence,
+        evidence_type: edge.evidence_type,
+        evidence: edge.evidence,
+      });
+      for (const field of ['source_article', 'scope', 'reviewed_by', 'reviewed_at', 'source_url', 'evidence_path', 'notes']) {
+        if (field in edge) {
+          metadataEdgesByKey.get(dedupeKey)[field] = edge[field];
+        }
+      }
+      continue;
+    }
     metadataEdgeKeys.add(edgeKey(edge));
     metadataEdgeKeys.add(dedupeKey);
+    metadataEdgesByKey.set(edgeKey(edge), edge);
+    metadataEdgesByKey.set(dedupeKey, edge);
 
     if (edge.review_status === 'confirmed') {
       confirmedEdges.push(edge);
