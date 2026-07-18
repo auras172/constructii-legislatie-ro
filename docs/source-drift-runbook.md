@@ -20,8 +20,9 @@ but they do not yet implement the full drift/compromise workflow described here.
 Before this runbook is treated as an active gate, the implementation must add:
 
 - persistent baseline storage for `snapshot_hash_prev`;
-- hash metadata storage: algorithm, raw-versus-canonical basis, and canonicalization version;
-- final response URL and redirect-chain capture;
+- hash metadata storage: algorithm, raw-versus-canonical basis, and canonicalization version when applicable;
+- manual redirect handling with allowlist validation before each redirect target is requested;
+- final response URL and redirect-chain capture after every validated redirect;
 - allowlist validation of the final response URL, not only the original metadata URL;
 - separate auditing for changed `source_url` and changed `official_detail_url`;
 - blocking `ROT` handling for active Tier 0 and Tier 1 sources;
@@ -42,25 +43,26 @@ not a complete drift detector.
 
 ## Minimum Data Model
 
-Every source URL used as evidence should record:
+Every source URL used as evidence must record:
 
 - `source_type`, for example `ASRO_BS`, `ASRO_CATALOG`, `MDLPA`, `MO`, `EUR_LEX`, `INSTITUTION_SITE`, or `REGISTER`;
 - `retrieved_at`;
-- `snapshot_hash`.
+- `snapshot_hash`;
+- `hash_algorithm`, such as `sha256`;
+- `hash_basis`, such as `raw-bytes` or `canonical-text`;
+- `canonicalization_version`, when `hash_basis` is not raw bytes;
+- source-appropriate document identity, such as `canonical_title`, `doc_id`, `portal_id`, `monitorul_oficial_ref`, register number, CUI, or license number.
 
 Recommended additional fields:
 
 - `http_status`;
 - `content_type`;
 - `content_length`;
-- `canonical_title` or `doc_id`, when available.
-- `hash_algorithm`, such as `sha256`;
-- `hash_basis`, such as `raw-bytes` or `canonical-text`;
-- `canonicalization_version`, when `hash_basis` is not raw bytes.
 
 Rule: evidence without `retrieved_at` and `snapshot_hash` is `NEEDS_MORE_EVIDENCE`.
-Evidence with incomparable hash basis or canonicalization metadata is also
-`NEEDS_MORE_EVIDENCE` for drift comparison.
+Evidence with missing or incomparable `hash_algorithm`, `hash_basis`,
+`canonicalization_version`, or document identity is also
+`NEEDS_MORE_EVIDENCE` for baseline acceptance and drift comparison.
 
 ## Trust Tiers
 
@@ -123,20 +125,26 @@ The active URL list from metadata and evidence records, including both
 For each URL:
 
 1. refetch with retry and backoff;
-2. record the final response URL and redirect chain;
-3. validate the final URL against the approved source allowlist;
-4. capture a source snapshot;
-5. canonicalize the snapshot when the source is known to include dynamic page chrome or request-specific bytes;
-6. compute `snapshot_hash_new`;
-7. compare with `snapshot_hash_prev`.
+2. handle redirects manually;
+3. before following each redirect, validate the next target's scheme and hostname against the approved source allowlist and deny loopback, link-local, private-network, and other unauthorized destinations;
+4. record the final response URL and redirect chain after every validated redirect;
+5. validate the final URL against the approved source allowlist;
+6. capture a source snapshot;
+7. canonicalize the snapshot when the source is known to include dynamic page chrome or request-specific bytes;
+8. compute `snapshot_hash_new`;
+9. compare with `snapshot_hash_prev`.
 
 For newly introduced URLs, or replaced URL values, there is no previous hash.
 The first reviewed capture is classified as `BASELINE`, not `OK` or `DRIFT`.
+`BASELINE` may be accepted only after source-appropriate document identity is
+verified against the expected act, register, or authority record.
 
 For dynamic pages such as Portal Legislativ detail pages, do not classify a raw
 body hash change as `DRIFT` until a documented stable canonicalization or
 document-identity comparison confirms that the underlying document identity has
 changed.
+If the canonicalization basis is unavailable or the hash metadata cannot be
+compared safely, classify the result as `NEEDS_MORE_EVIDENCE`, not `OK`.
 
 ### Result classification
 
@@ -144,6 +152,7 @@ changed.
 |---|---|
 | `BASELINE` | First reviewed snapshot for a new or replaced URL; store the initial hash for future comparisons. |
 | `OK` | Hash unchanged. |
+| `NEEDS_MORE_EVIDENCE` | Missing or incomparable evidence prevents a safe baseline, drift, or unchanged classification. |
 | `ROT` | The source returns 404/410, times out, or is otherwise unavailable. |
 | `DRIFT` | Canonicalized snapshot hash or document identity changed. |
 | `SUSPECT` | Compromise indicators are present, with or without canonical document drift. |
@@ -152,19 +161,21 @@ changed.
 
 ### PASS
 
-- No Tier 0 or Tier 1 source is `SUSPECT`.
+- No source of any tier is `SUSPECT`.
 - No Tier 0 or Tier 1 source is `ROT`, unless the affected evidence has already been marked inactive or replaced with reviewed fallback evidence.
 - New or replaced URLs are `BASELINE` with reviewer-accepted identity fields and hash.
+- No active source required for a decision is `NEEDS_MORE_EVIDENCE`.
 - Any `DRIFT` is explained by a source-backed update, such as a new document version, and evidence includes the new source, timestamp, and hash.
 
 ### FAIL / QUARANTINE
 
 Any of these conditions is a hard failure:
 
-- `SUSPECT` on a Tier 0 or Tier 1 source;
+- `SUSPECT` on any source, regardless of trust tier;
 - `ROT` on Tier 0 or Tier 1 evidence that is still active;
+- `NEEDS_MORE_EVIDENCE` on active evidence that is required for a decision;
 - unexplained `DRIFT` on a critical source such as an authorization register or primary act;
-- redirect to a new unauthorized domain;
+- redirect to a new unauthorized domain, loopback, link-local, private-network, or otherwise disallowed destination;
 - obviously defaced or unrelated content.
 
 Effects:
@@ -194,6 +205,7 @@ Temporarily use an equivalent Tier 0 source only when proof fields are available
 - number/year;
 - issuer;
 - Monitorul Oficial reference, when applicable;
+- version identity, such as `version_kind`, republication marker, consolidation date, effective date, or equivalent source-specific version field when the replaced evidence is consolidated, republished, amended, or otherwise versioned;
 - `retrieved_at`;
 - `snapshot_hash`.
 
