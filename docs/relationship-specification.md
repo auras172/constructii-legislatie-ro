@@ -440,7 +440,7 @@ These relationships capture intellectual dependencies and textual cross-referenc
 
 **Evidence requirement:** `structural` or reviewed `inferred` evidence — same `domain` enumeration value plus shared `tags`, with documented rationale. Analyst judgment alone is insufficient for a confirmed metadata edge; keep judgment-only associations as `suggested`/needs-review until documented evidence supports confirmation.
 
-**Confidence levels:** `suggested`, `inferred`, or `confirmed`. Reviewed subject-matter edges supported by structural evidence but not primary-source citation should use `inferred`; confirmed `related_to` edges recorded in `related_acts` require the documented evidence above and the symmetric inverse edge.
+**Confidence levels:** `suggested`, `inferred`, or `confirmed` in the future structured relationship model. In the current metadata schema, `related_acts` is an unannotated array and `scripts/generate-graph.mjs` emits every entry as `confirmed`; therefore, do not store reviewed-only `inferred` edges in `related_acts` until schema and generator support preserving that confidence. Confirmed `related_to` edges recorded in `related_acts` require the documented evidence above and the symmetric inverse edge.
 
 **Example.** `lege-50-1991` is `related_to` `lege-350-2001` (urbanism and spatial planning law) and `hg-343-2017` (construction reception). These acts are used together in construction practice but have no formal hierarchy between them.
 
