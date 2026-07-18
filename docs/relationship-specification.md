@@ -438,9 +438,9 @@ These relationships capture intellectual dependencies and textual cross-referenc
 
 **Definition.** The weakest relationship type. Acts share significant subject matter, domain, or practical applicability context such that a practitioner researching one would benefit from knowing about the other. Does not imply any legal hierarchy, dependency, or textual cross-reference.
 
-**Evidence requirement:** `structural` or `inferred` — same `domain` enumeration value plus shared `tags`, or explicit analyst judgment.
+**Evidence requirement:** `structural` or reviewed `inferred` evidence — same `domain` enumeration value plus shared `tags`, with documented rationale. Analyst judgment alone is insufficient for a confirmed metadata edge; keep judgment-only associations as `suggested`/needs-review until documented evidence supports confirmation.
 
-**Confidence levels:** `suggested` or `confirmed`.
+**Confidence levels:** `suggested` or `confirmed`. Confirmed `related_to` edges recorded in `related_acts` require the documented evidence above and the symmetric inverse edge.
 
 **Example.** `lege-50-1991` is `related_to` `lege-350-2001` (urbanism and spatial planning law) and `hg-343-2017` (construction reception). These acts are used together in construction practice but have no formal hierarchy between them.
 

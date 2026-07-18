@@ -60,9 +60,11 @@ Recommended additional fields:
 - `content_length`;
 
 Rule: evidence without `retrieved_at` and `snapshot_hash` is `NEEDS_MORE_EVIDENCE`.
-Evidence with missing or incomparable `hash_algorithm`, `hash_basis`,
-`canonicalization_version`, or document identity is also
-`NEEDS_MORE_EVIDENCE` for baseline acceptance and drift comparison.
+Evidence with missing or incomparable `hash_algorithm`, `hash_basis`, or
+document identity is also `NEEDS_MORE_EVIDENCE` for baseline acceptance and
+drift comparison. Missing or incomparable `canonicalization_version` values are
+`NEEDS_MORE_EVIDENCE` for canonicalized or text-normalized hashes, not `OK` or
+`DRIFT`; raw-byte hashes do not require canonicalization metadata.
 
 ## Trust Tiers
 
@@ -205,7 +207,14 @@ Temporarily use an equivalent Tier 0 source only when proof fields are available
 - number/year;
 - issuer;
 - Monitorul Oficial reference, when applicable;
-- version identity, such as `version_kind`, republication marker, consolidation date, effective date, or equivalent source-specific version field when the replaced evidence is consolidated, republished, amended, or otherwise versioned;
+- unique version identity when the replaced evidence is consolidated,
+  republished, amended, or otherwise versioned. `version_kind: consolidated` or
+  a generic republication marker is not enough by itself; include a unique
+  discriminator such as `consolidated_as_of`,
+  `republication_publication_reference`, `source_version_id`,
+  `version_snapshot_date`, or an equivalent source-specific version identifier.
+  The act's ordinary `effective_date` is not enough for consolidated or amended
+  fallback identity because it can remain unchanged across later versions;
 - `retrieved_at`;
 - `snapshot_hash`.
 
