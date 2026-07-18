@@ -224,9 +224,9 @@ Every piece of information an AI agent contributes to the repository must be lab
 | `suggested` | The value was auto-detected by pattern matching or heuristic reasoning. It may be correct but has not been verified against an official source text by a human. | Cross-references detected by scanning for article number patterns (e.g., "art. 7 din Legea nr. 50/1991"). These must be flagged for human review before being treated as `confirmed`. |
 | `inferred` | The value was derived by reasoning from other confirmed facts, but is not directly stated in any source text. | Structured `relationships[]` record derived from the fact that Act A implements Act B, which implements Act C — therefore A and C may be structurally related. Must be clearly marked; may not be promoted to `confirmed` without direct evidence. |
 
-Confidence labels for metadata relationships must use `relationships[].confidence` where a relationship is recorded in metadata. Simple arrays such as `related_acts`, `implements`, `amends`, and `amended_by` are backward-compatible confirmed-only fields and do not carry confidence labels.
+Confidence labels for metadata relationships must use `relationships[].confidence` where a structured relationship record is used. Simple arrays such as `related_acts`, `implements`, `amends`, and `amended_by` are the backward-compatible exception: by policy, every entry in those arrays has implicit `confirmed` confidence. If an edge needs an explicit confidence label, evidence annotation, or any non-confirmed state, use `relationships[]` instead of a simple array.
 
-An AI agent must never omit a confidence label on the grounds that the value is "obviously correct." Obvious correctness is a reason to label `confirmed`, not a reason to omit the label.
+An AI agent must never omit confidence information on the grounds that the value is "obviously correct." Obvious correctness is a reason to use a confirmed-only simple array or `relationships[].confidence: "confirmed"`, not a reason to store an unlabeled suggested or inferred edge.
 
 ---
 
