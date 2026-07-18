@@ -87,6 +87,7 @@ The repository-level OCKI artifacts include:
 - `ocki-manifest.json` — machine-readable repository entry point;
 - [docs/ai-contract.md](./docs/ai-contract.md) — rules for AI agent behavior;
 - [docs/metadata-model.md](./docs/metadata-model.md) — metadata model documentation;
+- [docs/taxonomy.md](./docs/taxonomy.md) — construction legislation domain taxonomy;
 - [docs/anchor-convention.md](./docs/anchor-convention.md) — citation anchor convention;
 - [templates/repository-template/](./templates/repository-template/) — reusable bootstrap template for future repositories.
 
