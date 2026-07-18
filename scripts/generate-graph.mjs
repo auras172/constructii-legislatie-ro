@@ -83,6 +83,19 @@ function dedupeRelationshipLabel(relationship) {
   return relationship === 'related_to' ? 'related' : relationship;
 }
 
+function syncReviewCollection(edge) {
+  const confirmedIndex = confirmedEdges.indexOf(edge);
+  const reviewIndex = structuredReviewEdges.indexOf(edge);
+
+  if (edge.review_status === 'confirmed') {
+    if (reviewIndex >= 0) structuredReviewEdges.splice(reviewIndex, 1);
+    if (confirmedIndex < 0) confirmedEdges.push(edge);
+  } else {
+    if (confirmedIndex >= 0) confirmedEdges.splice(confirmedIndex, 1);
+    if (reviewIndex < 0) structuredReviewEdges.push(edge);
+  }
+}
+
 for (const slug of Object.keys(actMeta).sort()) {
   const related = actMeta[slug].related_acts;
 
@@ -133,16 +146,19 @@ for (const slug of Object.keys(actMeta).sort()) {
 
     const dedupeKey = edgeKey({ ...edge, relationship: dedupeRelationshipLabel(edge.relationship) });
     if (metadataEdgesByKey.has(dedupeKey)) {
-      Object.assign(metadataEdgesByKey.get(dedupeKey), {
+      const existingEdge = metadataEdgesByKey.get(dedupeKey);
+      Object.assign(existingEdge, {
+        review_status: edge.review_status,
         confidence: edge.confidence,
         evidence_type: edge.evidence_type,
         evidence: edge.evidence,
       });
       for (const field of ['source_article', 'scope', 'reviewed_by', 'reviewed_at', 'source_url', 'evidence_path', 'notes']) {
         if (field in edge) {
-          metadataEdgesByKey.get(dedupeKey)[field] = edge[field];
+          existingEdge[field] = edge[field];
         }
       }
+      syncReviewCollection(existingEdge);
       continue;
     }
     metadataEdgeKeys.add(edgeKey(edge));
