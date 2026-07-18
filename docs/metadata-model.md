@@ -162,8 +162,11 @@ The simple relationship arrays remain backward-compatible and confirmed-only:
 - `related_acts`: graph-visible confirmed weak relationships. The generator
   emits these as `relationship: "related"` and `review_status: "confirmed"`.
 - `implements`, `amends`, `amended_by`: confirmed simple metadata fields. They
-  remain supported and validated, but the current graph generator emits them
-  only when the same edge is also represented in structured `relationships[]`.
+  are schema-defined and reserved for confirmed relationships, but the current
+  custom metadata validator does not yet perform the same target and uniqueness
+  checks for these simple arrays that it performs for structured records. The
+  current graph generator emits typed edges for them only when the same edge is
+  also represented in structured `relationships[]`.
 
 Use optional `relationships[]` records when an edge needs confidence or evidence
 annotation. New records should use `type`; `relationship` is accepted as a
@@ -183,17 +186,17 @@ Current validation requires at least one non-empty provenance field: `evidence`,
 source evidence. Fields such as `reviewed_by`, `reviewed_at`, `source_article`,
 and `scope` are annotations; they do not prove the relationship by themselves.
 
-Illustrative schema-valid example:
+Illustrative schema-valid example using an existing corpus slug:
 
 ```json
 {
   "relationships": [
     {
       "type": "references",
-      "target": "example-act-2000",
+      "target": "lege-10-1995",
       "confidence": "suggested",
       "evidence_type": "cross_reference",
-      "evidence": "Illustrative example: source act names Example Act 2000, pending review.",
+      "evidence": "Illustrative example: source act names Legea 10/1995, pending review.",
       "evidence_path": "cross-references/relationships-diff.md"
     }
   ]

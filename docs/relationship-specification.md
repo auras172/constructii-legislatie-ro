@@ -768,13 +768,13 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
 
 **Phase 2 — Pilot structured metadata:** Migrate one small reviewed edge into `relationships[]` only when the extra confidence/evidence annotation is useful. Do not automatically migrate existing simple arrays.
 
-**Phase 3 — Auto-detection promotion:** Future scope. Promote `references_in_text` from `cross-references/relationships-auto.json` into structured `relationships[]` records only after human review, preserving `confidence: "suggested"` or upgrading to `confirmed` when evidence supports it.
+**Phase 3 — Auto-detection review:** Future scope. Keep auto-detected `references_in_text` candidates in `cross-references/relationships-auto.json` and `relationships-diff.md` until review confirms a metadata edge. If review cannot confirm the edge, keep it in the external review artifacts rather than promoting it into act metadata as `suggested`.
 
 **Phase 4 — Lifecycle edges:** Future scope. Populate `repeals`, `repealed_by`, `supersedes`, `superseded_by` only after the schema and generator support those relationship values.
 
 **Phase 5 — Institutional edges:** Future scope. Populate `issued_by` (authority slugs) and `enforced_by` only after schema and graph support authority nodes.
 
-**Phase 6 — Citation edges:** Populate structured `cites` records only when the target slug and article anchor are resolved and evidence is preserved.
+**Phase 6 — Citation edges:** Future scope. Keep article-level citations in citation/cross-reference artifacts until the schema and graph generator support article targets. The current structured `relationships[]` model only targets act slugs, so it cannot preserve a source-article to target-article citation edge.
 
 ---
 

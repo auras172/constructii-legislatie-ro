@@ -814,7 +814,8 @@ FOR EACH file IN metadata/acts/*.json:
   2. For each slug in related_acts[]:
        emit edge(relationship=related, source=act, target=slug, review_status=confirmed)
   3. For each structured relationships[] record:
-       emit edge(relationship=record.type, confidence=record.confidence,
+       relationship = record.type || record.relationship
+       emit edge(relationship=relationship, confidence=record.confidence,
                  review_status=confirmed when confidence=confirmed,
                  review_status=needs_review when confidence=suggested/inferred)
 ```
