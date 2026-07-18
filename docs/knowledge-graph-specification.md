@@ -517,7 +517,7 @@ Every edge has the following common fields:
 **Source → Target:** `Act → Act`
 **Cardinality:** many-to-many
 **Meaning:** Catch-all weak relationship. The source and target share subject matter or are commonly cited together, but no stronger relationship can be confirmed.
-**Maps to:** `metadata/schema.json` → `related_acts[]`
+**Maps to:** `metadata/schema.json` → `related_acts[]` for confirmed simple edges, or structured `relationships[]` when confidence/evidence annotation is needed.
 
 > **Note:** `related_to` edges MUST NOT be used as proxies for `implements`, `amends`, or `requires`. Whenever a stronger relationship can be confirmed, the `related_to` edge SHOULD be replaced.
 
@@ -697,7 +697,7 @@ The Mermaid file SHOULD be generated automatically from `graph.json`. It SHOULD 
 
 ## 6. Confidence Levels
 
-Every edge carries a `confidence` field. This field MUST be one of three values:
+Every structured metadata edge carries a `confidence` field. Auto-detected edges and simple-array edges expose their review state through `review_status` in the generated graph. Confidence MUST be one of three values when present:
 
 | Value | Meaning | Human review required? |
 |---|---|---|
@@ -710,7 +710,8 @@ Every edge carries a `confidence` field. This field MUST be one of three values:
 1. An edge derived entirely from `confirmed` sources MUST be `confirmed`.
 2. An edge derived from at least one `suggested` source MUST be at most `suggested`.
 3. An edge derived by transitivity MUST be `inferred`, regardless of source confidence.
-4. Confidence MAY only be upgraded (e.g. `suggested → confirmed`) by an explicit human review commit that updates the `evidence` field with a verified source reference.
+4. Confidence MAY only be upgraded (e.g. `suggested → confirmed`) by an explicit human review commit that updates a source-like evidence field with a verified source reference.
+5. `confidence: "confirmed"` with `evidence_type: "inferred"` is invalid in current metadata validation.
 
 ---
 
@@ -803,23 +804,23 @@ The pipeline runs in four stages. Each stage produces or updates `graph.json`.
 ### Stage 1 — Act nodes + confirmed edges from metadata (Phase 1)
 
 **Input:** `metadata/acts/*.json`
-**Output:** Act nodes, `implements`/`amends`/`related_to`/`used_by`/`issued_by` edges
+**Output:** Act nodes plus graph-visible metadata edges implemented today.
 **Confidence:** `confirmed`
 
 ```
 FOR EACH file IN metadata/acts/*.json:
   1. Create Act node with id = "{repo}:{slug}"
-  2. For each slug in implements[]:
-       emit edge(type=implements, source=act, target="{repo}:{slug}", confidence=confirmed)
-  3. For each slug in amends[]:
-       emit edge(type=amends, source=act, target="{repo}:{slug}", confidence=confirmed)
-  4. For each slug in related_acts[]:
-       emit edge(type=related_to, source=act, target="{repo}:{slug}", confidence=confirmed)
-  5. Derive used_by from domain field:
-       emit edge(type=used_by, source=act, target="domain:{domain}", confidence=confirmed)
-  6. Derive issued_by from issuer + issuing_body_kind:
-       map to authority slug → emit edge(type=issued_by, ..., confidence=confirmed)
+  2. For each slug in related_acts[]:
+       emit edge(relationship=related, source=act, target="{repo}:{slug}", review_status=confirmed)
+  3. For each structured relationships[] record:
+       emit edge(relationship=record.type, confidence=record.confidence,
+                 review_status=confirmed when confidence=confirmed,
+                 review_status=needs_review when confidence=suggested/inferred)
 ```
+
+Current `scripts/generate-graph.mjs` does not emit simple `implements[]`,
+`amends[]`, or `amended_by[]` arrays unless the same edge is also represented in
+structured `relationships[]`.
 
 ### Stage 2 — Article nodes from citation-index (Phase 2)
 
@@ -858,7 +859,7 @@ FOR EACH act IN relationships-auto.suggested_relationships:
 **Output:** Additional `cites`, `references`, `requires` edges
 **Confidence:** `inferred`
 
-A language model or NLP pipeline reads article text, identifies cross-references not captured by the regex-based Stage 3, and emits inferred edges. These MUST be stored separately (e.g. `cross-references/relationships-inferred.json`) and MUST carry `confidence: "inferred"`.
+A language model or NLP pipeline reads article text, identifies cross-references not captured by the regex-based Stage 3, and emits inferred edges. These MUST remain explicit review candidates: either outside confirmed metadata in generated review artifacts, or in structured `relationships[]` records with `confidence: "inferred"` so the graph marks them `needs_review`.
 
 ---
 
@@ -1097,16 +1098,12 @@ Machine-readable node/edge representation of the relationship graph. Generated b
 
 - **nodes** — one entry per tracked act, with fields: `id` (slug), `label`, `type`, `domain`, `status`, `import_method`
 - **edges** — relationships between acts, each with `source`, `target`, `relationship`, `review_status`, and `evidence`
-  - `review_status: "confirmed"` — sourced from `related_acts` fields in reviewed `metadata/acts/*.json` files; safe for structural reasoning and navigation
-  - `review_status: "needs_review"` — sourced from auto-detected text references in `cross-references/relationships-auto.json`; navigational hints only, not canonical; do not assert legal relationships from these edges without verifying in official text
+  - `review_status: "confirmed"` — sourced from reviewed `related_acts` entries or structured `relationships[]` records with `confidence: "confirmed"`; safe for structural reasoning and navigation
+  - `review_status: "needs_review"` — sourced from auto-detected text references in `cross-references/relationships-auto.json` or structured `relationships[]` records with `confidence: "suggested"` / `"inferred"`; navigational hints only, not canonical; do not assert legal relationships from these edges without verifying in official text
 - **stats** — summary counts: `total_nodes`, `confirmed_edges`, `auto_detected_edges`, `unresolved_skipped`
 
-Current counts (from `graph/graph.json`): 19 nodes, 43 confirmed edges, 0 auto-detected edges.
-
-**Knowledge Graph v1 review status (as of 2026-06-29):**
-All 2 auto-detected `needs_review` edges have been reviewed for the current 19-act corpus.
-Current state: 19 nodes · 43 confirmed edges · 0 needs_review.
-Future act imports may produce new `needs_review` edges requiring review.
+Check `graph/graph.json` for current counts; this document intentionally does
+not duplicate generated artifact counts.
 
 **Deduplication rule:** if the same source→target pair appears in both sources, the `confirmed` edge is kept and the `needs_review` edge is dropped.
 
@@ -1158,10 +1155,11 @@ The script is deterministic and idempotent: same input produces the same bytes. 
 | `status` | Act node `properties.status` |
 | `effective_date` | Act node `properties.effective_date` (temporal model) |
 | `issuer` + `issuing_body_kind` | `issued_by` edge → Authority node |
-| `implements[]` | `implements` edges (confirmed) |
-| `amends[]` | `amends` edges (confirmed) |
-| `amended_by[]` | inverse `amends` edges (confirmed) |
-| `related_acts[]` | `related_to` edges (confirmed, weak) |
+| `implements[]` | Confirmed simple metadata only; not currently emitted by `generate-graph.mjs` unless represented in structured `relationships[]` |
+| `amends[]` | Confirmed simple metadata only; not currently emitted by `generate-graph.mjs` unless represented in structured `relationships[]` |
+| `amended_by[]` | Confirmed simple metadata only; not currently emitted by `generate-graph.mjs` unless represented in structured `relationships[]` |
+| `related_acts[]` | `related` edges (confirmed, weak) |
+| `relationships[]` | Structured graph-visible edges with preserved `confidence`, `evidence_type`, and evidence fields |
 | (not yet in schema) `repeals[]` | `repeals` edges — schema extension needed |
 
 ## Appendix B: RFC 2119 Key Words

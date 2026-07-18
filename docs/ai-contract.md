@@ -94,7 +94,8 @@ The following actions are permitted without explicit human approval for each ins
 
 - Create a feature branch following the naming convention in `AGENTS.md` (e.g., `feature/add-lege-10`, `docs/import-log-template`).
 - Open a pull request with a body that satisfies the PR body requirements in `docs/open-source-agent-rules.md`.
-- Update `related_acts` in a metadata file when there is confirmed structural evidence (e.g., the act body explicitly names the related act).
+- Update `related_acts` in a metadata file only for confirmed structural evidence (e.g., the act body explicitly names the related act).
+- Add a structured `relationships[]` record when a graph-visible edge needs confidence or evidence annotation.
 - Update repository wiki pages when wiki content describes repository structure, not legal interpretation.
 
 ---
@@ -190,11 +191,12 @@ For each action type, the following evidence is required before the action may b
 | Add `{#art-N}` anchors | Existing imported text with article headings already present in the file; anchors may only be added to headings that already exist | `lege-50-1991.md` contains `## Art. 7`; agent adds `## Art. 7 {#art-7}` |
 | Add `implements` relationship | Explicit text in the act body stating application of another act (e.g., "În aplicarea Legii nr. 50/1991...") | Ordin 839/2009 body contains: "În temeiul art. 38 alin. (2) din Legea nr. 50/1991..." |
 | Add `amends` relationship | Official act title or act body explicitly states amendment (e.g., "pentru modificarea...") | Act title: "Lege pentru modificarea și completarea Legii nr. 10/1995..." |
-| Add `cites` edge (article → article) | Auto-detected cross-reference in imported text; marked as `suggested` (not `confirmed`) | `cross-references/lege-50-1991-citations.json` with `"confidence": "suggested"` |
+| Add `cites` edge (article → article) | Auto-detected cross-reference in imported text; marked as `suggested` (not `confirmed`) unless reviewed against source text | `cross-references/relationships-auto.json` or structured `relationships[]` with `"confidence": "suggested"` |
 | Update `effective_date`, `publication_date`, or `consolidated_as_of` | Official source (Monitorul Oficial citation or act text) that explicitly states the date | M.Of. Part I, nr. 123/2025, Art. 7: "Prezenta lege intră în vigoare la 30 de zile de la publicare." |
 | Update `status` (e.g., to `repealed`) | Official source that explicitly repeals or suspends the act | New act text: "La data intrării în vigoare a prezentei legi se abrogă Legea nr. X/YYYY." |
 | Close a GitHub issue as resolved | All checklist items in the issue body are confirmed completed, CI passes, and PR has been approved by a human reviewer | Issue checklist all checked, CI green, human approval on PR |
-| Update `related_acts` | Confirmed structural or textual relationship (act body references the related act) or confirmed `implements`/`amends` relationship | `hg-343-2017.json` references `lege-50-1991` in implementation context |
+| Update `related_acts` | Confirmed structural or textual relationship (act body references the related act) or confirmed `implements`/`amends` relationship; `related_acts` is confirmed-only | `hg-343-2017.json` references `lege-50-1991` in implementation context |
+| Add structured `relationships[]` | Source-backed edge that needs explicit `confidence`, `evidence_type`, or review notes; suggested/inferred records must stay out of simple arrays | A reviewed metadata record with `type`, `target`, `confidence`, and a non-empty evidence field |
 
 ### Approved source list
 
@@ -214,15 +216,15 @@ Any other source requires explicit human approval before it may be used.
 
 ## Part VI — Confidence Labeling
 
-Every piece of information an AI agent contributes to the repository must be labeled with one of the following confidence levels. Labels must appear in: cross-reference outputs, relationship fields in metadata JSON, import-log entries, and PR bodies.
+Every piece of information an AI agent contributes to the repository must be labeled with one of the following confidence levels when the relevant artifact supports confidence metadata. Labels appear in cross-reference outputs, structured `relationships[]` metadata records, import-log entries, and PR bodies.
 
 | Label | Definition | Usage |
 |-------|-----------|-------|
 | `confirmed` | The value is directly stated in an official source text that the agent has read in the current session. No inference required. | `effective_date` read directly from the act text or M.Of. header. `amends` relationship stated in the act title. |
 | `suggested` | The value was auto-detected by pattern matching or heuristic reasoning. It may be correct but has not been verified against an official source text by a human. | Cross-references detected by scanning for article number patterns (e.g., "art. 7 din Legea nr. 50/1991"). These must be flagged for human review before being treated as `confirmed`. |
-| `inferred` | The value was derived by reasoning from other confirmed facts, but is not directly stated in any source text. | `related_acts` entry derived from the fact that Act A implements Act B, which implements Act C — therefore A and C are structurally related. Must be clearly marked; may not be promoted to `confirmed` without a direct source. |
+| `inferred` | The value was derived by reasoning from other confirmed facts, but is not directly stated in any source text. | Structured `relationships[]` record derived from the fact that Act A implements Act B, which implements Act C — therefore A and C may be structurally related. Must be clearly marked; may not be promoted to `confirmed` without direct evidence. |
 
-Confidence labels must appear in JSON as a dedicated field where available (e.g., `"relationship_confidence": "suggested"`) and in PR body comments where the JSON schema does not include such a field.
+Confidence labels for metadata relationships must use `relationships[].confidence` where a relationship is recorded in metadata. Simple arrays such as `related_acts`, `implements`, `amends`, and `amended_by` are backward-compatible confirmed-only fields and do not carry confidence labels.
 
 An AI agent must never omit a confidence label on the grounds that the value is "obviously correct." Obvious correctness is a reason to label `confirmed`, not a reason to omit the label.
 
