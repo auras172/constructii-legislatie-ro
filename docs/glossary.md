@@ -29,9 +29,9 @@ authority when the cited source does not support them.
 | `amends` | A relationship type where the source act modifies the target act. | Use only when official source evidence supports the amendment. |
 | `amended_by` | A metadata list on an act that records local acts known to amend it. | This is an append-only provenance aid unless validation or source correction requires otherwise. |
 | `implements` | A relationship type where an act applies, operationalizes, or implements another act. | Use only when the official source directly supports this relationship. |
-| citation anchor | A stable Markdown anchor used to point to a specific article, annex, or section in a full-text act page. | Anchors support precise citations and should remain stable once published. |
+| citation anchor | A stable Markdown anchor used to point to a specific article in a full-text act page. | The implemented canonical target is currently `#art-N`; annex, paragraph, letter, and section anchors are future scope unless a more specific repository convention says otherwise. |
 | graph edge | A machine-readable relationship between two act nodes in generated graph artifacts. | Edges should derive from confirmed metadata or clearly labeled generated review candidates. |
-| `needs_review` | A graph or cross-reference status for a detected relationship that has not been confirmed as source-backed metadata. | It should not be treated as confirmed legal provenance. |
+| `needs_review` | A generated graph-edge review status for a detected relationship that has not been confirmed as source-backed metadata. | `cross-references/relationships-auto.json` stores detected suggestions; `scripts/generate-graph.mjs` marks the resulting graph edges as `needs_review`. |
 | `domain` | The primary taxonomy bucket for an act. | Each act should have one primary domain when classified. |
 | `topics` | Structured secondary taxonomy terms that describe the act's subject matter. | Topics improve browsing and retrieval, but they are not relationship evidence. |
 | `tags` | Search and retrieval keywords used by the repository. | Tags are intentionally lightweight and must not be used to infer graph edges. |
