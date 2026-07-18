@@ -140,10 +140,13 @@ export function getRepositoryStats() {
     graphNodes: graph?.nodes?.length ?? acts.length,
     confirmedEdges: graph?.edges?.filter((edge) => edge.review_status === 'confirmed').length ?? 0,
     pendingEdges: graph?.edges?.filter((edge) => edge.review_status === 'needs_review').length ?? 0,
-    healthScore: health?.score ?? health?.summary?.health_score ?? 100,
+    healthScore: health?.health_score?.score ?? health?.score ?? health?.summary?.health_score ?? 100,
     articleAnchors: Array.isArray(citationIndex)
       ? citationIndex.length
-      : citationIndex?.citations?.length ?? citationIndex?.anchors?.length ?? 799,
+      : Object.values(citationIndex?.acts ?? {}).reduce((sum, act) => sum + (act.articles?.length ?? 0), 0)
+        || citationIndex?.citations?.length
+        || citationIndex?.anchors?.length
+        || 0,
   }
 }
 
