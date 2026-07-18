@@ -118,6 +118,35 @@ export function getActs() {
     })
 }
 
+export function getRepositoryStats() {
+  const acts = getActs()
+  const graphPath = path.join(repoRoot, 'graph', 'graph.json')
+  const healthPath = path.join(repoRoot, 'reports', 'repository-health.json')
+  const citationPath = path.join(repoRoot, 'citations', 'citation-index.json')
+
+  const graph = fs.existsSync(graphPath) ? readJson('graph/graph.json') : null
+  const health = fs.existsSync(healthPath) ? readJson('reports/repository-health.json') : null
+  const citationIndex = fs.existsSync(citationPath) ? readJson('citations/citation-index.json') : null
+  const fullTextActs = acts.filter((act) => act.textImported).length
+
+  return {
+    actsTotal: acts.length,
+    fullTextActs,
+    metadataOnlyActs: acts.length - fullTextActs,
+    domainsTotal: new Set(acts.map((act) => act.domain)).size,
+    importLogs: health?.summary?.total_import_logs ?? (fs.existsSync(path.join(repoRoot, 'import-log'))
+      ? fs.readdirSync(path.join(repoRoot, 'import-log')).filter((file) => file.endsWith('.md')).length
+      : 0),
+    graphNodes: graph?.nodes?.length ?? acts.length,
+    confirmedEdges: graph?.edges?.filter((edge) => edge.review_status === 'confirmed').length ?? 0,
+    pendingEdges: graph?.edges?.filter((edge) => edge.review_status === 'needs_review').length ?? 0,
+    healthScore: health?.score ?? health?.summary?.health_score ?? 100,
+    articleAnchors: Array.isArray(citationIndex)
+      ? citationIndex.length
+      : citationIndex?.citations?.length ?? citationIndex?.anchors?.length ?? 799,
+  }
+}
+
 export function getActSlugs() {
   const actsDir = path.join(repoRoot, 'metadata', 'acts')
   if (!fs.existsSync(actsDir)) return []
