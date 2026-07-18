@@ -713,17 +713,27 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
       "required": ["type", "target", "confidence"],
       "additionalProperties": false,
       "properties": {
-        "type": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
+        },
         "target": { "type": "string" },
         "confidence": {
           "type": "string",
           "enum": ["confirmed", "suggested", "inferred"]
         },
+        "evidence_type": {
+          "type": "string",
+          "enum": ["explicit_text", "portal_action", "cross_reference", "structural", "inferred", "manual_review"]
+        },
         "evidence": { "type": "string" },
         "source_article": { "type": "string" },
         "scope": { "type": "string" },
         "reviewed_by": { "type": "string" },
-        "reviewed_at": { "type": "string", "format": "date" }
+        "reviewed_at": { "type": "string", "format": "date" },
+        "source_url": { "type": "string" },
+        "evidence_path": { "type": "string" },
+        "notes": { "type": "string" }
       }
     }
   }
@@ -767,9 +777,7 @@ Only `confirmed` relationships SHOULD be used in production RAG grounding and le
 
 ### 6.2 Simple array fields (current pattern)
 
-The simple array fields (`implements`, `amends`, `amended_by`, `related_acts`, and the new fields) SHOULD be used when:
-- The relationship is `confirmed`; OR
-- The relationship is `suggested` and the field is populated by an automated pipeline that is clearly labeled as such (e.g., all entries in `references` populated from `relationships-auto.json` are implicitly `suggested`).
+The simple array fields (`implements`, `amends`, `amended_by`, and `related_acts`) SHOULD be used only for confirmed relationships. Suggested or inferred relationships MUST use structured records or generated review artifacts so their confidence is not lost.
 
 ### 6.3 Structured relationship records
 
