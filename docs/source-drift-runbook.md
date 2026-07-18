@@ -208,7 +208,7 @@ Temporarily use an equivalent Tier 0 source only when proof fields are available
 - issuer;
 - Monitorul Oficial reference, when applicable;
 - unique version identity when the replaced evidence is consolidated,
-  republished, amended, or otherwise versioned. `version_kind: consolidated` or
+  republished, amended, or otherwise versioned. `version_kind: consolidat` or
   a generic republication marker is not enough by itself; include a unique
   discriminator such as `consolidated_as_of`,
   `republication_publication_reference`, `source_version_id`,
