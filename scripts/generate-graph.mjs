@@ -3,7 +3,7 @@
  * generate-graph.mjs
  *
  * Generates graph/graph.json and graph/graph.mmd from:
- *   - metadata/acts/*.json  → nodes + confirmed edges (related_acts)
+ *   - metadata/acts/*.json  → nodes + metadata edges (related_acts + relationships)
  *   - cross-references/relationships-auto.json → auto-detected edges (needs_review)
  *
  * Auto-detected edges are only included when BOTH source and target slugs
@@ -27,6 +27,10 @@ function readJson(filePath) {
 
 function slugFromFile(filePath) {
   return path.basename(filePath, '.json');
+}
+
+function edgeKey(edge) {
+  return `${edge.source}||${edge.target}||${edge.relationship}`;
 }
 
 // ── 1. Load metadata acts → nodes ───────────────────────────────────────────
@@ -60,23 +64,74 @@ const nodes = Object.keys(actMeta).sort().map(slug => {
   };
 });
 
-// ── 2. Confirmed edges from related_acts ────────────────────────────────────
+// ── 2. Metadata edges from related_acts and structured relationships ────────
 
 const confirmedEdges = [];
+const structuredReviewEdges = [];
+const metadataEdgeKeys = new Set();
+
+function relationshipLabel(relationship) {
+  return relationship === 'related_to' ? 'related' : relationship;
+}
+
+function reviewStatus(confidence) {
+  return confidence === 'confirmed' ? 'confirmed' : 'needs_review';
+}
 
 for (const slug of Object.keys(actMeta).sort()) {
   const related = actMeta[slug].related_acts;
-  if (!Array.isArray(related)) continue;
 
-  for (const target of [...related].sort()) {
-    if (!metaSlugs.has(target)) continue; // skip if target not in metadata
-    confirmedEdges.push({
+  if (Array.isArray(related)) {
+    for (const target of [...related].sort()) {
+      if (!metaSlugs.has(target)) continue; // skip if target not in metadata
+      const edge = {
+        source: slug,
+        target,
+        relationship: 'related',
+        review_status: 'confirmed',
+        evidence: `metadata/acts/${slug}.json`,
+      };
+      metadataEdgeKeys.add(edgeKey(edge));
+      confirmedEdges.push(edge);
+    }
+  }
+
+  const relationships = actMeta[slug].relationships;
+  if (!Array.isArray(relationships)) continue;
+
+  const sortedRelationships = [...relationships].sort((a, b) => {
+    const aKey = `${a.target || ''}||${a.relationship || ''}`;
+    const bKey = `${b.target || ''}||${b.relationship || ''}`;
+    return aKey.localeCompare(bKey);
+  });
+
+  for (const record of sortedRelationships) {
+    if (!metaSlugs.has(record.target)) continue;
+
+    const edge = {
       source: slug,
-      target,
-      relationship: 'related',
-      review_status: 'confirmed',
-      evidence: `metadata/acts/${slug}.json`,
-    });
+      target: record.target,
+      relationship: relationshipLabel(record.relationship),
+      review_status: reviewStatus(record.confidence),
+      confidence: record.confidence,
+      evidence_type: record.evidence_type,
+      evidence: record.evidence || `metadata/acts/${slug}.json`,
+    };
+
+    for (const field of ['source_url', 'evidence_path', 'notes']) {
+      if (typeof record[field] === 'string' && record[field].length > 0) {
+        edge[field] = record[field];
+      }
+    }
+
+    if (metadataEdgeKeys.has(edgeKey(edge))) continue;
+    metadataEdgeKeys.add(edgeKey(edge));
+
+    if (edge.review_status === 'confirmed') {
+      confirmedEdges.push(edge);
+    } else {
+      structuredReviewEdges.push(edge);
+    }
   }
 }
 
@@ -116,7 +171,6 @@ for (const source of Object.keys(suggested).sort()) {
 
 // ── 4. Deduplicate: confirmed wins over auto for same source+target ──────────
 
-const edgeKey = e => `${e.source}||${e.target}||${e.relationship}`;
 const confirmedKeys = new Set(confirmedEdges.map(edgeKey));
 
 const filteredAutoEdges = autoEdges.filter(e => {
@@ -130,7 +184,7 @@ const filteredAutoEdges = autoEdges.filter(e => {
 
 // ── 5. Merge and sort all edges ──────────────────────────────────────────────
 
-const allEdges = [...confirmedEdges, ...filteredAutoEdges].sort((a, b) => {
+const allEdges = [...confirmedEdges, ...structuredReviewEdges, ...filteredAutoEdges].sort((a, b) => {
   if (a.source !== b.source) return a.source.localeCompare(b.source);
   if (a.target !== b.target) return a.target.localeCompare(b.target);
   return a.relationship.localeCompare(b.relationship);
@@ -153,6 +207,10 @@ const graph = {
     unresolved_skipped: unresolvedSkipped,
   },
 };
+
+if (structuredReviewEdges.length > 0) {
+  graph.stats.structured_review_edges = structuredReviewEdges.length;
+}
 
 const graphDir = path.join(repoRoot, 'graph');
 fs.mkdirSync(graphDir, { recursive: true });
@@ -181,6 +239,16 @@ const autoLines = filteredAutoEdges.map(
   e => `  ${e.source} -.->|${e.relationship} - needs_review| ${e.target}`
 );
 
+const structuredReviewLines = structuredReviewEdges.length > 0
+  ? [
+      '',
+      '  %% Structured metadata relationships (needs_review)',
+      ...structuredReviewEdges.map(
+        e => `  ${e.source} -.->|${e.relationship} - needs_review| ${e.target}`
+      ),
+    ]
+  : [];
+
 const mmdLines = [
   'graph LR',
   '',
@@ -189,6 +257,7 @@ const mmdLines = [
   '',
   '  %% Confirmed relationships (from metadata related_acts)',
   ...confirmedLines,
+  ...structuredReviewLines,
   '',
   '  %% Auto-detected relationships (needs_review)',
   ...autoLines,
@@ -205,5 +274,8 @@ fs.writeFileSync(
 console.log('graph/graph.json and graph/graph.mmd written.');
 console.log(`  nodes:                 ${graph.stats.total_nodes}`);
 console.log(`  confirmed edges:       ${graph.stats.confirmed_edges}`);
+if (structuredReviewEdges.length > 0) {
+  console.log(`  structured review:     ${graph.stats.structured_review_edges}`);
+}
 console.log(`  auto-detected edges:   ${graph.stats.auto_detected_edges}`);
 console.log(`  unresolved skipped:    ${graph.stats.unresolved_skipped}`);
