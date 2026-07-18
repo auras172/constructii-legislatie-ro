@@ -8,6 +8,7 @@ export const metadata = {
 
 const navItems = [
   { href: '/', label: 'Acasă' },
+  { href: '/ce-am-construit/', label: 'Ce am construit' },
   { href: '/legislation/', label: 'Index legislație' },
   { href: '/search/', label: 'Căutare' },
   { href: '/contribute/', label: 'Contribuie' },
