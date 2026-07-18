@@ -125,6 +125,8 @@ Poor scope:
 
 - link two acts because they are both about fire safety, energy, concrete, or urbanism;
 - add `related_acts` without explicit source evidence;
+- put `suggested` or `inferred` relationships into simple arrays instead of
+  structured `relationships[]` records or generated review artifacts;
 - promote auto-detected references without checking the text.
 
 Why this is a problem:

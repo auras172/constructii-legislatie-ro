@@ -15,6 +15,9 @@ Validates every JSON file under `metadata/acts/` against `metadata/schema.json`:
 - enum values match schema
 - `last_checked` in `YYYY-MM-DD` format
 - `tags` array non-empty with non-empty strings
+- structured `relationships[]` target slugs, confidence values, evidence fields,
+  duplicate records, and contradictory `confirmed` + `evidence_type: inferred`
+  combinations
 
 Exits with code 1 if any check fails.
 
@@ -146,7 +149,7 @@ node scripts/generate-manifest.mjs
 
 Reads all `metadata/acts/*.json`, `citations/citation-index.json`, `cross-references/relationships-auto.json`, and `reports/repository-health.json` to produce:
 
-- `ocki-manifest.json` — machine-readable repository entry point for AI agents and external tools. Contains content statistics (acts total, full-text vs metadata-only, article anchors, domains, act types), relationship counts, infrastructure inventory, per-act index, and AI guidance (citation format, read order, do-not list).
+- `ocki-manifest.json` — machine-readable repository entry point for AI agents and external tools. Contains content statistics (acts total, full-text vs metadata-only, article anchors, domains, act types), relationship counts including confirmed structured relationship records, infrastructure inventory, per-act index, and AI guidance (citation format, read order, do-not list).
 - `reports/manifest-summary.md` — human-readable one-pager with tables for content stats, acts index, and AI guidance.
 
 Repository-level fields (name, owner, URL) are hardcoded — they don't change.
@@ -163,11 +166,15 @@ auto-detected cross-references. Confirmed metadata edges are marked `confirmed`;
 auto-detected edges are marked `needs_review`. Run after updating metadata or cross-references.
 
 - Nodes: one per act in `metadata/acts/*.json`
-- Confirmed edges: from `related_acts` in each metadata JSON (human-verified)
+- Confirmed edges: from `related_acts` in each metadata JSON and structured
+  `relationships[]` records with `confidence: "confirmed"`
+- Structured review edges: from `relationships[]` records with
+  `confidence: "suggested"` or `"inferred"`; emitted as `needs_review`
 - Auto-detected edges: from `cross-references/relationships-auto.json` where both source
   and target slugs resolve to known acts; unresolved references are skipped
-- Deduplication: if the same source→target pair appears in both sources, the confirmed
-  edge is kept and the auto-detected one is dropped
+- Deduplication: if the same source→target pair appears in metadata and
+  auto-detected sources, the metadata edge is kept and the auto-detected one is
+  dropped
 - Output is deterministic and idempotent — sort order is fixed, no timestamps in content
 
 ## Rules

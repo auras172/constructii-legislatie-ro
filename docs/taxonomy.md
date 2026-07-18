@@ -110,11 +110,11 @@ in metadata, import logs, official text, or reviewed cross-reference artifacts.
 may be used for subject-matter navigation when the documented evidence standard
 is met, such as same domain plus shared tags with reviewed rationale. Because
 metadata `related_acts` are emitted as confirmed graph edges, do not promote
-analyst judgment alone into confirmed metadata; keep that as suggested or
-needs-review evidence until the relationship-specification criteria for a
-confirmed edge are satisfied. `related_acts` is symmetric: record the inverse
-entry in both acts' metadata whenever the repository models this relationship.
-Prefer a more specific relationship when one is source-backed.
+analyst judgment alone into confirmed metadata. Use structured `relationships[]`
+for `suggested` or `inferred` relationship records so the generated graph keeps
+them as `needs_review`. `related_acts` is symmetric: record the inverse entry in
+both acts' metadata whenever the repository models this relationship. Prefer a
+more specific relationship when one is source-backed.
 
 Examples:
 

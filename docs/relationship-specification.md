@@ -434,13 +434,13 @@ These relationships capture intellectual dependencies and textual cross-referenc
 | **Node types** | Act ↔ Act |
 | **Cardinality** | many-to-many |
 | **Inverse** | self (symmetric) |
-| **Schema field** | `related_acts` (existing) |
+| **Schema field** | `related_acts` (existing confirmed-only array); `relationships[]` for confidence/evidence annotation |
 
 **Definition.** The weakest relationship type. Acts share significant subject matter, domain, or practical applicability context such that a practitioner researching one would benefit from knowing about the other. Does not imply any legal hierarchy, dependency, or textual cross-reference.
 
 **Evidence requirement:** `structural` or reviewed `inferred` evidence — same `domain` enumeration value plus shared `tags`, with documented rationale. Analyst judgment alone is insufficient for a confirmed metadata edge; keep judgment-only associations as `suggested`/needs-review until documented evidence supports confirmation.
 
-**Confidence levels:** `suggested`, `inferred`, or `confirmed` in the future structured relationship model. In the current metadata schema, `related_acts` is an unannotated array and `scripts/generate-graph.mjs` emits every entry as `confirmed`; therefore, do not store reviewed-only `inferred` edges in `related_acts` until schema and generator support preserving that confidence. Confirmed `related_to` edges recorded in `related_acts` require the documented evidence above and the symmetric inverse edge.
+**Confidence levels:** `suggested`, `inferred`, or `confirmed` in structured `relationships[]`. The simple `related_acts` array remains unannotated and `scripts/generate-graph.mjs` emits every entry as `relationship: "related"` with `review_status: "confirmed"`; therefore, do not store `suggested` or `inferred` edges in `related_acts`. Confirmed `related_to` edges recorded in `related_acts` require the documented evidence above and the symmetric inverse edge.
 
 **Example.** `lege-50-1991` is `related_to` `lege-350-2001` (urbanism and spatial planning law) and `hg-343-2017` (construction reception). These acts are used together in construction practice but have no formal hierarchy between them.
 
@@ -596,14 +596,14 @@ These types are reserved for future use when the corpus is extended with templat
 
 ## 4. Current Schema Mapping
 
-The table below maps the four relationship fields present in the current `metadata/schema.json` to their canonical types in this specification.
+The table below maps the simple relationship fields present in the current `metadata/schema.json` to their canonical types in this specification. Simple arrays are backward-compatible and confirmed-only where graph-visible.
 
 | Current field | Relationship type | Direction | Notes |
 |---|---|---|---|
-| `related_acts` | `related_to` | bidirectional | Must be symmetric — each act listed SHOULD have the other in its own `related_acts`. Currently not enforced. |
-| `implements` | `implements` | source → target | Well-typed. Inverse not currently denormalized. |
-| `amends` | `amends` | source → target | Well-typed. Inverse MUST be symmetric via `amended_by`. |
-| `amended_by` | `amended_by` | source → target | Denormalized inverse of `amends`. |
+| `related_acts` | `related_to` | bidirectional | Must be symmetric — each act listed SHOULD have the other in its own `related_acts`. `generate-graph.mjs` emits these as `relationship: "related"` and `review_status: "confirmed"`. |
+| `implements` | `implements` | source → target | Well-typed simple array. Current `generate-graph.mjs` does not emit simple `implements[]` edges unless they are also represented in structured `relationships[]`. |
+| `amends` | `amends` | source → target | Well-typed simple array. Inverse MUST be symmetric via `amended_by`. Current `generate-graph.mjs` does not emit simple `amends[]` edges unless they are also represented in structured `relationships[]`. |
+| `amended_by` | `amended_by` | source → target | Denormalized inverse of `amends`. Current `generate-graph.mjs` does not emit simple `amended_by[]` edges unless they are also represented in structured `relationships[]`. |
 
 **Gaps in current schema:**
 
@@ -611,7 +611,7 @@ The following relationship types are currently captured only approximately or no
 
 | Relationship type | Current approximation | Gap |
 |---|---|---|
-| `references` | `related_acts` (mixed with `related_to`) | No distinction between structural relationship and textual citation |
+| `references` | structured `relationships[]` or auto-detected `cross-references/relationships-auto.json` | Do not place suggested textual references in simple arrays |
 | `authorized_by` | Implied by `implements` | Not separately recorded |
 | `repeals` / `repealed_by` | `status: "repealed"` only | Repealing act not identified |
 | `issued_by` | `issuer` (string name) | No slug-based authority reference |
@@ -710,11 +710,26 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
     "description": "Structured relationship records with evidence, confidence, and scope annotation",
     "items": {
       "type": "object",
-      "required": ["type", "target", "confidence"],
+      "required": ["target", "confidence"],
       "additionalProperties": false,
+      "oneOf": [
+        {
+          "required": ["type"],
+          "not": { "required": ["relationship"] }
+        },
+        {
+          "required": ["relationship"],
+          "not": { "required": ["type"] }
+        }
+      ],
       "properties": {
         "type": {
           "type": "string",
+          "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
+        },
+        "relationship": {
+          "type": "string",
+          "description": "Backward-compatible alias for type; prefer type in new records",
           "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
         },
         "target": { "type": "string" },
@@ -744,20 +759,22 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
 
 1. All new fields are **optional**. Existing metadata files without them remain valid.
 2. The `$schema` `additionalProperties: false` constraint means new fields MUST be added to `schema.json` before being used in any act metadata file, or schema validation will fail.
-3. The existing `related_acts`, `implements`, `amends`, `amended_by` fields are NOT removed. They remain the primary simple-array fields. The new `relationships` array provides richer annotation for the same edges when evidence or confidence annotation is needed.
-4. When both a simple array field (e.g., `implements`) and a `relationships` entry exist for the same edge, the simple array field is authoritative for graph traversal; the `relationships` entry provides annotation metadata.
+3. The existing `related_acts`, `implements`, `amends`, `amended_by` fields are NOT removed. They remain simple-array fields for confirmed relationships only. The new `relationships` array provides richer annotation for the same edges when evidence or confidence annotation is needed.
+4. When both a simple array field and a `relationships` entry exist for the same edge, the simple array field preserves backward compatibility and the structured record provides annotation metadata. The structured record SHOULD use `confidence: "confirmed"` for every same-type edge already present in a confirmed simple array. Otherwise contributors create contradictory representations. Current validation enforces this only for `related_acts`; for `implements`, `amends`, and `amended_by`, avoid dual representation unless the structured record is also confirmed.
 
 ### 5.3 Migration path
 
-**Phase 1 — Schema update:** Add all new optional fields to `metadata/schema.json`. No existing files change; schema validation continues to pass.
+**Phase 1 — Schema update:** Complete. Optional structured `relationships[]` support exists in `metadata/schema.json`; no existing metadata migration has happened yet.
 
-**Phase 2 — Auto-detection promotion:** Promote `references_in_text` from `cross-references/relationships-auto.json` into the `references` field in individual act metadata files, at confidence `suggested`, after human review.
+**Phase 2 — Pilot structured metadata:** Migrate one small reviewed edge into `relationships[]` only when the extra confidence/evidence annotation is useful. Do not automatically migrate existing simple arrays.
 
-**Phase 3 — Lifecycle edges:** Populate `repeals`, `repealed_by`, `supersedes`, `superseded_by` from Portal Legislativ consolidation history for acts with `status: "repealed"` or `status: "partially_repealed"`.
+**Phase 3 — Auto-detection review:** Future scope. Keep auto-detected `references_in_text` candidates in `cross-references/relationships-auto.json` and `relationships-diff.md` until review confirms a metadata edge. If review cannot confirm the edge, keep it in the external review artifacts rather than promoting it into act metadata as `suggested`.
 
-**Phase 4 — Institutional edges:** Populate `issued_by` (authority slugs) and `enforced_by` from act text for all acts in corpus.
+**Phase 4 — Lifecycle edges:** Future scope. Populate `repeals`, `repealed_by`, `supersedes`, `superseded_by` only after the schema and generator support those relationship values.
 
-**Phase 5 — Citation edges:** Populate `cites` after the `citation-index.json` is complete enough to resolve article-level targets.
+**Phase 5 — Institutional edges:** Future scope. Populate `issued_by` (authority slugs) and `enforced_by` only after schema and graph support authority nodes.
+
+**Phase 6 — Citation edges:** Future scope. Keep article-level citations in citation/cross-reference artifacts until the schema and graph generator support article targets. The current structured `relationships[]` model only targets act slugs, so it cannot preserve a source-article to target-article citation edge.
 
 ---
 
@@ -779,41 +796,44 @@ Only `confirmed` relationships SHOULD be used in production RAG grounding and le
 
 The simple array fields (`implements`, `amends`, `amended_by`, and `related_acts`) SHOULD be used only for confirmed relationships. Suggested or inferred relationships MUST use structured records or generated review artifacts so their confidence is not lost.
 
+Current graph behavior is intentionally conservative: `related_acts[]` entries are emitted to `graph/graph.json` as confirmed `relationship: "related"` edges. Simple `implements[]`, `amends[]`, and `amended_by[]` remain validated metadata fields but are not emitted by `scripts/generate-graph.mjs` unless represented by a structured `relationships[]` record.
+
 ### 6.3 Structured relationship records
 
 When any of the following conditions apply, use the `relationships` array instead of (or in addition to) the simple array field:
 
 - Confidence is `inferred` and you want to preserve the reasoning.
+- Confidence is `suggested` and the edge should appear in graph output as `needs_review`.
 - The relationship is partial (scoped to specific articles or provisions).
 - The evidence text is worth preserving for audit or review.
 - The relationship has been reviewed and the reviewer identity matters.
+
+Use `type` for new records. The schema also accepts `relationship` as a backward-compatible alias, but a record MUST NOT contain both. Current validation requires at least one non-empty provenance field: `evidence`, `source_url`, `evidence_path`, or `notes`. For confirmed relationships, contributor policy is stricter: `notes` alone is not source evidence, so provide `evidence`, `source_url`, or `evidence_path`. Annotation-only fields such as `reviewed_by`, `reviewed_at`, `source_article`, and `scope` are useful context but do not prove the relationship by themselves.
+
+`confidence: "confirmed"` maps to graph `review_status: "confirmed"`. `confidence: "suggested"` and `confidence: "inferred"` map to `review_status: "needs_review"`. `confidence: "confirmed"` with `evidence_type: "inferred"` is invalid.
 
 **Schema:**
 
 ```json
 "relationships": [
   {
-    "type": "implements",
-    "target": "lege-50-1991",
+    "type": "references",
+    "target": "example-act-2000",
+    "confidence": "suggested",
+    "evidence_type": "cross_reference",
+    "evidence": "Illustrative example: act text names Example Act 2000, pending human review.",
+    "source_article": "art-3",
+    "evidence_path": "cross-references/relationships-diff.md"
+  },
+  {
+    "type": "related_to",
+    "target": "example-related-act-2001",
     "confidence": "confirmed",
-    "evidence": "Art. 1 alin. (1) din Norma: 'Prezentele norme metodologice sunt elaborate în aplicarea Legii nr. 50/1991...'",
-    "source_article": "art-1",
+    "evidence_type": "structural",
+    "evidence": "Illustrative example: official text explicitly names Example Related Act 2001 in a relationship context.",
+    "notes": "Illustrative confirmed subject-matter relationship with reviewed rationale.",
     "reviewed_by": "contributor-handle",
     "reviewed_at": "2026-06-28"
-  },
-  {
-    "type": "amends",
-    "target": "hg-273-1994",
-    "confidence": "confirmed",
-    "evidence": "Titlu: 'pentru modificarea Hotărârii Guvernului nr. 273/1994'",
-    "source_article": "art-1"
-  },
-  {
-    "type": "references",
-    "target": "lege-307-2006",
-    "confidence": "suggested",
-    "evidence": "Auto-detected: linie 146: 'Legea nr. 307/2006'",
-    "source_article": null
   }
 ]
 ```
@@ -824,9 +844,10 @@ Auto-detected relationships (output of `cross-references/relationships-auto.json
 
 1. Reviewer reads `cross-references/relationships-diff.md`.
 2. For each suggested relationship, reviewer verifies in the act text.
-3. If confirmed, reviewer adds the slug to the appropriate simple array field in the act's metadata JSON.
+3. If confirmed and a simple array can represent the relationship without losing needed evidence/confidence annotation, reviewer adds the slug to the appropriate simple array field in the act's metadata JSON.
 4. If the relationship type is more specific than `references` (e.g., it is actually `implements`), reviewer records the more specific type.
-5. If not confirmed, reviewer notes the reason in a comment or leaves it in the diff for future review.
+5. If the edge remains `suggested` or `inferred`, reviewer records it only as a structured `relationships[]` record or leaves it in generated review artifacts.
+6. If not confirmed, reviewer notes the reason in a comment or leaves it in the diff for future review.
 
 ---
 
@@ -911,11 +932,21 @@ The following relationships MUST be recorded manually by a human reviewer and ca
 
 ## 8. Validation Rules
 
-The following rules MUST be enforced by CI (schema validation scripts or pre-commit hooks). Where acts are within the same corpus, both sides of a symmetric relationship MUST be present.
+The following rules define repository policy. Rules marked as current validation
+are enforced by CI; rules marked as policy target still require future validator
+coverage. Where acts are within the same corpus, both sides of a symmetric
+relationship MUST be present.
 
 ### 8.1 Target existence
 
-**Rule:** For every slug appearing in `implements`, `amends`, `amended_by`, `related_acts`, `repeals`, `repealed_by`, `supersedes`, `superseded_by`, `references`, `requires`, `depends_on`, `cites` (act part only), `approves`: the slug MUST correspond to a file in `metadata/acts/`.
+**Policy target:** For every slug appearing in `implements`, `amends`,
+`amended_by`, `related_acts`, or structured `relationships[].target`: the slug
+MUST correspond to a file in `metadata/acts/`.
+
+**Current validation:** `scripts/validate-metadata.mjs` validates structured
+`relationships[].target` slugs. Simple-array target existence is not yet
+validated by that script; an invalid simple `related_acts` target is skipped by
+the graph generator rather than reported as a validation error.
 
 **Error:** `RELATIONSHIP_TARGET_NOT_FOUND: {source} → {type} → {target}`
 
@@ -965,7 +996,36 @@ The following rules MUST be enforced by CI (schema validation scripts or pre-com
 
 **Error:** `INVALID_CONFIDENCE: {act}.relationships[N].confidence = {value}`
 
-### 8.9 Schema validation
+### 8.9 Structured relationship evidence
+
+**Current validation:** Every object in the `relationships` array MUST use
+either `type` or `relationship`, not both. `type` is preferred for new records.
+Relationship values are currently limited by `metadata/schema.json` to
+`related_to`, `implements`, `amends`, `amended_by`, `references`, and `cites`.
+
+**Current validation:** A structured relationship MUST include at least one
+non-empty provenance field: `evidence`, `source_url`, `evidence_path`, or
+`notes`. If present, every evidence/annotation field must be a string.
+`reviewed_at` must use `YYYY-MM-DD`.
+
+**Contributor policy:** For `confidence: "confirmed"`, `notes` alone is not
+source evidence. Use `evidence`, `source_url`, or `evidence_path` to preserve
+the source-backed basis for the confirmed edge.
+
+**Rule:** `confidence: "confirmed"` is incompatible with `evidence_type: "inferred"`.
+
+**Current validation:** A structured annotation for an existing `related_acts[]`
+edge with `type: "related_to"` or `relationship: "related_to"` must use
+`confidence: "confirmed"`.
+
+**Policy target:** The same no-downgrade rule should apply to
+`implements[]`, `amends[]`, and `amended_by[]` dual representations. Until that
+is validated, do not add a structured record for the same simple-array edge with
+`confidence: "suggested"` or `confidence: "inferred"`.
+
+**Error examples:** `MISSING_RELATIONSHIP_EVIDENCE`, `INVALID_RELATIONSHIP_EVIDENCE_TYPE`, `INVALID_RELATIONSHIP_CONFIDENCE_COMBINATION`.
+
+### 8.10 Schema validation
 
 **Rule:** Every `metadata/acts/*.json` file MUST validate against `metadata/schema.json`. This is a pre-existing rule; it automatically covers all new optional fields once they are added to the schema.
 
@@ -1059,7 +1119,7 @@ Romanian doctrine recognizes *abrogare tacită*: a later act on the same subject
 | `supersedes` | source → target | structural/inferred | Via `superseded_by` | *(new)* |
 | `superseded_by` | source → target | structural/inferred | Via `supersedes` | *(new)* |
 | `cites` | source → target anchor | auto-detected | No | *(new)* |
-| `references` | source → target | auto-detected | No | *(new)*; was `related_acts` |
+| `references` | source → target | auto-detected or reviewed text mention | No | structured `relationships[]`; auto-detected review artifacts |
 | `requires` | source → target | explicit/structural | No | *(new)* |
 | `depends_on` | source → target | structural/inferred | No | *(new)* |
 | `related_to` | bidirectional | structural/inferred | Yes | `related_acts` |

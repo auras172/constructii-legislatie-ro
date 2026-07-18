@@ -155,6 +155,54 @@ Short description of how the text was imported. Example: `"printable HTML → Ma
 
 Note on reuse rights or uncertainty for this specific act. See also `COPYRIGHT_NOTES.md`.
 
+### Relationship fields
+
+The simple relationship arrays remain backward-compatible and confirmed-only:
+
+- `related_acts`: graph-visible confirmed weak relationships. The generator
+  emits these as `relationship: "related"` and `review_status: "confirmed"`.
+- `implements`, `amends`, `amended_by`: confirmed simple metadata fields. They
+  are schema-defined and reserved for confirmed relationships, but the current
+  custom metadata validator does not yet perform the same target and uniqueness
+  checks for these simple arrays that it performs for structured records. The
+  current graph generator emits typed edges for them only when the same edge is
+  also represented in structured `relationships[]`.
+
+Use optional `relationships[]` records when an edge needs confidence or evidence
+annotation. New records should use `type`; `relationship` is accepted as a
+backward-compatible alias, but a record must not use both. Supported values are
+currently `related_to`, `implements`, `amends`, `amended_by`, `references`, and
+`cites`.
+
+Structured records preserve `confidence`:
+
+- `confirmed` becomes graph `review_status: "confirmed"`;
+- `suggested` and `inferred` become graph `review_status: "needs_review"`;
+- `confirmed` with `evidence_type: "inferred"` is invalid.
+
+Current validation requires at least one non-empty provenance field: `evidence`,
+`source_url`, `evidence_path`, or `notes`. For confirmed relationships, use
+`evidence`, `source_url`, or `evidence_path`; `notes` alone is annotation, not
+source evidence. Fields such as `reviewed_by`, `reviewed_at`, `source_article`,
+and `scope` are annotations; they do not prove the relationship by themselves.
+
+Illustrative schema-valid example using an existing corpus slug:
+
+```json
+{
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "suggested",
+      "evidence_type": "cross_reference",
+      "evidence": "Illustrative example: source act names Legea 10/1995, pending review.",
+      "evidence_path": "cross-references/relationships-diff.md"
+    }
+  ]
+}
+```
+
 ---
 
 ## Example — Legea 50/1991
@@ -171,4 +219,5 @@ Run locally before every PR:
 node scripts/validate-metadata.mjs
 ```
 
-This checks required fields, enum values, date format, and unknown fields against the schema.
+This checks required fields, enum values, date format, unknown fields, and
+structured relationship target/evidence rules against the schema.
