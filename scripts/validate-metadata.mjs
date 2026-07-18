@@ -24,6 +24,15 @@ function fail(message) {
   process.exitCode = 1
 }
 
+function isRealDate(value) {
+  if (!dateRe.test(String(value))) return false
+  const [year, month, day] = String(value).split('-').map(Number)
+  const date = new Date(Date.UTC(year, month - 1, day))
+  return date.getUTCFullYear() === year &&
+    date.getUTCMonth() === month - 1 &&
+    date.getUTCDate() === day
+}
+
 if (!fs.existsSync(metadataDir)) {
   fail(`Missing metadata directory: ${metadataDir}`)
   process.exit()
@@ -167,11 +176,11 @@ for (const file of files) {
         }
       }
 
-      if ('reviewed_at' in relationship && !dateRe.test(String(relationship.reviewed_at))) {
-        fail(`${prefix}: reviewed_at must use YYYY-MM-DD`)
+      if ('reviewed_at' in relationship && !isRealDate(relationship.reviewed_at)) {
+        fail(`${prefix}: reviewed_at must be a real date using YYYY-MM-DD`)
       }
 
-      const evidenceFields = ['evidence', 'source_article', 'scope', 'reviewed_by', 'reviewed_at', 'source_url', 'evidence_path', 'notes']
+      const evidenceFields = ['evidence', 'source_url', 'evidence_path', 'notes']
       const hasEvidence = evidenceFields.some((key) => (
         typeof relationship[key] === 'string' && relationship[key].trim().length > 0
       ))
