@@ -487,16 +487,7 @@ td a { color: var(--accent); font-weight: 700; }
 .explainer-cta p { color: rgba(255, 255, 255, 0.75); }
 .explainer-cta .button.primary { background: white; color: var(--text); }
 
-@media (max-width: 900px) {
-  .site-header { align-items: flex-start; flex-direction: column; }
-  .site-nav { flex-wrap: wrap; }
-  .hero { grid-template-columns: 1fr; padding-top: 44px; }
-  .section-grid,
-  .steps { grid-template-columns: 1fr; }
-  .explainer-hero,
-  .plain-language,
-  .mermaid-section,
-  .explainer-cta { grid-template-columns: 1fr; }
+@media (max-width: 960px) {
   .visual-map { grid-template-columns: 1fr; }
   .map-line {
     width: 4px;
@@ -509,6 +500,18 @@ td a { color: var(--accent); font-weight: 700; }
     bottom: -1px;
     transform: translateX(50%) rotate(135deg);
   }
+}
+
+@media (max-width: 900px) {
+  .site-header { align-items: flex-start; flex-direction: column; }
+  .site-nav { flex-wrap: wrap; }
+  .hero { grid-template-columns: 1fr; padding-top: 44px; }
+  .section-grid,
+  .steps { grid-template-columns: 1fr; }
+  .explainer-hero,
+  .plain-language,
+  .mermaid-section,
+  .explainer-cta { grid-template-columns: 1fr; }
   .explainer-grid,
   .impact-strip,
   .explainer-scorecard { grid-template-columns: 1fr; }

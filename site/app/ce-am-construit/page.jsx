@@ -64,7 +64,7 @@ export default function WhatWeBuiltPage() {
           </p>
           <div className="hero-actions">
             <a className="button primary" href="/legislation/">Vezi actele urmărite</a>
-            <a className="button secondary" href="/search/">Caută în corpus</a>
+            <a className="button secondary" href="/search/">Caută în index</a>
           </div>
         </div>
 
