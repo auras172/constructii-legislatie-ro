@@ -67,10 +67,13 @@ Recommended topic families:
 | Technical system | `instalatii-electrice`, `instalatii-sanitare`, `instalatii-sub-presiune`, `retele-electrice` | Useful for Radar-style practical checks. |
 | Material/structure | `beton`, `beton-armat`, `zidarie`, `lemn`, `seismic` | Prefer specific terms over broad synonyms. |
 | Safety | `securitate-incendiu`, `securitate-munca`, `securitate-tehnica`, `protectie-civila` | Do not infer legal relationships from shared safety tags. |
-| Import status | `metadata-only`, `text-oficial`, `forma-actualizata`, `forma-republicata` | These help search but do not replace `import_method` or `version_kind`. |
 
 Tags should be lowercase, hyphenated, and stable. Prefer existing tags before
 creating new ones.
+Do not duplicate mutable import state such as `metadata-only`, `text-oficial`,
+or version-form values in tags. Search and AI agents should use structured
+fields such as `import_method` and `version_kind` for import status and text
+version filtering.
 
 ## Choosing A Domain
 
@@ -96,18 +99,26 @@ Examples:
 
 ## Relationship Boundary
 
-Taxonomy is not relationship evidence.
+Taxonomy is not legal-relationship evidence.
 
-Do not add `related_acts`, `amends`, `amended_by`, or `implements` because two
-acts share a domain, tag, authority, material, or technical family. Relationships
-require source-backed evidence documented in metadata, import logs, official
-text, or reviewed cross-reference artifacts.
+Do not add legal or hierarchical relationships such as `amends`, `amended_by`,
+or `implements` because two acts share a domain, tag, authority, material, or
+technical family. Those relationships require source-backed evidence documented
+in metadata, import logs, official text, or reviewed cross-reference artifacts.
+
+`related_acts` is weaker and follows `docs/relationship-specification.md`: it
+may be used for subject-matter navigation when the documented evidence standard
+is met, such as same domain plus shared tags, explicit analyst judgment, and
+symmetric recording where required. Prefer a more specific relationship when one
+is source-backed.
 
 Examples:
 
-- Two P 118 norms can share `incendiu` and `p118` tags without being linked.
+- Two P 118 norms can share `incendiu` and `p118` tags. That alone does not
+  prove `amends` or `implements`, but it may support a reviewed `related_acts`
+  navigation edge if the relationship-specification criteria are satisfied.
 - PT C prescriptions can share `iscir` and `securitate-tehnica` tags without
-  sibling graph edges.
+  sibling legal/hierarchical graph edges.
 - ANRE amendment orders can link to `ordin-anre-59-2013` only when the official
   act or Portal Legislativ action chain confirms the amendment.
 
@@ -117,7 +128,9 @@ Add a new domain only when the current enum cannot classify a recurring class of
 acts without distortion. A new domain requires a separate schema/documentation
 PR and should not be bundled with an act import.
 
-For one-off nuance, prefer `topics`, `tags`, and `rights_note`.
+For one-off classification nuance, prefer `topics` and `tags`. Do not use
+`rights_note` for taxonomy nuance; that field is reserved for reuse-rights notes
+or source/reuse uncertainty.
 
 ## AI Agent Checklist
 
@@ -130,4 +143,3 @@ Before choosing or changing a domain:
 - use `topics` or `tags` for secondary ideas;
 - document uncertainty in the import log instead of guessing;
 - run metadata and Markdown validation before opening a PR.
-
