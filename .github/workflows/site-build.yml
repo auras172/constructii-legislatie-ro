@@ -9,6 +9,9 @@ on:
       - 'metadata/**'
       - 'legi/**'
       - 'import-log/**'
+      - 'graph/**'
+      - 'reports/repository-health.json'
+      - 'citations/citation-index.json'
       - 'vercel.json'
   pull_request:
     paths:
@@ -16,6 +19,9 @@ on:
       - 'metadata/**'
       - 'legi/**'
       - 'import-log/**'
+      - 'graph/**'
+      - 'reports/repository-health.json'
+      - 'citations/citation-index.json'
       - 'vercel.json'
 
 jobs:
