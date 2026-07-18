@@ -180,11 +180,26 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["target", "relationship", "confidence", "evidence_type"],
+        "required": ["target", "confidence"],
+        "oneOf": [
+          {
+            "required": ["type"],
+            "not": { "required": ["relationship"] }
+          },
+          {
+            "required": ["relationship"],
+            "not": { "required": ["type"] }
+          }
+        ],
         "properties": {
           "target": { "type": "string", "minLength": 1 },
+          "type": {
+            "type": "string",
+            "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
+          },
           "relationship": {
             "type": "string",
+            "description": "Backward-compatible alias for 'type'; prefer 'type' in new records",
             "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
           },
           "confidence": {
@@ -196,6 +211,10 @@
             "enum": ["explicit_text", "portal_action", "cross_reference", "structural", "inferred", "manual_review"]
           },
           "evidence": { "type": "string" },
+          "source_article": { "type": "string" },
+          "scope": { "type": "string" },
+          "reviewed_by": { "type": "string" },
+          "reviewed_at": { "type": "string", "format": "date" },
           "source_url": { "type": "string" },
           "evidence_path": { "type": "string" },
           "notes": { "type": "string" }

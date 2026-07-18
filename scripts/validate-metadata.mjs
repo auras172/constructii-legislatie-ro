@@ -15,15 +15,9 @@ const enumFields = Object.fromEntries(
 const required = schema.required ?? []
 const allowed = new Set(Object.keys(schema.properties ?? {}))
 const dateRe = /^\d{4}-\d{2}-\d{2}$/
-const relationshipValues = new Set(schema.properties.relationships?.items?.properties?.relationship?.enum ?? [])
+const relationshipValues = new Set(schema.properties.relationships?.items?.properties?.type?.enum ?? [])
 const confidenceValues = new Set(schema.properties.relationships?.items?.properties?.confidence?.enum ?? [])
 const evidenceTypeValues = new Set(schema.properties.relationships?.items?.properties?.evidence_type?.enum ?? [])
-const relationshipSimpleFields = {
-  related_to: 'related_acts',
-  implements: 'implements',
-  amends: 'amends',
-  amended_by: 'amended_by',
-}
 
 function fail(message) {
   console.error(message)
@@ -95,11 +89,16 @@ for (const file of files) {
       }
 
       const allowedRelationshipFields = new Set([
+        'type',
         'target',
         'relationship',
         'confidence',
         'evidence_type',
         'evidence',
+        'source_article',
+        'scope',
+        'reviewed_by',
+        'reviewed_at',
         'source_url',
         'evidence_path',
         'notes',
@@ -111,16 +110,20 @@ for (const file of files) {
         }
       }
 
-      for (const key of ['target', 'relationship', 'confidence', 'evidence_type']) {
+      for (const key of ['target', 'confidence']) {
         if (!(key in relationship)) {
           fail(`${prefix}: missing required field '${key}'`)
         }
       }
 
       const target = relationship.target
-      const type = relationship.relationship
+      const type = relationship.type ?? relationship.relationship
       const confidence = relationship.confidence
       const evidenceType = relationship.evidence_type
+
+      if ('type' in relationship && 'relationship' in relationship) {
+        fail(`${prefix}: use either 'type' or 'relationship', not both`)
+      }
 
       if (typeof target !== 'string' || target.length === 0) {
         fail(`${prefix}: target must be a non-empty string`)
@@ -130,19 +133,45 @@ for (const file of files) {
         fail(`${prefix}: target '${target}' does not exist in metadata/acts`)
       }
 
-      if (!relationshipValues.has(type)) {
-        fail(`${prefix}: invalid relationship '${type}'`)
+      if (typeof type !== 'string' || type.length === 0) {
+        fail(`${prefix}: type must be a non-empty string`)
+      } else if (!relationshipValues.has(type)) {
+        fail(`${prefix}: invalid type '${type}'`)
       }
 
       if (!confidenceValues.has(confidence)) {
         fail(`${prefix}: invalid confidence '${confidence}'`)
       }
 
-      if (!evidenceTypeValues.has(evidenceType)) {
+      if ('evidence_type' in relationship && !evidenceTypeValues.has(evidenceType)) {
         fail(`${prefix}: invalid evidence_type '${evidenceType}'`)
       }
 
-      const evidenceFields = ['evidence', 'source_url', 'evidence_path', 'notes']
+      if (confidence === 'confirmed' && evidenceType === 'inferred') {
+        fail(`${prefix}: confidence 'confirmed' is incompatible with evidence_type 'inferred'`)
+      }
+
+      const stringFields = [
+        'evidence',
+        'source_article',
+        'scope',
+        'reviewed_by',
+        'reviewed_at',
+        'source_url',
+        'evidence_path',
+        'notes',
+      ]
+      for (const key of stringFields) {
+        if (key in relationship && typeof relationship[key] !== 'string') {
+          fail(`${prefix}: ${key} must be a string`)
+        }
+      }
+
+      if ('reviewed_at' in relationship && !dateRe.test(String(relationship.reviewed_at))) {
+        fail(`${prefix}: reviewed_at must use YYYY-MM-DD`)
+      }
+
+      const evidenceFields = ['evidence', 'source_article', 'scope', 'reviewed_by', 'reviewed_at', 'source_url', 'evidence_path', 'notes']
       const hasEvidence = evidenceFields.some((key) => (
         typeof relationship[key] === 'string' && relationship[key].trim().length > 0
       ))
@@ -156,11 +185,6 @@ for (const file of files) {
         fail(`${prefix}: duplicate relationship '${type}' to '${target}'`)
       }
       seenRelationships.add(dedupeKey)
-
-      const simpleField = relationshipSimpleFields[type]
-      if (simpleField && Array.isArray(data[simpleField]) && data[simpleField].includes(target)) {
-        fail(`${prefix}: duplicates ${simpleField} entry '${target}'`)
-      }
     })
   }
 }

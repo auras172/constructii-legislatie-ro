@@ -70,12 +70,16 @@ const confirmedEdges = [];
 const structuredReviewEdges = [];
 const metadataEdgeKeys = new Set();
 
-function relationshipLabel(relationship) {
-  return relationship === 'related_to' ? 'related' : relationship;
-}
-
 function reviewStatus(confidence) {
   return confidence === 'confirmed' ? 'confirmed' : 'needs_review';
+}
+
+function relationshipType(record) {
+  return record.type || record.relationship;
+}
+
+function dedupeRelationshipLabel(relationship) {
+  return relationship === 'related_to' ? 'related' : relationship;
 }
 
 for (const slug of Object.keys(actMeta).sort()) {
@@ -100,32 +104,35 @@ for (const slug of Object.keys(actMeta).sort()) {
   if (!Array.isArray(relationships)) continue;
 
   const sortedRelationships = [...relationships].sort((a, b) => {
-    const aKey = `${a.target || ''}||${a.relationship || ''}`;
-    const bKey = `${b.target || ''}||${b.relationship || ''}`;
+    const aKey = `${a.target || ''}||${relationshipType(a) || ''}`;
+    const bKey = `${b.target || ''}||${relationshipType(b) || ''}`;
     return aKey.localeCompare(bKey);
   });
 
   for (const record of sortedRelationships) {
     if (!metaSlugs.has(record.target)) continue;
+    const type = relationshipType(record);
 
     const edge = {
       source: slug,
       target: record.target,
-      relationship: relationshipLabel(record.relationship),
+      relationship: type,
       review_status: reviewStatus(record.confidence),
       confidence: record.confidence,
       evidence_type: record.evidence_type,
       evidence: record.evidence || `metadata/acts/${slug}.json`,
     };
 
-    for (const field of ['source_url', 'evidence_path', 'notes']) {
+    for (const field of ['source_article', 'scope', 'reviewed_by', 'reviewed_at', 'source_url', 'evidence_path', 'notes']) {
       if (typeof record[field] === 'string' && record[field].length > 0) {
         edge[field] = record[field];
       }
     }
 
-    if (metadataEdgeKeys.has(edgeKey(edge))) continue;
+    const dedupeKey = edgeKey({ ...edge, relationship: dedupeRelationshipLabel(edge.relationship) });
+    if (metadataEdgeKeys.has(dedupeKey)) continue;
     metadataEdgeKeys.add(edgeKey(edge));
+    metadataEdgeKeys.add(dedupeKey);
 
     if (edge.review_status === 'confirmed') {
       confirmedEdges.push(edge);
@@ -171,15 +178,14 @@ for (const source of Object.keys(suggested).sort()) {
 
 // ── 4. Deduplicate: confirmed wins over auto for same source+target ──────────
 
-const confirmedKeys = new Set(confirmedEdges.map(edgeKey));
+const metadataNodePairs = new Set(
+  [...confirmedEdges, ...structuredReviewEdges].map(e => `${e.source}||${e.target}`)
+);
 
 const filteredAutoEdges = autoEdges.filter(e => {
   // Deduplicate on source+target regardless of relationship label
   const simpleKey = `${e.source}||${e.target}`;
-  const confirmedSameNodes = confirmedEdges.some(
-    c => c.source === e.source && c.target === e.target
-  );
-  return !confirmedSameNodes;
+  return !metadataNodePairs.has(simpleKey);
 });
 
 // ── 5. Merge and sort all edges ──────────────────────────────────────────────

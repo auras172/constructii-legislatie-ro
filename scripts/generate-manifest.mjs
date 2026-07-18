@@ -119,11 +119,31 @@ const actTypes = [...new Set(acts.map(a => a.meta.type).filter(Boolean))].sort()
 
 // ── relationships ─────────────────────────────────────────────────────────────
 
-// confirmed_relationships: sum of related_acts arrays across all acts
-let confirmedRelationships = 0;
-for (const { meta } of acts) {
-  confirmedRelationships += (meta.related_acts || []).length;
+function relationshipType(record) {
+  return record.type || record.relationship;
 }
+
+function dedupeRelationshipLabel(relationship) {
+  return relationship === 'related_to' ? 'related' : relationship;
+}
+
+// confirmed_relationships: graph-visible confirmed metadata edges
+let confirmedRelationships = 0;
+const confirmedRelationshipKeys = new Set();
+for (const { slug, meta } of acts) {
+  for (const target of meta.related_acts || []) {
+    confirmedRelationshipKeys.add(`${slug}||${target}||related`);
+  }
+
+  for (const record of meta.relationships || []) {
+    if (record.confidence !== 'confirmed') continue;
+    const type = relationshipType(record);
+    const dedupeKey = `${slug}||${record.target}||${dedupeRelationshipLabel(type)}`;
+    if (confirmedRelationshipKeys.has(dedupeKey)) continue;
+    confirmedRelationshipKeys.add(`${slug}||${record.target}||${type}`);
+  }
+}
+confirmedRelationships = confirmedRelationshipKeys.size;
 
 // auto_detected_references: from relationships-auto.json
 let autoDetectedRefs = 0;
