@@ -359,7 +359,7 @@ These relationships capture intellectual dependencies and textual cross-referenc
 | **Node types** | Act → Act |
 | **Cardinality** | many-to-many |
 | **Inverse** | `referenced_by` |
-| **Schema field** | `references` (new — see §5); current equivalent: `related_acts` with auto-detected origin |
+| **Schema field** | structured `relationships[]` with `type`/`relationship: "references"` for reviewed metadata; auto-detected candidates remain in `cross-references/relationships-auto.json` until confirmed |
 
 **Definition.** The source act's text names the target act without modifying, implementing, or citing a specific article of it. This is the weakest textual relationship — it records that Act A mentions Act B. The `references_in_text` field in `cross-references/relationships-auto.json` is the auto-detection output for this type.
 
@@ -611,7 +611,7 @@ The following relationship types are currently captured only approximately or no
 
 | Relationship type | Current approximation | Gap |
 |---|---|---|
-| `references` | structured `relationships[]` or auto-detected `cross-references/relationships-auto.json` | Do not place suggested textual references in simple arrays |
+| `references` | structured `relationships[]` after review, or auto-detected `cross-references/relationships-auto.json` before review | Do not place suggested textual references in simple arrays |
 | `authorized_by` | Implied by `implements` | Not separately recorded |
 | `repeals` / `repealed_by` | `status: "repealed"` only | Repealing act not identified |
 | `issued_by` | `issuer` (string name) | No slug-based authority reference |
@@ -846,7 +846,7 @@ Auto-detected relationships (output of `cross-references/relationships-auto.json
 2. For each suggested relationship, reviewer verifies in the act text.
 3. If confirmed and a simple array can represent the relationship without losing needed evidence/confidence annotation, reviewer adds the slug to the appropriate simple array field in the act's metadata JSON.
 4. If the relationship type is more specific than `references` (e.g., it is actually `implements`), reviewer records the more specific type.
-5. If the edge remains `suggested` or `inferred`, reviewer records it only as a structured `relationships[]` record or leaves it in generated review artifacts.
+5. If an auto-detected edge cannot be confirmed, reviewer leaves it in generated review artifacts rather than promoting it into act metadata.
 6. If not confirmed, reviewer notes the reason in a comment or leaves it in the diff for future review.
 
 ---
