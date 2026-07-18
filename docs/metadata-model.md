@@ -177,10 +177,11 @@ Structured records preserve `confidence`:
 - `suggested` and `inferred` become graph `review_status: "needs_review"`;
 - `confirmed` with `evidence_type: "inferred"` is invalid.
 
-Every structured record needs at least one non-empty source-like evidence field:
-`evidence`, `source_url`, `evidence_path`, or `notes`. Fields such as
-`reviewed_by`, `reviewed_at`, `source_article`, and `scope` are annotations;
-they do not prove the relationship by themselves.
+Current validation requires at least one non-empty provenance field: `evidence`,
+`source_url`, `evidence_path`, or `notes`. For confirmed relationships, use
+`evidence`, `source_url`, or `evidence_path`; `notes` alone is annotation, not
+source evidence. Fields such as `reviewed_by`, `reviewed_at`, `source_article`,
+and `scope` are annotations; they do not prove the relationship by themselves.
 
 Illustrative schema-valid example:
 

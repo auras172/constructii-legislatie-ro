@@ -710,8 +710,18 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
     "description": "Structured relationship records with evidence, confidence, and scope annotation",
     "items": {
       "type": "object",
-      "required": ["type", "target", "confidence"],
+      "required": ["target", "confidence"],
       "additionalProperties": false,
+      "oneOf": [
+        {
+          "required": ["type"],
+          "not": { "required": ["relationship"] }
+        },
+        {
+          "required": ["relationship"],
+          "not": { "required": ["type"] }
+        }
+      ],
       "properties": {
         "type": {
           "type": "string",
@@ -750,7 +760,7 @@ The following fields SHOULD be added to `metadata/schema.json` as optional prope
 1. All new fields are **optional**. Existing metadata files without them remain valid.
 2. The `$schema` `additionalProperties: false` constraint means new fields MUST be added to `schema.json` before being used in any act metadata file, or schema validation will fail.
 3. The existing `related_acts`, `implements`, `amends`, `amended_by` fields are NOT removed. They remain simple-array fields for confirmed relationships only. The new `relationships` array provides richer annotation for the same edges when evidence or confidence annotation is needed.
-4. When both a simple array field and a `relationships` entry exist for the same edge, the simple array field preserves backward compatibility and the structured record provides annotation metadata. For `related_acts`, a structured annotation for the same edge must also use `confidence: "confirmed"` so the generator does not create contradictory confirmed and `needs_review` states.
+4. When both a simple array field and a `relationships` entry exist for the same edge, the simple array field preserves backward compatibility and the structured record provides annotation metadata. The structured record SHOULD use `confidence: "confirmed"` for every same-type edge already present in a confirmed simple array. Otherwise contributors create contradictory representations. Current validation enforces this only for `related_acts`; for `implements`, `amends`, and `amended_by`, avoid dual representation unless the structured record is also confirmed.
 
 ### 5.3 Migration path
 
@@ -798,7 +808,7 @@ When any of the following conditions apply, use the `relationships` array instea
 - The evidence text is worth preserving for audit or review.
 - The relationship has been reviewed and the reviewer identity matters.
 
-Use `type` for new records. The schema also accepts `relationship` as a backward-compatible alias, but a record MUST NOT contain both. A structured record must preserve provenance with at least one non-empty source-like field: `evidence`, `source_url`, `evidence_path`, or `notes`. Annotation-only fields such as `reviewed_by`, `reviewed_at`, `source_article`, and `scope` are useful context but do not prove the relationship by themselves.
+Use `type` for new records. The schema also accepts `relationship` as a backward-compatible alias, but a record MUST NOT contain both. Current validation requires at least one non-empty provenance field: `evidence`, `source_url`, `evidence_path`, or `notes`. For confirmed relationships, contributor policy is stricter: `notes` alone is not source evidence, so provide `evidence`, `source_url`, or `evidence_path`. Annotation-only fields such as `reviewed_by`, `reviewed_at`, `source_article`, and `scope` are useful context but do not prove the relationship by themselves.
 
 `confidence: "confirmed"` maps to graph `review_status: "confirmed"`. `confidence: "suggested"` and `confidence: "inferred"` map to `review_status: "needs_review"`. `confidence: "confirmed"` with `evidence_type: "inferred"` is invalid.
 
@@ -820,6 +830,7 @@ Use `type` for new records. The schema also accepts `relationship` as a backward
     "target": "example-related-act-2001",
     "confidence": "confirmed",
     "evidence_type": "structural",
+    "evidence": "Illustrative example: official text explicitly names Example Related Act 2001 in a relationship context.",
     "notes": "Illustrative confirmed subject-matter relationship with reviewed rationale.",
     "reviewed_by": "contributor-handle",
     "reviewed_at": "2026-06-28"
@@ -921,11 +932,21 @@ The following relationships MUST be recorded manually by a human reviewer and ca
 
 ## 8. Validation Rules
 
-The following rules MUST be enforced by CI (schema validation scripts or pre-commit hooks). Where acts are within the same corpus, both sides of a symmetric relationship MUST be present.
+The following rules define repository policy. Rules marked as current validation
+are enforced by CI; rules marked as policy target still require future validator
+coverage. Where acts are within the same corpus, both sides of a symmetric
+relationship MUST be present.
 
 ### 8.1 Target existence
 
-**Rule:** For every slug appearing in `implements`, `amends`, `amended_by`, `related_acts`, or structured `relationships[].target`: the slug MUST correspond to a file in `metadata/acts/`.
+**Policy target:** For every slug appearing in `implements`, `amends`,
+`amended_by`, `related_acts`, or structured `relationships[].target`: the slug
+MUST correspond to a file in `metadata/acts/`.
+
+**Current validation:** `scripts/validate-metadata.mjs` validates structured
+`relationships[].target` slugs. Simple-array target existence is not yet
+validated by that script; an invalid simple `related_acts` target is skipped by
+the graph generator rather than reported as a validation error.
 
 **Error:** `RELATIONSHIP_TARGET_NOT_FOUND: {source} → {type} → {target}`
 
@@ -977,13 +998,30 @@ The following rules MUST be enforced by CI (schema validation scripts or pre-com
 
 ### 8.9 Structured relationship evidence
 
-**Rule:** Every object in the `relationships` array MUST use either `type` or `relationship`, not both. `type` is preferred for new records. Relationship values are currently limited by `metadata/schema.json` to `related_to`, `implements`, `amends`, `amended_by`, `references`, and `cites`.
+**Current validation:** Every object in the `relationships` array MUST use
+either `type` or `relationship`, not both. `type` is preferred for new records.
+Relationship values are currently limited by `metadata/schema.json` to
+`related_to`, `implements`, `amends`, `amended_by`, `references`, and `cites`.
 
-**Rule:** A structured relationship MUST include at least one non-empty source-like evidence field: `evidence`, `source_url`, `evidence_path`, or `notes`. If present, every evidence/annotation field must be a string. `reviewed_at` must use `YYYY-MM-DD`.
+**Current validation:** A structured relationship MUST include at least one
+non-empty provenance field: `evidence`, `source_url`, `evidence_path`, or
+`notes`. If present, every evidence/annotation field must be a string.
+`reviewed_at` must use `YYYY-MM-DD`.
+
+**Contributor policy:** For `confidence: "confirmed"`, `notes` alone is not
+source evidence. Use `evidence`, `source_url`, or `evidence_path` to preserve
+the source-backed basis for the confirmed edge.
 
 **Rule:** `confidence: "confirmed"` is incompatible with `evidence_type: "inferred"`.
 
-**Rule:** A structured annotation for an existing `related_acts[]` edge with `type: "related_to"` or `relationship: "related_to"` must use `confidence: "confirmed"`.
+**Current validation:** A structured annotation for an existing `related_acts[]`
+edge with `type: "related_to"` or `relationship: "related_to"` must use
+`confidence: "confirmed"`.
+
+**Policy target:** The same no-downgrade rule should apply to
+`implements[]`, `amends[]`, and `amended_by[]` dual representations. Until that
+is validated, do not add a structured record for the same simple-array edge with
+`confidence: "suggested"` or `confidence: "inferred"`.
 
 **Error examples:** `MISSING_RELATIONSHIP_EVIDENCE`, `INVALID_RELATIONSHIP_EVIDENCE_TYPE`, `INVALID_RELATIONSHIP_CONFIDENCE_COMBINATION`.
 

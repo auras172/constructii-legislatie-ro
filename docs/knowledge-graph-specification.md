@@ -801,17 +801,18 @@ ORDER BY impl.properties.effective_date ASC
 
 The pipeline runs in four stages. Each stage produces or updates `graph.json`.
 
-### Stage 1 — Act nodes + confirmed edges from metadata (Phase 1)
+### Stage 1 — Act nodes + metadata edges (Phase 1)
 
 **Input:** `metadata/acts/*.json`
 **Output:** Act nodes plus graph-visible metadata edges implemented today.
-**Confidence:** `confirmed`
+**Confidence:** Mixed, per edge. Simple `related_acts[]` edges are confirmed;
+structured `relationships[]` records preserve their own confidence.
 
 ```
 FOR EACH file IN metadata/acts/*.json:
-  1. Create Act node with id = "{repo}:{slug}"
+  1. Create Act node with id = slug
   2. For each slug in related_acts[]:
-       emit edge(relationship=related, source=act, target="{repo}:{slug}", review_status=confirmed)
+       emit edge(relationship=related, source=act, target=slug, review_status=confirmed)
   3. For each structured relationships[] record:
        emit edge(relationship=record.type, confidence=record.confidence,
                  review_status=confirmed when confidence=confirmed,
@@ -845,8 +846,8 @@ FOR EACH act IN citation-index.acts:
 ```
 FOR EACH act IN relationships-auto.suggested_relationships:
   FOR EACH ref IN references_in_text[]:
-    emit edge(type=references, source="{repo}:{act}",
-              target="{repo}:{ref}", confidence=suggested,
+    emit edge(type=references, source=act,
+              target=ref, confidence=suggested,
               evidence="cross-references/relationships-auto.json")
   FOR EACH ref IN article_level_refs[]:
     emit edge(type=cites, source=article-id, target=article-id,
@@ -856,10 +857,16 @@ FOR EACH act IN relationships-auto.suggested_relationships:
 ### Stage 4 — Inferred edges via NLP (Phase 4, future)
 
 **Input:** Act Markdown files
-**Output:** Additional `cites`, `references`, `requires` edges
+**Output:** Additional `cites`, `references`, `requires` review candidates
 **Confidence:** `inferred`
 
-A language model or NLP pipeline reads article text, identifies cross-references not captured by the regex-based Stage 3, and emits inferred edges. These MUST remain explicit review candidates: either outside confirmed metadata in generated review artifacts, or in structured `relationships[]` records with `confidence: "inferred"` so the graph marks them `needs_review`.
+A language model or NLP pipeline reads article text, identifies cross-references
+not captured by the regex-based Stage 3, and emits inferred edges. These MUST
+remain explicit review candidates. Structured metadata may be used only for
+relationship types currently accepted by `metadata/schema.json`
+(`related_to`, `implements`, `amends`, `amended_by`, `references`, `cites`).
+Unsupported types such as `requires` must stay in external review artifacts
+until the schema and generator support them.
 
 ---
 
@@ -1105,7 +1112,12 @@ Machine-readable node/edge representation of the relationship graph. Generated b
 Check `graph/graph.json` for current counts; this document intentionally does
 not duplicate generated artifact counts.
 
-**Deduplication rule:** if the same source→target pair appears in both sources, the `confirmed` edge is kept and the `needs_review` edge is dropped.
+**Deduplication rule:** metadata is source-of-truth for a source→target pair.
+If any metadata edge exists for the same source and target, the generated
+auto-detected edge is suppressed, even when the metadata edge is itself
+`needs_review` or uses a different relationship label. This keeps the graph from
+duplicating metadata-reviewed pairs, but it also means auto-detected evidence
+may disappear once a structured review candidate is recorded in metadata.
 
 **Parsing example:**
 
