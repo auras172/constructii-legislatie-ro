@@ -189,6 +189,15 @@ for (const file of files) {
         fail(`${prefix}: at least one evidence field is required`)
       }
 
+      const simpleRelatedActs = new Set(Array.isArray(data.related_acts) ? data.related_acts : [])
+      if (
+        simpleRelatedActs.has(target) &&
+        (type === 'related_to' || type === 'related') &&
+        confidence !== 'confirmed'
+      ) {
+        fail(`${prefix}: structured annotation for confirmed related_acts edge '${target}' must use confidence 'confirmed'`)
+      }
+
       const dedupeKey = `${target}||${type}`
       if (seenRelationships.has(dedupeKey)) {
         fail(`${prefix}: duplicate relationship '${type}' to '${target}'`)
