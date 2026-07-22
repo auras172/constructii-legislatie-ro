@@ -9,7 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## July 2026
 
 ### Infrastructure
-- feat(metadata): add HG 571/2016 metadata
+- feat(metadata): add Ordin MAI 180/2022 fire authorization methodology
+- feat(metadata): add HG 571/2016 fire authorization metadata (#261)
 - feat(site): add public project explainer page
 - feat(site): add import-method badges (#219)
 - feat(metadata): add Legea 141/2026 metadata

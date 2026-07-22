@@ -1,0 +1,73 @@
+{
+  "title": "Ordinul ministrului afacerilor interne nr. 180 din 29 noiembrie 2022 pentru aprobarea Normelor metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă",
+  "short_title": "Ordin MAI 180/2022",
+  "canonical_citation": "Ordinul MAI nr. 180/2022",
+  "type": "ordin",
+  "number": "180",
+  "year": "2022",
+  "issuer": "Ministerul Afacerilor Interne",
+  "issuing_body_kind": "minister",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "protectie-civila",
+    "isu",
+    "avizare-autorizare",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2022-11-29",
+  "publication_date": "2022-12-27",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2023-01-06",
+  "last_checked": "2026-07-22",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 1253 din 27 decembrie 2022",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
+  "version": "formă consolidată Portal Legislativ la 06.01.2023; anexa Norme metodologice este disponibilă pe Portal Legislativ la DetaliiDocumentAfis/263452",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul ministrului afacerilor interne nr. 180/29.11.2022, publicat în Monitorul Oficial al României, Partea I, nr. 1253 din 27.12.2022. Portal Legislativ ID 263451 confirmă titlul, emitentul, data emiterii, publicarea, forma consolidată la 06.01.2023 și structura ordinului de 4 articole + 1 anexă. Art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă, disponibile în anexa Portal Legislativ ID 263452, cu 36 de articole și 19 anexe. Art. 4 alin. (2) abrogă Ordinul ministrului afacerilor interne nr. 129/2016, act extern neimportat. Preambulul citează explicit Legea nr. 307/2006, Legea nr. 481/2004, Legea nr. 50/1991 și HG nr. 525/1996. Art. 1 din Normele metodologice citează explicit Legea nr. 10/1995, Legea nr. 50/1991, Legea nr. 307/2006, Legea nr. 481/2004 și HG nr. 907/2016, iar modelele de documente din anexe citează HG nr. 571/2016. Relațiile repo-locale se limitează la actele citate explicit și deja importate. Nu a fost identificată o citare explicită către OUG nr. 21/2004 sau normativele P118 în sursele verificate; HG nr. 525/1996 și HG nr. 907/2016 nu sunt importate în repo, iar HG nr. 525/1996 nu este confundată cu HG nr. 525/2013. Nu a fost identificată o dată calendaristică proprie explicită de intrare în vigoare; effective_date este omisă. Metadata-only — textul integral nu este importat în acest repo.",
+  "implements": [
+    "lege-307-2006",
+    "lege-481-2004"
+  ],
+  "related_acts": [
+    "hg-571-2016",
+    "lege-10-1995",
+    "lege-50-1991"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-307-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MAI 180/2022 citează art. 17 alin. (1)-(2), art. 23 lit. a) și art. 30^2 alin. (2) din Legea nr. 307/2006; art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă.",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-07-22"
+    },
+    {
+      "type": "implements",
+      "target": "lege-481-2004",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MAI 180/2022 citează art. 9 alin. (1) lit. g), art. 24 alin. (3), art. 30 alin. (1) lit. b) și art. 45 alin. (5) din Legea nr. 481/2004; art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă.",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-07-22"
+    }
+  ],
+  "tags": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "protectie-civila",
+    "isu",
+    "avizare-autorizare",
+    "constructii"
+  ]
+}

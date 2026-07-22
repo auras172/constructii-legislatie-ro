@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T07:52:32.704Z",
+  "generated_at": "2026-07-22T19:28:23.924Z",
   "summary": {
-    "total_metadata_entries": 71,
+    "total_metadata_entries": 72,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 58,
-    "total_import_logs": 71,
-    "total_relationship_links": 148,
+    "total_metadata_only_acts": 59,
+    "total_import_logs": 72,
+    "total_relationship_links": 153,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -632,6 +632,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mai-180-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 5,
+      "provenance": true
+    },
+    {
       "slug": "oug-195-2005",
       "full_text": true,
       "metadata": true,
@@ -656,7 +665,7 @@
       "munca": 2,
       "receptie": 2,
       "isc": 2,
-      "incendiu": 8,
+      "incendiu": 9,
       "anre": 17,
       "calitate": 17,
       "mediu": 2,
@@ -665,7 +674,7 @@
       "iscir": 15
     },
     "issuers": {
-      "minister": 37,
+      "minister": 38,
       "guvern": 8,
       "parlament": 10,
       "autoritate": 16
@@ -689,14 +698,14 @@
       "2019": 1,
       "2020": 3,
       "2021": 1,
-      "2022": 6,
+      "2022": 7,
       "2023": 9,
       "2024": 3,
       "2025": 4,
       "2026": 2
     },
     "import_methods": {
-      "metadata-only": 58,
+      "metadata-only": 59,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

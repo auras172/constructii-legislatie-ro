@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-22T07:52:32.782Z",
+  "generated_at": "2026-07-22T19:28:24.043Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 71,
+    "acts_total": 72,
     "acts_full_text": 13,
-    "acts_metadata_only": 58,
+    "acts_metadata_only": 59,
     "article_anchors_total": 799,
-    "import_logs_total": 71,
+    "import_logs_total": 72,
     "domains": [
       "anre",
       "autorizatii",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 113,
+    "confirmed_relationships": 118,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -962,6 +962,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-anre-81-2022.md",
       "metadata_file": "metadata/acts/ordin-anre-81-2022.json"
+    },
+    {
+      "slug": "ordin-mai-180-2022",
+      "title": "Ordinul ministrului afacerilor interne nr. 180 din 29 noiembrie 2022 pentru aprobarea Normelor metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă",
+      "short_title": "Ordin MAI 180/2022",
+      "type": "ordin",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/ordin-mai-180-2022.md",
+      "metadata_file": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
       "slug": "oug-195-2005",
