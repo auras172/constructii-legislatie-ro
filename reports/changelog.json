@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-22T07:52:33.357Z",
+  "generated_at": "2026-07-22T19:28:24.869Z",
   "months": [
     {
       "month": "2026-07",
       "label": "July 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add HG 571/2016 metadata",
+        "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology",
+        "feat(metadata): add HG 571/2016 fire authorization metadata (#261)",
         "feat(site): add public project explainer page",
         "feat(site): add import-method badges (#219)",
         "feat(metadata): add Legea 141/2026 metadata",
@@ -420,6 +421,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 60
+    "infrastructure_changes": 61
   }
 }
