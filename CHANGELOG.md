@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## July 2026
 
 ### Infrastructure
+- feat(metadata): add HG 571/2016 metadata
 - feat(site): add public project explainer page
 - feat(site): add import-method badges (#219)
 - feat(metadata): add Legea 141/2026 metadata

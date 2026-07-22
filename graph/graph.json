@@ -648,9 +648,14 @@
     {
       "source": "hg-571-2016",
       "target": "lege-307-2006",
-      "relationship": "related",
+      "relationship": "implements",
       "review_status": "confirmed",
-      "evidence": "metadata/acts/hg-571-2016.json"
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG 571/2016 citează art. 30 alin. (4), art. 47 alin. (1) și art. 47 alin. (2) din Legea nr. 307/2006; art. 1 aprobă categoriile supuse avizării/autorizării privind securitatea la incendiu.",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-07-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180921"
     },
     {
       "source": "hg-571-2016",

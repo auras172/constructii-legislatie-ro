@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-07-22T07:49:38.013Z",
+  "generated_at": "2026-07-22T07:52:33.357Z",
   "months": [
     {
       "month": "2026-07",
       "label": "July 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 571/2016 metadata",
         "feat(site): add public project explainer page",
         "feat(site): add import-method badges (#219)",
         "feat(metadata): add Legea 141/2026 metadata",
@@ -419,6 +420,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 59
+    "infrastructure_changes": 60
   }
 }
