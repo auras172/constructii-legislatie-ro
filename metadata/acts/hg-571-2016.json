@@ -1,0 +1,45 @@
+{
+  "title": "Hotărârea Guvernului nr. 571 din 10 august 2016 pentru aprobarea categoriilor de construcții și amenajări care se supun avizării și/sau autorizării privind securitatea la incendiu",
+  "short_title": "HG 571/2016",
+  "canonical_citation": "Hotărârea Guvernului nr. 571/2016",
+  "type": "hotarare",
+  "number": "571",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "isu",
+    "avizare-autorizare",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2016-08-10",
+  "publication_date": "2016-08-16",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2022-09-30",
+  "last_checked": "2026-07-22",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180921",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 628 din 16 august 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/180921",
+  "version": "forma consolidată disponibilă pe Portal Legislativ, cu istoric consolidare la 30.09.2022 prin HG nr. 1.181/2022",
+  "article_count": 7,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Hotărârea Guvernului nr. 571/10.08.2016, publicată în Monitorul Oficial al României, Partea I, nr. 628 din 16.08.2016. Portal Legislativ ID 180921 confirmă titlul, emitentul, data emiterii, publicarea, forma consolidată și cele două anexe. Forma consolidată indică modificări/completări prin HG nr. 1.181/29.09.2022, M.Of. nr. 956/30.09.2022. Art. 5 abrogă HG nr. 1.739/2006, act extern neimportat. Preambulul citează explicit art. 30 alin. (4), art. 47 alin. (1) și (2) din Legea nr. 307/2006 și art. 43 lit. a) din Legea nr. 50/1991; relațiile repo-locale sunt modelate ca related_acts. Nu a fost identificată citare explicită către Legea nr. 10/1995 sau normativele P118. Nu a fost identificată o clauză proprie explicită de intrare în vigoare; effective_date este omisă. Metadata-only — textul integral nu este importat în acest repo.",
+  "related_acts": [
+    "lege-307-2006",
+    "lege-50-1991"
+  ],
+  "tags": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "isu",
+    "avizare-autorizare",
+    "constructii",
+    "metadata-only"
+  ]
+}

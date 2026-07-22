@@ -38,6 +38,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-571-2016",
+      "label": "HG 571/2016",
+      "type": "hotarare",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-90-2008",
       "label": "HG 90/2008",
       "type": "hotarare",
@@ -636,6 +644,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-525-2013.json"
+    },
+    {
+      "source": "hg-571-2016",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-571-2016.json"
+    },
+    {
+      "source": "hg-571-2016",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-571-2016.json"
     },
     {
       "source": "hg-90-2008",
@@ -1346,8 +1368,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 70,
-    "confirmed_edges": 111,
+    "total_nodes": 71,
+    "confirmed_edges": 113,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

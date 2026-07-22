@@ -46,6 +46,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/309352`](https://legislatie.just.ro/Public/DetaliiDocument/309352))
   - Status: active · full official actualizata text imported 2026-06-28 · 58 articles · 0 annexes · consolidated 13.03.2026
   - Import log: [import-log/2026-06-28-lege-307-2006.md](../import-log/2026-06-28-lege-307-2006.md)
+- [HG 571/2016](./hg-571-2016.md)
+  - Domain: incendiu · Related: Legea 307/2006, Legea 50/1991
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/180921`](https://legislatie.just.ro/Public/DetaliiDocument/180921))
+  - Status: active · metadata-only · publicată în M.Of. nr. 628/16.08.2016 · formă consolidată la 30.09.2022 · 7 articles · 2 annexes · abrogă HG 1.739/2006 (neimportată)
+  - Import log: [import-log/2026-07-22-hg-571-2016.md](../import-log/2026-07-22-hg-571-2016.md)
 - [OUG 195/2005](./oug-195-2005.md)
   - Domain: mediu · Related: Legea 50/1991, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/253015`](https://legislatie.just.ro/Public/DetaliiDocument/253015))
