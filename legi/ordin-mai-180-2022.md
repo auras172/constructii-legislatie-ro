@@ -61,6 +61,8 @@ Portal Legislativ confirmă:
 - forma consolidată la 6 ianuarie 2023;
 - structura ordinului: 4 articole și o anexă;
 - anexa Norme metodologice, cu 36 de articole și 19 anexe;
+- count-ul semantic din metadata este 40 articole: 4 articole ordin + 36
+  articole Norme, cu 19 anexe ale Normelor;
 - art. 4 alin. (2) abrogă Ordinul ministrului afacerilor interne nr. 129/2016.
 
 Actul este relevant pentru corpus deoarece aprobă procedura curentă de avizare

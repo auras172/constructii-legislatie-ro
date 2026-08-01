@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-07-22T19:28:24.043Z",
+  "generated_at": "2026-08-01T18:21:34.292Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -971,7 +971,7 @@
       "domain": "incendiu",
       "status": "active",
       "import_method": "metadata-only",
-      "article_count": 4,
+      "article_count": 40,
       "anchor_count": 0,
       "file": "legi/ordin-mai-180-2022.md",
       "metadata_file": "metadata/acts/ordin-mai-180-2022.json"
