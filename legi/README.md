@@ -26,6 +26,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/297058`](https://legislatie.just.ro/Public/DetaliiDocument/297058))
   - Status: active · metadata-only · publicată în M.Of. nr. 393/30.04.2025 · intră în vigoare general 30.04.2025, cu excepții la 30 de zile · formă Portal Legislativ cu note de consolidare prin OG 7/2026 · 12 articles · 0 annexes
   - Import log: [import-log/2026-08-02-oug-31-2025.md](../import-log/2026-08-02-oug-31-2025.md)
+- [OUG 17/2026](./oug-17-2026.md)
+  - Domain: incendiu (securitate la incendiu, construcții și instalații) · Related: Legea 307/2006, Legea 10/1995
+  - Official source checked: [Portal Legislativ — forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G1G0RY488TEEI21D9MC87ZMW3VA)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 199/13.03.2026 · Art. VI modifică Legea 307/2006, Art. VII modifică Legea 10/1995 · effective dates diferențiate prin Art. XIII și XV; text nedisponibil în repo
+  - Import log: [import-log/2026-08-02-oug-17-2026.md](../import-log/2026-08-02-oug-17-2026.md)
 - [Legea 193/2019](./lege-193-2019.md)
   - Domain: autorizatii · Amends: Legea 50/1991
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/219190`](https://legislatie.just.ro/Public/DetaliiDocument/219190))

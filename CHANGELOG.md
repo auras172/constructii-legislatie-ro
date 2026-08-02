@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add NP-084-03 metadata (#278)
 - feat(metadata): add NTPA-002/2002 wastewater norm metadata (#277)
 - feat(metadata): add NC 001-1999 framework norm metadata (#276)
 - feat(metadata): add NP 068-2002 safety-in-use norm metadata (#275)
