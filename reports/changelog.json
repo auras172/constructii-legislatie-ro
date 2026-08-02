@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-02T18:04:47.668Z",
+  "generated_at": "2026-08-02T22:15:37.675Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 17/2026 construction fire-safety amendments (#279)",
         "feat(metadata): add NP-084-03 metadata (#278)",
         "feat(metadata): add NTPA-002/2002 wastewater norm metadata (#277)",
         "feat(metadata): add NC 001-1999 framework norm metadata (#276)",
@@ -445,6 +446,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 69
+    "infrastructure_changes": 70
   }
 }

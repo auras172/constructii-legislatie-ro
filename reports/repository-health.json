@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:04:46.538Z",
+  "generated_at": "2026-08-02T22:15:33.732Z",
   "summary": {
-    "total_metadata_entries": 81,
+    "total_metadata_entries": 82,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 68,
-    "total_import_logs": 81,
-    "total_relationship_links": 169,
+    "total_metadata_only_acts": 69,
+    "total_import_logs": 82,
+    "total_relationship_links": 170,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -44,6 +44,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 4,
+      "provenance": true
+    },
+    {
+      "slug": "hg-525-1996",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -745,24 +754,25 @@
       "nzeb": 3,
       "munca": 3,
       "receptie": 2,
+      "urbanism": 3,
       "isc": 2,
       "incendiu": 10,
       "anre": 17,
       "calitate": 21,
       "autorizatii": 3,
       "mediu": 3,
-      "urbanism": 2,
       "iscir": 15
     },
     "issuers": {
       "minister": 42,
-      "guvern": 12,
+      "guvern": 13,
       "parlament": 11,
       "autoritate": 16
     },
     "publication_years": {
       "1991": 1,
       "1995": 1,
+      "1996": 1,
       "2000": 1,
       "2001": 2,
       "2002": 3,
@@ -789,7 +799,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 68,
+      "metadata-only": 69,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
