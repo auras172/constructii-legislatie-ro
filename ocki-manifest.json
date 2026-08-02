@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-02T15:53:31.695Z",
+  "generated_at": "2026-08-02T16:05:33.421Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 78,
+    "acts_total": 79,
     "acts_full_text": 13,
-    "acts_metadata_only": 65,
+    "acts_metadata_only": 66,
     "article_anchors_total": 799,
-    "import_logs_total": 78,
+    "import_logs_total": 79,
     "domains": [
       "anre",
       "autorizatii",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 128,
+    "confirmed_relationships": 129,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -533,6 +533,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-np133-2022.md",
       "metadata_file": "metadata/acts/normativ-np133-2022.json"
+    },
+    {
+      "slug": "normativ-ntpa002-2002",
+      "title": "Normativ privind condițiile de evacuare a apelor uzate în rețelele de canalizare ale localităților și direct în stațiile de epurare",
+      "short_title": "NTPA-002/2002",
+      "type": "normativ",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-ntpa002-2002.md",
+      "metadata_file": "metadata/acts/normativ-ntpa002-2002.json"
     },
     {
       "slug": "normativ-p100-1-2013",

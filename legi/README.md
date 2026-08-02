@@ -362,6 +362,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — 3 volume: O.M.D.L.P.A. nr. 15/05.01.2023 (Vol. I), nr. 14/05.01.2023 (Vol. II), nr. 19/05.01.2023 (Vol. III)
   - Status: active · metadata-only · Vol. I intrat în vigoare 15.02.2023 · Vol. II intrat în vigoare 12.02.2023 · abrogă NP 133-2013
   - Import log: [import-log/2026-06-29-normativ-np133-2022.md](../import-log/2026-06-29-normativ-np133-2022.md)
+- [Normativ NTPA-002/2002](./normativ-ntpa002-2002.md)
+  - Domain: mediu · Related: NP 133-2022
+  - Official source checked: [Portal Legislativ — NTPA-002, documentul 98310](https://legislatie.just.ro/Public/DetaliiDocument/98310) · aprobat prin HG nr. 188/2002, art. 2
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 187/20.03.2002 · intrat în vigoare 20.03.2002 · forma actualizată până la 19.03.2007
+  - Import log: [import-log/2026-08-02-normativ-ntpa002-2002.md](../import-log/2026-08-02-normativ-ntpa002-2002.md)
 - [Normativ I 9-2022](./normativ-i9-2022.md)
   - Domain: calitate (instalații sanitare aferente clădirilor) · Related: Legea 10/1995, Legea 50/1991
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — O.M.D.L.P.A. nr. 2960/15.11.2022
