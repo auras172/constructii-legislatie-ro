@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-02T12:09:33.084Z
+Generated: 2026-08-02T12:35:02.954Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 76 |
+| Total metadata entries | 77 |
 | Full-text acts | 13 |
-| Metadata-only acts | 63 |
-| Import log files | 76 |
+| Metadata-only acts | 64 |
+| Import log files | 77 |
 | Total relationship links | 161 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
@@ -50,6 +50,7 @@ Generated: 2026-08-02T12:09:33.084Z
 | normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np051-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np057-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-np068-2002 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -101,7 +102,7 @@ Generated: 2026-08-02T12:09:33.084Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 18 |
+| calitate | 19 |
 | anre | 17 |
 | iscir | 15 |
 | incendiu | 9 |
@@ -117,7 +118,7 @@ Generated: 2026-08-02T12:09:33.084Z
 
 | Value | Count |
 | --- | --- |
-| minister | 39 |
+| minister | 40 |
 | autoritate | 16 |
 | parlament | 11 |
 | guvern | 10 |
@@ -138,12 +139,12 @@ Generated: 2026-08-02T12:09:33.084Z
 | 2020 | 3 |
 | 2024 | 3 |
 | 2001 | 2 |
+| 2002 | 2 |
 | 2004 | 2 |
 | 2019 | 2 |
 | 2026 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
-| 2002 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
 | 2016 | 1 |
@@ -155,7 +156,7 @@ Generated: 2026-08-02T12:09:33.084Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 63 |
+| metadata-only | 64 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
@@ -169,16 +170,16 @@ Generated: 2026-08-02T12:09:33.084Z
 
 ## Health Score
 
-**Score: 100 / 100**
+**Score: 99.8 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 100 | 15 |
+| Relationships | 98.7 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
-| **Total** | **100** | **100** |
+| **Total** | **99.8** | **100** |
 
 ### Formula
 
@@ -192,4 +193,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 ## Warnings
 
-No warnings — repository is clean.
+- **[missing_relationships]** `normativ-np068-2002`: No relationship links (related_acts/implements/amends/amended_by)

@@ -262,6 +262,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np068-2002",
+      "label": "NP 068-2002",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np086-2005",
       "label": "NP 086-2005",
       "type": "normativ",
@@ -1544,7 +1552,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 76,
+    "total_nodes": 77,
     "confirmed_edges": 126,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
