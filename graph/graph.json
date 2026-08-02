@@ -580,6 +580,14 @@
       "domain": "incendiu",
       "status": "active",
       "import_method": "full-text"
+    },
+    {
+      "id": "oug-31-2025",
+      "label": "OUG 31/2025",
+      "type": "ordonanta",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "metadata-only"
     }
   ],
   "edges": [
@@ -1423,11 +1431,51 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/oug-21-2004.json"
+    },
+    {
+      "source": "oug-31-2025",
+      "target": "lege-350-2001",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din OUG 31/2025 prevede explicit că Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297058"
+    },
+    {
+      "source": "oug-31-2025",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-31-2025.json"
+    },
+    {
+      "source": "oug-31-2025",
+      "target": "lege-50-1991",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II din OUG 31/2025 prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează.",
+      "source_article": "Art. II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297058"
+    },
+    {
+      "source": "oug-31-2025",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-31-2025.json"
     }
   ],
   "stats": {
-    "total_nodes": 72,
-    "confirmed_edges": 118,
+    "total_nodes": 73,
+    "confirmed_edges": 122,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

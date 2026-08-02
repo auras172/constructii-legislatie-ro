@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T08:14:01.348Z",
+  "generated_at": "2026-08-02T08:44:43.468Z",
   "summary": {
-    "total_metadata_entries": 72,
+    "total_metadata_entries": 73,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 59,
-    "total_import_logs": 72,
-    "total_relationship_links": 153,
+    "total_metadata_only_acts": 60,
+    "total_import_logs": 73,
+    "total_relationship_links": 157,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -657,6 +657,15 @@
       "official_markers": true,
       "relationships": 2,
       "provenance": true
+    },
+    {
+      "slug": "oug-31-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 4,
+      "provenance": true
     }
   ],
   "statistics": {
@@ -669,13 +678,13 @@
       "anre": 17,
       "calitate": 17,
       "mediu": 2,
-      "urbanism": 1,
+      "urbanism": 2,
       "autorizatii": 2,
       "iscir": 15
     },
     "issuers": {
       "minister": 38,
-      "guvern": 8,
+      "guvern": 9,
       "parlament": 10,
       "autoritate": 16
     },
@@ -701,11 +710,11 @@
       "2022": 7,
       "2023": 9,
       "2024": 3,
-      "2025": 4,
+      "2025": 5,
       "2026": 2
     },
     "import_methods": {
-      "metadata-only": 59,
+      "metadata-only": 60,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

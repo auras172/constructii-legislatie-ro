@@ -9,7 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
-- feat(metadata): add Ordin MAI 180/2022 fire authorization methodology
+- feat(metadata): add OUG 31/2025 metadata
+- feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ## July 2026
 

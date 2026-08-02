@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-02T08:14:27.701Z",
+  "generated_at": "2026-08-02T08:46:40.791Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology"
+        "feat(metadata): add OUG 31/2025 metadata",
+        "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [],
       "fixes": [],
@@ -431,6 +432,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 61
+    "infrastructure_changes": 62
   }
 }
