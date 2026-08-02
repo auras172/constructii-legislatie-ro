@@ -558,6 +558,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mai-180-2022",
+      "label": "Ordin MAI 180/2022",
+      "type": "ordin",
+      "domain": "incendiu",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-195-2005",
       "label": "OUG 195/2005",
       "type": "ordonanta",
@@ -1344,6 +1352,51 @@
       "evidence": "metadata/acts/ordin-anre-81-2022.json"
     },
     {
+      "source": "ordin-mai-180-2022",
+      "target": "hg-571-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mai-180-2022.json"
+    },
+    {
+      "source": "ordin-mai-180-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mai-180-2022.json"
+    },
+    {
+      "source": "ordin-mai-180-2022",
+      "target": "lege-307-2006",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MAI 180/2022 citează art. 17 alin. (1)-(2), art. 23 lit. a) și art. 30^2 alin. (2) din Legea nr. 307/2006; art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă.",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-07-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451"
+    },
+    {
+      "source": "ordin-mai-180-2022",
+      "target": "lege-481-2004",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MAI 180/2022 citează art. 9 alin. (1) lit. g), art. 24 alin. (3), art. 30 alin. (1) lit. b) și art. 45 alin. (5) din Legea nr. 481/2004; art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă.",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-07-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451"
+    },
+    {
+      "source": "ordin-mai-180-2022",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mai-180-2022.json"
+    },
+    {
       "source": "oug-195-2005",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1373,8 +1426,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 71,
-    "confirmed_edges": 113,
+    "total_nodes": 72,
+    "confirmed_edges": 118,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
