@@ -1,0 +1,37 @@
+{
+  "title": "Normativ cadrul privind detalierea conținutului cerințelor stabilite prin Legea 10/1995",
+  "short_title": "NC 001-1999",
+  "canonical_citation": "NC 001-1999",
+  "type": "normativ",
+  "number": "222/N",
+  "year": "2000",
+  "issuer": "Ministerul Lucrărilor Publice și Amenajării Teritoriului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["cerinte-de-calitate", "calitate-constructii", "normativ-cadru"],
+  "status": "unknown",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "original",
+  "last_checked": "2026-08-02",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264763",
+  "official_source": "Portal Legislativ — REGLEMENTĂRI din 1 februarie 2023, tabelul reglementărilor tehnice; poziția NC 001-1999",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/264763",
+  "version": "normativ original aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 222/N/2000",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, indicativul și ordinul de aprobare. În înregistrarea oficială verificată nu este indicată o referință distinctă la Monitorul Oficial sau Buletinul Construcțiilor, o dată a intrării în vigoare ori un status juridic actual; aceste câmpuri nu sunt inventate. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Înregistrarea oficială Portal Legislativ descrie NC 001-1999 ca normativ-cadru privind detalierea conținutului cerințelor stabilite prin Legea 10/1995.",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264763",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "notes": "Relație source-backed; nu reprezintă import de text tehnic."
+    }
+  ],
+  "tags": ["cerinte-de-calitate", "calitate-constructii", "normativ-cadru", "portal-legislativ", "nc001"]
+}

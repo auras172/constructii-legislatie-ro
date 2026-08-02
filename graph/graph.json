@@ -190,6 +190,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-nc001-1999",
+      "label": "NC 001-1999",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-ne012-1-2007",
       "label": "NE 012/1-2007",
       "type": "normativ",
@@ -991,6 +999,19 @@
       "evidence": "metadata/acts/normativ-i9-2022.json"
     },
     {
+      "source": "normativ-nc001-1999",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Înregistrarea oficială Portal Legislativ descrie NC 001-1999 ca normativ-cadru privind detalierea conținutului cerințelor stabilite prin Legea 10/1995.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264763",
+      "notes": "Relație source-backed; nu reprezintă import de text tehnic."
+    },
+    {
       "source": "normativ-ne012-1-2007",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1565,8 +1586,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 77,
-    "confirmed_edges": 127,
+    "total_nodes": 78,
+    "confirmed_edges": 128,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
