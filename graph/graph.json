@@ -278,6 +278,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np084-03",
+      "label": "NP-084-03",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np086-2005",
       "label": "NP 086-2005",
       "type": "normativ",
@@ -1130,6 +1138,20 @@
       "source_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf"
     },
     {
+      "source": "normativ-np084-03",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului MTCT nr. 905/25.11.2003 citează art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții ca temei pentru aprobarea NP-084-03.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambulul Ordinului MTCT nr. 905/2003",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48198",
+      "notes": "Relație de temei legal explicit; nu reprezintă o inferență către alte norme de instalații sau apă-canal."
+    },
+    {
       "source": "normativ-np133-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1608,8 +1630,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 79,
-    "confirmed_edges": 129,
+    "total_nodes": 80,
+    "confirmed_edges": 130,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

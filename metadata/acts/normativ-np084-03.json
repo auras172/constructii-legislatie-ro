@@ -1,0 +1,41 @@
+{
+  "title": "Normativ privind proiectarea, executarea şi exploatarea instalaţiilor sanitare şi a sistemelor de alimentare cu apă şi canalizare, utilizând conducte din mase plastice",
+  "short_title": "NP-084-03",
+  "canonical_citation": "NP-084-03",
+  "type": "normativ",
+  "number": "905",
+  "year": "2003",
+  "issuer": "Ministerul Transporturilor, Construcțiilor și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["instalatii-sanitare", "alimentare-apa", "canalizare", "conducte-plastic"],
+  "status": "unknown",
+  "issue_date": "2003-11-25",
+  "publication_date": "2003-12-05",
+  "effective_date": "2003-12-05",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-02",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48198",
+  "official_source": "Portal Legislativ — Ordinul MTCT nr. 905 din 25 noiembrie 2003; căutarea oficială pentru M.Of. nr. 867/05.12.2003",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/48198",
+  "version": "normativ original aprobat prin Ordinul MTCT nr. 905/25.11.2003",
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul MTCT nr. 905/25.11.2003 aprobă NP-084-03 și indică publicarea în M.Of. nr. 867/05.12.2003. Căutarea oficială indică intrarea în vigoare la 05.12.2003. Art. 3 precizează că la publicarea ordinului încetează aplicabilitatea Ordinului MLPAT nr. 17/N/1996 pentru NP 003-1997. Statusul juridic actual nu este declarat explicit în sursele verificate. Anexa tehnică nu este importată.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MTCT nr. 905/25.11.2003 citează art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții ca temei pentru aprobarea NP-084-03.",
+      "source_article": "Preambulul Ordinului MTCT nr. 905/2003",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48198",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "notes": "Relație de temei legal explicit; nu reprezintă o inferență către alte norme de instalații sau apă-canal."
+    }
+  ],
+  "tags": ["instalatii-sanitare", "alimentare-apa", "canalizare", "conducte-plastic", "calitate-constructii", "portal-legislativ", "np084"]
+}

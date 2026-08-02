@@ -352,6 +352,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare24](https://www.mdlpa.ro/pages/reglementare24), poziția 13) + PDF oficial
   - Status: unknown · metadata-only · aprobat prin Ordinul M.L.P.T.L. nr. 1.576/15.10.2002 · M.Of./B.C. și effective date neindicate în sursa verificată
   - Import log: [import-log/2026-08-02-normativ-np068-2002.md](../import-log/2026-08-02-normativ-np068-2002.md)
+- [Normativ NP-084-03](./normativ-np084-03.md)
+  - Domain: calitate (instalații sanitare, apă și canalizare) · Related: Legea 10/1995
+  - Official source checked: [Portal Legislativ — Ordinul MTCT nr. 905/25.11.2003](https://legislatie.just.ro/Public/DetaliiDocument/48198)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 867/05.12.2003 · intrat în vigoare 05.12.2003 · încetează aplicabilitatea NP 003-1997 conform Art. 3; text nedisponibil în repo
+  - Import log: [import-log/2026-08-02-normativ-np084-03.md](../import-log/2026-08-02-normativ-np084-03.md)
 - [Normativ NC 001-1999](./normativ-nc001-1999.md)
   - Domain: calitate · Related: Legea 10/1995
   - Official source checked: [Portal Legislativ — documentul 264763](https://legislatie.just.ro/Public/DetaliiDocument/264763) — Ordinul nr. 222/N/2000
