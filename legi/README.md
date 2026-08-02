@@ -402,6 +402,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([DetaliiDocument/150407](https://legislatie.just.ro/Public/DetaliiDocument/150407), formă consolidată, ultima consolidare 01.07.2024); ISC ([legislatie_1.html](https://isc.gov.ro/legislatie_1.html)) listează actul, folosit doar ca dovadă suplimentară
   - Status: active · metadata-only · publicat în M.Of. nr. 487/02.08.2013 · fără clauză explicită de intrare în vigoare (effective_date omisă) · abrogă HG 1.211/2012 · nu citează Legea 10/1995 sau Legea 50/1991
   - Import log: [import-log/2026-07-02-hg-525-2013.md](../import-log/2026-07-02-hg-525-2013.md)
+- [HG 525/1996](./hg-525-1996.md)
+  - Domain: urbanism · Related: Legea 50/1991 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/129025) + [MDLPA](https://www.mdlpa.ro/pages/cadrullegislativindomeniulurbanismului)
+  - Status: active · publicat inițial în M.Of. nr. 149/16.07.1996 · republicat în M.Of. nr. 856/27.11.2002 · consolidat verificat până la 22.11.2023
+  - Import log: [import-log/2026-08-03-hg-525-1996.md](../import-log/2026-08-03-hg-525-1996.md)
 
 ## Naming convention proposal
 

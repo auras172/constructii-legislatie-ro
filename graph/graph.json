@@ -38,6 +38,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-525-1996",
+      "label": "HG 525/1996",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-525-2013",
       "label": "HG 525/2013",
       "type": "hotarare",
@@ -730,6 +738,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "hg-525-1996",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul HG nr. 525/1996 începe cu temeiul prevederilor Legii nr. 50/1991 privind autorizarea executării construcțiilor și unele măsuri pentru realizarea locuințelor.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129025"
     },
     {
       "source": "hg-525-2013",
@@ -1664,8 +1685,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 81,
-    "confirmed_edges": 132,
+    "total_nodes": 82,
+    "confirmed_edges": 133,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
