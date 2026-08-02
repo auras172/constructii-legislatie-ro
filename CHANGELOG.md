@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 525/1996 urbanism regulation metadata (#281)
 - feat(metadata): add OUG 17/2026 construction fire-safety amendments (#279)
 - feat(metadata): add NP-084-03 metadata (#278)
 - feat(metadata): add NTPA-002/2002 wastewater norm metadata (#277)

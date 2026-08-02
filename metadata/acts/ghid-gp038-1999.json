@@ -1,0 +1,40 @@
+{
+  "title": "Ordin nr. 13/N din 10 martie 1999 pentru aprobarea reglementării tehnice Ghid privind metodologia de elaborare și conținutul-cadru al planului urbanistic general, indicativ GP038/99",
+  "short_title": "GP 038-1999",
+  "canonical_citation": "GP 038-1999",
+  "type": "ghid",
+  "number": "13/N",
+  "year": "1999",
+  "issuer": "Ministerul Lucrărilor Publice și Amenajării Teritoriului",
+  "issuing_body_kind": "minister",
+  "domain": "urbanism",
+  "topics": ["pug", "plan-urbanistic-general", "urbanism", "amenajarea-teritoriului", "ghid-tehnic"],
+  "status": "unknown",
+  "issue_date": "1999-03-10",
+  "publication_date": "1999-04-30",
+  "effective_date": "1999-04-30",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070",
+  "official_source": "Portal Legislativ — Ordin nr. 13/N/10.03.1999; MDLPA — Reglementări tehnice în domeniul urbanismului, poziția XXIX-2",
+  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare29",
+  "version": "ordin original; GP038/99 este notația oficială din Portal, echivalentă cu GP 038-1999 în evidența MDLPA",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, indicativul GP038/99, emitentul, Ordinul nr. 13/N din 10.03.1999, publicarea în M.Of. nr. 187 din 30.04.1999 și intrarea în vigoare la data publicării prin Art. 6. Preambulul citează explicit HG nr. 525/1996. Sursa nu declară explicit un status juridic actual sau o abrogare; statusul este unknown. Textul tehnic al ghidului nu este importat.",
+  "related_acts": ["hg-525-1996"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "hg-525-1996",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 13/N/1999 menționează Hotărârea Guvernului nr. 59/1999 pentru modificarea art. 2 din Hotărârea Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["pug", "plan-urbanistic-general", "urbanism", "amenajarea-teritoriului", "ghid-tehnic", "mdlpa", "gp038"]
+}
