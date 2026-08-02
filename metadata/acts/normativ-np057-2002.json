@@ -1,0 +1,38 @@
+{
+  "title": "Normativ privind proiectarea clădirilor de locuințe, indicativ NP 057-2002",
+  "short_title": "NP 057-2002",
+  "canonical_citation": "NP 057-2002",
+  "type": "normativ",
+  "number": "1383",
+  "year": "2002",
+  "issuer": "Ministerul Lucrărilor Publice, Transporturilor și Locuinței",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["locuinte", "proiectare", "cladiri", "calitate-constructii"],
+  "status": "active",
+  "issue_date": "2002-09-24",
+  "publication_medium": "minister",
+  "version_kind": "original",
+  "last_checked": "2026-08-02",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare17",
+  "official_source": "MDLPA — Reglementări tehnice, Domeniul XVII, poziția XVII-18; PDF oficial NP 057-2002; Portal Legislativ — REGLEMENTĂRI din 30 mai 2025",
+  "official_detail_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XVII/17_18%20_NP_057_2002.pdf",
+  "version": "normativ original aprobat prin O.M.L.P.T.L. nr. 1.383/24.09.2002",
+  "import_method": "metadata-only",
+  "rights_note": "Pagina MDLPA listează NP 057-2002 la poziția XVII-18, aprobarea prin O.M.L.P.T.L. nr. 1.383/24.09.2002, publicarea în Buletinul Construcțiilor nr. 9/2003 și încetarea valabilității NP 016-1996. Portal Legislativ confirmă titlul canonic, indicativul și ordinul de aprobare. Pagina MDLPA nu indică o dată distinctă de intrare în vigoare; effective_date este omisă. Coperta PDF folosește formularea «Normativ privind protecția clădirilor de locuințe (revizuire NP 016-96)», iar Portal Legislativ folosește «Normativ privind proiectarea clădirilor de locuințe»; diferența este documentată fără a importa textul tehnic.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Pct. 1.1.1 din PDF-ul oficial NP 057-2002 precizează că normativul stabilește condițiile tehnice și nivelurile de performanță în conformitate cu prevederile Legii 10/1995 privind calitatea în construcții.",
+      "source_article": "Pct. 1.1.1",
+      "source_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XVII/17_18%20_NP_057_2002.pdf",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02"
+    }
+  ],
+  "tags": ["locuinte", "proiectare", "cladiri", "calitate-constructii", "mdlpa"]
+}
