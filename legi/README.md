@@ -86,6 +86,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/69995`](https://legislatie.just.ro/Public/DetaliiDocument/69995))
   - Status: active · full official actualizata text imported 2026-06-28 · 73 articles · 4 annexes · consolidated 12.07.2007
   - Import log: [import-log/2026-06-28-hg-300-2006.md](../import-log/2026-06-28-hg-300-2006.md)
+- [HG 1425/2006](./hg-1425-2006.md)
+  - Domain: munca · Implements: Legea 319/2006
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/134138`](https://legislatie.just.ro/Public/DetaliiDocument/134138)); forma originală [`/Public/DetaliiDocument/76337`](https://legislatie.just.ro/Public/DetaliiDocument/76337)
+  - Status: active · metadata-only · publicat în M.Of. nr. 882/30.10.2006 · intră în vigoare 30.10.2006 · forma actualizată până la 27.12.2011 · 1 articol și 1 anexă
+  - Import log: [import-log/2026-08-02-hg-1425-2006.md](../import-log/2026-08-02-hg-1425-2006.md)
 - [Legea 481/2004](./lege-481-2004.md)
   - Domain: incendiu (protecție civilă / situații de urgență — caveat documentat)  · Related: Legea 307/2006
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/265539`](https://legislatie.just.ro/Public/DetaliiDocument/265539))

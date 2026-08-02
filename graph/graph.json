@@ -14,6 +14,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-1425-2006",
+      "label": "HG 1425/2006",
+      "type": "hotarare",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-300-2006",
       "label": "HG 300/2006",
       "type": "hotarare",
@@ -619,6 +627,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ghid-rtc3-2022.json"
+    },
+    {
+      "source": "hg-1425-2006",
+      "target": "lege-319-2006",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic din HG 1425/2006 aprobă Normele metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006, prevăzute în anexă.",
+      "source_article": "Articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138"
     },
     {
       "source": "hg-300-2006",
@@ -1502,8 +1523,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 74,
-    "confirmed_edges": 124,
+    "total_nodes": 75,
+    "confirmed_edges": 125,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-02T09:45:50.060Z",
+  "generated_at": "2026-08-02T11:55:58.278Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add Legea 193/2019 metadata",
+        "feat(metadata): add HG 1425/2006 SSM methodology metadata",
+        "feat(metadata): add Legea 193/2019 metadata (#268)",
         "feat(metadata): add OUG 31/2025 metadata (#266)",
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
@@ -435,6 +436,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 63
+    "infrastructure_changes": 64
   }
 }
