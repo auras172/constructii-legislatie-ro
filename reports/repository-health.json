@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T17:02:16.925Z",
+  "generated_at": "2026-08-02T18:04:46.538Z",
   "summary": {
-    "total_metadata_entries": 80,
+    "total_metadata_entries": 81,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 67,
-    "total_import_logs": 80,
-    "total_relationship_links": 165,
+    "total_metadata_only_acts": 68,
+    "total_import_logs": 81,
+    "total_relationship_links": 169,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -79,7 +79,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 2,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -115,7 +115,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 5,
+      "relationships": 6,
       "provenance": true
     },
     {
@@ -704,6 +704,15 @@
       "provenance": true
     },
     {
+      "slug": "oug-17-2026",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "oug-195-2005",
       "full_text": true,
       "metadata": true,
@@ -737,7 +746,7 @@
       "munca": 3,
       "receptie": 2,
       "isc": 2,
-      "incendiu": 9,
+      "incendiu": 10,
       "anre": 17,
       "calitate": 21,
       "autorizatii": 3,
@@ -747,7 +756,7 @@
     },
     "issuers": {
       "minister": 42,
-      "guvern": 11,
+      "guvern": 12,
       "parlament": 11,
       "autoritate": 16
     },
@@ -777,10 +786,10 @@
       "2023": 9,
       "2024": 3,
       "2025": 5,
-      "2026": 2
+      "2026": 3
     },
     "import_methods": {
-      "metadata-only": 67,
+      "metadata-only": 68,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

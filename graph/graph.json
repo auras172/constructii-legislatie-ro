@@ -622,6 +622,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-17-2026",
+      "label": "OUG 17/2026",
+      "type": "ordonanta",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-195-2005",
       "label": "OUG 195/2005",
       "type": "ordonanta",
@@ -1561,6 +1569,32 @@
       "evidence": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
+      "source": "oug-17-2026",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VII din OUG nr. 17/2026 prevede explicit că Legea nr. 10/1995 privind calitatea în construcții se modifică și se completează.",
+      "source_article": "Art. VII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G1G0RY488TEEI21D9MC87ZMW3VA"
+    },
+    {
+      "source": "oug-17-2026",
+      "target": "lege-307-2006",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VI din OUG nr. 17/2026 prevede explicit că Legea nr. 307/2006 privind apărarea împotriva incendiilor se modifică și se completează.",
+      "source_article": "Art. VI",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G1G0RY488TEEI21D9MC87ZMW3VA"
+    },
+    {
       "source": "oug-195-2005",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1630,8 +1664,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 80,
-    "confirmed_edges": 130,
+    "total_nodes": 81,
+    "confirmed_edges": 132,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

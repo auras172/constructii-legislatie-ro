@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-02T17:02:18.005Z",
+  "generated_at": "2026-08-02T18:04:47.668Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP-084-03 metadata (#278)",
         "feat(metadata): add NTPA-002/2002 wastewater norm metadata (#277)",
         "feat(metadata): add NC 001-1999 framework norm metadata (#276)",
         "feat(metadata): add NP 068-2002 safety-in-use norm metadata (#275)",
@@ -444,6 +445,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 68
+    "infrastructure_changes": 69
   }
 }

@@ -24,6 +24,7 @@
   "import_method": "Portal Legislativ forma printabila → text extract via curl → Markdown",
   "rights_note": "Text oficial public reprodus din Portal Legislativ pentru referință. Sursa oficială rămâne autoritară.",
   "related_acts": ["hg-525-2013", "lege-50-1991"],
+  "amended_by": ["oug-17-2026"],
   "tags": [
     "constructii",
     "calitate",
