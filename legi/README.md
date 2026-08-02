@@ -352,6 +352,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare24](https://www.mdlpa.ro/pages/reglementare24), poziția 13) + PDF oficial
   - Status: unknown · metadata-only · aprobat prin Ordinul M.L.P.T.L. nr. 1.576/15.10.2002 · M.Of./B.C. și effective date neindicate în sursa verificată
   - Import log: [import-log/2026-08-02-normativ-np068-2002.md](../import-log/2026-08-02-normativ-np068-2002.md)
+- [Normativ NC 001-1999](./normativ-nc001-1999.md)
+  - Domain: calitate · Related: Legea 10/1995
+  - Official source checked: [Portal Legislativ — documentul 264763](https://legislatie.just.ro/Public/DetaliiDocument/264763) — Ordinul nr. 222/N/2000
+  - Status: unknown · metadata-only · publicarea, effective date și status neindicate în înregistrarea verificată; text nedisponibil în repo
+  - Import log: [import-log/2026-08-02-normativ-nc001-1999.md](../import-log/2026-08-02-normativ-nc001-1999.md)
 - [Normativ NP 133-2022](./normativ-np133-2022.md)
   - Domain: calitate (apă-canal) · Related: Legea 10/1995, Legea 50/1991
   - Official source checked: MDLPA ([reglementare13](https://www.mdlpa.ro/pages/reglementare13)) — 3 volume: O.M.D.L.P.A. nr. 15/05.01.2023 (Vol. I), nr. 14/05.01.2023 (Vol. II), nr. 19/05.01.2023 (Vol. III)

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T12:56:05.639Z",
+  "generated_at": "2026-08-02T15:53:31.534Z",
   "summary": {
-    "total_metadata_entries": 77,
+    "total_metadata_entries": 78,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 64,
-    "total_import_logs": 77,
-    "total_relationship_links": 162,
+    "total_metadata_only_acts": 65,
+    "total_import_logs": 78,
+    "total_relationship_links": 163,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -210,6 +210,15 @@
     },
     {
       "slug": "normativ-i9-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-nc001-1999",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -712,14 +721,14 @@
       "isc": 2,
       "incendiu": 9,
       "anre": 17,
-      "calitate": 19,
+      "calitate": 20,
       "autorizatii": 3,
       "mediu": 2,
       "urbanism": 2,
       "iscir": 15
     },
     "issuers": {
-      "minister": 40,
+      "minister": 41,
       "guvern": 10,
       "parlament": 11,
       "autoritate": 16
@@ -727,6 +736,7 @@
     "publication_years": {
       "1991": 1,
       "1995": 1,
+      "2000": 1,
       "2001": 2,
       "2002": 2,
       "2004": 2,
@@ -751,7 +761,7 @@
       "2026": 2
     },
     "import_methods": {
-      "metadata-only": 64,
+      "metadata-only": 65,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-02T12:56:05.757Z",
+  "generated_at": "2026-08-02T15:53:31.695Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 77,
+    "acts_total": 78,
     "acts_full_text": 13,
-    "acts_metadata_only": 64,
+    "acts_metadata_only": 65,
     "article_anchors_total": 799,
-    "import_logs_total": 77,
+    "import_logs_total": 78,
     "domains": [
       "anre",
       "autorizatii",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 127,
+    "confirmed_relationships": 128,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -364,6 +364,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-i9-2022.md",
       "metadata_file": "metadata/acts/normativ-i9-2022.json"
+    },
+    {
+      "slug": "normativ-nc001-1999",
+      "title": "Normativ cadrul privind detalierea conținutului cerințelor stabilite prin Legea 10/1995",
+      "short_title": "NC 001-1999",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-nc001-1999.md",
+      "metadata_file": "metadata/acts/normativ-nc001-1999.json"
     },
     {
       "slug": "normativ-ne012-1-2007",

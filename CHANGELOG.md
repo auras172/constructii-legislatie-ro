@@ -9,7 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
-- feat(metadata): add NP 068-2002 safety-in-use norm metadata
+- feat(metadata): add NP 068-2002 safety-in-use norm metadata (#275)
 - feat(metadata): add NP 057-2002 housing norm metadata (#270)
 - feat(metadata): add HG 1425/2006 SSM methodology metadata (#269)
 - feat(metadata): add Legea 193/2019 metadata (#268)
