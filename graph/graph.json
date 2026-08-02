@@ -70,6 +70,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-193-2019",
+      "label": "Legea 193/2019",
+      "type": "lege",
+      "domain": "autorizatii",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -714,6 +722,26 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-141-2026.json"
+    },
+    {
+      "source": "lege-193-2019",
+      "target": "lege-50-1991",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "ARTICOLUL UNIC din Legea 193/2019 prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează.",
+      "source_article": "Articol unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219190"
+    },
+    {
+      "source": "lege-193-2019",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-193-2019.json"
     },
     {
       "source": "lege-292-2018",
@@ -1474,8 +1502,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 73,
-    "confirmed_edges": 122,
+    "total_nodes": 74,
+    "confirmed_edges": 124,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
