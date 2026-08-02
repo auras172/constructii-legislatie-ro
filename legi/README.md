@@ -26,6 +26,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/297058`](https://legislatie.just.ro/Public/DetaliiDocument/297058))
   - Status: active · metadata-only · publicată în M.Of. nr. 393/30.04.2025 · intră în vigoare general 30.04.2025, cu excepții la 30 de zile · formă Portal Legislativ cu note de consolidare prin OG 7/2026 · 12 articles · 0 annexes
   - Import log: [import-log/2026-08-02-oug-31-2025.md](../import-log/2026-08-02-oug-31-2025.md)
+- [Legea 193/2019](./lege-193-2019.md)
+  - Domain: autorizatii · Amends: Legea 50/1991
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/219190`](https://legislatie.just.ro/Public/DetaliiDocument/219190))
+  - Status: active · metadata-only · publicată în M.Of. nr. 873/30.10.2019 · intră în vigoare 02.11.2019 · ARTICOL UNIC · 0 annexes
+  - Import log: [import-log/2026-08-02-lege-193-2019.md](../import-log/2026-08-02-lege-193-2019.md)
 - [Ordin MDRAP 839/2009](./ordin-839-2009.md)
   - Domain: autorizatii · Implements: Legea 50/1991
   - Official source checked: Portal Legislativ — ORDIN (A) [`/Public/DetaliiDocument/156617`](https://legislatie.just.ro/Public/DetaliiDocument/156617) + NORMA (A) [`/Public/DetaliiDocument/259096`](https://legislatie.just.ro/Public/DetaliiDocument/259096)

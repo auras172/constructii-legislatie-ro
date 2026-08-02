@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-02T08:44:43.468Z
+Generated: 2026-08-02T09:45:18.913Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 73 |
+| Total metadata entries | 74 |
 | Full-text acts | 13 |
-| Metadata-only acts | 60 |
-| Import log files | 73 |
-| Total relationship links | 157 |
+| Metadata-only acts | 61 |
+| Import log files | 74 |
+| Total relationship links | 159 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -26,6 +26,7 @@ Generated: 2026-08-02T08:44:43.468Z
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| lege-193-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 5 | ✓ |
 | lege-319-2006 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -103,12 +104,12 @@ Generated: 2026-08-02T08:44:43.468Z
 | iscir | 15 |
 | incendiu | 9 |
 | nzeb | 3 |
+| autorizatii | 3 |
 | munca | 2 |
 | receptie | 2 |
 | isc | 2 |
 | mediu | 2 |
 | urbanism | 2 |
-| autorizatii | 2 |
 
 ### Issuers
 
@@ -116,7 +117,7 @@ Generated: 2026-08-02T08:44:43.468Z
 | --- | --- |
 | minister | 38 |
 | autoritate | 16 |
-| parlament | 10 |
+| parlament | 11 |
 | guvern | 9 |
 
 ### Publication Years
@@ -136,6 +137,7 @@ Generated: 2026-08-02T08:44:43.468Z
 | 2024 | 3 |
 | 2001 | 2 |
 | 2004 | 2 |
+| 2019 | 2 |
 | 2026 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
@@ -144,14 +146,13 @@ Generated: 2026-08-02T08:44:43.468Z
 | 2016 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
-| 2019 | 1 |
 | 2021 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 60 |
+| metadata-only | 61 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

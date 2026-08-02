@@ -1,0 +1,63 @@
+{
+  "title": "Legea nr. 193 din 28 octombrie 2019 pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+  "short_title": "Legea 193/2019",
+  "canonical_citation": "Legea nr. 193/2019",
+  "type": "lege",
+  "number": "193",
+  "year": "2019",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "autorizatii",
+  "topics": [
+    "constructii",
+    "autorizare-constructii",
+    "urbanism",
+    "avize",
+    "certificat-urbanism",
+    "simplificare-proceduri"
+  ],
+  "status": "active",
+  "issue_date": "2019-10-28",
+  "effective_date": "2019-11-02",
+  "publication_date": "2019-10-30",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-02",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219190",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 873 din 30 octombrie 2019",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/219190",
+  "version": "forma originală publicată în Monitorul Oficial al României, Partea I, nr. 873 din 30 octombrie 2019",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Legea nr. 193/28.10.2019, publicată în Monitorul Oficial al României, Partea I, nr. 873 din 30.10.2019. Portal Legislativ ID 219190 confirmă titlul, emitentul, data emiterii, publicarea și structura cu ARTICOL UNIC. Rezultatul oficial de căutare Portal Legislativ pentru Legea 193/2019 indică data intrării în vigoare 02.11.2019; aceasta este păstrată ca effective_date. ARTICOLUL UNIC prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează. Nu au fost identificate citări explicite către Legea nr. 10/1995, Legea nr. 350/2001, Legea nr. 307/2006, HG nr. 571/2016, Ordinul MAI nr. 180/2022 sau normativele P118 pe pagina verificată. Metadata-only — textul integral nu este importat în acest repo.",
+  "related_acts": [
+    "lege-50-1991"
+  ],
+  "amends": [
+    "lege-50-1991"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "ARTICOLUL UNIC din Legea 193/2019 prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează.",
+      "source_article": "Articol unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219190",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02"
+    }
+  ],
+  "tags": [
+    "constructii",
+    "autorizatii",
+    "autorizare-constructii",
+    "urbanism",
+    "avize",
+    "certificat-urbanism",
+    "simplificare-proceduri",
+    "amendament"
+  ]
+}
