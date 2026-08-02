@@ -348,8 +348,8 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: active · metadata-only · aprobat O.M.L.P.T.L. nr. 1.383/24.09.2002 · publicat în B.C. nr. 9/2003 · înlocuiește NP 016-1996 · effective date și M.Of. neindicate în tabelul MDLPA
   - Import log: [import-log/2026-08-02-normativ-np057-2002.md](../import-log/2026-08-02-normativ-np057-2002.md)
 - [Normativ NP 068-2002](./normativ-np068-2002.md)
-  - Domain: calitate (siguranță în exploatare) · Related: none
-  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/259738), Tabelul 1.1, poziția 12
+  - Domain: calitate (siguranță în exploatare) · Related: Legea 10/1995
+  - Official source checked: MDLPA ([reglementare24](https://www.mdlpa.ro/pages/reglementare24), poziția 13) + PDF oficial
   - Status: unknown · metadata-only · aprobat prin Ordinul M.L.P.T.L. nr. 1.576/15.10.2002 · M.Of./B.C. și effective date neindicate în sursa verificată
   - Import log: [import-log/2026-08-02-normativ-np068-2002.md](../import-log/2026-08-02-normativ-np068-2002.md)
 - [Normativ NP 133-2022](./normativ-np133-2022.md)

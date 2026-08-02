@@ -11,15 +11,28 @@
   "topics": ["siguranta-in-exploatare", "proiectare", "cladiri-civile", "calitate-constructii"],
   "status": "unknown",
   "issue_date": "2002-10-15",
-  "publication_medium": "portal-legislativ",
+  "publication_medium": "minister",
   "version_kind": "original",
   "last_checked": "2026-08-02",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259738",
-  "official_source": "Portal Legislativ — REGLEMENTĂRI din 20 septembrie 2022, Tabelul 1.1, poziția 12",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/259738",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare24",
+  "official_source": "MDLPA — Reglementări tehnice privind cerințele stabilite prin Legea nr. 10/1995, poziția 13; PDF oficial NP 068-2002; Portal Legislativ — REGLEMENTĂRI din 20 septembrie 2022, Tabelul 1.1, poziția 12",
+  "official_detail_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf",
   "version": "normativ original aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1576/15.10.2002",
   "import_method": "metadata-only",
-  "rights_note": "Portal Legislativ confirmă titlul canonic, indicativul NP 068-2002 și aprobarea prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1576/15.10.2002. Evidența oficială verificată nu indică un număr/data de Monitorul Oficial sau Buletinul Construcțiilor și nu indică separat data intrării în vigoare; aceste câmpuri sunt omise. Statusul este unknown deoarece sursa de referință nu declară explicit starea juridică actuală. Textul tehnic integral nu este importat.",
-  "related_acts": [],
+  "rights_note": "MDLPA listează NP 068-2002 la Domeniul XXIV, poziția 13, în cadrul reglementărilor tehnice privind cerințele stabilite prin Legea nr. 10/1995, și oferă PDF-ul oficial. Portal Legislativ confirmă titlul canonic, indicativul NP 068-2002 și aprobarea prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1576/15.10.2002. Evidența oficială verificată nu indică un număr/data de Monitorul Oficial sau Buletinul Construcțiilor și nu indică separat data intrării în vigoare; aceste câmpuri sunt omise. Statusul este unknown deoarece sursa de referință nu declară explicit starea juridică actuală. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Pct. 1.1.1 din PDF-ul oficial NP 068-2002 precizează că normativul stabilește criteriile și nivelurile de performanță admisibile pentru cerința de calitate «Siguranța în exploatare» în conformitate cu prevederile Legii 10/1995 privind calitatea în construcții.",
+      "source_article": "Pct. 1.1.1",
+      "source_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02"
+    }
+  ],
   "tags": ["siguranta-in-exploatare", "proiectare", "cladiri-civile", "calitate-constructii", "mdlpa", "np068"]
 }

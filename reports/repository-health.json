@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T12:35:02.954Z",
+  "generated_at": "2026-08-02T12:56:05.639Z",
   "summary": {
     "total_metadata_entries": 77,
     "total_full_text_acts": 13,
     "total_metadata_only_acts": 64,
     "total_import_logs": 77,
-    "total_relationship_links": 161,
+    "total_relationship_links": 162,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -304,7 +304,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -765,21 +765,15 @@
     }
   },
   "health_score": {
-    "score": 99.8,
+    "score": 100,
     "dimensions": {
       "metadata_completeness": 100,
       "import_logs": 100,
-      "relationships": 98.7,
+      "relationships": 100,
       "official_markers": 100,
       "provenance": 100
     },
     "formula": "score = dim_metadata_completeness*0.20 + dim_import_logs*0.20 + dim_relationships*0.15 + dim_official_markers*0.25 + dim_provenance*0.20"
   },
-  "warnings": [
-    {
-      "type": "missing_relationships",
-      "slug": "normativ-np068-2002",
-      "message": "No relationship links (related_acts/implements/amends/amended_by)"
-    }
-  ]
+  "warnings": []
 }

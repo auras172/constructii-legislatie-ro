@@ -8,8 +8,8 @@ canonical_citation: "NP 068-2002"
 domain: calitate
 status: unknown
 issue_date: "2002-10-15"
-source_url: "https://legislatie.just.ro/Public/DetaliiDocument/259738"
-official_detail_url: "https://legislatie.just.ro/Public/DetaliiDocument/259738"
+source_url: "https://www.mdlpa.ro/pages/reglementare24"
+official_detail_url: "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf"
 last_checked: "2026-08-02"
 tags:
   - siguranta-in-exploatare
@@ -18,7 +18,8 @@ tags:
   - calitate-constructii
   - mdlpa
   - np068
-related_acts: []
+related_acts:
+  - lege-10-1995
 import_method: metadata-only
 ---
 
@@ -37,18 +38,20 @@ la Buletinul Construcțiilor în evidența oficială verificată.
 
 Textul integral al normativului nu este importat în acest repository.
 
-Sursa oficială principală: [Portal Legislativ — REGLEMENTĂRI din 20 septembrie
-2022](https://legislatie.just.ro/Public/DetaliiDocument/259738), Tabelul 1.1,
-poziția 12. Portalul identifică normativul ca „Normativ privind proiectarea
-clădirilor civile din punct de vedere al cerinței de siguranță în exploatare,
-indicativ NP 068-2002” și menționează aprobarea prin Ordinul nr. 1.576/15.10.2002.
+Sursa oficială principală: [MDLPA — Reglementări tehnice privind cerințele
+stabilite prin Legea nr. 10/1995](https://www.mdlpa.ro/pages/reglementare24),
+poziția 13, cu [PDF oficial NP 068-2002](https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf).
+Portal Legislativ confirmă suplimentar titlul, indicativul și aprobarea prin
+Ordinul nr. 1.576/15.10.2002 în REGLEMENTĂRI din 20 septembrie 2022, Tabelul
+1.1, poziția 12.
 
 ## Relevanță confirmată
 
 Actul este un normativ tehnic pentru proiectarea clădirilor civile din punct de
-vedere al cerinței de siguranță în exploatare. Nu au fost adăugate relații către
-alte acte din repository deoarece sursa verificată nu oferă o citare explicită
-care să susțină o relație locală de tip `related_acts`, `implements` sau `amends`.
+vedere al cerinței de siguranță în exploatare. Relația cu `lege-10-1995` este
+source-backed: pct. 1.1.1 din PDF-ul oficial precizează că normativul stabilește
+criterii și niveluri de performanță admisibile în conformitate cu Legea 10/1995
+privind calitatea în construcții.
 
 ## Decizie de import
 

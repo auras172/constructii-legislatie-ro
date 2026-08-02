@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-02T12:35:03.389Z",
+  "generated_at": "2026-08-02T12:56:05.757Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 126,
+    "confirmed_relationships": 127,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -63,7 +63,7 @@
       "generate-manifest.mjs"
     ],
     "ci_workflow": ".github/workflows/validate.yml",
-    "health_score": 99.8
+    "health_score": 100
   },
   "acts": [
     {

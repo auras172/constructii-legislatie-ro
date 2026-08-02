@@ -1,6 +1,6 @@
 # Repository Health Report
 
-Generated: 2026-08-02T12:35:02.954Z
+Generated: 2026-08-02T12:56:05.639Z
 
 ## Summary
 
@@ -10,7 +10,7 @@ Generated: 2026-08-02T12:35:02.954Z
 | Full-text acts | 13 |
 | Metadata-only acts | 64 |
 | Import log files | 77 |
-| Total relationship links | 161 |
+| Total relationship links | 162 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -50,7 +50,7 @@ Generated: 2026-08-02T12:35:02.954Z
 | normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np051-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np057-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| normativ-np068-2002 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| normativ-np068-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -170,16 +170,16 @@ Generated: 2026-08-02T12:35:02.954Z
 
 ## Health Score
 
-**Score: 99.8 / 100**
+**Score: 100 / 100**
 
 | Dimension | Score (%) | Weight |
 | --- | --- | --- |
 | Metadata completeness | 100 | 20 |
 | Import logs | 100 | 20 |
-| Relationships | 98.7 | 15 |
+| Relationships | 100 | 15 |
 | Official markers | 100 | 25 |
 | Provenance | 100 | 20 |
-| **Total** | **99.8** | **100** |
+| **Total** | **100** | **100** |
 
 ### Formula
 
@@ -193,4 +193,4 @@ If a denominator is zero the dimension scores 100 (no acts → no failures).
 
 ## Warnings
 
-- **[missing_relationships]** `normativ-np068-2002`: No relationship links (related_acts/implements/amends/amended_by)
+No warnings — repository is clean.
