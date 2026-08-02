@@ -1,0 +1,40 @@
+{
+  "title": "Hotărârea Guvernului nr. 525 din 27 iunie 1996 pentru aprobarea Regulamentului general de urbanism",
+  "short_title": "HG 525/1996",
+  "canonical_citation": "HG nr. 525/1996",
+  "type": "hotarare",
+  "number": "525",
+  "year": "1996",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": ["regulament-general-de-urbanism", "amenajarea-teritoriului", "planificare-urbana", "autorizare-constructii"],
+  "status": "active",
+  "issue_date": "1996-06-27",
+  "publication_date": "1996-07-16",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2023-11-22",
+  "last_checked": "2026-08-03",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129025",
+  "official_source": "Portal Legislativ — HG 525/1996, forma consolidată; MDLPA — Cadrul legislativ în domeniul urbanismului",
+  "official_detail_url": "https://www.mdlpa.ro/userfiles/HG525.doc",
+  "version": "forma republicată în M.Of. nr. 856/27.11.2002, cu istoricul consolidărilor Portal Legislativ până la 22.11.2023",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, publicarea inițială în M.Of. nr. 149/16.07.1996, republicarea în M.Of. nr. 856/27.11.2002 și istoricul consolidărilor. Preambulul actului citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții. Nu este adăugată relație către Legea nr. 350/2001 deoarece aceasta nu a fost confirmată ca citare explicită în textul actului. Textul legal integral nu este importat în repository.",
+  "related_acts": ["lege-50-1991"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG nr. 525/1996 începe cu temeiul prevederilor Legii nr. 50/1991 privind autorizarea executării construcțiilor și unele măsuri pentru realizarea locuințelor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129025",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03"
+    }
+  ],
+  "tags": ["urbanism", "regulament-general-de-urbanism", "amenajarea-teritoriului", "planificare-urbana", "mdlpa", "hotarare-guvern"]
+}
