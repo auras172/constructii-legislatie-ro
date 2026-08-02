@@ -9,13 +9,17 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
-- feat(metadata): add HG 1425/2006 SSM methodology metadata
+- feat(metadata): add NP 057-2002 housing norm metadata
+- feat(metadata): add HG 1425/2006 SSM methodology metadata (#269)
 - feat(metadata): add Legea 193/2019 metadata (#268)
 - feat(metadata): add OUG 31/2025 metadata (#266)
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
 - docs: refresh status after OUG 31 import (#267)
+
+### Other
+- chore(deps): bump next (#263)
 
 ## July 2026
 

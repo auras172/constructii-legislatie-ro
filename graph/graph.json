@@ -254,6 +254,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np057-2002",
+      "label": "NP 057-2002",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np086-2005",
       "label": "NP 086-2005",
       "type": "normativ",
@@ -1059,6 +1067,19 @@
       "evidence": "metadata/acts/normativ-np051-2012.json"
     },
     {
+      "source": "normativ-np057-2002",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Pct. 1.1.1 din PDF-ul oficial NP 057-2002 precizează că normativul stabilește condițiile tehnice și nivelurile de performanță în conformitate cu prevederile Legii 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Pct. 1.1.1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XVII/17_18%20_NP_057_2002.pdf"
+    },
+    {
       "source": "normativ-np133-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1523,8 +1544,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 75,
-    "confirmed_edges": 125,
+    "total_nodes": 76,
+    "confirmed_edges": 126,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
