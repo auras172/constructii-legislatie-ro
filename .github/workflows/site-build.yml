@@ -24,6 +24,9 @@ on:
       - 'citations/citation-index.json'
       - 'vercel.json'
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
