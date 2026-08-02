@@ -6,6 +6,14 @@
   ],
   "nodes": [
     {
+      "id": "ghid-gp038-1999",
+      "label": "GP 038-1999",
+      "type": "ghid",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc3-2022",
       "label": "RTC 3-2022",
       "type": "ghid",
@@ -663,6 +671,19 @@
     }
   ],
   "edges": [
+    {
+      "source": "ghid-gp038-1999",
+      "target": "hg-525-1996",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 13/N/1999 menționează Hotărârea Guvernului nr. 59/1999 pentru modificarea art. 2 din Hotărârea Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070"
+    },
     {
       "source": "ghid-rtc3-2022",
       "target": "lege-10-1995",
@@ -1685,8 +1706,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 82,
-    "confirmed_edges": 133,
+    "total_nodes": 83,
+    "confirmed_edges": 134,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

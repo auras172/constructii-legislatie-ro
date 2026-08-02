@@ -407,6 +407,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/129025) + [MDLPA](https://www.mdlpa.ro/pages/cadrullegislativindomeniulurbanismului)
   - Status: active · publicat inițial în M.Of. nr. 149/16.07.1996 · republicat în M.Of. nr. 856/27.11.2002 · consolidat verificat până la 22.11.2023
   - Import log: [import-log/2026-08-03-hg-525-1996.md](../import-log/2026-08-03-hg-525-1996.md)
+- [GP 038-1999](./ghid-gp038-1999.md)
+  - Domain: urbanism · Related: HG 525/1996 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/18070) + [MDLPA reglementare29](https://www.mdlpa.ro/pages/reglementare29)
+  - Status: unknown · aprobat prin Ordinul MLPAT nr. 13/N/10.03.1999 · publicat în M.Of. nr. 187/30.04.1999 · intră în vigoare la publicare
+  - Import log: [import-log/2026-08-04-ghid-gp038-1999.md](../import-log/2026-08-04-ghid-gp038-1999.md)
 
 ## Naming convention proposal
 
