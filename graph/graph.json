@@ -294,6 +294,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-ntpa002-2002",
+      "label": "NTPA-002/2002",
+      "type": "normativ",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-p100-1-2013",
       "label": "Normativ P 100-1/2013",
       "type": "normativ",
@@ -1136,6 +1144,20 @@
       "evidence": "metadata/acts/normativ-np133-2022.json"
     },
     {
+      "source": "normativ-ntpa002-2002",
+      "target": "normativ-np133-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Portal Legislativ pentru NP 133-2022, Tabelul 1.2, pct. 7, enumeră NTPA 002/2002 ca normativ privind condițiile de evacuare a apelor uzate și document normativ de referință pentru sistemele de apă și canalizare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "NP 133-2022, Tabelul 1.2, pct. 7",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264028",
+      "notes": "Relație related_to bazată pe citarea explicită din actul repo-local NP 133-2022; HG 188/2002 rămâne act extern neimportat."
+    },
+    {
       "source": "normativ-p100-1-2013",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1586,8 +1608,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 78,
-    "confirmed_edges": 128,
+    "total_nodes": 79,
+    "confirmed_edges": 129,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

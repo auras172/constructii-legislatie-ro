@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T15:53:31.534Z",
+  "generated_at": "2026-08-02T16:05:33.099Z",
   "summary": {
-    "total_metadata_entries": 78,
+    "total_metadata_entries": 79,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 65,
-    "total_import_logs": 78,
-    "total_relationship_links": 163,
+    "total_metadata_only_acts": 66,
+    "total_import_logs": 79,
+    "total_relationship_links": 164,
     "total_unique_domains": 11,
     "total_unique_issuers": 4
   },
@@ -332,6 +332,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-ntpa002-2002",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -723,13 +732,13 @@
       "anre": 17,
       "calitate": 20,
       "autorizatii": 3,
-      "mediu": 2,
+      "mediu": 3,
       "urbanism": 2,
       "iscir": 15
     },
     "issuers": {
       "minister": 41,
-      "guvern": 10,
+      "guvern": 11,
       "parlament": 11,
       "autoritate": 16
     },
@@ -738,7 +747,7 @@
       "1995": 1,
       "2000": 1,
       "2001": 2,
-      "2002": 2,
+      "2002": 3,
       "2004": 2,
       "2005": 3,
       "2006": 4,
@@ -761,7 +770,7 @@
       "2026": 2
     },
     "import_methods": {
-      "metadata-only": 65,
+      "metadata-only": 66,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

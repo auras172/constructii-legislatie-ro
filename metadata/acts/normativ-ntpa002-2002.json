@@ -1,0 +1,41 @@
+{
+  "title": "Normativ privind condițiile de evacuare a apelor uzate în rețelele de canalizare ale localităților și direct în stațiile de epurare",
+  "short_title": "NTPA-002/2002",
+  "canonical_citation": "NTPA-002/2002",
+  "type": "normativ",
+  "number": "002",
+  "year": "2002",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "mediu",
+  "topics": ["ape-uzate", "canalizare", "epurare", "infrastructura-edilitara"],
+  "status": "unknown",
+  "issue_date": "2002-02-28",
+  "publication_date": "2002-03-20",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2007-03-19",
+  "last_checked": "2026-08-02",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98310",
+  "official_source": "Portal Legislativ — NORMATIV NTPA-002 din 28 februarie 2002; forma actualizată până la 19 martie 2007",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/98310",
+  "version": "NTPA-002/2002 aprobat prin art. 2 din HG nr. 188/2002, prevăzut în anexa nr. 2",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, indicativul, emitentul, publicarea inițială în Monitorul Oficial nr. 187 din 20 martie 2002 și forma actualizată până la 19 martie 2007. Normativul este aprobat prin art. 2 din HG nr. 188/2002. Sursa nu declară separat un status juridic actual; status este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["normativ-np133-2022"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "normativ-np133-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Portal Legislativ pentru NP 133-2022, Tabelul 1.2, pct. 7, enumeră NTPA 002/2002 ca normativ privind condițiile de evacuare a apelor uzate și document normativ de referință pentru sistemele de apă și canalizare.",
+      "source_article": "NP 133-2022, Tabelul 1.2, pct. 7",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264028",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02",
+      "notes": "Relație related_to bazată pe citarea explicită din actul repo-local NP 133-2022; HG 188/2002 rămâne act extern neimportat."
+    }
+  ],
+  "tags": ["ape-uzate", "canalizare", "epurare", "infrastructura-edilitara", "monitorul-oficial", "ntpa002"]
+}

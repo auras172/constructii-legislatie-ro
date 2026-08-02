@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-02T15:53:31.534Z
+Generated: 2026-08-02T16:05:33.099Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 78 |
+| Total metadata entries | 79 |
 | Full-text acts | 13 |
-| Metadata-only acts | 65 |
-| Import log files | 78 |
-| Total relationship links | 163 |
+| Metadata-only acts | 66 |
+| Import log files | 79 |
+| Total relationship links | 164 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -54,6 +54,7 @@ Generated: 2026-08-02T15:53:31.534Z
 | normativ-np068-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-ntpa002-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-1-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -110,9 +111,9 @@ Generated: 2026-08-02T15:53:31.534Z
 | nzeb | 3 |
 | munca | 3 |
 | autorizatii | 3 |
+| mediu | 3 |
 | receptie | 2 |
 | isc | 2 |
-| mediu | 2 |
 | urbanism | 2 |
 
 ### Issuers
@@ -121,8 +122,8 @@ Generated: 2026-08-02T15:53:31.534Z
 | --- | --- |
 | minister | 41 |
 | autoritate | 16 |
+| guvern | 11 |
 | parlament | 11 |
-| guvern | 10 |
 
 ### Publication Years
 
@@ -134,13 +135,13 @@ Generated: 2026-08-02T15:53:31.534Z
 | 2013 | 6 |
 | 2025 | 5 |
 | 2006 | 4 |
+| 2002 | 3 |
 | 2005 | 3 |
 | 2008 | 3 |
 | 2009 | 3 |
 | 2020 | 3 |
 | 2024 | 3 |
 | 2001 | 2 |
-| 2002 | 2 |
 | 2004 | 2 |
 | 2019 | 2 |
 | 2026 | 2 |
@@ -158,7 +159,7 @@ Generated: 2026-08-02T15:53:31.534Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 65 |
+| metadata-only | 66 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
