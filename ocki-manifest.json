@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-02T09:45:18.991Z",
+  "generated_at": "2026-08-02T11:55:33.831Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 74,
+    "acts_total": 75,
     "acts_full_text": 13,
-    "acts_metadata_only": 61,
+    "acts_metadata_only": 62,
     "article_anchors_total": 799,
-    "import_logs_total": 74,
+    "import_logs_total": 75,
     "domains": [
       "anre",
       "autorizatii",
@@ -43,7 +43,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 124,
+    "confirmed_relationships": 125,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -78,6 +78,19 @@
       "anchor_count": 0,
       "file": "legi/ghid-rtc3-2022.md",
       "metadata_file": "metadata/acts/ghid-rtc3-2022.json"
+    },
+    {
+      "slug": "hg-1425-2006",
+      "title": "Hotărârea Guvernului nr. 1.425 din 11 octombrie 2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006",
+      "short_title": "HG 1425/2006",
+      "type": "hotarare",
+      "domain": "munca",
+      "status": "active",
+      "import_method": "metadata-only",
+      "article_count": 1,
+      "anchor_count": 0,
+      "file": "legi/hg-1425-2006.md",
+      "metadata_file": "metadata/acts/hg-1425-2006.json"
     },
     {
       "slug": "hg-300-2006",

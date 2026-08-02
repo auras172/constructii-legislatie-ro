@@ -1,0 +1,57 @@
+{
+  "title": "Hotărârea Guvernului nr. 1.425 din 11 octombrie 2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006",
+  "short_title": "HG 1425/2006",
+  "canonical_citation": "Hotărârea Guvernului nr. 1.425/2006",
+  "type": "hotarare",
+  "number": "1425",
+  "year": "2006",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "munca",
+  "topics": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "norme-metodologice",
+    "constructii"
+  ],
+  "status": "active",
+  "issue_date": "2006-10-11",
+  "effective_date": "2006-10-30",
+  "publication_date": "2006-10-30",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2011-12-27",
+  "last_checked": "2026-08-02",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 882 din 30 octombrie 2006",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138",
+  "version": "forma consolidată disponibilă pe Portal Legislativ, actualizată până la 27.12.2011 prin HG nr. 955/2010 și HG nr. 1.242/2011",
+  "article_count": 1,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ ID 134138 confirmă titlul, emitentul, data emiterii, publicarea în M.Of. nr. 882/30.10.2006 și forma actualizată până la 27.12.2011. Articolul unic aprobă Normele metodologice de aplicare a Legii securității și sănătății în muncă nr. 319/2006, prevăzute în anexă. Portalul indică intrarea în vigoare la 30.10.2006. Textul integral nu este importat în acest repo.",
+  "implements": [
+    "lege-319-2006"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-319-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic din HG 1425/2006 aprobă Normele metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006, prevăzute în anexă.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-02"
+    }
+  ],
+  "tags": [
+    "munca",
+    "securitate-munca",
+    "sanatate-munca",
+    "norme-metodologice",
+    "constructii"
+  ]
+}
