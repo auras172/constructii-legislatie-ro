@@ -1,17 +1,17 @@
 # Repository Health Report
 
-Generated: 2026-08-03T19:40:57.995Z
+Generated: 2026-08-03T19:51:17.888Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 86 |
+| Total metadata entries | 87 |
 | Full-text acts | 13 |
-| Metadata-only acts | 73 |
-| Import log files | 86 |
-| Total relationship links | 178 |
-| Unique domains | 11 |
+| Metadata-only acts | 74 |
+| Import log files | 87 |
+| Total relationship links | 179 |
+| Unique domains | 12 |
 | Unique issuers | 4 |
 
 ## Coverage Matrix
@@ -20,6 +20,7 @@ Generated: 2026-08-03T19:40:57.995Z
 | --- | --- | --- | --- | --- | --- | --- |
 | ghid-gm010-2000 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ghid-gp038-1999 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ghid-rtc11-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ghid-rtc15-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ghid-rtc3-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ghid-rtc4-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -122,12 +123,13 @@ Generated: 2026-08-03T19:40:57.995Z
 | mediu | 3 |
 | receptie | 2 |
 | isc | 2 |
+| executie | 1 |
 
 ### Issuers
 
 | Value | Count |
 | --- | --- |
-| minister | 46 |
+| minister | 47 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -137,8 +139,8 @@ Generated: 2026-08-03T19:40:57.995Z
 | Value | Count |
 | --- | --- |
 | 2010 | 13 |
+| 2022 | 9 |
 | 2023 | 9 |
-| 2022 | 8 |
 | 2013 | 6 |
 | 2025 | 6 |
 | 2006 | 4 |
@@ -169,7 +171,7 @@ Generated: 2026-08-03T19:40:57.995Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 73 |
+| metadata-only | 74 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

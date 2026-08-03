@@ -22,6 +22,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-rtc11-2022",
+      "label": "RTC 11-2022",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc15-2025",
       "label": "RTC 15-2025",
       "type": "ghid",
@@ -733,6 +741,13 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-04",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070"
+    },
+    {
+      "source": "ghid-rtc11-2022",
+      "target": "metodologie-mc001-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc11-2022.json"
     },
     {
       "source": "ghid-rtc15-2025",
@@ -1791,8 +1806,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 86,
-    "confirmed_edges": 141,
+    "total_nodes": 87,
+    "confirmed_edges": 142,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
