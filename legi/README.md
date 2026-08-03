@@ -412,6 +412,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/18070) + [MDLPA reglementare29](https://www.mdlpa.ro/pages/reglementare29)
   - Status: unknown · aprobat prin Ordinul MLPAT nr. 13/N/10.03.1999 · publicat în M.Of. nr. 187/30.04.1999 · intră în vigoare la publicare
   - Import log: [import-log/2026-08-04-ghid-gp038-1999.md](../import-log/2026-08-04-ghid-gp038-1999.md)
+- [GM 010-2000](./ghid-gm010-2000.md)
+  - Domain: urbanism · Related: Legea 50/1991, HG 525/1996 · metadata-only
+  - Official source checked: [Portal Legislativ — ordin](https://legislatie.just.ro/Public/DetaliiDocument/23921) + [GM-010-2000](https://legislatie.just.ro/Public/DetaliiDocument/206182) + [MDLPA reglementare29](https://www.mdlpa.ro/pages/reglementare29)
+  - Status: unknown · aprobat prin Ordinul MLPAT nr. 176/N/16.08.2000 · publicat în M.Of. nr. 399/25.08.2000 · intră în vigoare la publicare · cap. III/C din Ordinul 91/1991 își încetează valabilitatea
+  - Import log: [import-log/2026-08-04-ghid-gm010-2000.md](../import-log/2026-08-04-ghid-gm010-2000.md)
 
 ## Naming convention proposal
 

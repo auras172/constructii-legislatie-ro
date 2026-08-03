@@ -6,6 +6,14 @@
   ],
   "nodes": [
     {
+      "id": "ghid-gm010-2000",
+      "label": "GM 010-2000",
+      "type": "ghid",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-gp038-1999",
       "label": "GP 038-1999",
       "type": "ghid",
@@ -671,6 +679,32 @@
     }
   ],
   "edges": [
+    {
+      "source": "ghid-gm010-2000",
+      "target": "hg-525-1996",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Conținutul oficial GM-010-2000 menționează Hotărârea Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism la condițiile de amplasare a construcțiilor.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Secțiunea 1.2 — Cadrul legal / condiții de construire",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206182"
+    },
+    {
+      "source": "ghid-gm010-2000",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Conținutul oficial GM-010-2000 menționează Legea nr. 50/1991 republicată la condițiile de construire în zona protejată a valorilor de patrimoniu.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Secțiunea 1.2 — Cadrul legal / condiții de construire",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206182"
+    },
     {
       "source": "ghid-gp038-1999",
       "target": "hg-525-1996",
@@ -1706,8 +1740,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 83,
-    "confirmed_edges": 134,
+    "total_nodes": 84,
+    "confirmed_edges": 136,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
