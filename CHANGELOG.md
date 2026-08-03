@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add RTC 11-2022 flood adaptation guide (#286)
 - feat(metadata): add RTC 15-2025 telecom installations guide
 - feat(metadata): add RTC 4-2022 nZEB guide metadata (#284)
 - feat(metadata): add GM 010/2000 PUZ guide metadata (#283)

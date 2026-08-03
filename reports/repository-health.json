@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T19:51:17.888Z",
+  "generated_at": "2026-08-03T20:04:09.425Z",
   "summary": {
-    "total_metadata_entries": 87,
+    "total_metadata_entries": 88,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 74,
-    "total_import_logs": 87,
-    "total_relationship_links": 179,
+    "total_metadata_only_acts": 75,
+    "total_import_logs": 88,
+    "total_relationship_links": 180,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -587,6 +587,15 @@
       "provenance": true
     },
     {
+      "slug": "normativ-rtc12-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "og-63-2001",
       "full_text": false,
       "metadata": true,
@@ -797,7 +806,7 @@
   "statistics": {
     "domains": {
       "urbanism": 5,
-      "executie": 1,
+      "executie": 2,
       "calitate": 22,
       "nzeb": 4,
       "munca": 3,
@@ -810,7 +819,7 @@
       "iscir": 15
     },
     "issuers": {
-      "minister": 47,
+      "minister": 48,
       "guvern": 13,
       "parlament": 11,
       "autoritate": 16
@@ -839,14 +848,14 @@
       "2019": 2,
       "2020": 3,
       "2021": 1,
-      "2022": 9,
+      "2022": 10,
       "2023": 9,
       "2024": 3,
       "2025": 6,
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 74,
+      "metadata-only": 75,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
