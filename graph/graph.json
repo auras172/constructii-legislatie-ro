@@ -334,6 +334,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np074-2022",
+      "label": "NP 074-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np084-03",
       "label": "NP-084-03",
       "type": "normativ",
@@ -1317,6 +1325,19 @@
       "source_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXIV/24_13_NP_068_2002.pdf"
     },
     {
+      "source": "normativ-np074-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 27/10.01.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264051"
+    },
+    {
       "source": "normativ-np084-03",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1842,8 +1863,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 89,
-    "confirmed_edges": 144,
+    "total_nodes": 90,
+    "confirmed_edges": 145,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -365,6 +365,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare24](https://www.mdlpa.ro/pages/reglementare24), poziția 13) + PDF oficial
   - Status: unknown · metadata-only · aprobat prin Ordinul M.L.P.T.L. nr. 1.576/15.10.2002 · M.Of./B.C. și effective date neindicate în sursa verificată
   - Import log: [import-log/2026-08-02-normativ-np068-2002.md](../import-log/2026-08-02-normativ-np068-2002.md)
+- [Normativ NP 074-2022](./normativ-np074-2022.md)
+  - Domain: calitate (geotehnic) · Related: Legea 10/1995
+  - Official source checked: [Portal Legislativ — Ordinul nr. 27/10.01.2023](https://legislatie.just.ro/Public/DetaliiDocumentAfis/264051) și reglementarea tehnică [ID 264362](https://legislatie.just.ro/Public/DetaliiDocumentAfis/264362); MDLPA ([reglementare3](https://www.mdlpa.ro/pages/reglementare3))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 56 și 56 bis/20.01.2023 · intră în vigoare 19.02.2023 · abrogă NP 074-2014
+  - Import log: [import-log/2026-08-05-normativ-np074-2022.md](../import-log/2026-08-05-normativ-np074-2022.md)
 - [Normativ GE 027-2023](./normativ-ge027-2023.md)
   - Domain: executie (construcții hidrotehnice) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare19](https://www.mdlpa.ro/pages/reglementare19)) și [Portal Legislativ — Ordinul nr. 2.230/17.10.2023](https://legislatie.just.ro/Public/DetaliiDocument/276300)
