@@ -291,6 +291,8 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: nzeb · Related: Legea 372/2005, Metodologie Mc 001-2022, Legea 10/1995
 - [RTC 4-2022](./ghid-rtc4-2022.md)
   - Domain: nzeb · Related: Legea 10/1995, Legea 372/2005, Legea 50/1991
+- [RTC 15-2025](./ghid-rtc15-2025.md)
+  - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
   - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 2819/02.11.2022
   - Status: active · metadata-only · publicat în M.Of. nr. 1099 și 1099 bis/15.11.2022 · intrat în vigoare 15.12.2022
   - Import log: [import-log/2026-07-05-ghid-rtc3-2022.md](../import-log/2026-07-05-ghid-rtc3-2022.md)
