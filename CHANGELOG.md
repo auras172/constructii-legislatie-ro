@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add GM 010/2000 PUZ guide metadata (#283)
 - feat(metadata): add GP 038/1999 PUG guide metadata (#282)
 - feat(metadata): add HG 525/1996 urbanism regulation metadata (#281)
 - feat(metadata): add OUG 17/2026 construction fire-safety amendments (#279)
