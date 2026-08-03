@@ -22,6 +22,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-rtc15-2025",
+      "label": "RTC 15-2025",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc3-2022",
       "label": "RTC 3-2022",
       "type": "ghid",
@@ -725,6 +733,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-04",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070"
+    },
+    {
+      "source": "ghid-rtc15-2025",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc15-2025.json"
+    },
+    {
+      "source": "ghid-rtc15-2025",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ghid-rtc15-2025.json"
     },
     {
       "source": "ghid-rtc3-2022",
@@ -1769,8 +1791,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 85,
-    "confirmed_edges": 139,
+    "total_nodes": 86,
+    "confirmed_edges": 141,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
