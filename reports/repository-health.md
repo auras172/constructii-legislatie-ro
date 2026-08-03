@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-03T20:25:21.495Z
+Generated: 2026-08-03T20:44:08.123Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 89 |
+| Total metadata entries | 90 |
 | Full-text acts | 13 |
-| Metadata-only acts | 76 |
-| Import log files | 89 |
-| Total relationship links | 181 |
+| Metadata-only acts | 77 |
+| Import log files | 90 |
+| Total relationship links | 182 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -59,6 +59,7 @@ Generated: 2026-08-03T20:25:21.495Z
 | normativ-np051-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np057-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np068-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-np074-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np084-03 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -114,7 +115,7 @@ Generated: 2026-08-03T20:25:21.495Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 22 |
+| calitate | 23 |
 | anre | 17 |
 | iscir | 15 |
 | incendiu | 10 |
@@ -131,7 +132,7 @@ Generated: 2026-08-03T20:25:21.495Z
 
 | Value | Count |
 | --- | --- |
-| minister | 49 |
+| minister | 50 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -141,7 +142,7 @@ Generated: 2026-08-03T20:25:21.495Z
 | Value | Count |
 | --- | --- |
 | 2010 | 13 |
-| 2022 | 10 |
+| 2022 | 11 |
 | 2023 | 10 |
 | 2013 | 6 |
 | 2025 | 6 |
@@ -173,7 +174,7 @@ Generated: 2026-08-03T20:25:21.495Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 76 |
+| metadata-only | 77 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

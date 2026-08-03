@@ -1,0 +1,40 @@
+{
+  "title": "Normativ privind documentațiile geotehnice pentru construcții, indicativ NP 074-2022",
+  "short_title": "NP 074-2022",
+  "canonical_citation": "NP 074-2022",
+  "type": "normativ",
+  "number": "27",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["geotehnic", "documentatii-geotehnice", "fundatii", "constructii", "normativ-tehnic", "np074"],
+  "status": "unknown",
+  "issue_date": "2023-01-10",
+  "publication_date": "2023-01-20",
+  "effective_date": "2023-02-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-03",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare3",
+  "official_source": "Portal Legislativ — Ordin nr. 27/10.01.2023, ID 264051; reglementarea tehnică ID 264362; MDLPA — Reglementări tehnice, reglementare3",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264362",
+  "version": "normativ tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, indicativul NP 074-2022, aprobarea prin Ordinul nr. 27/10.01.2023, emitentul, publicarea în M.Of. nr. 56 și 56 bis/20.01.2023 și intrarea în vigoare la 30 de zile de la publicare, calculată la 19.02.2023 și afișată astfel în rezultatul oficial. Art. 4 abrogă la intrarea în vigoare NP 074-2014. Preambulul ordinului citează explicit art. 10 din Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 27/10.01.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264051",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03"
+    }
+  ],
+  "tags": ["geotehnic", "documentatii-geotehnice", "fundatii", "constructii", "normativ-tehnic", "mdlpa", "np074"]
+}
