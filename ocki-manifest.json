@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-03T19:40:58.077Z",
+  "generated_at": "2026-08-03T19:51:17.969Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,15 +15,16 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 86,
+    "acts_total": 87,
     "acts_full_text": 13,
-    "acts_metadata_only": 73,
+    "acts_metadata_only": 74,
     "article_anchors_total": 799,
-    "import_logs_total": 86,
+    "import_logs_total": 87,
     "domains": [
       "anre",
       "autorizatii",
       "calitate",
+      "executie",
       "incendiu",
       "isc",
       "iscir",
@@ -43,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 141,
+    "confirmed_relationships": 142,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -91,6 +92,19 @@
       "anchor_count": 0,
       "file": "legi/ghid-gp038-1999.md",
       "metadata_file": "metadata/acts/ghid-gp038-1999.json"
+    },
+    {
+      "slug": "ghid-rtc11-2022",
+      "title": "Ghid de bune practici privind măsuri de adaptare aplicabile clădirilor existente și clădirilor noi, situate în zone inundabile, indicativ RTC 11-2022",
+      "short_title": "RTC 11-2022",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ghid-rtc11-2022.md",
+      "metadata_file": "metadata/acts/ghid-rtc11-2022.json"
     },
     {
       "slug": "ghid-rtc15-2025",

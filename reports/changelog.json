@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-03T19:40:58.660Z",
+  "generated_at": "2026-08-03T19:51:18.548Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add RTC 15-2025 telecom installations guide",
         "feat(metadata): add RTC 4-2022 nZEB guide metadata (#284)",
         "feat(metadata): add GM 010/2000 PUZ guide metadata (#283)",
         "feat(metadata): add GP 038/1999 PUG guide metadata (#282)",
@@ -450,6 +451,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 74
+    "infrastructure_changes": 75
   }
 }
