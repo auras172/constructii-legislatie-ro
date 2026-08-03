@@ -518,6 +518,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-rtc12-2022",
+      "label": "RTC 12-2022",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "og-63-2001",
       "label": "OG 63/2001",
       "type": "ordonanta",
@@ -1512,6 +1520,13 @@
       "evidence": "metadata/acts/normativ-pt-r8-2010.json"
     },
     {
+      "source": "normativ-rtc12-2022",
+      "target": "metodologie-mc001-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/normativ-rtc12-2022.json"
+    },
+    {
       "source": "og-63-2001",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1806,8 +1821,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 87,
-    "confirmed_edges": 142,
+    "total_nodes": 88,
+    "confirmed_edges": 143,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
