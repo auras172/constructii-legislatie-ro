@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-02T23:22:37.795Z",
+  "generated_at": "2026-08-03T15:45:06.702Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add GP 038/1999 PUG guide metadata (#282)",
         "feat(metadata): add HG 525/1996 urbanism regulation metadata (#281)",
         "feat(metadata): add OUG 17/2026 construction fire-safety amendments (#279)",
         "feat(metadata): add NP-084-03 metadata (#278)",
@@ -447,6 +448,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 71
+    "infrastructure_changes": 72
   }
 }

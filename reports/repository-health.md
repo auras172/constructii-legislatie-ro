@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-02T23:22:36.636Z
+Generated: 2026-08-03T15:45:05.995Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 83 |
+| Total metadata entries | 84 |
 | Full-text acts | 13 |
-| Metadata-only acts | 70 |
-| Import log files | 83 |
-| Total relationship links | 171 |
+| Metadata-only acts | 71 |
+| Import log files | 84 |
+| Total relationship links | 173 |
 | Unique domains | 11 |
 | Unique issuers | 4 |
 
@@ -18,6 +18,7 @@ Generated: 2026-08-02T23:22:36.636Z
 
 | slug | full text | metadata | import log | markers | relationships | provenance |
 | --- | --- | --- | --- | --- | --- | --- |
+| ghid-gm010-2000 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ghid-gp038-1999 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ghid-rtc3-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | hg-1425-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -112,7 +113,7 @@ Generated: 2026-08-02T23:22:36.636Z
 | anre | 17 |
 | iscir | 15 |
 | incendiu | 10 |
-| urbanism | 4 |
+| urbanism | 5 |
 | nzeb | 3 |
 | munca | 3 |
 | autorizatii | 3 |
@@ -124,7 +125,7 @@ Generated: 2026-08-02T23:22:36.636Z
 
 | Value | Count |
 | --- | --- |
-| minister | 43 |
+| minister | 44 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -146,6 +147,7 @@ Generated: 2026-08-02T23:22:36.636Z
 | 2020 | 3 |
 | 2024 | 3 |
 | 2026 | 3 |
+| 2000 | 2 |
 | 2001 | 2 |
 | 2004 | 2 |
 | 2019 | 2 |
@@ -153,7 +155,6 @@ Generated: 2026-08-02T23:22:36.636Z
 | 1995 | 1 |
 | 1996 | 1 |
 | 1999 | 1 |
-| 2000 | 1 |
 | 2003 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
@@ -166,7 +167,7 @@ Generated: 2026-08-02T23:22:36.636Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 70 |
+| metadata-only | 71 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

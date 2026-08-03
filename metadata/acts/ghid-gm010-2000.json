@@ -1,0 +1,51 @@
+{
+  "title": "Ordin nr. 176/N din 16 august 2000 pentru aprobarea reglementării tehnice Ghid privind metodologia de elaborare și conținutul-cadru al planului urbanistic zonal, indicativ GM-010-2000",
+  "short_title": "GM 010-2000",
+  "canonical_citation": "GM 010-2000",
+  "type": "ghid",
+  "number": "176/N",
+  "year": "2000",
+  "issuer": "Ministerul Lucrărilor Publice și Amenajării Teritoriului",
+  "issuing_body_kind": "minister",
+  "domain": "urbanism",
+  "topics": ["puz", "plan-urbanistic-zonal", "urbanism", "amenajarea-teritoriului", "ghid-tehnic"],
+  "status": "unknown",
+  "issue_date": "2000-08-16",
+  "publication_date": "2000-08-25",
+  "effective_date": "2000-08-25",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23921",
+  "official_source": "Portal Legislativ — Ordin nr. 176/N/16.08.2000 și REGLEMENTARE TEHNICĂ din 16.08.2000; MDLPA — Reglementări tehnice în domeniul urbanismului, poziția XXIX-3",
+  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare29",
+  "version": "ordin original; ghidul tehnic este publicat în broșură și aprobat prin Ordinul nr. 176/N/16.08.2000",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, indicativul GM-010-2000, emitentul, Ordinul nr. 176/N din 16.08.2000, publicarea în M.Of. nr. 399 din 25.08.2000 și intrarea în vigoare la data publicării prin Art. 4. Conținutul oficial al ghidului citează explicit Legea nr. 50/1991 și HG nr. 525/1996 în cadrul legal și în condițiile de construire. La data publicării încetează valabilitatea capitolului III/C din Formularele, procedura de autorizare și conținutul documentațiilor, aprobate prin Ordinul nr. 91/1991; acel act nu este importat. Legea nr. 350/2001 nu a fost identificată ca citare explicită în sursele verificate. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-50-1991", "hg-525-1996"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Conținutul oficial GM-010-2000 menționează Legea nr. 50/1991 republicată la condițiile de construire în zona protejată a valorilor de patrimoniu.",
+      "source_article": "Secțiunea 1.2 — Cadrul legal / condiții de construire",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206182",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    },
+    {
+      "type": "related_to",
+      "target": "hg-525-1996",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Conținutul oficial GM-010-2000 menționează Hotărârea Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism la condițiile de amplasare a construcțiilor.",
+      "source_article": "Secțiunea 1.2 — Cadrul legal / condiții de construire",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206182",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["puz", "plan-urbanistic-zonal", "urbanism", "amenajarea-teritoriului", "ghid-tehnic", "mdlpa", "gm010"]
+}
