@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-03T20:04:09.425Z
+Generated: 2026-08-03T20:25:21.495Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 88 |
+| Total metadata entries | 89 |
 | Full-text acts | 13 |
-| Metadata-only acts | 75 |
-| Import log files | 88 |
-| Total relationship links | 180 |
+| Metadata-only acts | 76 |
+| Import log files | 89 |
+| Total relationship links | 181 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -45,6 +45,7 @@ Generated: 2026-08-03T20:04:09.425Z
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-cr2-1-1-1-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-cr6-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-ge027-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i7-2011 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-i9-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-nc001-1999 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -119,10 +120,10 @@ Generated: 2026-08-03T20:04:09.425Z
 | incendiu | 10 |
 | urbanism | 5 |
 | nzeb | 4 |
+| executie | 3 |
 | munca | 3 |
 | autorizatii | 3 |
 | mediu | 3 |
-| executie | 2 |
 | receptie | 2 |
 | isc | 2 |
 
@@ -130,7 +131,7 @@ Generated: 2026-08-03T20:04:09.425Z
 
 | Value | Count |
 | --- | --- |
-| minister | 48 |
+| minister | 49 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -141,7 +142,7 @@ Generated: 2026-08-03T20:04:09.425Z
 | --- | --- |
 | 2010 | 13 |
 | 2022 | 10 |
-| 2023 | 9 |
+| 2023 | 10 |
 | 2013 | 6 |
 | 2025 | 6 |
 | 2006 | 4 |
@@ -172,7 +173,7 @@ Generated: 2026-08-03T20:04:09.425Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 75 |
+| metadata-only | 76 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

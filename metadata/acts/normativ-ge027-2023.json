@@ -1,0 +1,40 @@
+{
+  "title": "Ghid pentru proiectarea și execuția lucrărilor de protejare și consolidare a taluzurilor la canale și diguri, indicativ GE 027-2023",
+  "short_title": "GE 027-2023",
+  "canonical_citation": "GE 027-2023",
+  "type": "ghid",
+  "number": "2230",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["taluzuri", "canale", "diguri", "constructii-hidrotehnice", "ghid-tehnic", "ge027"],
+  "status": "unknown",
+  "issue_date": "2023-10-17",
+  "publication_date": "2023-11-14",
+  "effective_date": "2023-12-14",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-03",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare19",
+  "official_source": "MDLPA — Reglementări tehnice, poziția XIX-1; Portal Legislativ — Ordin nr. 2.230/17.10.2023, ID 276300 și reglementarea tehnică ID 276561",
+  "official_detail_url": "https://www.mdlpa.ro/uploads/articole/attachments/655b498d2f273071254859.pdf",
+  "version": "ghid tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "MDLPA și ordinul de aprobare identifică ghidul ca GE 027-2023. În Portal Legislativ și în antetul anexei apare și notația GE 027-2022, dar documentul este aceeași anexă la Ordinul nr. 2.230/17.10.2023, publicată în M.Of. nr. 1033 bis/14.11.2023; notația 2022 este documentată ca neconcordanță internă, nu ca act separat. Ordinul intră în vigoare la 30 de zile de la publicare, la 14.12.2023. Art. 3 încetează aplicabilitatea Ordinului nr. 53/N/11.03.1997 pentru GE 027-1997. Preambulul citează explicit Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.230/17.10.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276300",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03"
+    }
+  ],
+  "tags": ["taluzuri", "canale", "diguri", "constructii-hidrotehnice", "ghid-tehnic", "mdlpa", "ge027"]
+}
