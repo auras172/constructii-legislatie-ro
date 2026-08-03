@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-03T20:04:10.166Z",
+  "generated_at": "2026-08-03T20:25:22.105Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add RTC 12-2022 metadata (#287)",
         "feat(metadata): add RTC 11-2022 flood adaptation guide (#286)",
         "feat(metadata): add RTC 15-2025 telecom installations guide",
         "feat(metadata): add RTC 4-2022 nZEB guide metadata (#284)",
@@ -452,6 +453,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 76
+    "infrastructure_changes": 77
   }
 }

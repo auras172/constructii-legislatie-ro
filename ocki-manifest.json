@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-03T20:04:09.509Z",
+  "generated_at": "2026-08-03T20:25:21.580Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 88,
+    "acts_total": 89,
     "acts_full_text": 13,
-    "acts_metadata_only": 75,
+    "acts_metadata_only": 76,
     "article_anchors_total": 799,
-    "import_logs_total": 88,
+    "import_logs_total": 89,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 143,
+    "confirmed_relationships": 144,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -417,6 +417,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-cr6-2013.md",
       "metadata_file": "metadata/acts/normativ-cr6-2013.json"
+    },
+    {
+      "slug": "normativ-ge027-2023",
+      "title": "Ghid pentru proiectarea și execuția lucrărilor de protejare și consolidare a taluzurilor la canale și diguri, indicativ GE 027-2023",
+      "short_title": "GE 027-2023",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/normativ-ge027-2023.md",
+      "metadata_file": "metadata/acts/normativ-ge027-2023.json"
     },
     {
       "slug": "normativ-i7-2011",

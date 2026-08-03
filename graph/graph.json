@@ -222,6 +222,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-ge027-2023",
+      "label": "GE 027-2023",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-i7-2011",
       "label": "Normativ I 7-2011",
       "type": "normativ",
@@ -1159,6 +1167,19 @@
       "evidence": "metadata/acts/normativ-cr6-2013.json"
     },
     {
+      "source": "normativ-ge027-2023",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.230/17.10.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276300"
+    },
+    {
       "source": "normativ-i7-2011",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1821,8 +1842,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 88,
-    "confirmed_edges": 143,
+    "total_nodes": 89,
+    "confirmed_edges": 144,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
