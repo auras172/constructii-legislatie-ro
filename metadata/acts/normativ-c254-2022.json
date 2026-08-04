@@ -1,0 +1,40 @@
+{
+  "title": "Îndrumător privind cazuri particulare de expertizare tehnică a clădirilor pentru cerința fundamentală «rezistență mecanică și stabilitate», indicativ C 254-2022",
+  "short_title": "C 254-2022",
+  "canonical_citation": "C 254-2022",
+  "type": "normativ",
+  "number": "3275",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["expertizare-tehnica", "rezistenta-mecanica", "stabilitate", "cladiri", "constructii", "normativ-tehnic", "c254"],
+  "status": "unknown",
+  "issue_date": "2022-12-19",
+  "publication_date": "2022-12-27",
+  "effective_date": "2023-01-26",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare1",
+  "official_source": "Portal Legislativ — Ordin nr. 3.275/19.12.2022, ID 263139; MDLPA — Reglementări tehnice, reglementare1",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/263139",
+  "version": "normativ tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ și MDLPA confirmă titlul, indicativul C 254-2022, aprobarea prin Ordinul nr. 3.275/19.12.2022, emitentul, publicarea în M.Of. nr. 1255 și 1255 bis/27.12.2022 și intrarea în vigoare la 26.01.2023, după regula de 30 de zile din art. 2. Art. 4 abrogă la intrarea în vigoare C 254-2017. Preambulul ordinului citează explicit art. 10 din Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 3.275/19.12.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263139",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["expertizare-tehnica", "rezistenta-mecanica", "stabilitate", "cladiri", "constructii", "normativ-tehnic", "mdlpa", "c254"]
+}
