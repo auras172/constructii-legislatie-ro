@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-04T15:48:19.443Z",
+  "generated_at": "2026-08-04T17:49:02.252Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add RTC 2-2022 metadata",
+        "feat(metadata): add Ordin MDRAP 233/2016 metadata",
+        "feat(metadata): add RTC 2-2022 metadata (#293)",
         "feat(metadata): add NP 24-2022 metadata (#292)",
         "feat(metadata): add C 254-2022 metadata (#291)",
         "feat(metadata): add NP 123-2022 metadata (#290)",
@@ -459,6 +460,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 83
+    "infrastructure_changes": 84
   }
 }

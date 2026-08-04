@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-04T15:48:09.385Z
+Generated: 2026-08-04T17:49:01.196Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 94 |
+| Total metadata entries | 95 |
 | Full-text acts | 13 |
-| Metadata-only acts | 81 |
-| Import log files | 94 |
-| Total relationship links | 186 |
+| Metadata-only acts | 82 |
+| Import log files | 95 |
+| Total relationship links | 187 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -108,6 +108,7 @@ Generated: 2026-08-04T15:48:09.385Z
 | ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
+| ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -123,7 +124,7 @@ Generated: 2026-08-04T15:48:09.385Z
 | anre | 17 |
 | iscir | 15 |
 | incendiu | 11 |
-| urbanism | 5 |
+| urbanism | 6 |
 | nzeb | 4 |
 | executie | 3 |
 | munca | 3 |
@@ -136,7 +137,7 @@ Generated: 2026-08-04T15:48:09.385Z
 
 | Value | Count |
 | --- | --- |
-| minister | 54 |
+| minister | 55 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -161,6 +162,7 @@ Generated: 2026-08-04T15:48:09.385Z
 | 2000 | 2 |
 | 2001 | 2 |
 | 2004 | 2 |
+| 2016 | 2 |
 | 2019 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
@@ -169,7 +171,6 @@ Generated: 2026-08-04T15:48:09.385Z
 | 2003 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
-| 2016 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
 | 2021 | 1 |
@@ -178,7 +179,7 @@ Generated: 2026-08-04T15:48:09.385Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 81 |
+| metadata-only | 82 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
