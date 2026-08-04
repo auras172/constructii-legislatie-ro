@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T17:49:01.196Z",
+  "generated_at": "2026-08-04T17:58:02.577Z",
   "summary": {
-    "total_metadata_entries": 95,
+    "total_metadata_entries": 96,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 82,
-    "total_import_logs": 95,
-    "total_relationship_links": 187,
+    "total_metadata_only_acts": 83,
+    "total_import_logs": 96,
+    "total_relationship_links": 188,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -830,6 +830,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mdrt-2701-2010",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "oug-17-2026",
       "full_text": false,
       "metadata": true,
@@ -868,7 +877,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 6,
+      "urbanism": 7,
       "executie": 3,
       "calitate": 26,
       "nzeb": 4,
@@ -882,7 +891,7 @@
       "iscir": 15
     },
     "issuers": {
-      "minister": 55,
+      "minister": 56,
       "guvern": 13,
       "parlament": 11,
       "autoritate": 16
@@ -901,7 +910,7 @@
       "2006": 4,
       "2008": 3,
       "2009": 3,
-      "2010": 13,
+      "2010": 14,
       "2011": 1,
       "2013": 6,
       "2015": 1,
@@ -918,7 +927,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 82,
+      "metadata-only": 83,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

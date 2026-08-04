@@ -1,0 +1,39 @@
+{
+  "title": "Ordinul nr. 2.701 din 30 decembrie 2010 pentru aprobarea Metodologiei de informare și consultare a publicului cu privire la elaborarea sau revizuirea planurilor de amenajare a teritoriului și de urbanism",
+  "short_title": "Ordin MDRT 2701/2010",
+  "canonical_citation": "Ordin nr. 2.701/2010",
+  "type": "ordin",
+  "number": "2701",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "urbanism",
+  "topics": ["informare-public", "consultare-public", "planuri-urbanism", "amenajarea-teritoriului", "legea-350-2001"],
+  "status": "partially_repealed",
+  "issue_date": "2010-12-30",
+  "publication_date": "2011-01-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125365",
+  "official_source": "Portal Legislativ — Ordin nr. 2.701/30.12.2010, ID 125365; metodologia aprobată, ID 205649",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/205649",
+  "version": "ordinul și metodologia cu adnotarea oficială că art. 4 a fost abrogat prin Ordinul nr. 835/2014; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, data emiterii 30.12.2010 și publicarea în M.Of. nr. 47/19.01.2011. Preambulul ordinului citează art. 57 și 61 din Legea nr. 350/2001, iar art. 1 din metodologia aprobată confirmă aplicarea art. 61. Art. 4 este marcat oficial ca abrogat prin Art. I din Ordinul nr. 835/30.05.2014, publicat în M.Of. nr. 425/10.06.2014; Ordinul 835/2014 nu este importat. Nu este identificată o clauză distinctă de intrare în vigoare, iar effective_date este omisă. Textul integral al metodologiei nu este importat.",
+  "related_acts": ["lege-350-2001"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.701/2010 citează art. 57 și 61 din Legea nr. 350/2001, iar art. 1 din metodologia aprobată stabilește componentele informării și consultării publicului în conformitate cu art. 61 din aceeași lege.",
+      "source_article": "Preambulul ordinului și art. 1 din metodologie",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205649",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["informare-public", "consultare-public", "planuri-urbanism", "amenajarea-teritoriului", "mdlpa", "ordin-2701-2010"]
+}
