@@ -113,7 +113,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | GP 038-1999 | urbanism | ghid | metadata-only | — | — | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/18070) | [legi/ghid-gp038-1999.md](./legi/ghid-gp038-1999.md) | [metadata/acts/ghid-gp038-1999.json](./metadata/acts/ghid-gp038-1999.json) | Ghid pentru metodologia de elaborare și conținutul-cadru al PUG; aprobat Ordinul MLPAT nr. 13/N/10.03.1999; M.Of. nr. 187/30.04.1999; intră în vigoare la publicare; citează explicit HG 525/1996; status unknown; text nedisponibil în repo |
 | GM 010-2000 | urbanism | ghid | metadata-only | — | — | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/23921) | [legi/ghid-gm010-2000.md](./legi/ghid-gm010-2000.md) | [metadata/acts/ghid-gm010-2000.json](./metadata/acts/ghid-gm010-2000.json) | Ghid pentru metodologia de elaborare și conținutul-cadru al PUZ; aprobat Ordinul MLPAT nr. 176/N/16.08.2000; M.Of. nr. 399/25.08.2000; intră în vigoare la publicare; citează explicit Legea 50/1991 și HG 525/1996; încetează valabilitatea cap. III/C din Ordinul 91/1991; status unknown; text nedisponibil în repo |
 
-**Sumar:** 100 acte urmărite · 13 full-text importate · 87 metadata-only
+**Sumar:** 100 acte urmărite · 14 full-text importate · 86 metadata-only
 
 ---
 
