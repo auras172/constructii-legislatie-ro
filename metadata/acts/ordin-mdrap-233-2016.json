@@ -1,0 +1,41 @@
+{
+  "title": "Ordinul nr. 233/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism",
+  "short_title": "Ordin MDRAP 233/2016",
+  "canonical_citation": "Ordin nr. 233/2016",
+  "type": "ordin",
+  "number": "233",
+  "year": "2016",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "urbanism",
+  "topics": ["urbanism", "norme-metodologice", "documentatii-urbanism", "planuri-mobilitate-urbana", "legea-350-2001"],
+  "status": "active",
+  "issue_date": "2016-02-26",
+  "publication_date": "2016-03-17",
+  "effective_date": "2016-03-17",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2025-11-07",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176682",
+  "official_source": "Portal Legislativ — forma originală ID 176682 și forma consolidată curentă ID 267783; ISC — PDF oficial al Ordinului nr. 233/2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/267783",
+  "version": "forma consolidată Portal Legislativ, cu ultima consolidare afișată la 07.11.2025; textul integral al ordinului și normelor nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, Ordinul nr. 233/26.02.2016, publicarea în M.Of. nr. 199/17.03.2016 și forma consolidată curentă cu istoricul afișat până la 07.11.2025. Art. 1 aprobă normele de aplicare a Legii nr. 350/2001, iar preambulul citează explicit aceeași lege. Data de 17.03.2016 este folosită ca intrare în vigoare conform evidenței oficiale verificate. Statusul active este bazat pe existența formei consolidate curente; nu este adăugată o relație de abrogare sau modificare fără dovadă distinctă. Textul integral nu este importat.",
+  "related_acts": ["lege-350-2001"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism; preambulul citează aceeași lege.",
+      "source_article": "Preambul și art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267783",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["urbanism", "norme-metodologice", "documentatii-urbanism", "planuri-mobilitate-urbana", "mdlpa", "ordin-233-2016"]
+}

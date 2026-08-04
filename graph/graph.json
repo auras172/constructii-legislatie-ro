@@ -726,6 +726,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrap-233-2016",
+      "label": "Ordin MDRAP 233/2016",
+      "type": "ordin",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-17-2026",
       "label": "OUG 17/2026",
       "type": "ordonanta",
@@ -1852,6 +1860,19 @@
       "evidence": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
+      "source": "ordin-mdrap-233-2016",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Art. 1 aprobă Normele metodologice de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism; preambulul citează aceeași lege.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul și art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267783"
+    },
+    {
       "source": "oug-17-2026",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -1947,8 +1968,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 94,
-    "confirmed_edges": 149,
+    "total_nodes": 95,
+    "confirmed_edges": 150,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

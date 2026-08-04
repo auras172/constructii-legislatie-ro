@@ -455,6 +455,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — ordin](https://legislatie.just.ro/Public/DetaliiDocument/23921) + [GM-010-2000](https://legislatie.just.ro/Public/DetaliiDocument/206182) + [MDLPA reglementare29](https://www.mdlpa.ro/pages/reglementare29)
   - Status: unknown · aprobat prin Ordinul MLPAT nr. 176/N/16.08.2000 · publicat în M.Of. nr. 399/25.08.2000 · intră în vigoare la publicare · cap. III/C din Ordinul 91/1991 își încetează valabilitatea
   - Import log: [import-log/2026-08-04-ghid-gm010-2000.md](../import-log/2026-08-04-ghid-gm010-2000.md)
+- [Ordin MDRAP 233/2016](./ordin-mdrap-233-2016.md)
+  - Domain: urbanism · Related: Legea 350/2001 · metadata-only
+  - Official source checked: [Portal Legislativ, original ID 176682](https://legislatie.just.ro/Public/DetaliiDocument/176682) + [forma consolidată ID 267783](https://legislatie.just.ro/Public/DetaliiDocument/267783) + [PDF ISC](https://isc.gov.ro/files/2018/Legislatie/Ordinul%20nr%20233_2016%20Norme%20aplicare%20%20Legiea%20350_2001.pdf)
+  - Status active · Ordinul nr. 233/26.02.2016 · M.Of. nr. 199/17.03.2016 · ultima consolidare afișată 07.11.2025
+  - Import log: [import-log/2026-08-10-ordin-mdrap-233-2016.md](../import-log/2026-08-10-ordin-mdrap-233-2016.md)
 
 ## Naming convention proposal
 
