@@ -358,6 +358,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np123-2022",
+      "label": "NP 123-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np133-2022",
       "label": "Normativ NP 133-2022",
       "type": "normativ",
@@ -1352,6 +1360,19 @@
       "notes": "Relație de temei legal explicit; nu reprezintă o inferență către alte norme de instalații sau apă-canal."
     },
     {
+      "source": "normativ-np123-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.405/14.09.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259494"
+    },
+    {
       "source": "normativ-np133-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1863,8 +1884,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 90,
-    "confirmed_edges": 145,
+    "total_nodes": 91,
+    "confirmed_edges": 146,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

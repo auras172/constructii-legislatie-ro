@@ -1,0 +1,39 @@
+{
+  "title": "Normativ privind proiectarea geotehnică a fundațiilor pe piloți, indicativ NP 123-2022",
+  "short_title": "NP 123-2022",
+  "canonical_citation": "NP 123-2022",
+  "type": "normativ",
+  "number": "2405",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["geotehnic", "fundatii", "piloti", "constructii", "normativ-tehnic", "np123"],
+  "status": "unknown",
+  "issue_date": "2022-09-14",
+  "publication_date": "2022-09-21",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-03",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare3",
+  "official_source": "Portal Legislativ — Ordin nr. 2.405/14.09.2022, ID 259494; MDLPA — Reglementări tehnice, reglementare3",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/259494",
+  "version": "normativ tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, indicativul NP 123-2022, aprobarea prin Ordinul nr. 2.405/14.09.2022, emitentul, publicarea în M.Of. nr. 924 și anexa în nr. 924 bis/21.09.2022 și regula intrării în vigoare la 30 de zile de la publicare. Rezultatul oficial Portal afișează 21.10.2022, iar tabelul MDLPA afișează 22.10.2022 pentru aceeași regulă; data nu este normalizată în acest import. Art. 4 abrogă la intrarea în vigoare NP 123:2010. Preambulul ordinului citează explicit art. 10 din Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.405/14.09.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259494",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-03"
+    }
+  ],
+  "tags": ["geotehnic", "fundatii", "piloti", "constructii", "normativ-tehnic", "mdlpa", "np123"]
+}
