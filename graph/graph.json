@@ -566,6 +566,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-rtc2-2022",
+      "label": "RTC 2-2022",
+      "type": "normativ",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "og-63-2001",
       "label": "OG 63/2001",
       "type": "ordonanta",
@@ -1632,6 +1640,19 @@
       "evidence": "metadata/acts/normativ-rtc12-2022.json"
     },
     {
+      "source": "normativ-rtc2-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 1.447/19.07.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920"
+    },
+    {
       "source": "og-63-2001",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1926,8 +1947,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 93,
-    "confirmed_edges": 148,
+    "total_nodes": 94,
+    "confirmed_edges": 149,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -1,0 +1,40 @@
+{
+  "title": "Normativ privind criterii minime de performanță a corturilor din punctul de vedere al cerinței securitatea la incendiu, indicativ RTC 2-2022",
+  "short_title": "RTC 2-2022",
+  "canonical_citation": "RTC 2-2022",
+  "type": "normativ",
+  "number": "1447",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "incendiu",
+  "topics": ["corturi", "securitate-la-incendiu", "performanta", "constructii", "normativ-tehnic", "rtc2"],
+  "status": "unknown",
+  "issue_date": "2022-07-19",
+  "publication_date": "2022-07-29",
+  "effective_date": "2022-08-28",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://www.mdlpa.ro/pages/reglementare28",
+  "official_source": "Portal Legislativ — Ordin nr. 1.447/19.07.2022, ID 257920; MDLPA — Reglementări tehnice, reglementare28",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920",
+  "version": "normativ tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ și MDLPA confirmă titlul, indicativul RTC 2-2022, aprobarea prin Ordinul nr. 1.447/19.07.2022, emitentul, publicarea în M.Of. nr. 761/29.07.2022 și intrarea în vigoare la 28.08.2022, după regula de 30 de zile din art. 2 și rezultatul oficial Portal. Preambulul ordinului citează explicit art. 10 din Legea nr. 10/1995. Ordinul nu menționează un act înlocuit sau abrogat. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 1.447/19.07.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["corturi", "securitate-la-incendiu", "performanta", "constructii", "normativ-tehnic", "mdlpa", "rtc2"]
+}
