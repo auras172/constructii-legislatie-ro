@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:45:25.177Z",
+  "generated_at": "2026-08-04T21:34:34.186Z",
   "summary": {
-    "total_metadata_entries": 100,
+    "total_metadata_entries": 101,
     "total_full_text_acts": 14,
-    "total_metadata_only_acts": 86,
-    "total_import_logs": 101,
-    "total_relationship_links": 197,
+    "total_metadata_only_acts": 87,
+    "total_import_logs": 102,
+    "total_relationship_links": 198,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -116,6 +116,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "hg-862-2016",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -920,7 +929,7 @@
       "munca": 3,
       "receptie": 2,
       "isc": 2,
-      "incendiu": 11,
+      "incendiu": 12,
       "anre": 18,
       "autorizatii": 3,
       "mediu": 3,
@@ -928,7 +937,7 @@
     },
     "issuers": {
       "minister": 59,
-      "guvern": 13,
+      "guvern": 14,
       "parlament": 11,
       "autoritate": 17
     },
@@ -950,7 +959,7 @@
       "2011": 1,
       "2013": 6,
       "2015": 1,
-      "2016": 2,
+      "2016": 3,
       "2017": 1,
       "2018": 1,
       "2019": 2,
@@ -963,7 +972,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 86,
+      "metadata-only": 87,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

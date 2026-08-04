@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-04T19:45:25.596Z",
+  "generated_at": "2026-08-04T21:34:34.340Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 100,
+    "acts_total": 101,
     "acts_full_text": 14,
-    "acts_metadata_only": 86,
+    "acts_metadata_only": 87,
     "article_anchors_total": 879,
-    "import_logs_total": 101,
+    "import_logs_total": 102,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 157,
+    "confirmed_relationships": 158,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -222,6 +222,19 @@
       "anchor_count": 0,
       "file": "legi/hg-571-2016.md",
       "metadata_file": "metadata/acts/hg-571-2016.json"
+    },
+    {
+      "slug": "hg-862-2016",
+      "title": "Hotărârea Guvernului nr. 862 din 16 noiembrie 2016 pentru aprobarea categoriilor de construcții la care este obligatorie realizarea adăposturilor de protecție civilă, precum și a celor la care se amenajează puncte de comandă de protecție civilă",
+      "short_title": "HG 862/2016",
+      "type": "hotarare",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/hg-862-2016.md",
+      "metadata_file": "metadata/acts/hg-862-2016.json"
     },
     {
       "slug": "hg-90-2008",

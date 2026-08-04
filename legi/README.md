@@ -66,6 +66,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/180921`](https://legislatie.just.ro/Public/DetaliiDocument/180921))
   - Status: active · metadata-only · publicată în M.Of. nr. 628/16.08.2016 · formă consolidată la 30.09.2022 · 7 articles · 2 annexes · abrogă HG 1.739/2006 (neimportată)
   - Import log: [import-log/2026-07-22-hg-571-2016.md](../import-log/2026-07-22-hg-571-2016.md)
+- [HG 862/2016](./hg-862-2016.md)
+  - Domain: incendiu · Related: Legea 481/2004
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/183997`](https://legislatie.just.ro/Public/DetaliiDocument/183997)) + forma imprimabilă ([`/Public/FormaPrintabila/00000G2PVKQPW6B1JTS3J7UXJ1ZMX2QU`](https://legislatie.just.ro/Public/FormaPrintabila/00000G2PVKQPW6B1JTS3J7UXJ1ZMX2QU))
+  - Status: unknown · metadata-only · publicată în M.Of. nr. 955/25.11.2016 · 3 articles · 2 annexes · abrogă HG 560/2005 (neimportată)
+  - Import log: [import-log/2026-08-05-hg-862-2016.md](../import-log/2026-08-05-hg-862-2016.md)
 - [Ordin MAI 180/2022](./ordin-mai-180-2022.md)
   - Domain: incendiu · Implements: Legea 307/2006, Legea 481/2004 · Related: HG 571/2016, Legea 10/1995, Legea 50/1991
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocumentAfis/263451`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451)) + Norme anexă ([`/Public/DetaliiDocumentAfis/263452`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/263452))

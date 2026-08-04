@@ -1,0 +1,54 @@
+{
+  "title": "Hotărârea Guvernului nr. 862 din 16 noiembrie 2016 pentru aprobarea categoriilor de construcții la care este obligatorie realizarea adăposturilor de protecție civilă, precum și a celor la care se amenajează puncte de comandă de protecție civilă",
+  "short_title": "HG 862/2016",
+  "canonical_citation": "HG nr. 862/2016",
+  "type": "hotarare",
+  "number": "862",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "incendiu",
+  "topics": [
+    "protectie-civila",
+    "adaposturi-protectie-civila",
+    "puncte-de-comanda",
+    "constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-11-16",
+  "publication_date": "2016-11-25",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183997",
+  "official_source": "Portal Legislativ — HG 862/2016; Monitorul Oficial al României, Partea I, nr. 955 din 25 noiembrie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2PVKQPW6B1JTS3J7UXJ1ZMX2QU",
+  "version_kind": "original",
+  "version": "Forma originală a actului; art. 2 abrogă HG 560/2005 la data intrării în vigoare",
+  "article_count": 3,
+  "annex_count": 2,
+  "last_checked": "2026-08-05",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, data emiterii și publicarea în Monitorul Oficial nr. 955/25.11.2016. Art. 1 aprobă categoriile de construcții pentru care sunt obligatorii adăposturile și punctele de comandă de protecție civilă, prevăzute în anexele nr. 1 și nr. 2. Preambulul citează art. 45 alin. (4) din Legea nr. 481/2004. Art. 2 abrogă HG 560/2005, act extern neimportat. Data intrării în vigoare nu este explicită și este omisă. Textul legal și anexele nu sunt importate în repository.",
+  "related_acts": [
+    "lege-481-2004"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-481-2004",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG 862/2016 citează art. 45 alin. (4) din Legea nr. 481/2004 privind protecția civilă.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183997",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-05"
+    }
+  ],
+  "tags": [
+    "protectie-civila",
+    "adaposturi-protectie-civila",
+    "puncte-de-comanda",
+    "constructii",
+    "hotarare-guvern"
+  ]
+}

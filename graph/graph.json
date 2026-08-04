@@ -102,6 +102,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-862-2016",
+      "label": "HG 862/2016",
+      "type": "hotarare",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-90-2008",
       "label": "HG 90/2008",
       "type": "hotarare",
@@ -1002,6 +1010,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-571-2016.json"
+    },
+    {
+      "source": "hg-862-2016",
+      "target": "lege-481-2004",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul HG 862/2016 citează art. 45 alin. (4) din Legea nr. 481/2004 privind protecția civilă.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-05",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183997"
     },
     {
       "source": "hg-90-2008",
@@ -2087,8 +2108,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 100,
-    "confirmed_edges": 157,
+    "total_nodes": 101,
+    "confirmed_edges": 158,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
