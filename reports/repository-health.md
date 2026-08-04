@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-04T18:05:20.064Z
+Generated: 2026-08-04T18:16:52.042Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 97 |
+| Total metadata entries | 98 |
 | Full-text acts | 13 |
-| Metadata-only acts | 84 |
-| Import log files | 97 |
-| Total relationship links | 191 |
+| Metadata-only acts | 85 |
+| Import log files | 98 |
+| Total relationship links | 194 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -99,8 +99,9 @@ Generated: 2026-08-04T18:05:20.064Z
 | ordin-anre-20-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-22-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-45-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 15 | ✓ |
+| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 16 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -123,7 +124,7 @@ Generated: 2026-08-04T18:05:20.064Z
 | Value | Count |
 | --- | --- |
 | calitate | 26 |
-| anre | 17 |
+| anre | 18 |
 | iscir | 15 |
 | incendiu | 11 |
 | urbanism | 8 |
@@ -140,7 +141,7 @@ Generated: 2026-08-04T18:05:20.064Z
 | Value | Count |
 | --- | --- |
 | minister | 57 |
-| autoritate | 16 |
+| autoritate | 17 |
 | guvern | 13 |
 | parlament | 11 |
 
@@ -166,6 +167,7 @@ Generated: 2026-08-04T18:05:20.064Z
 | 2004 | 2 |
 | 2016 | 2 |
 | 2019 | 2 |
+| 2021 | 2 |
 | 1991 | 1 |
 | 1995 | 1 |
 | 1996 | 1 |
@@ -175,13 +177,12 @@ Generated: 2026-08-04T18:05:20.064Z
 | 2015 | 1 |
 | 2017 | 1 |
 | 2018 | 1 |
-| 2021 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 84 |
+| metadata-only | 85 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

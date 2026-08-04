@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:05:20.064Z",
+  "generated_at": "2026-08-04T18:16:52.042Z",
   "summary": {
-    "total_metadata_entries": 97,
+    "total_metadata_entries": 98,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 84,
-    "total_import_logs": 97,
-    "total_relationship_links": 191,
+    "total_metadata_only_acts": 85,
+    "total_import_logs": 98,
+    "total_relationship_links": 194,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -740,6 +740,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-45-2021",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-anre-53-2024",
       "full_text": false,
       "metadata": true,
@@ -754,7 +763,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 15,
+      "relationships": 16,
       "provenance": true
     },
     {
@@ -894,7 +903,7 @@
       "receptie": 2,
       "isc": 2,
       "incendiu": 11,
-      "anre": 17,
+      "anre": 18,
       "autorizatii": 3,
       "mediu": 3,
       "iscir": 15
@@ -903,7 +912,7 @@
       "minister": 57,
       "guvern": 13,
       "parlament": 11,
-      "autoritate": 16
+      "autoritate": 17
     },
     "publication_years": {
       "1991": 1,
@@ -928,7 +937,7 @@
       "2018": 1,
       "2019": 2,
       "2020": 3,
-      "2021": 1,
+      "2021": 2,
       "2022": 14,
       "2023": 12,
       "2024": 3,
@@ -936,7 +945,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 84,
+      "metadata-only": 85,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
