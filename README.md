@@ -9,7 +9,7 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix. Internatio
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [73](./INDEX.md) | 13 | 60 | [100/100](./reports/repository-health.md) | [MIT](./LICENSE) | [v1](./ocki-manifest.json) |
+| [100](./INDEX.md) | 14 | 86 | [100/100](./reports/repository-health.md) | [MIT](./LICENSE) | [v1](./ocki-manifest.json) |
 
 ## The Problem
 
