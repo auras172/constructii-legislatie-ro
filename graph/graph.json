@@ -734,6 +734,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-2701-2010",
+      "label": "Ordin MDRT 2701/2010",
+      "type": "ordin",
+      "domain": "urbanism",
+      "status": "partially_repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-17-2026",
       "label": "OUG 17/2026",
       "type": "ordonanta",
@@ -1873,6 +1881,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267783"
     },
     {
+      "source": "ordin-mdrt-2701-2010",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.701/2010 citează art. 57 și 61 din Legea nr. 350/2001, iar art. 1 din metodologia aprobată stabilește componentele informării și consultării publicului în conformitate cu art. 61 din aceeași lege.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambulul ordinului și art. 1 din metodologie",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205649"
+    },
+    {
       "source": "oug-17-2026",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -1968,8 +1989,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 95,
-    "confirmed_edges": 150,
+    "total_nodes": 96,
+    "confirmed_edges": 151,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
