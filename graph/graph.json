@@ -382,6 +382,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np24-2022",
+      "label": "NP 24-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-ntpa002-2002",
       "label": "NTPA-002/2002",
       "type": "normativ",
@@ -1408,6 +1416,19 @@
       "evidence": "metadata/acts/normativ-np133-2022.json"
     },
     {
+      "source": "normativ-np24-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 172/01.02.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264676"
+    },
+    {
       "source": "normativ-ntpa002-2002",
       "target": "normativ-np133-2022",
       "relationship": "related",
@@ -1905,8 +1926,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 92,
-    "confirmed_edges": 147,
+    "total_nodes": 93,
+    "confirmed_edges": 148,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

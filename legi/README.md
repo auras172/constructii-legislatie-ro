@@ -380,6 +380,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — Ordinul nr. 3.275/19.12.2022](https://legislatie.just.ro/Public/DetaliiDocument/263139); MDLPA ([reglementare1](https://www.mdlpa.ro/pages/reglementare1))
   - Status: unknown · metadata-only · publicat în M.Of. nr. 1255 și 1255 bis/27.12.2022 · intră în vigoare 26.01.2023 · abrogă C 254-2017
   - Import log: [import-log/2026-08-07-normativ-c254-2022.md](../import-log/2026-08-07-normativ-c254-2022.md)
+- [Normativ NP 24-2022](./normativ-np24-2022.md)
+  - Domain: calitate (parcaje) · Related: Legea 10/1995
+  - Official source checked: [Portal Legislativ — Ordinul nr. 172/01.02.2023](https://legislatie.just.ro/Public/DetaliiDocument/264676) și reglementarea tehnică [ID 264751](https://legislatie.just.ro/Public/DetaliiDocument/264751); MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 110 și 110 bis/08.02.2023 · intră în vigoare 10.03.2023 · încetează aplicabilitatea NP 24-1997 și a unor prevederi din Ordinul nr. 10/N/1993
+  - Import log: [import-log/2026-08-08-normativ-np24-2022.md](../import-log/2026-08-08-normativ-np24-2022.md)
 - [Normativ GE 027-2023](./normativ-ge027-2023.md)
   - Domain: executie (construcții hidrotehnice) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare19](https://www.mdlpa.ro/pages/reglementare19)) și [Portal Legislativ — Ordinul nr. 2.230/17.10.2023](https://legislatie.just.ro/Public/DetaliiDocument/276300)
