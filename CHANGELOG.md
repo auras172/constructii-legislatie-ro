@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 862/2016 civil protection categories
+- feat(metadata): add Ordin MDLPA 2837/2022 metadata (#299)
 - feat(metadata): add Ordin MDLPA 205/2023 metadata (#298)
 - feat(metadata): add Ordin ANRE 45/2021 metadata (#297)
 - feat(metadata): add Ordin MDLPA 904/2023 metadata (#296)
@@ -39,9 +41,15 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: align status after ANRE 59 full-text import
+- docs: refresh repository status at 100 acts
 - docs: refresh status after OUG 31 import (#267)
 
 ### Other
+- Merge pull request #304 from auras172/codex/status-after-anre59-v2
+- Merge pull request #302 from auras172/codex/status-refresh-100-v2
+- Merge pull request #301 from auras172/codex/fulltext-ordin-anre-59-2013
+- feat(fulltext): import Ordin ANRE 59/2013 official text
 - chore(ci): restrict workflow token permissions (#272)
 - chore(deps): fix remaining site Dependabot alerts (#271)
 - chore(deps): bump next (#263)
