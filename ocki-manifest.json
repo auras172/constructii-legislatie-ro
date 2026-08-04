@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-04T19:16:26.645Z",
+  "generated_at": "2026-08-04T19:45:25.596Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 100,
-    "acts_full_text": 13,
-    "acts_metadata_only": 87,
-    "article_anchors_total": 799,
-    "import_logs_total": 100,
+    "acts_full_text": 14,
+    "acts_metadata_only": 86,
+    "article_anchors_total": 879,
+    "import_logs_total": 101,
     "domains": [
       "anre",
       "autorizatii",
@@ -1153,9 +1153,9 @@
       "type": "ordin",
       "domain": "anre",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 80,
+      "anchor_count": 80,
       "file": "legi/ordin-anre-59-2013.md",
       "metadata_file": "metadata/acts/ordin-anre-59-2013.json"
     },
