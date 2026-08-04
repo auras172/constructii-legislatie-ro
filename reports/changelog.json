@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-04T17:58:15.644Z",
+  "generated_at": "2026-08-04T18:05:35.954Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add Ordin MDRT 2701/2010 metadata",
+        "feat(metadata): add Ordin MDLPA 904/2023 metadata",
+        "feat(metadata): add Ordin MDRT 2701/2010 metadata (#295)",
         "feat(metadata): add Ordin MDRAP 233/2016 metadata (#294)",
         "feat(metadata): add RTC 2-2022 metadata (#293)",
         "feat(metadata): add NP 24-2022 metadata (#292)",
@@ -461,6 +462,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 85
+    "infrastructure_changes": 86
   }
 }

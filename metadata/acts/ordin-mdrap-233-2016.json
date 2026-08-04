@@ -24,6 +24,7 @@
   "import_method": "metadata-only",
   "rights_note": "Portalul Legislativ confirmă titlul, emitentul, Ordinul nr. 233/26.02.2016, publicarea în M.Of. nr. 199/17.03.2016 și forma consolidată curentă cu istoricul afișat până la 07.11.2025. Art. 1 aprobă normele de aplicare a Legii nr. 350/2001, iar preambulul citează explicit aceeași lege. Data de 17.03.2016 este folosită ca intrare în vigoare conform evidenței oficiale verificate. Statusul active este bazat pe existența formei consolidate curente; nu este adăugată o relație de abrogare sau modificare fără dovadă distinctă. Textul integral nu este importat.",
   "related_acts": ["lege-350-2001"],
+  "amended_by": ["ordin-mdlpa-904-2023"],
   "relationships": [
     {
       "type": "related_to",
