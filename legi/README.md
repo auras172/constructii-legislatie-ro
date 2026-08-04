@@ -480,6 +480,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, ID 265149](https://legislatie.just.ro/Public/DetaliiDocumentAfis/265149)
   - Status active · Ordinul nr. 205/09.02.2023 · M.Of. nr. 137/17.02.2023 · intră în vigoare 17.02.2023 · modifică și completează explicit NP 061/2002, referință externă
   - Import log: [import-log/2026-08-14-ordin-mdlpa-205-2023.md](../import-log/2026-08-14-ordin-mdlpa-205-2023.md)
+- [Ordin MDLPA 2837/2022](./ordin-mdlpa-2837-2022.md)
+  - Domain: calitate · Related: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, ID 261593](https://legislatie.just.ro/Public/DetaliiDocument/261593) + [MDLPA reglementare28](https://www.mdlpa.ro/pages/reglementare28)
+  - Status active · Ordinul nr. 2.837/02.11.2022 · M.Of. nr. 1125/22.11.2022 · intră în vigoare 22.12.2022 · modifică și completează explicit NP 062/2002, referință externă
+  - Import log: [import-log/2026-08-15-ordin-mdlpa-2837-2022.md](../import-log/2026-08-15-ordin-mdlpa-2837-2022.md)
 
 ## Naming convention proposal
 

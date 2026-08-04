@@ -1,0 +1,40 @@
+{
+  "title": "Ordinul nr. 2.837 din 2 noiembrie 2022 privind modificarea și completarea reglementării tehnice \"Normativ pentru proiectarea sistemelor de iluminat rutier și pietonal, indicativ NP 062/2002\", aprobată prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 938/2002",
+  "short_title": "Ordin MDLPA 2837/2022",
+  "canonical_citation": "Ordin nr. 2.837/2022",
+  "type": "ordin",
+  "number": "2837",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["iluminat", "iluminat-rutier", "iluminat-pietonal", "infrastructura", "normativ-tehnic", "mdlpa", "amendament"],
+  "status": "active",
+  "issue_date": "2022-11-02",
+  "publication_date": "2022-11-22",
+  "effective_date": "2022-12-22",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593",
+  "official_source": "Portal Legislativ — Ordin nr. 2.837/02.11.2022, ID 261593; MDLPA — reglementare28; Monitorul Oficial nr. 1125/22.11.2022",
+  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare28",
+  "version": "ordin de modificare și completare a reglementării tehnice NP 062/2002; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, emitentul, data emiterii 02.11.2022 și publicarea în Monitorul Oficial nr. 1125/22.11.2022. Art. I prevede explicit modificarea și completarea reglementării tehnice Normativ pentru proiectarea sistemelor de iluminat rutier și pietonal, indicativ NP 062/2002, aprobată prin Ordinul nr. 938/2002. Art. III prevede intrarea în vigoare la 30 de zile de la publicare, respectiv 22.12.2022. Preambulul citează art. 10 din Legea nr. 10/1995. Ordinul nr. 938/2002 și NP 062/2002 sunt referințe externe; nu se creează noduri pentru ele în acest import. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.837/2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["iluminat", "iluminat-rutier", "iluminat-pietonal", "infrastructura", "normativ-tehnic", "mdlpa", "ordin-2837-2022"]
+}
