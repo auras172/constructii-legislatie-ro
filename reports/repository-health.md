@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-04T19:16:26.483Z
+Generated: 2026-08-04T19:45:25.177Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 100 |
-| Full-text acts | 13 |
-| Metadata-only acts | 87 |
-| Import log files | 100 |
+| Full-text acts | 14 |
+| Metadata-only acts | 86 |
+| Import log files | 101 |
 | Total relationship links | 197 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
@@ -101,7 +101,7 @@ Generated: 2026-08-04T19:16:26.483Z
 | ordin-anre-4-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-45-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-53-2024 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-anre-59-2013 | ✗ | ✓ | ✓ | — | 16 | ✓ |
+| ordin-anre-59-2013 | ✓ | ✓ | ✓ | ✓ | 16 | ✓ |
 | ordin-anre-60-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -184,7 +184,7 @@ Generated: 2026-08-04T19:16:26.483Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 87 |
+| metadata-only | 86 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
@@ -193,6 +193,7 @@ Generated: 2026-08-04T19:16:26.483Z
 | Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | printable HTML → Markdown | 1 |
 | Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat | 1 |
+| Portal Legislativ forma consolidată (ORDIN + REGULAMENT) → browser-rendered HTML → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | full-text | 1 |
 
