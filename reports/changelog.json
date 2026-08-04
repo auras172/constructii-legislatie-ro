@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-04T15:37:06.038Z",
+  "generated_at": "2026-08-04T15:48:19.443Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add NP 24-2022 metadata",
+        "feat(metadata): add RTC 2-2022 metadata",
+        "feat(metadata): add NP 24-2022 metadata (#292)",
         "feat(metadata): add C 254-2022 metadata (#291)",
         "feat(metadata): add NP 123-2022 metadata (#290)",
         "feat(metadata): add NP 074-2022 metadata (#289)",
@@ -458,6 +459,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 82
+    "infrastructure_changes": 83
   }
 }
