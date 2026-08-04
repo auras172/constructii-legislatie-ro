@@ -465,6 +465,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, Ordin ID 125365](https://legislatie.just.ro/Public/DetaliiDocument/125365) + [metodologie ID 205649](https://legislatie.just.ro/Public/DetaliiDocument/205649)
   - Status partially_repealed · Ordinul nr. 2.701/30.12.2010 · M.Of. nr. 47/19.01.2011 · art. 4 abrogat prin Ordinul nr. 835/30.05.2014 · effective_date omisă
   - Import log: [import-log/2026-08-11-ordin-mdrt-2701-2010.md](../import-log/2026-08-11-ordin-mdrt-2701-2010.md)
+- [Ordin MDLPA 904/2023](./ordin-mdlpa-904-2023.md)
+  - Domain: urbanism · Related: Ordin MDRAP 233/2016 · metadata-only
+  - Official source checked: [Portal Legislativ, ID 270781](https://legislatie.just.ro/Public/DetaliiDocument/270781) + [MDLPA](https://www.mdlpa.ro/pages/normetehnicepatjdocumentatiiurbanism) + [PDF oficial](https://www.mdlpa.ro/uploads/articole/attachments/6762a8a1a91b8796660933.pdf)
+  - Status active · Ordinul nr. 904/15.05.2023 · M.Of. nr. 470/29.05.2023 · modifică explicit Ordinul 233/2016 · effective_date omisă
+  - Import log: [import-log/2026-08-12-ordin-mdlpa-904-2023.md](../import-log/2026-08-12-ordin-mdlpa-904-2023.md)
 
 ## Naming convention proposal
 

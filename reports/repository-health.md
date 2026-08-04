@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-04T17:58:02.577Z
+Generated: 2026-08-04T18:05:20.064Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 96 |
+| Total metadata entries | 97 |
 | Full-text acts | 13 |
-| Metadata-only acts | 83 |
-| Import log files | 96 |
-| Total relationship links | 188 |
+| Metadata-only acts | 84 |
+| Import log files | 97 |
+| Total relationship links | 191 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -108,7 +108,8 @@ Generated: 2026-08-04T17:58:02.577Z
 | ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
-| ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -125,7 +126,7 @@ Generated: 2026-08-04T17:58:02.577Z
 | anre | 17 |
 | iscir | 15 |
 | incendiu | 11 |
-| urbanism | 7 |
+| urbanism | 8 |
 | nzeb | 4 |
 | executie | 3 |
 | munca | 3 |
@@ -138,7 +139,7 @@ Generated: 2026-08-04T17:58:02.577Z
 
 | Value | Count |
 | --- | --- |
-| minister | 56 |
+| minister | 57 |
 | autoritate | 16 |
 | guvern | 13 |
 | parlament | 11 |
@@ -149,7 +150,7 @@ Generated: 2026-08-04T17:58:02.577Z
 | --- | --- |
 | 2010 | 14 |
 | 2022 | 14 |
-| 2023 | 11 |
+| 2023 | 12 |
 | 2013 | 6 |
 | 2025 | 6 |
 | 2006 | 4 |
@@ -180,7 +181,7 @@ Generated: 2026-08-04T17:58:02.577Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 83 |
+| metadata-only | 84 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

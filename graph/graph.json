@@ -726,6 +726,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-904-2023",
+      "label": "Ordin MDLPA 904/2023",
+      "type": "ordin",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrap-233-2016",
       "label": "Ordin MDRAP 233/2016",
       "type": "ordin",
@@ -1868,6 +1876,26 @@
       "evidence": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
+      "source": "ordin-mdlpa-904-2023",
+      "target": "ordin-mdrap-233-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 350/2001, aprobate prin Ordinul nr. 233/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270781"
+    },
+    {
+      "source": "ordin-mdlpa-904-2023",
+      "target": "ordin-mdrap-233-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-904-2023.json"
+    },
+    {
       "source": "ordin-mdrap-233-2016",
       "target": "lege-350-2001",
       "relationship": "related",
@@ -1989,8 +2017,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 96,
-    "confirmed_edges": 151,
+    "total_nodes": 97,
+    "confirmed_edges": 153,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -1,0 +1,40 @@
+{
+  "title": "Ordinul nr. 904 din 15 mai 2023 privind modificarea și completarea Normelor metodologice de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 233/2016",
+  "short_title": "Ordin MDLPA 904/2023",
+  "canonical_citation": "Ordin nr. 904/2023",
+  "type": "ordin",
+  "number": "904",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "urbanism",
+  "topics": ["urbanism", "documentatii-urbanism", "date-spatiale", "gis", "legea-350-2001"],
+  "status": "active",
+  "issue_date": "2023-05-15",
+  "publication_date": "2023-05-29",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-04",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270781",
+  "official_source": "Portal Legislativ — Ordin nr. 904/15.05.2023, ID 270781; MDLPA — pagina oficială și PDF-ul Ordinului nr. 904/2023",
+  "official_detail_url": "https://www.mdlpa.ro/pages/normetehnicepatjdocumentatiiurbanism",
+  "version": "ordin original; modifică și completează explicit Normele metodologice aprobate prin Ordinul nr. 233/2016; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, emitentul, data emiterii 15.05.2023 și publicarea în M.Of. nr. 470/29.05.2023. Art. I prevede explicit că Normele metodologice aprobate prin Ordinul nr. 233/2016 se modifică și se completează, inclusiv prin modificarea art. 8 alin. (2), art. 17 alin. (5), art. 18 alin. (9), art. 19 alin. (4) și art. 44. Preambulul citează art. 15 lit. b) și art. 48^1 alin. (1) și (4) din Legea nr. 350/2001. Art. III prevede publicarea, fără o dată distinctă de intrare în vigoare; effective_date este omisă. Textul integral nu este importat.",
+  "related_acts": ["ordin-mdrap-233-2016"],
+  "amends": ["ordin-mdrap-233-2016"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdrap-233-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 350/2001, aprobate prin Ordinul nr. 233/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270781",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04"
+    }
+  ],
+  "tags": ["urbanism", "documentatii-urbanism", "date-spatiale", "gis", "mdlpa", "ordin-904-2023"]
+}

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T17:58:02.577Z",
+  "generated_at": "2026-08-04T18:05:20.064Z",
   "summary": {
-    "total_metadata_entries": 96,
+    "total_metadata_entries": 97,
     "total_full_text_acts": 13,
-    "total_metadata_only_acts": 83,
-    "total_import_logs": 96,
-    "total_relationship_links": 188,
+    "total_metadata_only_acts": 84,
+    "total_import_logs": 97,
+    "total_relationship_links": 191,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -821,12 +821,21 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mdlpa-904-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mdrap-233-2016",
       "full_text": false,
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 1,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -877,7 +886,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 7,
+      "urbanism": 8,
       "executie": 3,
       "calitate": 26,
       "nzeb": 4,
@@ -891,7 +900,7 @@
       "iscir": 15
     },
     "issuers": {
-      "minister": 56,
+      "minister": 57,
       "guvern": 13,
       "parlament": 11,
       "autoritate": 16
@@ -921,13 +930,13 @@
       "2020": 3,
       "2021": 1,
       "2022": 14,
-      "2023": 11,
+      "2023": 12,
       "2024": 3,
       "2025": 6,
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 83,
+      "metadata-only": 84,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
