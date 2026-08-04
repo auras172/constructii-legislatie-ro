@@ -206,6 +206,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-c254-2022",
+      "label": "C 254-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-cr2-1-1-1-2022",
       "label": "CR 2-1-1.1/2022",
       "type": "normativ",
@@ -1162,6 +1170,19 @@
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
     },
     {
+      "source": "normativ-c254-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 3.275/19.12.2022 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-04",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263139"
+    },
+    {
       "source": "normativ-cr2-1-1-1-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -1884,8 +1905,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 91,
-    "confirmed_edges": 146,
+    "total_nodes": 92,
+    "confirmed_edges": 147,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
