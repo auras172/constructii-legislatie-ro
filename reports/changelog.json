@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T18:17:08.244Z",
+  "generated_at": "2026-08-04T19:10:08.909Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
-        "feat(metadata): add Ordin ANRE 45/2021 metadata",
+        "feat(metadata): add Ordin ANRE 45/2021 metadata (#297)",
         "feat(metadata): add Ordin MDLPA 904/2023 metadata (#296)",
         "feat(metadata): add Ordin MDRT 2701/2010 metadata (#295)",
         "feat(metadata): add Ordin MDRAP 233/2016 metadata (#294)",
