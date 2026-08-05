@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T19:04:56.781Z",
+  "generated_at": "2026-08-05T19:33:02.286Z",
   "summary": {
-    "total_metadata_entries": 104,
+    "total_metadata_entries": 105,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 89,
-    "total_import_logs": 105,
-    "total_relationship_links": 201,
+    "total_metadata_only_acts": 90,
+    "total_import_logs": 106,
+    "total_relationship_links": 202,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -71,6 +71,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 3,
+      "provenance": true
+    },
+    {
+      "slug": "ghid-rtc7-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -951,7 +960,7 @@
     "domains": {
       "urbanism": 8,
       "executie": 3,
-      "calitate": 31,
+      "calitate": 32,
       "nzeb": 4,
       "munca": 3,
       "receptie": 2,
@@ -963,7 +972,7 @@
       "iscir": 15
     },
     "issuers": {
-      "minister": 61,
+      "minister": 62,
       "guvern": 15,
       "parlament": 11,
       "autoritate": 17
@@ -993,13 +1002,13 @@
       "2020": 3,
       "2021": 2,
       "2022": 15,
-      "2023": 14,
+      "2023": 15,
       "2024": 4,
       "2025": 6,
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 89,
+      "metadata-only": 90,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
