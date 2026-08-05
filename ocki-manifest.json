@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-05T19:04:57.420Z",
+  "generated_at": "2026-08-05T19:33:03.175Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 104,
+    "acts_total": 105,
     "acts_full_text": 15,
-    "acts_metadata_only": 89,
+    "acts_metadata_only": 90,
     "article_anchors_total": 881,
-    "import_logs_total": 105,
+    "import_logs_total": 106,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 161,
+    "confirmed_relationships": 162,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -157,6 +157,19 @@
       "anchor_count": 0,
       "file": "legi/ghid-rtc4-2022.md",
       "metadata_file": "metadata/acts/ghid-rtc4-2022.json"
+    },
+    {
+      "slug": "ghid-rtc7-2022",
+      "title": "Ghid privind metodele de prevenire și control al pătrunderii radonului în clădirile noi, indicativ RTC 7-2022",
+      "short_title": "RTC 7-2022",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ghid-rtc7-2022.md",
+      "metadata_file": "metadata/acts/ghid-rtc7-2022.json"
     },
     {
       "slug": "ghid-rtc8-2022",

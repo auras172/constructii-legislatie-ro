@@ -1,0 +1,40 @@
+{
+  "title": "Ghid privind metodele de prevenire și control al pătrunderii radonului în clădirile noi, indicativ RTC 7-2022",
+  "short_title": "RTC 7-2022",
+  "canonical_citation": "RTC 7-2022",
+  "type": "ghid",
+  "number": "2223",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["radon", "clădiri-noi", "securitate-sănătate", "ghid", "rtc7"],
+  "status": "unknown",
+  "issue_date": "2023-10-13",
+  "publication_date": "2023-10-26",
+  "effective_date": "2023-11-25",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-05",
+  "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275721",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.223/13.10.2023, publicat în M.Of. nr. 973 și 973 bis/26.10.2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275792",
+  "version": "ghid tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, indicativul, emitentul, aprobarea și publicarea. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2023-11-25 este derivată din această regulă. Art. 3 aplică măsurile de protecție la radon la proiectarea și execuția clădirilor noi. Preambulul citează explicit art. 10 din Legea nr. 10/1995. Ordinul CNCAN nr. 153/2023 este documentat ca referință externă, absentă din repository. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.223/2023 citează explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275721",
+      "evidence_path": "import-log/2026-08-06-ghid-rtc7-2022.md",
+      "notes": "Structured annotation for the existing related_acts edge; no topic-only relationships are added."
+    }
+  ],
+  "tags": ["radon", "clădiri-noi", "securitate-sănătate", "ghid-tehnic", "mdlpa", "rtc7"]
+}
