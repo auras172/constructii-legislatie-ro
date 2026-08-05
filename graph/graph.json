@@ -30,6 +30,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-rtc13-2024",
+      "label": "RTC 13-2024",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc15-2025",
       "label": "RTC 15-2025",
       "type": "ghid",
@@ -868,6 +876,18 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ghid-rtc11-2022.json"
+    },
+    {
+      "source": "ghid-rtc13-2024",
+      "target": "normativ-ne012-1-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Înregistrarea oficială pentru RTC 13-2024 precizează că ghidul detaliază și se aplică împreună cu NE 012/1-2022.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404",
+      "evidence_path": "import-log/2026-08-06-ghid-rtc13-2024.md",
+      "notes": "Structured annotation for the existing related_acts edge; no stronger implements relation is asserted."
     },
     {
       "source": "ghid-rtc15-2025",
@@ -2129,8 +2149,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 102,
-    "confirmed_edges": 159,
+    "total_nodes": 103,
+    "confirmed_edges": 160,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
