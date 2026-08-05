@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T17:00:22.570Z",
+  "generated_at": "2026-08-05T19:04:56.781Z",
   "summary": {
     "total_metadata_entries": 104,
-    "total_full_text_acts": 14,
-    "total_metadata_only_acts": 90,
+    "total_full_text_acts": 15,
+    "total_metadata_only_acts": 89,
     "total_import_logs": 105,
     "total_relationship_links": 201,
     "total_unique_domains": 12,
@@ -39,10 +39,10 @@
     },
     {
       "slug": "ghid-rtc13-2024",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 1,
       "provenance": true
     },
@@ -999,7 +999,8 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 90,
+      "metadata-only": 89,
+      "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,

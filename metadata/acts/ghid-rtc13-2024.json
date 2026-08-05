@@ -19,9 +19,11 @@
   "source_url": "https://legislatie.just.ro/public/DetaliiDocument/286606",
   "official_source": "Portal Legislativ — Ordinul nr. 2.748/24.07.2024, publicat în M.Of. nr. 774 și 774 bis/07.08.2024",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404",
-  "version": "ghid tehnic original; textul integral nu este importat",
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă identitatea, aprobarea și publicarea. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2024-09-06 este derivată din această regulă. Înregistrarea tehnică oficială precizează că RTC 13-2024 detaliază și se aplică împreună cu NE 012/1-2022. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "version": "Ordin + anexă tehnică RTC 13-2024; text extras mecanic din formele oficiale Portal Legislativ",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat",
+  "rights_note": "Textul oficial este reprodus mecanic din Portal Legislativ pentru referință; sursa oficială rămâne Portal Legislativ și Monitorul Oficial. Data de 2024-09-06 este derivată din clauza de 30 de zile prevăzută la art. 2.",
   "related_acts": ["normativ-ne012-1-2022"],
   "relationships": [
     {

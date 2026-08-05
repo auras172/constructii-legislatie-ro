@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-05T17:00:22.657Z",
+  "generated_at": "2026-08-05T19:04:57.420Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 104,
-    "acts_full_text": 14,
-    "acts_metadata_only": 90,
-    "article_anchors_total": 879,
+    "acts_full_text": 15,
+    "acts_metadata_only": 89,
+    "article_anchors_total": 881,
     "import_logs_total": 105,
     "domains": [
       "anre",
@@ -113,9 +113,9 @@
       "type": "ghid",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 2,
+      "anchor_count": 2,
       "file": "legi/ghid-rtc13-2024.md",
       "metadata_file": "metadata/acts/ghid-rtc13-2024.json"
     },
