@@ -304,6 +304,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate (beton, compoziție și performanță) · Related: NE 012/1-2022
   - Official source checked: Portal Legislativ ([DetaliiDocument/286606](https://legislatie.just.ro/public/DetaliiDocument/286606)); reglementarea tehnică ([DetaliiDocumentAfis/287404](https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404)) confirmă aplicarea împreună cu NE 012/1-2022
   - Status: unknown · metadata-only · aprobat prin Ordinul nr. 2748/24.07.2024 · publicat în M.Of. nr. 774 și 774 bis/07.08.2024 · intră în vigoare 06.09.2024
+- [RTC 8-2022](./ghid-rtc8-2022.md)
+  - Domain: calitate (BIM, investiții publice) · Related: Legea 10/1995
+  - Official source checked: Portal Legislativ ([DetaliiDocument/275502](https://legislatie.just.ro/public/DetaliiDocument/275502)); reglementarea tehnică ([DetaliiDocumentAfis/275656](https://legislatie.just.ro/Public/DetaliiDocumentAfis/275656))
+  - Status: unknown · metadata-only · aprobat prin Ordinul nr. 2221/13.10.2023 · publicat în M.Of. nr. 950 și 950 bis/20.10.2023 · intră în vigoare 19.11.2023
 - [RTC 15-2025](./ghid-rtc15-2025.md)
   - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
 - [RTC 11-2022](./ghid-rtc11-2022.md)
