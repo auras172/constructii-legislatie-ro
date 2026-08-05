@@ -1,0 +1,39 @@
+{
+  "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
+  "short_title": "RTC 13-2024",
+  "canonical_citation": "RTC 13-2024",
+  "type": "ghid",
+  "number": "2748",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["beton", "compoziție-beton", "performanță", "ghid", "rtc13"],
+  "status": "unknown",
+  "issue_date": "2024-07-24",
+  "publication_date": "2024-08-07",
+  "effective_date": "2024-09-06",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-05",
+  "source_url": "https://legislatie.just.ro/public/DetaliiDocument/286606",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.748/24.07.2024, publicat în M.Of. nr. 774 și 774 bis/07.08.2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404",
+  "version": "ghid tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă identitatea, aprobarea și publicarea. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2024-09-06 este derivată din această regulă. Înregistrarea tehnică oficială precizează că RTC 13-2024 detaliază și se aplică împreună cu NE 012/1-2022. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["normativ-ne012-1-2022"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "normativ-ne012-1-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Înregistrarea oficială pentru RTC 13-2024 precizează că ghidul detaliază și se aplică împreună cu NE 012/1-2022.",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404",
+      "evidence_path": "import-log/2026-08-06-ghid-rtc13-2024.md",
+      "notes": "Structured annotation for the existing related_acts edge; no stronger implements relation is asserted."
+    }
+  ],
+  "tags": ["beton", "compoziție-beton", "performanță", "ghid-tehnic", "mdlpa", "rtc13"]
+}

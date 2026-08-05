@@ -300,7 +300,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [RTC 3-2022](./ghid-rtc3-2022.md)
   - Domain: nzeb · Related: Legea 372/2005, Metodologie Mc 001-2022, Legea 10/1995
 - [RTC 4-2022](./ghid-rtc4-2022.md)
-  - Domain: nzeb · Related: Legea 10/1995, Legea 372/2005, Legea 50/1991
+- [RTC 13-2024](./ghid-rtc13-2024.md)
+  - Domain: calitate (beton, compoziție și performanță) · Related: NE 012/1-2022
+  - Official source checked: Portal Legislativ ([DetaliiDocument/286606](https://legislatie.just.ro/public/DetaliiDocument/286606)); reglementarea tehnică ([DetaliiDocumentAfis/287404](https://legislatie.just.ro/Public/DetaliiDocumentAfis/287404)) confirmă aplicarea împreună cu NE 012/1-2022
+  - Status: unknown · metadata-only · aprobat prin Ordinul nr. 2748/24.07.2024 · publicat în M.Of. nr. 774 și 774 bis/07.08.2024 · intră în vigoare 06.09.2024
 - [RTC 15-2025](./ghid-rtc15-2025.md)
   - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
 - [RTC 11-2022](./ghid-rtc11-2022.md)
