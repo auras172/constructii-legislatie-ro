@@ -766,6 +766,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mai-163-2007",
+      "label": "Ordin MAI 163/2007",
+      "type": "ordin",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mai-180-2022",
       "label": "Ordin MAI 180/2022",
       "type": "ordin",
@@ -1966,6 +1974,20 @@
       "evidence": "metadata/acts/ordin-anre-81-2022.json"
     },
     {
+      "source": "ordin-mai-163-2007",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului MAI 163/2007 citează art. 17 alin. (2) din Legea nr. 307/2006, iar art. 1 aprobă Normele generale de apărare împotriva incendiilor.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-05",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80730",
+      "notes": "Relație related_to confirmată; nu este clasificată ca implements deoarece sursa aprobată nu stabilește explicit această etichetă relațională pentru metadata repository-ului."
+    },
+    {
       "source": "ordin-mai-180-2022",
       "target": "hg-571-2016",
       "relationship": "related",
@@ -2191,8 +2213,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 105,
-    "confirmed_edges": 162,
+    "total_nodes": 106,
+    "confirmed_edges": 163,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
