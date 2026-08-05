@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-04T21:34:34.340Z",
+  "generated_at": "2026-08-05T15:11:25.519Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 101,
+    "acts_total": 102,
     "acts_full_text": 14,
-    "acts_metadata_only": 87,
+    "acts_metadata_only": 88,
     "article_anchors_total": 879,
-    "import_logs_total": 102,
+    "import_logs_total": 103,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 158,
+    "confirmed_relationships": 159,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -222,6 +222,19 @@
       "anchor_count": 0,
       "file": "legi/hg-571-2016.md",
       "metadata_file": "metadata/acts/hg-571-2016.json"
+    },
+    {
+      "slug": "hg-742-2018",
+      "title": "Hotărârea Guvernului nr. 742 din 13 septembrie 2018 privind modificarea Hotărârii Guvernului nr. 925/1995 pentru aprobarea Regulamentului de verificare și expertizare tehnică de calitate a proiectelor, a execuției lucrărilor și a construcțiilor",
+      "short_title": "HG 742/2018",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 26,
+      "anchor_count": 0,
+      "file": "legi/hg-742-2018.md",
+      "metadata_file": "metadata/acts/hg-742-2018.json"
     },
     {
       "slug": "hg-862-2016",

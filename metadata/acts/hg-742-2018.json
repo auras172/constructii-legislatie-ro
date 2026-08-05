@@ -1,0 +1,58 @@
+{
+  "title": "Hotărârea Guvernului nr. 742 din 13 septembrie 2018 privind modificarea Hotărârii Guvernului nr. 925/1995 pentru aprobarea Regulamentului de verificare și expertizare tehnică de calitate a proiectelor, a execuției lucrărilor și a construcțiilor",
+  "short_title": "HG 742/2018",
+  "canonical_citation": "HG nr. 742/2018",
+  "type": "hotarare",
+  "number": "742",
+  "year": "2018",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "calitate-constructii",
+    "verificare-tehnica",
+    "expertizare-tehnica",
+    "verificatori-proiecte",
+    "experti-tehnici",
+    "regulament"
+  ],
+  "status": "unknown",
+  "issue_date": "2018-09-13",
+  "publication_date": "2018-09-27",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 828 din 27 septembrie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205185",
+  "version_kind": "original",
+  "last_checked": "2026-08-05",
+  "version": "Forma originală a actului; Art. I modifică titlul și art. 1 din HG nr. 925/1995 și înlocuiește integral anexa (Regulamentul) acesteia; Art. II stabilește un termen de 30 de zile pentru procedurile de punere în aplicare",
+  "article_count": 26,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, emitentul, data emiterii (13.09.2018) și publicarea în Monitorul Oficial al României, Partea I, nr. 828/27.09.2018, atât în forma printabilă (FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871), cât și pe pagina de detaliu (DetaliiDocumentAfis/205185); niciuna dintre cele două pagini nu indică abrogare sau modificare ulterioară a actului. Art. I pct. 1-2 modifică titlul și art. 1 din HG nr. 925/1995 (act extern, neimportat în acest repository); pct. 2 conține un heading intern 'Articolul 1' care reprezintă textul de înlocuire al art. 1 din HG nr. 925/1995, nu un articol propriu al HG nr. 742/2018. Art. I pct. 3 înlocuiește integral anexa (Regulamentul) la HG nr. 925/1995 cu anexa la prezenta hotărâre. Art. II stabilește un termen de 30 de zile pentru elaborarea procedurilor de atestare/autorizare aferente. article_count=26 este numărul semantic (2 articole ale HG + 24 articole ale Regulamentului anexat, Capitolele I-VII). Preambulul și Anexa (art. 1 alin. 1-3) citează explicit Legea nr. 10/1995 ca temei legal pentru verificarea și expertizarea tehnică a proiectelor, execuției lucrărilor și construcțiilor, precum și pentru verificarea calității lucrărilor executate. Statusul juridic curent nu este declarat explicit pe pagina de detaliu și este păstrat unknown. Textul integral al hotărârii și al regulamentului anexat nu este importat în acest repository; HG nr. 925/1995 este documentată doar ca act extern amendat, fără relație grafică, deoarece nu este prezentă în repository.",
+  "related_acts": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG nr. 742/2018 invocă art. 4 alin. (1), art. 9 lit. d), e) și o) și art. 34 din Legea nr. 10/1995 privind calitatea în construcții, republicată, iar Anexa (Regulament), art. 1 alin. (1)-(3), citează explicit Legea nr. 10/1995 ca temei legal pentru verificarea și expertizarea tehnică a proiectelor, execuției lucrărilor și construcțiilor.",
+      "source_article": "Preambul; Anexă, Articolul 1",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-05"
+    }
+  ],
+  "tags": [
+    "calitate-constructii",
+    "verificare-tehnica",
+    "expertizare-tehnica",
+    "verificatori-proiecte",
+    "experti-tehnici",
+    "regulament",
+    "hotarare-guvern"
+  ]
+}
