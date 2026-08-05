@@ -1,0 +1,57 @@
+{
+  "title": "Ordin nr. 163 din 28 februarie 2007 pentru aprobarea Normelor generale de apărare împotriva incendiilor",
+  "short_title": "Ordin MAI 163/2007",
+  "canonical_citation": "Ordinul MAI nr. 163/2007",
+  "type": "ordin",
+  "number": "163",
+  "year": "2007",
+  "issuer": "Ministerul Administrației și Internelor",
+  "issuing_body_kind": "minister",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "constructii",
+    "instalatii",
+    "prevenire-stingere"
+  ],
+  "status": "unknown",
+  "issue_date": "2007-02-28",
+  "effective_date": "2007-04-28",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2007-03-29",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80730",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 216 din 29 martie 2007",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80730",
+  "version_kind": "original",
+  "last_checked": "2026-08-05",
+  "version": "forma originală Portal Legislativ",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă că Ordinul nr. 163/28.02.2007 aprobă Normele generale de apărare împotriva incendiilor. Art. 1 din normele aprobate stabilește principiile, criteriile de performanță și condițiile tehnice generale pentru cerința esențială de securitate la incendiu pentru construcții, instalații și amenajări. Art. 2 prevede intrarea în vigoare în termen de 30 de zile de la publicarea din 29.03.2007; effective_date 2007-04-28 este o derivare calendaristică documentată, iar statusul curent rămâne unknown. Textul integral al ordinului și anexei nu este importat.",
+  "related_acts": [
+    "lege-307-2006"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-307-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului MAI 163/2007 citează art. 17 alin. (2) din Legea nr. 307/2006, iar art. 1 aprobă Normele generale de apărare împotriva incendiilor.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80730",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-05",
+      "notes": "Relație related_to confirmată; nu este clasificată ca implements deoarece sursa aprobată nu stabilește explicit această etichetă relațională pentru metadata repository-ului."
+    }
+  ],
+  "tags": [
+    "incendiu",
+    "securitate-la-incendiu",
+    "constructii",
+    "instalatii",
+    "prevenire-stingere"
+  ]
+}

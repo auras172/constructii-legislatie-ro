@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-05T19:33:02.286Z
+Generated: 2026-08-05T20:14:58.631Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 105 |
+| Total metadata entries | 106 |
 | Full-text acts | 15 |
-| Metadata-only acts | 90 |
-| Import log files | 106 |
-| Total relationship links | 202 |
+| Metadata-only acts | 91 |
+| Import log files | 107 |
+| Total relationship links | 203 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -113,6 +113,7 @@ Generated: 2026-08-05T19:33:02.286Z
 | ordin-anre-68-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mai-163-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdlpa-205-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-2837-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -133,7 +134,7 @@ Generated: 2026-08-05T19:33:02.286Z
 | calitate | 32 |
 | anre | 18 |
 | iscir | 15 |
-| incendiu | 12 |
+| incendiu | 13 |
 | urbanism | 8 |
 | nzeb | 4 |
 | executie | 3 |
@@ -147,7 +148,7 @@ Generated: 2026-08-05T19:33:02.286Z
 
 | Value | Count |
 | --- | --- |
-| minister | 62 |
+| minister | 63 |
 | autoritate | 17 |
 | guvern | 15 |
 | parlament | 11 |
@@ -181,6 +182,7 @@ Generated: 2026-08-05T19:33:02.286Z
 | 1996 | 1 |
 | 1999 | 1 |
 | 2003 | 1 |
+| 2007 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
 | 2017 | 1 |
@@ -189,7 +191,7 @@ Generated: 2026-08-05T19:33:02.286Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 90 |
+| metadata-only | 91 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
