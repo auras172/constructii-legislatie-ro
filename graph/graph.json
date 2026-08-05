@@ -62,6 +62,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-rtc8-2022",
+      "label": "RTC 8-2022",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-1425-2006",
       "label": "HG 1425/2006",
       "type": "hotarare",
@@ -944,6 +952,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ghid-rtc4-2022.json"
+    },
+    {
+      "source": "ghid-rtc8-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.221/2023 citează explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275502",
+      "evidence_path": "import-log/2026-08-06-ghid-rtc8-2022.md",
+      "notes": "Structured annotation for the existing related_acts edge; no topic-only relationships are added."
     },
     {
       "source": "hg-1425-2006",
@@ -2149,8 +2170,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 103,
-    "confirmed_edges": 160,
+    "total_nodes": 104,
+    "confirmed_edges": 161,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -1,0 +1,40 @@
+{
+  "title": "Ghid privind managementul și monitorizarea informațiilor generate în sistem BIM, indicativ RTC 8-2022",
+  "short_title": "RTC 8-2022",
+  "canonical_citation": "RTC 8-2022",
+  "type": "ghid",
+  "number": "2221",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["bim", "investiții-publice", "modelare-informatică", "ghid", "rtc8"],
+  "status": "unknown",
+  "issue_date": "2023-10-13",
+  "publication_date": "2023-10-20",
+  "effective_date": "2023-11-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-05",
+  "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275502",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.221/13.10.2023, publicat în M.Of. nr. 950 și 950 bis/20.10.2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275656",
+  "version": "ghid tehnic original; textul integral nu este importat",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, indicativul, emitentul, aprobarea și publicarea. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2023-11-19 este derivată din această regulă. Art. 3 aplică ghidul proiectelor-pilot de investiții publice din sectorul construcțiilor. Preambulul citează explicit art. 10 din Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.221/2023 citează explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275502",
+      "evidence_path": "import-log/2026-08-06-ghid-rtc8-2022.md",
+      "notes": "Structured annotation for the existing related_acts edge; no topic-only relationships are added."
+    }
+  ],
+  "tags": ["bim", "investiții-publice", "modelare-informatică", "ghid-tehnic", "mdlpa", "rtc8"]
+}
