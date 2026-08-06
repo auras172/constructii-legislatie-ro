@@ -511,6 +511,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871`](https://legislatie.just.ro/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871)) + [`/Public/DetaliiDocumentAfis/205185`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/205185)
   - Status: unknown · M.Of. nr. 828/27.09.2018 · modifică titlul, art. 1 și anexa HG 925/1995 (regulament de verificare/expertizare tehnică a proiectelor, execuției lucrărilor și construcțiilor, și verificarea calității lucrărilor executate) · 26 articles (2 HG + 24 Regulament) · 1 annex · HG 925/1995 referință externă neimportată
   - Import log: [import-log/2026-08-05-hg-742-2018.md](../import-log/2026-08-05-hg-742-2018.md)
+- [Ordin MDRAP 2264/2018](./ordin-mdrap-2264-2018.md)
+  - Domain: calitate · Related: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, Ordin ID 198814](https://legislatie.just.ro/Public/DetaliiDocument/198814) + [Procedura ID 198815](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198815)
+  - Status repealed · Ordinul nr. 2.264/28.02.2018 · M.Of. nr. 240/19.03.2018 · abrogat prin Ordinul nr. 817/23.06.2021 · effective_date omisă
+  - Import log: [import-log/2026-08-06-ordin-mdrap-2264-2018.md](../import-log/2026-08-06-ordin-mdrap-2264-2018.md)
 
 ## Naming convention proposal
 
