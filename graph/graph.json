@@ -806,6 +806,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrap-2264-2018",
+      "label": "Ordin MDRAP 2264/2018",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrap-233-2016",
       "label": "Ordin MDRAP 233/2016",
       "type": "ordin",
@@ -2092,6 +2100,19 @@
       "evidence": "metadata/acts/ordin-mdlpa-904-2023.json"
     },
     {
+      "source": "ordin-mdrap-2264-2018",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.264/2018 citează art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198814"
+    },
+    {
       "source": "ordin-mdrap-233-2016",
       "target": "lege-350-2001",
       "relationship": "related",
@@ -2213,8 +2234,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 106,
-    "confirmed_edges": 163,
+    "total_nodes": 107,
+    "confirmed_edges": 164,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

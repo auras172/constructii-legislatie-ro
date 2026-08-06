@@ -1,0 +1,37 @@
+{
+  "title": "Ordin nr. 2.264 din 28 februarie 2018 pentru aprobarea Procedurii privind atestarea verificatorilor de proiecte și a experților tehnici în construcții",
+  "short_title": "Ordin MDRAP 2264/2018",
+  "canonical_citation": "Ordin nr. 2.264/2018",
+  "type": "ordin",
+  "number": "2264",
+  "year": "2018",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["verificatori-proiecte", "experti-tehnici", "atestare-profesionala", "calitate-in-constructii"],
+  "status": "repealed",
+  "issue_date": "2018-02-28",
+  "publication_date": "2018-03-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-06",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198814",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198815",
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 2.264/28.02.2018 aprobă Procedura privind atestarea verificatorilor de proiecte și a experților tehnici în construcții și a fost publicat în Monitorul Oficial al României, Partea I, nr. 240 din 19 martie 2018. Preambulul citează art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții. Ordinul nr. 817/23.06.2021 abrogă ulterior Ordinul nr. 2.264/2018; Ordinul 817/2021 este documentat ca succesor extern și nu este importat în acest PR. Nu a fost identificată o clauză distinctă de intrare în vigoare, iar effective_date este omisă. Metadata-only — textul integral nu este importat în acest repository.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.264/2018 citează art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198814",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06"
+    }
+  ],
+  "tags": ["calitate", "verificatori-proiecte", "experti-tehnici", "atestare-profesionala", "mdlpa", "ordin-2264-2018"]
+}
