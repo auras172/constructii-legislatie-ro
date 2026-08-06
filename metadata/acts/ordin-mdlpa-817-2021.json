@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 817 din 23 iunie 2021 pentru aprobarea Procedurii privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici",
+  "short_title": "Ordin MDLPA 817/2021",
+  "canonical_citation": "Ordinul MDLPA nr. 817/2021",
+  "type": "ordin",
+  "number": "817",
+  "year": "2021",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["calitate", "verificatori-proiecte", "experti-tehnici", "atestare-tehnico-profesionala", "constructii"],
+  "status": "unknown",
+  "issue_date": "2021-06-23",
+  "effective_date": "2021-07-16",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2021-07-06",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 667 și 667 bis din 6 iulie 2021",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245353",
+  "last_checked": "2026-08-06",
+  "version_kind": "original",
+  "version": "forma de bază a ordinului pe Portal Legislativ; anexa Procedură este disponibilă la DetaliiDocumentAfis/245353",
+  "article_count": 6,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea ordinului în M.Of. nr. 667/06.07.2021; nota de la art. 1 confirmă publicarea anexei în M.Of. nr. 667 bis/06.07.2021. Art. 5 prevede intrarea în vigoare la 10 zile de la publicare, iar effective_date 2021-07-16 este o derivare calendaristică documentată. Art. 6 abrogă explicit, la data intrării în vigoare, Ordinul viceprim-ministrului, ministrului dezvoltării regionale și administrației publice nr. 2.264/2018; actul abrogat este extern și nu primește edge deoarece nu este importat în repo. Procedura aprobată reglementează atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici în construcții. Textul integral al ordinului și al anexei nu este importat.",
+  "related_acts": ["lege-10-1995", "hg-742-2018"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 41 alin. (2) și art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții, iar Art. 1 aprobă procedura de atestare a verificatorilor de proiecte și a experților tehnici.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06"
+    },
+    {
+      "type": "related_to",
+      "target": "hg-742-2018",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. II lit. a) din Hotărârea Guvernului nr. 742/2018, care modifică HG nr. 925/1995 privind verificarea și expertizarea tehnică a proiectelor, execuției lucrărilor și construcțiilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06"
+    }
+  ],
+  "tags": ["calitate", "verificatori-proiecte", "experti-tehnici", "atestare-tehnico-profesionala", "constructii"]
+}
