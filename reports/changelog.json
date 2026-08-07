@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-04T21:34:35.525Z",
+  "generated_at": "2026-08-06T17:44:51.868Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add verifier methodology act",
+        "feat(metadata): add Ordin MAI 163/2007 fire norms",
+        "feat(metadata): add RTC 7/2022 metadata",
+        "feat(metadata): add RTC 8/2022 metadata",
+        "feat(metadata): add RTC 13/2024 metadata",
+        "feat(metadata): add HG 742/2018 technical verification regulation",
         "feat(metadata): add HG 862/2016 civil protection categories",
         "feat(metadata): add Ordin MDLPA 2837/2022 metadata (#299)",
         "feat(metadata): add Ordin MDLPA 205/2023 metadata (#298)",
@@ -38,12 +44,22 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh status after RTC 7 import",
         "docs: align status after ANRE 59 full-text import",
         "docs: refresh repository status at 100 acts",
         "docs: refresh status after OUG 31 import (#267)"
       ],
       "fixes": [],
       "misc": [
+        "Merge pull request #313 from auras172/codex/metadata-ordin-mai-163-2007",
+        "Merge pull request #312 from auras172/codex/docs-refresh-after-rtc7",
+        "Merge pull request #311 from auras172/codex/metadata-rtc7-2022-v2",
+        "Merge pull request #310 from auras172/codex/fulltext-rtc13-2024-codex",
+        "feat(fulltext): import RTC 13/2024 official text",
+        "Merge pull request #308 from auras172/codex/metadata-rtc8-2022",
+        "Merge pull request #307 from auras172/codex/metadata-rtc13-2024",
+        "Merge pull request #306 from auras172/codex/metadata-hg-742-2018",
+        "Merge pull request #305 from auras172/codex/metadata-hg-862-2016",
         "Merge pull request #304 from auras172/codex/status-after-anre59-v2",
         "Merge pull request #302 from auras172/codex/status-refresh-100-v2",
         "Merge pull request #301 from auras172/codex/fulltext-ordin-anre-59-2013",
@@ -472,6 +488,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 90
+    "infrastructure_changes": 96
   }
 }

@@ -81,6 +81,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocumentAfis/80730`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/80730))
   - Status: unknown · metadata-only · publicat în M.Of. nr. 216/29.03.2007 · intră în vigoare 28.04.2007 prin regula de 30 de zile din Art. 2 · 3 articles · 1 annex · text nedisponibil în repo
   - Import log: [import-log/2026-08-06-ordin-mai-163-2007.md](../import-log/2026-08-06-ordin-mai-163-2007.md)
+- [Ordin MDRAP 2264/2018](./ordin-mdrap-2264-2018.md)
+  - Domain: calitate · Related: Legea 10/1995
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/198814`](https://legislatie.just.ro/Public/DetaliiDocument/198814)) + Procedură ([`/Public/DetaliiDocumentAfis/198815`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198815))
+  - Status: repealed · metadata-only · publicat în M.Of. nr. 240/19.03.2018 · abrogat explicit ulterior prin Ordinul 817/2021 · text nedisponibil în repo
+  - Import log: [import-log/2026-08-06-ordin-mdrap-2264-2018.md](../import-log/2026-08-06-ordin-mdrap-2264-2018.md)
 - [OUG 195/2005](./oug-195-2005.md)
   - Domain: mediu · Related: Legea 50/1991, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/253015`](https://legislatie.just.ro/Public/DetaliiDocument/253015))
