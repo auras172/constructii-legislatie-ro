@@ -510,6 +510,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-pt-c14-2021",
+      "label": "PT C 14-2021",
+      "type": "normativ",
+      "domain": "iscir",
+      "status": "active",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-pt-c4-2010",
       "label": "PT C 4-2010",
       "type": "normativ",
@@ -1756,6 +1764,19 @@
       "evidence": "metadata/acts/normativ-pt-c10-2010.json"
     },
     {
+      "source": "normativ-pt-c14-2021",
+      "target": "lege-64-2008",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Articolul 2 al prescripției tehnice prevede că instalațiile pentru GNCV sunt cele prevăzute în Legea nr. 64/2008 privind funcționarea în condiții de siguranță a instalațiilor sub presiune, instalațiilor de ridicat și a aparatelor consumatoare de combustibil.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Prescripție tehnică PT C 14-2021, Art. 2",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271644"
+    },
+    {
       "source": "normativ-pt-c4-2010",
       "target": "lege-64-2008",
       "relationship": "related",
@@ -2449,8 +2470,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 111,
-    "confirmed_edges": 179,
+    "total_nodes": 112,
+    "confirmed_edges": 180,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

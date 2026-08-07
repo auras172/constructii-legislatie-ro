@@ -231,9 +231,15 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - TODO: continue audit for other ISCIR prescriptions before import
 - [Legea 64/2008](./lege-64-2008.md)
   - Domain: iscir · Related: none (cited by PT CR 4-2009 and PT CR 8-2009)
+  - Import log: [import-log/2026-06-30-lege-64-2008.md](../import-log/2026-06-30-lege-64-2008.md)
   - Official source checked: Portal Legislativ ([DetaliiDocument/90716](https://legislatie.just.ro/Public/DetaliiDocument/90716)) — Legea nr. 64/21.03.2008
   - Status: active · metadata-only · publicată în M.Of. nr. 240/27.03.2008 · republicată în M.Of. nr. 399/08.06.2015 · consolidată la 13.12.2023
   - Import log: [import-log/2026-06-30-lege-64-2008.md](../import-log/2026-06-30-lege-64-2008.md)
+- [PT C 14-2021](./normativ-pt-c14-2021.md)
+  - Domain: iscir · Related: Legea 64/2008
+  - Official source checked: [Portal Legislativ — prescripție](https://legislatie.just.ro/Public/DetaliiDocument/271644) · [Ordinul 756/2023](https://legislatie.just.ro/Public/DetaliiDocument/271371) · [ISCIR](https://iscir.ro/prescriptii-iscir)
+  - Status: active · metadata-only · publicată în M.Of. nr. 544 și 544 bis/19.06.2023 · effective 19.06.2023
+  - Import log: [import-log/2026-08-08-normativ-pt-c14-2021.md](../import-log/2026-08-08-normativ-pt-c14-2021.md)
 - [Ordin ANRE 66/2023](./ordin-anre-66-2023.md)
   - Domain: anre · Related: none (evidence-first — bază legală citată în preambul absentă din repo)
   - Official source checked: Portal Legislativ ([DetaliiDocument/270203](https://legislatie.just.ro/Public/DetaliiDocument/270203)) — Ordin ANRE nr. 66/10.05.2023
