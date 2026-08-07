@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-07T21:34:53.693Z",
+  "generated_at": "2026-08-07T22:30:12.658Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 112,
+    "acts_total": 113,
     "acts_full_text": 15,
-    "acts_metadata_only": 97,
+    "acts_metadata_only": 98,
     "article_anchors_total": 881,
-    "import_logs_total": 113,
+    "import_logs_total": 114,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 180,
+    "confirmed_relationships": 181,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -92,6 +92,19 @@
       "anchor_count": 0,
       "file": "legi/ghid-gp038-1999.md",
       "metadata_file": "metadata/acts/ghid-gp038-1999.json"
+    },
+    {
+      "slug": "ghid-gp113-04",
+      "title": "Ordin nr. 172 din 15 februarie 2005 pentru aprobarea Reglementării tehnice \"Ghid privind proiectarea şi execuţia minipiloţilor foraţi (revizuirea şi completarea Îndrumătorului tehnic C 245-93)\", indicativ GP 113-04",
+      "short_title": "GP 113-04",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ghid-gp113-04.md",
+      "metadata_file": "metadata/acts/ghid-gp113-04.json"
     },
     {
       "slug": "ghid-rtc11-2022",

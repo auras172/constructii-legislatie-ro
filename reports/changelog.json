@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-07T21:34:55.025Z",
+  "generated_at": "2026-08-07T22:30:13.603Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add PT C14-2021 metadata",
         "feat(metadata): add Ordin ANRE 2/2023 metadata",
         "feat(metadata): add Ordin ANRE 89/2018 metadata",
         "feat(metadata): add Ordin MDLPA 1129/2022 metadata",
@@ -55,6 +56,7 @@
       ],
       "fixes": [],
       "misc": [
+        "Merge pull request #324 from auras172/codex/metadata-pt-c14-2021",
         "Merge pull request #323 from auras172/codex/metadata-ordin-anre-2-2023",
         "Merge pull request #322 from auras172/codex/metadata-ordin-anre-89-2018",
         "Merge pull request #321 from auras172/codex/metadata-ordin-mdlpa-1129-2022",
@@ -498,6 +500,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 100
+    "infrastructure_changes": 101
   }
 }
