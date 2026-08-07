@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-07T14:00:33.238Z
+Generated: 2026-08-07T19:25:26.306Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 108 |
+| Total metadata entries | 109 |
 | Full-text acts | 15 |
-| Metadata-only acts | 93 |
-| Import log files | 109 |
-| Total relationship links | 206 |
+| Metadata-only acts | 94 |
+| Import log files | 110 |
+| Total relationship links | 210 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -115,9 +115,10 @@ Generated: 2026-08-07T14:00:33.238Z
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mai-163-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
+| ordin-mdlpa-1129-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-205-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-2837-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-mdlpa-817-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdlpa-817-2021 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -133,7 +134,7 @@ Generated: 2026-08-07T14:00:33.238Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 34 |
+| calitate | 35 |
 | anre | 18 |
 | iscir | 15 |
 | incendiu | 13 |
@@ -150,7 +151,7 @@ Generated: 2026-08-07T14:00:33.238Z
 
 | Value | Count |
 | --- | --- |
-| minister | 65 |
+| minister | 66 |
 | autoritate | 17 |
 | guvern | 15 |
 | parlament | 11 |
@@ -159,7 +160,7 @@ Generated: 2026-08-07T14:00:33.238Z
 
 | Value | Count |
 | --- | --- |
-| 2022 | 15 |
+| 2022 | 16 |
 | 2023 | 15 |
 | 2010 | 14 |
 | 2013 | 6 |
@@ -193,7 +194,7 @@ Generated: 2026-08-07T14:00:33.238Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 93 |
+| metadata-only | 94 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

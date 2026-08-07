@@ -91,6 +91,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/252076`](https://legislatie.just.ro/Public/DetaliiDocument/252076)) + Procedura anexă ([`/Public/DetaliiDocumentAfis/245353`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/245353))
   - Status: unknown · metadata-only · publicat în M.Of. nr. 667 și 667 bis/06.07.2021 · intră în vigoare 16.07.2021 · 6 articles · 1 annex · abrogă Ordinul MDRAP 2264/2018 · text nedisponibil în repo
   - Import log: [import-log/2026-08-06-ordin-mdlpa-817-2021.md](../import-log/2026-08-06-ordin-mdlpa-817-2021.md)
+- [Ordin MDLPA 1129/2022](./ordin-mdlpa-1129-2022.md)
+  - Domain: calitate · Related: Ordin MDLPA 817/2021, Legea 10/1995
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/255976`](https://legislatie.just.ro/Public/DetaliiDocument/255976))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 551/06.06.2022 · 2 articles · 2 annexes · modifică și completează Ordinul 817/2021 · text nedisponibil în repo
+  - Import log: [import-log/2026-08-07-ordin-mdlpa-1129-2022.md](../import-log/2026-08-07-ordin-mdlpa-1129-2022.md)
 - [OUG 195/2005](./oug-195-2005.md)
   - Domain: mediu · Related: Legea 50/1991, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/253015`](https://legislatie.just.ro/Public/DetaliiDocument/253015))
