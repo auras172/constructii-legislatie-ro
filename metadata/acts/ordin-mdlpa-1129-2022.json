@@ -1,0 +1,52 @@
+{
+  "title": "Ordin nr. 1.129 din 2 iunie 2022 privind modificarea și completarea Procedurii privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 817/2021",
+  "short_title": "Ordin MDLPA 1129/2022",
+  "canonical_citation": "Ordinul MDLPA nr. 1.129/2022",
+  "type": "ordin",
+  "number": "1129",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["calitate", "verificatori-proiecte", "experti-tehnici", "atestare-tehnico-profesionala", "constructii"],
+  "status": "unknown",
+  "issue_date": "2022-06-02",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2022-06-06",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255976",
+  "official_source": "Portal Legislativ — Ordin nr. 1.129/02.06.2022; Monitorul Oficial al României, Partea I, nr. 551 din 6 iunie 2022",
+  "last_checked": "2026-08-07",
+  "version_kind": "original",
+  "version": "forma de bază a ordinului pe Portal Legislativ; modifică explicit procedura aprobată prin Ordinul nr. 817/2021",
+  "article_count": 2,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 551/06.06.2022. Art. I prevede explicit că Procedura privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici, aprobată prin Ordinul nr. 817/2021, se modifică și se completează. Preambulul citează explicit art. 41 alin. (2) și art. 21 alin. (1) din Legea nr. 10/1995. Art. II dispune publicarea ordinului, fără o clauză distinctă de intrare în vigoare; effective_date este omisă. Textul integral al ordinului și anexelor nu este importat.",
+  "related_acts": ["ordin-mdlpa-817-2021", "lege-10-1995"],
+  "amends": ["ordin-mdlpa-817-2021"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdlpa-817-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Procedura privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 817/2021, se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 41 alin. (2) și art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    }
+  ],
+  "tags": ["calitate", "verificatori-proiecte", "experti-tehnici", "atestare-tehnico-profesionala", "constructii"]
+}

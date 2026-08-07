@@ -782,6 +782,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-1129-2022",
+      "label": "Ordin MDLPA 1129/2022",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-205-2023",
       "label": "Ordin MDLPA 205/2023",
       "type": "ordin",
@@ -2049,6 +2057,39 @@
       "evidence": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
+      "source": "ordin-mdlpa-1129-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul citează explicit art. 41 alin. (2) și art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255976"
+    },
+    {
+      "source": "ordin-mdlpa-1129-2022",
+      "target": "ordin-mdlpa-817-2021",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Procedura privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 817/2021, se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255976"
+    },
+    {
+      "source": "ordin-mdlpa-1129-2022",
+      "target": "ordin-mdlpa-817-2021",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-1129-2022.json"
+    },
+    {
       "source": "ordin-mdlpa-205-2023",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -2268,8 +2309,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 108,
-    "confirmed_edges": 166,
+    "total_nodes": 109,
+    "confirmed_edges": 169,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
