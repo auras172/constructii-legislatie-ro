@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:44:03.012Z",
+  "generated_at": "2026-08-07T23:26:16.115Z",
   "summary": {
-    "total_metadata_entries": 113,
+    "total_metadata_entries": 114,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 98,
-    "total_import_logs": 114,
-    "total_relationship_links": 223,
+    "total_metadata_only_acts": 99,
+    "total_import_logs": 115,
+    "total_relationship_links": 224,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -21,6 +21,15 @@
     },
     {
       "slug": "ghid-gp038-1999",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "ghid-gp113-04",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1031,7 +1040,7 @@
   "statistics": {
     "domains": {
       "urbanism": 8,
-      "executie": 3,
+      "executie": 4,
       "calitate": 36,
       "nzeb": 4,
       "munca": 3,
@@ -1044,7 +1053,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 68,
+      "minister": 69,
       "guvern": 15,
       "parlament": 11,
       "autoritate": 19
@@ -1059,7 +1068,7 @@
       "2002": 3,
       "2003": 1,
       "2004": 2,
-      "2005": 3,
+      "2005": 4,
       "2006": 4,
       "2007": 1,
       "2008": 3,
@@ -1081,7 +1090,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 98,
+      "metadata-only": 99,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

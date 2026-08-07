@@ -1,0 +1,42 @@
+{
+  "title": "Ordin nr. 172 din 15 februarie 2005 pentru aprobarea Reglementării tehnice \"Ghid privind proiectarea şi execuţia minipiloţilor foraţi (revizuirea şi completarea Îndrumătorului tehnic C 245-93)\", indicativ GP 113-04",
+  "short_title": "GP 113-04",
+  "canonical_citation": "GP 113-04",
+  "type": "ghid",
+  "number": "172",
+  "year": "2005",
+  "issuer": "Ministerul Transporturilor, Construcţiilor şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["fundatii", "minipiloti", "geotehnic", "constructii", "ghid-tehnic"],
+  "status": "unknown",
+  "issue_date": "2005-02-15",
+  "publication_date": "2005-05-20",
+  "effective_date": "2005-06-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61798",
+  "official_source": "Portal Legislativ — Ordin nr. 172/15.02.2005; Monitorul Oficial nr. 430 și 430 bis/20.05.2005",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/61798",
+  "version": "ordin original; textul tehnic al GP 113-04 nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă aprobarea reglementării tehnice \"Ghid privind proiectarea şi execuţia minipiloţilor foraţi (revizuirea şi completarea Îndrumătorului tehnic C 245-93)\", indicativ GP 113-04, prin Ordinul nr. 172/15.02.2005. Ordinul a fost publicat în M.Of. nr. 430/20.05.2005, iar anexa tehnică în M.Of. nr. 430 bis. Art. 2 prevede intrarea în vigoare în termen de 30 de zile de la publicare; effective_date este derivată mecanic ca 19.06.2005. Art. 3 prevede încetarea aplicabilităţii C 245-93 şi a dispoziţiilor contrare. Preambulul citează explicit art. 38 alin. (2) din Legea nr. 10/1995. Statusul juridic actual nu este declarat explicit şi este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 172/15.02.2005 invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61798",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": ["fundatii", "minipiloti", "geotehnic", "constructii", "ghid-tehnic", "gp113-04"]
+}

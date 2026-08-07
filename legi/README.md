@@ -508,6 +508,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/18070) + [MDLPA reglementare29](https://www.mdlpa.ro/pages/reglementare29)
   - Status: unknown · aprobat prin Ordinul MLPAT nr. 13/N/10.03.1999 · publicat în M.Of. nr. 187/30.04.1999 · intră în vigoare la publicare
   - Import log: [import-log/2026-08-04-ghid-gp038-1999.md](../import-log/2026-08-04-ghid-gp038-1999.md)
+- [GP 113-04](./ghid-gp113-04.md)
+  - Domain: executie · Related: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/61798)
+  - Status: unknown · aprobat prin Ordinul nr. 172/15.02.2005 · publicat în M.Of. nr. 430 și 430 bis/20.05.2005 · intră în vigoare la 30 de zile de la publicare
+  - Import log: [import-log/2026-08-08-ghid-gp113-04.md](../import-log/2026-08-08-ghid-gp113-04.md)
 - [RTC 6-2022](./ghid-rtc6-2022.md)
   - Domain: calitate · Related: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/275652) + [MDLPA reglementare19](https://www.mdlpa.ro/pages/reglementare19)

@@ -22,6 +22,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-gp113-04",
+      "label": "GP 113-04",
+      "type": "ghid",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc11-2022",
       "label": "RTC 11-2022",
       "type": "ghid",
@@ -949,6 +957,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-04",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18070"
+    },
+    {
+      "source": "ghid-gp113-04",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 172/15.02.2005 invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61798"
     },
     {
       "source": "ghid-rtc11-2022",
@@ -2491,8 +2512,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 113,
-    "confirmed_edges": 181,
+    "total_nodes": 114,
+    "confirmed_edges": 182,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
