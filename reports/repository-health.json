@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:55:52.308Z",
+  "generated_at": "2026-08-07T21:12:33.751Z",
   "summary": {
-    "total_metadata_entries": 110,
+    "total_metadata_entries": 111,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 95,
-    "total_import_logs": 111,
-    "total_relationship_links": 218,
+    "total_metadata_only_acts": 96,
+    "total_import_logs": 112,
+    "total_relationship_links": 221,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -758,6 +758,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-2-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-anre-20-2025",
       "full_text": false,
       "metadata": true,
@@ -871,7 +880,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 8,
+      "relationships": 9,
       "provenance": true
     },
     {
@@ -1011,7 +1020,7 @@
       "receptie": 2,
       "isc": 2,
       "incendiu": 13,
-      "anre": 19,
+      "anre": 20,
       "autorizatii": 3,
       "mediu": 3,
       "iscir": 15
@@ -1020,7 +1029,7 @@
       "minister": 66,
       "guvern": 15,
       "parlament": 11,
-      "autoritate": 18
+      "autoritate": 19
     },
     "publication_years": {
       "1991": 1,
@@ -1048,13 +1057,13 @@
       "2020": 3,
       "2021": 3,
       "2022": 16,
-      "2023": 15,
+      "2023": 16,
       "2024": 4,
       "2025": 6,
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 95,
+      "metadata-only": 96,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

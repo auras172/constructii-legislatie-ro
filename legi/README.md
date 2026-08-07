@@ -250,6 +250,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — Ordin ANRE nr. 89/2018](https://legislatie.just.ro/Public/DetaliiDocumentAfis/264093) · [ANRE](https://arhiva.anre.ro/ro/energie-electrica/legislatie/norme-tehnice/reglementari-tehnice/norme-tehnice/reglementari-tehnice/norme-tehnice1387184362)
   - Status: unknown · metadata-only · publicat în M.Of. nr. 462/05.06.2018 · modificat ulterior prin Ordinul ANRE 2/2023
   - Import log: [import-log/2026-08-07-ordin-anre-89-2018.md](../import-log/2026-08-07-ordin-anre-89-2018.md)
+- [Ordin ANRE 2/2023](./ordin-anre-2-2023.md)
+  - Domain: anre · Related: Ordin ANRE 89/2018 · Amends: Ordin ANRE 89/2018
+  - Official source checked: [Portal Legislativ — Ordin ANRE nr. 2/2023](https://legislatie.just.ro/Public/DetaliiDocument/264378) · [ANRE](https://arhiva.anre.ro/ro/energie-electrica/legislatie/norme-tehnice/reglementari-tehnice/norme-tehnice/reglementari-tehnice/norme-tehnice1387184362)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 67/26.01.2023 · fără effective_date
+  - Import log: [import-log/2026-08-08-ordin-anre-2-2023.md](../import-log/2026-08-08-ordin-anre-2-2023.md)
 - [HG 90/2008](./hg-90-2008.md)
   - Domain: anre · Related: Ordin ANRE 59/2013
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/89489](https://legislatie.just.ro/Public/DetaliiDocumentAfis/89489)) — HG nr. 90/23.01.2008

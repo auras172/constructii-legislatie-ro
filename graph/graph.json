@@ -670,6 +670,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-anre-2-2023",
+      "label": "Ordin ANRE 2/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-20-2025",
       "label": "Ordin ANRE 20/2025",
       "type": "ordin",
@@ -1922,6 +1930,26 @@
       "evidence": "metadata/acts/ordin-anre-17-2022.json"
     },
     {
+      "source": "ordin-anre-2-2023",
+      "target": "ordin-anre-89-2018",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că Ordinul președintelui ANRE nr. 89/2018 privind aprobarea Normelor tehnice pentru proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264378"
+    },
+    {
+      "source": "ordin-anre-2-2023",
+      "target": "ordin-anre-89-2018",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-anre-2-2023.json"
+    },
+    {
       "source": "ordin-anre-20-2025",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
@@ -2421,8 +2449,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 110,
-    "confirmed_edges": 177,
+    "total_nodes": 111,
+    "confirmed_edges": 179,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
