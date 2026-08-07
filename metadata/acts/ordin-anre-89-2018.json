@@ -1,0 +1,140 @@
+{
+  "title": "Ordin nr. 89 din 10 mai 2018 privind aprobarea Normelor tehnice pentru proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale",
+  "short_title": "Ordin ANRE 89/2018",
+  "canonical_citation": "Ordinul ANRE nr. 89/2018",
+  "type": "ordin",
+  "number": "89",
+  "year": "2018",
+  "issuer": "Autoritatea Națională de Reglementare în Domeniul Energiei",
+  "issuing_body_kind": "autoritate",
+  "domain": "anre",
+  "topics": [
+    "gaze-naturale",
+    "norme-tehnice",
+    "sisteme-alimentare-gaze",
+    "instalatii-gaze",
+    "constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2018-05-10",
+  "publication_date": "2018-06-05",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-07",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264093",
+  "official_source": "Portal Legislativ și arhiva oficială ANRE; Monitorul Oficial al României, Partea I, nr. 462 din 5 iunie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+  "version": "Forma oficială actualizată reflectă modificarea ulterioară prin Ordinul ANRE nr. 2/2023; ordinul inițial aprobă normele tehnice anexate.",
+  "article_count": 5,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 462 din 5 iunie 2018. Forma oficială actualizată indică modificarea ulterioară prin Ordinul ANRE nr. 2/2023, documentată ca act extern în acest import. Ordinul ANRE nr. 5/2009 este abrogat la intrarea în vigoare a prezentului ordin și este documentat ca act extern. Normele aprobate au relevanță pentru proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale, inclusiv construcțiile și instalațiile aferente. Nu se stabilește effective_date deoarece sursa nu oferă o clauză suficient de clară pentru o singură dată. Textul integral al ordinului și al anexei tehnice nu este importat.",
+  "tags": [
+    "anre",
+    "gaze-naturale",
+    "norme-tehnice",
+    "sisteme-alimentare-gaze",
+    "instalatii-gaze",
+    "constructii"
+  ],
+  "related_acts": [
+    "lege-10-1995",
+    "lege-50-1991",
+    "lege-350-2001",
+    "lege-319-2006",
+    "lege-307-2006",
+    "ordin-mai-163-2007",
+    "normativ-np084-03",
+    "normativ-p118-2-2013"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul 5 al Normelor tehnice impune respectarea cerințelor de calitate în construcții conform Legii nr. 10/1995; anexa nr. 2 o include în lista legislației relevante.",
+      "source_article": "Anexă, art. 5; Anexă nr. 2, Lista cuprinzând legislația",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții în lista legislației relevante.",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 3",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul în lista legislației relevante.",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 5",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-319-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 319/2006 a securității și sănătății în muncă în lista legislației relevante.",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 8",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-307-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 307/2006 privind apărarea împotriva incendiilor în lista legislației relevante.",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 9",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "ordin-mai-163-2007",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Ordinul ministrului administrației și internelor nr. 163/2007 pentru aprobarea Normelor generale de apărare împotriva incendiilor.",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 39",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "normativ-np084-03",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit NP-084-03 privind instalațiile sanitare și sistemele de alimentare cu apă și canalizare.",
+      "source_article": "Anexă nr. 2, Norme și prescripții tehnice, pct. 1",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    },
+    {
+      "type": "related_to",
+      "target": "normativ-p118-2-2013",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit P118/2-2013 privind securitatea la incendiu a construcțiilor, partea a II-a, instalații de stingere.",
+      "source_article": "Anexă nr. 2, Norme și prescripții tehnice, pct. 5",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    }
+  ]
+}
