@@ -1,0 +1,56 @@
+{
+  "title": "Prescripție tehnică PT C 14-2021 pentru instalații pentru gaze naturale comprimate pentru vehicule - GNCV",
+  "short_title": "PT C 14-2021",
+  "canonical_citation": "PT C 14-2021",
+  "type": "normativ",
+  "number": "756",
+  "year": "2023",
+  "issuer": "Ministerul Economiei",
+  "issuing_body_kind": "minister",
+  "domain": "iscir",
+  "topics": [
+    "iscir",
+    "instalatii-gncv",
+    "gaze-naturale-comprimate",
+    "prescriptie-tehnica",
+    "securitate-tehnica"
+  ],
+  "status": "active",
+  "issue_date": "2023-06-12",
+  "publication_date": "2023-06-19",
+  "effective_date": "2023-06-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-07",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271644",
+  "official_source": "Portal Legislativ, Portal Legislativ pentru Ordinul de aprobare și ISCIR; Monitorul Oficial al României, Partea I, nr. 544 și 544 bis din 19 iunie 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/271371",
+  "version": "Ediția 1, PT C 14-2021, aprobată prin Ordinul ministrului economiei nr. 756/12.06.2023",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă prescripția tehnică PT C 14-2021, indicativul, aprobarea prin Ordinul nr. 756/12.06.2023, publicarea ordinului în M.Of. nr. 544 și a anexei în M.Of. nr. 544 bis din 19.06.2023. Art. 2 al prescripției citează explicit Legea nr. 64/2008, iar ISCIR listează PT C 14-2021 la prescripțiile tehnice în vigoare. Data intrării în vigoare 2023-06-19 este preluată din evidența oficială Portal Legislativ pentru publicația nr. 544. Textul tehnic integral nu este importat.",
+  "tags": [
+    "iscir",
+    "instalatii-gncv",
+    "gaze-naturale-comprimate",
+    "prescriptie-tehnica",
+    "securitate-tehnica"
+  ],
+  "related_acts": [
+    "lege-64-2008"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-64-2008",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul 2 al prescripției tehnice prevede că instalațiile pentru GNCV sunt cele prevăzute în Legea nr. 64/2008 privind funcționarea în condiții de siguranță a instalațiilor sub presiune, instalațiilor de ridicat și a aparatelor consumatoare de combustibil.",
+      "source_article": "Prescripție tehnică PT C 14-2021, Art. 2",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271644",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07"
+    }
+  ]
+}
