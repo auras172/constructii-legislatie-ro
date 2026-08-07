@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-07T21:34:53.693Z",
+  "generated_at": "2026-08-07T22:44:03.174Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 112,
+    "acts_total": 113,
     "acts_full_text": 15,
-    "acts_metadata_only": 97,
+    "acts_metadata_only": 98,
     "article_anchors_total": 881,
-    "import_logs_total": 113,
+    "import_logs_total": 114,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 180,
+    "confirmed_relationships": 181,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -157,6 +157,19 @@
       "anchor_count": 0,
       "file": "legi/ghid-rtc4-2022.md",
       "metadata_file": "metadata/acts/ghid-rtc4-2022.json"
+    },
+    {
+      "slug": "ghid-rtc6-2022",
+      "title": "Ghid privind metodele de remediere în clădiri existente pentru reducerea nivelului de expunere la radon, indicativ RTC 6-2022",
+      "short_title": "RTC 6-2022",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ghid-rtc6-2022.md",
+      "metadata_file": "metadata/acts/ghid-rtc6-2022.json"
     },
     {
       "slug": "ghid-rtc7-2022",

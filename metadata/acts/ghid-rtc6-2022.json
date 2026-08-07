@@ -1,0 +1,42 @@
+{
+  "title": "Ghid privind metodele de remediere în clădiri existente pentru reducerea nivelului de expunere la radon, indicativ RTC 6-2022",
+  "short_title": "RTC 6-2022",
+  "canonical_citation": "RTC 6-2022",
+  "type": "ghid",
+  "number": "2219",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["radon", "clădiri-existente", "remediere", "securitate-sănătate", "ghid"],
+  "status": "unknown",
+  "issue_date": "2023-10-13",
+  "publication_date": "2023-10-25",
+  "effective_date": "2023-11-24",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275652",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.219/13.10.2023, publicat în M.Of. nr. 967 și 967 bis/25.10.2023; MDLPA — reglementare19",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275744",
+  "version": "ghid tehnic original; textul integral nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă titlul, indicativul RTC 6-2022, emitentul, Ordinul nr. 2.219/13.10.2023 și publicarea în M.Of. nr. 967/25.10.2023, cu anexa tehnică în nr. 967 bis. Art. 2 prevede intrarea în vigoare în 30 de zile de la data publicării; effective_date este derivată mecanic ca 24.11.2023. Preambulul citează explicit art. 10 din Legea nr. 10/1995. Art. 3 menționează Ordinul CNCAN nr. 153/2023 ca act extern. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 2.219/13.10.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275652",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": ["radon", "clădiri-existente", "remediere", "securitate-sănătate", "ghid-tehnic", "mdlpa", "rtc6"]
+}
