@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-07T19:55:52.573Z",
+  "generated_at": "2026-08-07T21:12:34.236Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 110,
+    "acts_total": 111,
     "acts_full_text": 15,
-    "acts_metadata_only": 95,
+    "acts_metadata_only": 96,
     "article_anchors_total": 881,
-    "import_logs_total": 111,
+    "import_logs_total": 112,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 177,
+    "confirmed_relationships": 179,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1145,6 +1145,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-anre-17-2022.md",
       "metadata_file": "metadata/acts/ordin-anre-17-2022.json"
+    },
+    {
+      "slug": "ordin-anre-2-2023",
+      "title": "Ordin nr. 2 din 18 ianuarie 2023 pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 89/2018 privind aprobarea Normelor tehnice pentru proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale",
+      "short_title": "Ordin ANRE 2/2023",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ordin-anre-2-2023.md",
+      "metadata_file": "metadata/acts/ordin-anre-2-2023.json"
     },
     {
       "slug": "ordin-anre-20-2025",

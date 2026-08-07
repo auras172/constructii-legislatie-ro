@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin ANRE 89/2018 metadata
 - feat(metadata): add Ordin MDLPA 1129/2022 metadata
 - feat(metadata): add Ordin MDLPA 817/2021 metadata
 - feat(metadata): add verifier methodology act
@@ -55,6 +56,7 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Other
+- Merge pull request #322 from auras172/codex/metadata-ordin-anre-89-2018
 - Merge pull request #321 from auras172/codex/metadata-ordin-mdlpa-1129-2022
 - Merge pull request #320 from auras172/codex/metadata-ordin-mdlpa-817-2021-v3
 - Merge pull request #318 from auras172/codex/metadata-ordin-mdrap-2264-2018-v3
