@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T17:44:51.868Z",
+  "generated_at": "2026-08-07T14:00:36.979Z",
   "months": [
     {
       "month": "2026-08",
@@ -51,6 +51,8 @@
       ],
       "fixes": [],
       "misc": [
+        "Merge pull request #318 from auras172/codex/metadata-ordin-mdrap-2264-2018-v3",
+        "chore: regenerate repository artifacts",
         "Merge pull request #313 from auras172/codex/metadata-ordin-mai-163-2007",
         "Merge pull request #312 from auras172/codex/docs-refresh-after-rtc7",
         "Merge pull request #311 from auras172/codex/metadata-rtc7-2022-v2",

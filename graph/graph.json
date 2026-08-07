@@ -798,6 +798,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-817-2021",
+      "label": "Ordin MDLPA 817/2021",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-904-2023",
       "label": "Ordin MDLPA 904/2023",
       "type": "ordin",
@@ -2080,6 +2088,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593"
     },
     {
+      "source": "ordin-mdlpa-817-2021",
+      "target": "hg-742-2018",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul citează explicit art. II lit. a) din Hotărârea Guvernului nr. 742/2018, care modifică HG nr. 925/1995 privind verificarea și expertizarea tehnică a proiectelor, execuției lucrărilor și construcțiilor.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076"
+    },
+    {
+      "source": "ordin-mdlpa-817-2021",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul citează explicit art. 41 alin. (2) și art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții, iar Art. 1 aprobă procedura de atestare a verificatorilor de proiecte și a experților tehnici.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-06",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076"
+    },
+    {
       "source": "ordin-mdlpa-904-2023",
       "target": "ordin-mdrap-233-2016",
       "relationship": "amends",
@@ -2234,8 +2268,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 107,
-    "confirmed_edges": 164,
+    "total_nodes": 108,
+    "confirmed_edges": 166,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
