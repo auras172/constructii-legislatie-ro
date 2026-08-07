@@ -241,9 +241,15 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Import log: [import-log/2026-06-30-ordin-anre-66-2023.md](../import-log/2026-06-30-ordin-anre-66-2023.md)
 - [Ordin ANRE 65/2024](./ordin-anre-65-2024.md)
   - Domain: anre · Related: Ordin ANRE 66/2023 · Amends: Ordin ANRE 66/2023
+  - Import log: [import-log/2026-07-14-ordin-anre-65-2024.md](../import-log/2026-07-14-ordin-anre-65-2024.md)
   - Official source checked: Portal Legislativ ([DetaliiDocument/288327](https://legislatie.just.ro/Public/DetaliiDocument/288327)) — Ordin ANRE nr. 65/10.09.2024
   - Status: active · metadata-only · publicat in M.Of. nr. 925/13.09.2024 · modifica Regulamentul aprobat prin Ordinul ANRE nr. 66/2023
   - Import log: [import-log/2026-06-30-ordin-anre-65-2024.md](../import-log/2026-06-30-ordin-anre-65-2024.md)
+- [Ordin ANRE 89/2018](./ordin-anre-89-2018.md)
+  - Domain: anre · Related: Legea 10/1995, Legea 50/1991, Legea 350/2001, Legea 319/2006, Legea 307/2006, Ordin MAI 163/2007, NP-084-03, P118/2-2013
+  - Official source checked: [Portal Legislativ — Ordin ANRE nr. 89/2018](https://legislatie.just.ro/Public/DetaliiDocumentAfis/264093) · [ANRE](https://arhiva.anre.ro/ro/energie-electrica/legislatie/norme-tehnice/reglementari-tehnice/norme-tehnice/reglementari-tehnice/norme-tehnice1387184362)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 462/05.06.2018 · modificat ulterior prin Ordinul ANRE 2/2023
+  - Import log: [import-log/2026-08-07-ordin-anre-89-2018.md](../import-log/2026-08-07-ordin-anre-89-2018.md)
 - [HG 90/2008](./hg-90-2008.md)
   - Domain: anre · Related: Ordin ANRE 59/2013
   - Official source checked: Portal Legislativ ([DetaliiDocumentAfis/89489](https://legislatie.just.ro/Public/DetaliiDocumentAfis/89489)) — HG nr. 90/23.01.2008

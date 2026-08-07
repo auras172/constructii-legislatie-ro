@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-07T19:25:26.306Z
+Generated: 2026-08-07T19:55:52.308Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 109 |
+| Total metadata entries | 110 |
 | Full-text acts | 15 |
-| Metadata-only acts | 94 |
-| Import log files | 110 |
-| Total relationship links | 210 |
+| Metadata-only acts | 95 |
+| Import log files | 111 |
+| Total relationship links | 218 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -113,6 +113,7 @@ Generated: 2026-08-07T19:25:26.306Z
 | ordin-anre-68-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-89-2018 | ✗ | ✓ | ✓ | — | 8 | ✓ |
 | ordin-mai-163-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdlpa-1129-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -135,7 +136,7 @@ Generated: 2026-08-07T19:25:26.306Z
 | Value | Count |
 | --- | --- |
 | calitate | 35 |
-| anre | 18 |
+| anre | 19 |
 | iscir | 15 |
 | incendiu | 13 |
 | urbanism | 8 |
@@ -152,7 +153,7 @@ Generated: 2026-08-07T19:25:26.306Z
 | Value | Count |
 | --- | --- |
 | minister | 66 |
-| autoritate | 17 |
+| autoritate | 18 |
 | guvern | 15 |
 | parlament | 11 |
 
@@ -166,13 +167,13 @@ Generated: 2026-08-07T19:25:26.306Z
 | 2013 | 6 |
 | 2025 | 6 |
 | 2006 | 4 |
+| 2018 | 4 |
 | 2024 | 4 |
 | 2002 | 3 |
 | 2005 | 3 |
 | 2008 | 3 |
 | 2009 | 3 |
 | 2016 | 3 |
-| 2018 | 3 |
 | 2020 | 3 |
 | 2021 | 3 |
 | 2026 | 3 |
@@ -194,7 +195,7 @@ Generated: 2026-08-07T19:25:26.306Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 94 |
+| metadata-only | 95 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

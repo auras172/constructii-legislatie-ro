@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:25:30.866Z",
+  "generated_at": "2026-08-07T19:55:54.108Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 1129/2022 metadata",
         "feat(metadata): add Ordin MDLPA 817/2021 metadata",
         "feat(metadata): add verifier methodology act",
         "feat(metadata): add Ordin MAI 163/2007 fire norms",
@@ -52,6 +53,7 @@
       ],
       "fixes": [],
       "misc": [
+        "Merge pull request #321 from auras172/codex/metadata-ordin-mdlpa-1129-2022",
         "Merge pull request #320 from auras172/codex/metadata-ordin-mdlpa-817-2021-v3",
         "Merge pull request #318 from auras172/codex/metadata-ordin-mdrap-2264-2018-v3",
         "chore: regenerate repository artifacts",
@@ -492,6 +494,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 97
+    "infrastructure_changes": 98
   }
 }

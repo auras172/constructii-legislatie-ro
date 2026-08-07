@@ -766,6 +766,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-anre-89-2018",
+      "label": "Ordin ANRE 89/2018",
+      "type": "ordin",
+      "domain": "anre",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mai-163-2007",
       "label": "Ordin MAI 163/2007",
       "type": "ordin",
@@ -1998,6 +2006,110 @@
       "evidence": "metadata/acts/ordin-anre-81-2022.json"
     },
     {
+      "source": "ordin-anre-89-2018",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Articolul 5 al Normelor tehnice impune respectarea cerințelor de calitate în construcții conform Legii nr. 10/1995; anexa nr. 2 o include în lista legislației relevante.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă, art. 5; Anexă nr. 2, Lista cuprinzând legislația",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "lege-307-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 307/2006 privind apărarea împotriva incendiilor în lista legislației relevante.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 9",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "lege-319-2006",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 319/2006 a securității și sănătății în muncă în lista legislației relevante.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 8",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul în lista legislației relevante.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții în lista legislației relevante.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "normativ-np084-03",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit NP-084-03 privind instalațiile sanitare și sistemele de alimentare cu apă și canalizare.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Norme și prescripții tehnice, pct. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "normativ-p118-2-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit P118/2-2013 privind securitatea la incendiu a construcțiilor, partea a II-a, instalații de stingere.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Norme și prescripții tehnice, pct. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
+      "source": "ordin-anre-89-2018",
+      "target": "ordin-mai-163-2007",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Anexa nr. 2 a Normelor tehnice citează explicit Ordinul ministrului administrației și internelor nr. 163/2007 pentru aprobarea Normelor generale de apărare împotriva incendiilor.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă nr. 2, Lista cuprinzând legislația, pct. 39",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-07",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
+    },
+    {
       "source": "ordin-mai-163-2007",
       "target": "lege-307-2006",
       "relationship": "related",
@@ -2309,8 +2421,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 109,
-    "confirmed_edges": 169,
+    "total_nodes": 110,
+    "confirmed_edges": 177,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

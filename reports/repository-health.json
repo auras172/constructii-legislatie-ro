@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:25:26.306Z",
+  "generated_at": "2026-08-07T19:55:52.308Z",
   "summary": {
-    "total_metadata_entries": 109,
+    "total_metadata_entries": 110,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 94,
-    "total_import_logs": 110,
-    "total_relationship_links": 210,
+    "total_metadata_only_acts": 95,
+    "total_import_logs": 111,
+    "total_relationship_links": 218,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -866,6 +866,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-anre-89-2018",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 8,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mai-163-2007",
       "full_text": false,
       "metadata": true,
@@ -1002,7 +1011,7 @@
       "receptie": 2,
       "isc": 2,
       "incendiu": 13,
-      "anre": 18,
+      "anre": 19,
       "autorizatii": 3,
       "mediu": 3,
       "iscir": 15
@@ -1011,7 +1020,7 @@
       "minister": 66,
       "guvern": 15,
       "parlament": 11,
-      "autoritate": 17
+      "autoritate": 18
     },
     "publication_years": {
       "1991": 1,
@@ -1034,7 +1043,7 @@
       "2015": 1,
       "2016": 3,
       "2017": 1,
-      "2018": 3,
+      "2018": 4,
       "2019": 2,
       "2020": 3,
       "2021": 3,
@@ -1045,7 +1054,7 @@
       "2026": 3
     },
     "import_methods": {
-      "metadata-only": 94,
+      "metadata-only": 95,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
