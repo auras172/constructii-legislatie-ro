@@ -53,6 +53,8 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Other
+- Merge pull request #318 from auras172/codex/metadata-ordin-mdrap-2264-2018-v3
+- chore: regenerate repository artifacts
 - Merge pull request #313 from auras172/codex/metadata-ordin-mai-163-2007
 - Merge pull request #312 from auras172/codex/docs-refresh-after-rtc7
 - Merge pull request #311 from auras172/codex/metadata-rtc7-2022-v2

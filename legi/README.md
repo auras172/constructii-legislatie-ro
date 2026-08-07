@@ -86,6 +86,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/198814`](https://legislatie.just.ro/Public/DetaliiDocument/198814)) + Procedură ([`/Public/DetaliiDocumentAfis/198815`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198815))
   - Status: repealed · metadata-only · publicat în M.Of. nr. 240/19.03.2018 · abrogat explicit ulterior prin Ordinul 817/2021 · text nedisponibil în repo
   - Import log: [import-log/2026-08-06-ordin-mdrap-2264-2018.md](../import-log/2026-08-06-ordin-mdrap-2264-2018.md)
+- [Ordin MDLPA 817/2021](./ordin-mdlpa-817-2021.md)
+  - Domain: calitate · Related: Legea 10/1995, HG 742/2018
+  - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/252076`](https://legislatie.just.ro/Public/DetaliiDocument/252076)) + Procedura anexă ([`/Public/DetaliiDocumentAfis/245353`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/245353))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 667 și 667 bis/06.07.2021 · intră în vigoare 16.07.2021 · 6 articles · 1 annex · abrogă Ordinul MDRAP 2264/2018 · text nedisponibil în repo
+  - Import log: [import-log/2026-08-06-ordin-mdlpa-817-2021.md](../import-log/2026-08-06-ordin-mdlpa-817-2021.md)
 - [OUG 195/2005](./oug-195-2005.md)
   - Domain: mediu · Related: Legea 50/1991, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/253015`](https://legislatie.just.ro/Public/DetaliiDocument/253015))
