@@ -62,6 +62,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ghid-rtc6-2022",
+      "label": "RTC 6-2022",
+      "type": "ghid",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ghid-rtc7-2022",
       "label": "RTC 7-2022",
       "type": "ghid",
@@ -1016,6 +1024,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ghid-rtc4-2022.json"
+    },
+    {
+      "source": "ghid-rtc6-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul Ordinului nr. 2.219/13.10.2023 invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275652"
     },
     {
       "source": "ghid-rtc7-2022",
@@ -2470,8 +2491,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 112,
-    "confirmed_edges": 180,
+    "total_nodes": 113,
+    "confirmed_edges": 181,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
