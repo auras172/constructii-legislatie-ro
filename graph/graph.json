@@ -646,6 +646,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "og-7-2026",
+      "label": "OG 7/2026",
+      "type": "ordonanta",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
@@ -1923,6 +1931,32 @@
       "evidence": "metadata/acts/og-63-2001.json"
     },
     {
+      "source": "og-7-2026",
+      "target": "lege-350-2001",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din OG nr. 7/2026 prevede explicit că Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804"
+    },
+    {
+      "source": "og-7-2026",
+      "target": "lege-50-1991",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II din OG nr. 7/2026 prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează.",
+      "source_article": "Art. II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804"
+    },
+    {
       "source": "ordin-839-2009",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -2512,8 +2546,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 114,
-    "confirmed_edges": 182,
+    "total_nodes": 115,
+    "confirmed_edges": 184,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-07T23:26:16.687Z",
+  "generated_at": "2026-08-08T15:53:54.270Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 114,
+    "acts_total": 115,
     "acts_full_text": 15,
-    "acts_metadata_only": 99,
+    "acts_metadata_only": 100,
     "article_anchors_total": 881,
-    "import_logs_total": 115,
+    "import_logs_total": 116,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 182,
+    "confirmed_relationships": 184,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1106,6 +1106,19 @@
       "anchor_count": 0,
       "file": "legi/og-63-2001.md",
       "metadata_file": "metadata/acts/og-63-2001.json"
+    },
+    {
+      "slug": "og-7-2026",
+      "title": "Ordonanță nr. 7 din 30 ianuarie 2026 pentru modificarea și completarea unor acte normative din domeniul amenajării teritoriului, urbanismului, construcțiilor și disciplinei în construcții",
+      "short_title": "OG 7/2026",
+      "type": "ordonanta",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 7,
+      "anchor_count": 0,
+      "file": "legi/og-7-2026.md",
+      "metadata_file": "metadata/acts/og-7-2026.json"
     },
     {
       "slug": "ordin-839-2009",

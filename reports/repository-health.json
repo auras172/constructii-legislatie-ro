@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T23:26:16.115Z",
+  "generated_at": "2026-08-08T15:53:52.441Z",
   "summary": {
-    "total_metadata_entries": 114,
+    "total_metadata_entries": 115,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 99,
-    "total_import_logs": 115,
-    "total_relationship_links": 224,
+    "total_metadata_only_acts": 100,
+    "total_import_logs": 116,
+    "total_relationship_links": 228,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -250,7 +250,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 1,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -277,7 +277,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 4,
+      "relationships": 5,
       "provenance": true
     },
     {
@@ -731,6 +731,15 @@
       "provenance": true
     },
     {
+      "slug": "og-7-2026",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-839-2009",
       "full_text": true,
       "metadata": true,
@@ -1039,7 +1048,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 8,
+      "urbanism": 9,
       "executie": 4,
       "calitate": 36,
       "nzeb": 4,
@@ -1054,7 +1063,7 @@
     },
     "issuers": {
       "minister": 69,
-      "guvern": 15,
+      "guvern": 16,
       "parlament": 11,
       "autoritate": 19
     },
@@ -1087,10 +1096,10 @@
       "2023": 18,
       "2024": 4,
       "2025": 6,
-      "2026": 3
+      "2026": 4
     },
     "import_methods": {
-      "metadata-only": 99,
+      "metadata-only": 100,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

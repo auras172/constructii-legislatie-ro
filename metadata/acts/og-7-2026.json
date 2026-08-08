@@ -1,0 +1,70 @@
+{
+  "title": "Ordonanță nr. 7 din 30 ianuarie 2026 pentru modificarea și completarea unor acte normative din domeniul amenajării teritoriului, urbanismului, construcțiilor și disciplinei în construcții",
+  "short_title": "OG 7/2026",
+  "canonical_citation": "OG nr. 7/2026",
+  "type": "ordonanta",
+  "number": "7",
+  "year": "2026",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "urbanism",
+    "amenajarea-teritoriului",
+    "autorizare-constructii",
+    "avize",
+    "disciplina-in-constructii",
+    "constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2026-01-30",
+  "publication_date": "2026-01-30",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "original",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 77 din 30 ianuarie 2026",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804",
+  "version": "forma originală publicată în Monitorul Oficial nr. 77/30.01.2026; textul integral nu este importat",
+  "article_count": 7,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă OG nr. 7/30.01.2026, emisă de Guvernul României și publicată în M.Of. nr. 77/30.01.2026. Art. I modifică și completează explicit Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul. Art. II modifică și completează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții. Art. VI prevede că dispozițiile privind constatarea și aplicarea contravențiilor intră în vigoare la 30 de zile de la publicare, dar sursa nu declară o singură dată generală de intrare în vigoare; effective_date este omisă. Statusul juridic curent nu este declarat explicit și este păstrat unknown. OUG nr. 31/2025 este citată contextual, dar nu primește o relație nouă în acest import. Metadata-only — textul integral nu este importat.",
+  "amends": [
+    "lege-350-2001",
+    "lege-50-1991"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din OG nr. 7/2026 prevede explicit că Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    },
+    {
+      "type": "amends",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II din OG nr. 7/2026 prevede explicit că Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții se modifică și se completează.",
+      "source_article": "Art. II",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": [
+    "urbanism",
+    "amenajarea-teritoriului",
+    "autorizatii",
+    "avize",
+    "disciplina-in-constructii",
+    "constructii",
+    "amendament"
+  ]
+}

@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add OG 7/2026 metadata
 - feat(metadata): add GP 113-04 metadata
 - feat(metadata): add RTC 6/2022 metadata
 - feat(metadata): add PT C14-2021 metadata
