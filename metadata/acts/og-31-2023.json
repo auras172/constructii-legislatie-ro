@@ -1,0 +1,54 @@
+{
+  "title": "Ordonanță nr. 31 din 18 august 2023 pentru modificarea art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții",
+  "short_title": "OG 31/2023",
+  "canonical_citation": "OG nr. 31/2023",
+  "type": "ordonanta",
+  "number": "31",
+  "year": "2023",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "receptie-constructii",
+    "infrastructura-transport"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-08-18",
+  "publication_date": "2023-08-18",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "original",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273822",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 754 din 18 august 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/273822",
+  "version": "forma originală publicată în Monitorul Oficial nr. 754/18.08.2023; textul integral nu este importat",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă OG nr. 31/18.08.2023, emisă de Guvernul României și publicată în M.Of. nr. 754/18.08.2023. Articolul unic modifică explicit art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții. Portalul nu declară explicit statusul juridic curent și nici o dată de intrare în vigoare; statusul este păstrat unknown, iar effective_date este omisă. Metadata-only — textul integral nu este importat.",
+  "amends": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic din OG nr. 31/2023 prevede explicit modificarea art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Articol unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273822",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": [
+    "constructii",
+    "calitate",
+    "receptie",
+    "infrastructura-transport",
+    "amendament"
+  ]
+}

@@ -638,6 +638,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "og-31-2023",
+      "label": "OG 31/2023",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "og-63-2001",
       "label": "OG 63/2001",
       "type": "ordonanta",
@@ -1924,6 +1932,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920"
     },
     {
+      "source": "og-31-2023",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic din OG nr. 31/2023 prevede explicit modificarea art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Articol unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273822"
+    },
+    {
       "source": "og-63-2001",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -2546,8 +2567,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 115,
-    "confirmed_edges": 184,
+    "total_nodes": 116,
+    "confirmed_edges": 185,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
