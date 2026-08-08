@@ -21,6 +21,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/307036`)
   - Status: active · full official consolidated text reconciled 2026-07-17 · consolidated 25.02.2026 · 68 articles · 2 annexe
   - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
+- [OG 7/2026](./og-7-2026.md)
+  - Domain: urbanism · Amends: Legea 350/2001, Legea 50/1991 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/306804)
+  - Status: unknown · publicată în M.Of. nr. 77/30.01.2026 · effective_date omisă din cauza aplicării diferențiate prevăzute de Art. VI · 7 articole · 0 anexe
+  - Import log: [import-log/2026-08-08-og-7-2026.md](../import-log/2026-08-08-og-7-2026.md)
 - [OUG 31/2025](./oug-31-2025.md)
   - Domain: urbanism · Amends: Legea 350/2001, Legea 50/1991
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/297058`](https://legislatie.just.ro/Public/DetaliiDocument/297058))
