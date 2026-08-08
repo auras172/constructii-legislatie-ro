@@ -1,0 +1,41 @@
+{
+  "title": "Ordonanța de urgență nr. 148 din 12 decembrie 2024 pentru prorogarea unor termene și pentru modificarea unor acte normative",
+  "short_title": "OUG 148/2024",
+  "canonical_citation": "OUG nr. 148/2024",
+  "type": "ordonanta",
+  "number": "148",
+  "year": "2024",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "autorizatii",
+    "securitate-la-incendiu"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-12-12",
+  "publication_date": "2024-12-17",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0OF66MHK7P5N803DQ07O9V18BN",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 1272 din 17 decembrie 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/303051",
+  "version": "forma consolidată afișată de Portal Legislativ; forma de bază publicată în Monitorul Oficial nr. 1272/17.12.2024; textul integral nu este importat",
+  "article_count": 8,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă OUG nr. 148/12.12.2024, emisă de Guvernul României și publicată în M.Of. nr. 1272/17.12.2024. Art. III citează explicit Art. II din Legea nr. 163/2016 și prorogă până la 31 decembrie 2026 termenul referitor la anumite măsuri din Legea nr. 10/1995. Această prorogare nu este modelată ca amends pentru Legea nr. 163/2016 și nu se introduce un tip prorogates care nu există în schema curentă. Portalul nu declară explicit statusul juridic curent și nu este înregistrată o singură effective_date. Metadata-only — textul integral nu este importat.",
+  "related_acts": [
+    "lege-10-1995"
+  ],
+  "tags": [
+    "constructii",
+    "calitate",
+    "autorizatii",
+    "securitate-la-incendiu",
+    "prorogare"
+  ]
+}
