@@ -254,6 +254,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-7-2020",
+      "label": "Legea 7/2020",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "metodologie-mc001-2022",
       "label": "Mc 001-2022",
       "type": "normativ",
@@ -1438,6 +1446,32 @@
       "evidence": "metadata/acts/lege-64-2008.json"
     },
     {
+      "source": "lege-7-2020",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 7/2020 prevede explicit modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908"
+    },
+    {
+      "source": "lege-7-2020",
+      "target": "lege-50-1991",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II din Legea nr. 7/2020 prevede explicit modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908"
+    },
+    {
       "source": "metodologie-mc001-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -2567,8 +2601,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 116,
-    "confirmed_edges": 185,
+    "total_nodes": 117,
+    "confirmed_edges": 187,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

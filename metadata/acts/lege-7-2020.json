@@ -1,0 +1,68 @@
+{
+  "title": "Legea nr. 7 din 6 ianuarie 2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+  "short_title": "Legea 7/2020",
+  "canonical_citation": "Legea nr. 7/2020",
+  "type": "lege",
+  "number": "7",
+  "year": "2020",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "autorizare-constructii",
+    "receptie-constructii",
+    "utilitati-edilitare"
+  ],
+  "status": "unknown",
+  "issue_date": "2020-01-06",
+  "publication_date": "2020-01-08",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "original",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 8 din 8 ianuarie 2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908",
+  "version": "forma originală publicată în Monitorul Oficial nr. 8/08.01.2020; textul integral nu este importat",
+  "article_count": 5,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Legea nr. 7/06.01.2020, emisă de Parlamentul României și publicată în M.Of. nr. 8/08.01.2020. Art. I modifică și completează explicit Legea nr. 10/1995 privind calitatea în construcții, iar Art. II modifică și completează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții. Art. V prevede intrarea în vigoare la 30 de zile numai pentru anumite dispoziții modificate din Legea nr. 10/1995; nu este înregistrată o singură effective_date globală. Portalul nu declară explicit statusul juridic curent, astfel că statusul este păstrat unknown. Metadata-only — textul integral nu este importat.",
+  "amends": [
+    "lege-10-1995",
+    "lege-50-1991"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 7/2020 prevede explicit modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    },
+    {
+      "type": "amends",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II din Legea nr. 7/2020 prevede explicit modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. II",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": [
+    "constructii",
+    "calitate",
+    "autorizatii",
+    "receptie",
+    "utilitati-edilitare",
+    "amendament"
+  ]
+}

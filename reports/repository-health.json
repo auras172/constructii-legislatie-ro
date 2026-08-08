@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:12:11.544Z",
+  "generated_at": "2026-08-08T16:33:51.755Z",
   "summary": {
-    "total_metadata_entries": 116,
+    "total_metadata_entries": 117,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 101,
-    "total_import_logs": 117,
-    "total_relationship_links": 230,
+    "total_metadata_only_acts": 102,
+    "total_import_logs": 118,
+    "total_relationship_links": 234,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -196,7 +196,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 4,
+      "relationships": 5,
       "provenance": true
     },
     {
@@ -277,7 +277,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 5,
+      "relationships": 6,
       "provenance": true
     },
     {
@@ -287,6 +287,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 5,
+      "provenance": true
+    },
+    {
+      "slug": "lege-7-2020",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1059,7 +1068,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 37,
+      "calitate": 38,
       "nzeb": 4,
       "munca": 3,
       "receptie": 2,
@@ -1073,7 +1082,7 @@
     "issuers": {
       "minister": 69,
       "guvern": 17,
-      "parlament": 11,
+      "parlament": 12,
       "autoritate": 19
     },
     "publication_years": {
@@ -1099,7 +1108,7 @@
       "2017": 1,
       "2018": 4,
       "2019": 2,
-      "2020": 3,
+      "2020": 4,
       "2021": 3,
       "2022": 16,
       "2023": 19,
@@ -1108,7 +1117,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 101,
+      "metadata-only": 102,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
