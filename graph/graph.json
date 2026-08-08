@@ -182,6 +182,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-163-2016",
+      "label": "Legea 163/2016",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-193-2019",
       "label": "Legea 193/2019",
       "type": "lege",
@@ -1263,6 +1271,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-141-2026.json"
+    },
+    {
+      "source": "lege-163-2016",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 163/2016 prevede explicit modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291690"
     },
     {
       "source": "lege-193-2019",
@@ -2601,8 +2622,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 117,
-    "confirmed_edges": 187,
+    "total_nodes": 118,
+    "confirmed_edges": 188,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

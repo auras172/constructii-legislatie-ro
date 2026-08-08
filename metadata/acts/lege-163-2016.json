@@ -1,0 +1,54 @@
+{
+  "title": "Legea nr. 163 din 21 iulie 2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții",
+  "short_title": "Legea 163/2016",
+  "canonical_citation": "Legea nr. 163/2016",
+  "type": "lege",
+  "number": "163",
+  "year": "2016",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "garantie-constructii",
+    "atestare-profesionala"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-07-21",
+  "publication_date": "2016-07-25",
+  "publication_medium": "portal-legislativ",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-08",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2075I60PD2KU32XYVGKYL2XMQI",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 561 din 25 iulie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/291690",
+  "version": "forma consolidată afișată de Portal Legislativ; forma de bază publicată în Monitorul Oficial nr. 561/25.07.2016; textul integral nu este importat",
+  "article_count": 5,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Legea nr. 163/21.07.2016, emisă de Parlamentul României și publicată în M.Of. nr. 561/25.07.2016. Art. I modifică și completează explicit Legea nr. 10/1995 privind calitatea în construcții. Art. II stabilește aplicare diferențiată și include măsuri al căror termen a fost prorogat ulterior; nu este înregistrată o singură effective_date. Portalul nu declară explicit statusul juridic curent, astfel că statusul este păstrat unknown. Metadata-only — textul integral nu este importat.",
+  "amends": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 163/2016 prevede explicit modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291690",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-08"
+    }
+  ],
+  "tags": [
+    "constructii",
+    "calitate",
+    "garantie",
+    "atestare-profesionala",
+    "amendament"
+  ]
+}
