@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-08T15:53:52.441Z
+Generated: 2026-08-08T16:12:11.544Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 115 |
+| Total metadata entries | 116 |
 | Full-text acts | 15 |
-| Metadata-only acts | 100 |
-| Import log files | 116 |
-| Total relationship links | 228 |
+| Metadata-only acts | 101 |
+| Import log files | 117 |
+| Total relationship links | 230 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -38,7 +38,7 @@ Generated: 2026-08-08T15:53:52.441Z
 | hg-742-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
+| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-193-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -97,6 +97,7 @@ Generated: 2026-08-08T15:53:52.441Z
 | normativ-pt-r8-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-rtc12-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-rtc2-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| og-31-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-7-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
@@ -140,7 +141,7 @@ Generated: 2026-08-08T15:53:52.441Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 36 |
+| calitate | 37 |
 | anre | 20 |
 | iscir | 16 |
 | incendiu | 13 |
@@ -159,14 +160,14 @@ Generated: 2026-08-08T15:53:52.441Z
 | --- | --- |
 | minister | 69 |
 | autoritate | 19 |
-| guvern | 16 |
+| guvern | 17 |
 | parlament | 11 |
 
 ### Publication Years
 
 | Value | Count |
 | --- | --- |
-| 2023 | 18 |
+| 2023 | 19 |
 | 2022 | 16 |
 | 2010 | 14 |
 | 2013 | 6 |
@@ -200,7 +201,7 @@ Generated: 2026-08-08T15:53:52.441Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 100 |
+| metadata-only | 101 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

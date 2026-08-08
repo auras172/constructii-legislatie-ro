@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-08T15:52:41.663Z",
+  "generated_at": "2026-08-08T16:12:49.825Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OG 31/2023 metadata",
         "feat(metadata): add OG 7/2026 metadata",
         "feat(metadata): add GP 113-04 metadata",
         "feat(metadata): add RTC 6/2022 metadata",
@@ -504,6 +505,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 104
+    "infrastructure_changes": 105
   }
 }
