@@ -1086,6 +1086,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "oug-26-2022",
+      "label": "OUG 26/2022",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-31-2025",
       "label": "OUG 31/2025",
       "type": "ordonanta",
@@ -3135,6 +3143,34 @@
       "evidence": "metadata/acts/oug-21-2004.json"
     },
     {
+      "source": "oug-26-2022",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VIII din OUG nr. 26/2022 prevede că Legea nr. 10/1995 se modifică, inclusiv art. 10 alin. (2).",
+      "source_article": "Art. VIII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252773",
+      "notes": "Relație directă confirmată de textul actului."
+    },
+    {
+      "source": "oug-26-2022",
+      "target": "lege-50-1991",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. V din OUG nr. 26/2022 prevede că după articolul 43^2 din Legea nr. 50/1991 se introduce articolul 43^3.",
+      "source_article": "Art. V",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252773",
+      "notes": "Relație directă confirmată de textul actului."
+    },
+    {
       "source": "oug-31-2025",
       "target": "lege-350-2001",
       "relationship": "amends",
@@ -3231,8 +3267,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 140,
-    "confirmed_edges": 221,
+    "total_nodes": 141,
+    "confirmed_edges": 223,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

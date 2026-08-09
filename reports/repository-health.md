@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-09T21:39:29.050Z
+Generated: 2026-08-09T21:48:04.378Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 140 |
+| Total metadata entries | 141 |
 | Full-text acts | 15 |
-| Metadata-only acts | 125 |
-| Import log files | 141 |
-| Total relationship links | 275 |
+| Metadata-only acts | 126 |
+| Import log files | 142 |
+| Total relationship links | 279 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -45,7 +45,7 @@ Generated: 2026-08-09T21:39:29.050Z
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 13 | ✓ |
+| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 14 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-163-2016 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | lege-177-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -59,7 +59,7 @@ Generated: 2026-08-09T21:39:29.050Z
 | lege-350-2001 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-372-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-481-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
-| lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 6 | ✓ |
+| lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 7 | ✓ |
 | lege-64-2008 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | lege-7-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -153,6 +153,7 @@ Generated: 2026-08-09T21:39:29.050Z
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
+| oug-26-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-31-2025 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | oug-46-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-52-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -165,7 +166,7 @@ Generated: 2026-08-09T21:39:29.050Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 54 |
+| calitate | 55 |
 | anre | 20 |
 | iscir | 16 |
 | incendiu | 15 |
@@ -183,7 +184,7 @@ Generated: 2026-08-09T21:39:29.050Z
 | Value | Count |
 | --- | --- |
 | minister | 74 |
-| guvern | 30 |
+| guvern | 31 |
 | autoritate | 19 |
 | parlament | 17 |
 
@@ -192,7 +193,7 @@ Generated: 2026-08-09T21:39:29.050Z
 | Value | Count |
 | --- | --- |
 | 2023 | 19 |
-| 2022 | 16 |
+| 2022 | 17 |
 | 2010 | 15 |
 | 2025 | 9 |
 | 2013 | 7 |
@@ -228,7 +229,7 @@ Generated: 2026-08-09T21:39:29.050Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 125 |
+| metadata-only | 126 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

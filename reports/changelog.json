@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T21:39:32.737Z",
+  "generated_at": "2026-08-09T21:48:08.245Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 46/2015 metadata",
         "feat(metadata): add OUG 87/2025 metadata",
         "feat(metadata): add Legea 204/2020 metadata",
         "feat(metadata): add HG 203/2003 metadata",
@@ -87,6 +88,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #359 from auras172/codex/metadata-oug-46-2015",
         "Merge pull request #358 from auras172/codex/metadata-oug-87-2025",
         "Merge pull request #357 from auras172/codex/metadata-lege-204-2020",
         "Merge pull request #356 from auras172/codex/metadata-hg-203-2003",
@@ -545,6 +547,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 127
+    "infrastructure_changes": 128
   }
 }
