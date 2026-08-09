@@ -222,6 +222,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-177-2015",
+      "label": "Legea 177/2015",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-193-2019",
       "label": "Legea 193/2019",
       "type": "lege",
@@ -1412,6 +1420,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-08",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291690"
+    },
+    {
+      "source": "lege-177-2015",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 177/2015 prevede explicit că Legea nr. 10/1995 se modifică și se completează, iar Art. II introduce înlocuiri de sintagme în cuprinsul aceleiași legi.",
+      "source_article": "Art. I și Art. II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/169348",
+      "notes": "Art. IV este documentat ca obligație de revizuire/actualizare a unor acte, fără relații graph suplimentare; Art. V este efect de republicare, nu relație distinctă."
     },
     {
       "source": "lege-193-2019",
@@ -2799,8 +2821,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 126,
-    "confirmed_edges": 197,
+    "total_nodes": 127,
+    "confirmed_edges": 198,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
