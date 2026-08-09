@@ -158,6 +158,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-766-1997",
+      "label": "HG 766/1997",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-862-2016",
       "label": "HG 862/2016",
       "type": "hotarare",
@@ -1262,6 +1270,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-05",
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871"
+    },
+    {
+      "source": "hg-766-1997",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG 766/1997 precizează că hotărârea este emisă în temeiul art. 38 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0EML7SW7KI81W0T1P0B5TXQTO3",
+      "notes": "Relația este către actul-cadru existent; cele șapte regulamente aprobate nu sunt modelate ca noduri separate."
     },
     {
       "source": "hg-862-2016",
@@ -2689,8 +2711,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 121,
-    "confirmed_edges": 192,
+    "total_nodes": 122,
+    "confirmed_edges": 193,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

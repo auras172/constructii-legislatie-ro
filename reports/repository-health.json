@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T09:06:53.124Z",
+  "generated_at": "2026-08-09T09:22:10.286Z",
   "summary": {
-    "total_metadata_entries": 121,
+    "total_metadata_entries": 122,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 106,
-    "total_import_logs": 122,
-    "total_relationship_links": 240,
+    "total_metadata_only_acts": 107,
+    "total_import_logs": 123,
+    "total_relationship_links": 241,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -174,6 +174,15 @@
     },
     {
       "slug": "hg-742-2018",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-766-1997",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1104,7 +1113,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 41,
+      "calitate": 42,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1117,7 +1126,7 @@
     },
     "issuers": {
       "minister": 69,
-      "guvern": 20,
+      "guvern": 21,
       "parlament": 13,
       "autoritate": 19
     },
@@ -1126,6 +1135,7 @@
       "1994": 1,
       "1995": 2,
       "1996": 1,
+      "1997": 1,
       "1999": 1,
       "2000": 2,
       "2001": 2,
@@ -1154,7 +1164,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 106,
+      "metadata-only": 107,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
