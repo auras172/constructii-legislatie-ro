@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T14:10:49.101Z",
+  "generated_at": "2026-08-09T15:00:02.154Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRT 3482/2013 metadata",
         "feat(metadata): add Ordin MDRT 277/2012 metadata",
         "feat(metadata): add Ordin MDRT 1496/2011 metadata",
         "feat(metadata): add Legea 177/2015 metadata",
@@ -66,6 +67,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh repository housekeeping status",
         "docs: refresh repository status after PR 332",
         "docs: refresh status after RTC 7 import",
         "docs: align status after ANRE 59 full-text import",
@@ -77,6 +79,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #349 from auras172/codex/housekeeping-refresh-2026-08-09",
+        "Merge pull request #348 from auras172/codex/metadata-ordin-mdrt-3482-2013",
         "Merge pull request #347 from auras172/codex/metadata-ordin-mdrt-277-2012",
         "Merge pull request #346 from auras172/codex/metadata-ordin-mdrt-1496-2011",
         "Merge pull request #345 from auras172/codex/metadata-hg-668-2017-fix",
@@ -525,6 +529,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 118
+    "infrastructure_changes": 119
   }
 }

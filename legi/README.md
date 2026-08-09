@@ -21,6 +21,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/291690)
   - Status: unknown · publicată în M.Of. nr. 561/25.07.2016 · effective_date omisă din cauza aplicării diferențiate și prorogărilor · 5 articole · 0 anexe
   - Import log: [import-log/2026-08-08-lege-163-2016.md](../import-log/2026-08-08-lege-163-2016.md)
+- [OG 18/2019](./og-18-2019.md)
+  - Domain: calitate · Related: Legea 163/2016 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/217292)
+  - Status: unknown · publicată în M.Of. nr. 694/22.08.2019 · articol unic · prorogă până la 25.08.2023 termenul din art. II al Legii 163/2016; effective_date omisă; Legea 190/2021 este modificator ulterior extern
 - [OUG 148/2024](./oug-148-2024.md)
   - Domain: calitate · Related: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/303051)
