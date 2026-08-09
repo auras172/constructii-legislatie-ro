@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T09:22:10.286Z",
+  "generated_at": "2026-08-09T09:36:52.777Z",
   "summary": {
-    "total_metadata_entries": 122,
+    "total_metadata_entries": 123,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 107,
-    "total_import_logs": 123,
-    "total_relationship_links": 241,
+    "total_metadata_only_acts": 108,
+    "total_import_logs": 124,
+    "total_relationship_links": 242,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -156,6 +156,15 @@
     },
     {
       "slug": "hg-525-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-537-2007",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1118,7 +1127,7 @@
       "munca": 3,
       "receptie": 3,
       "isc": 2,
-      "incendiu": 13,
+      "incendiu": 14,
       "anre": 20,
       "autorizatii": 3,
       "mediu": 3,
@@ -1126,7 +1135,7 @@
     },
     "issuers": {
       "minister": 69,
-      "guvern": 21,
+      "guvern": 22,
       "parlament": 13,
       "autoritate": 19
     },
@@ -1144,7 +1153,7 @@
       "2004": 2,
       "2005": 4,
       "2006": 4,
-      "2007": 1,
+      "2007": 2,
       "2008": 3,
       "2009": 3,
       "2010": 14,
@@ -1164,7 +1173,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 107,
+      "metadata-only": 108,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

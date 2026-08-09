@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-09T09:22:10.286Z
+Generated: 2026-08-09T09:36:52.777Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 122 |
+| Total metadata entries | 123 |
 | Full-text acts | 15 |
-| Metadata-only acts | 107 |
-| Import log files | 123 |
-| Total relationship links | 241 |
+| Metadata-only acts | 108 |
+| Import log files | 124 |
+| Total relationship links | 242 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -35,6 +35,7 @@ Generated: 2026-08-09T09:22:10.286Z
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | hg-525-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-537-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-571-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-742-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-766-1997 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -150,7 +151,7 @@ Generated: 2026-08-09T09:22:10.286Z
 | calitate | 42 |
 | anre | 20 |
 | iscir | 16 |
-| incendiu | 13 |
+| incendiu | 14 |
 | urbanism | 9 |
 | executie | 4 |
 | nzeb | 4 |
@@ -165,7 +166,7 @@ Generated: 2026-08-09T09:22:10.286Z
 | Value | Count |
 | --- | --- |
 | minister | 69 |
-| guvern | 21 |
+| guvern | 22 |
 | autoritate | 19 |
 | parlament | 13 |
 
@@ -193,6 +194,7 @@ Generated: 2026-08-09T09:22:10.286Z
 | 2000 | 2 |
 | 2001 | 2 |
 | 2004 | 2 |
+| 2007 | 2 |
 | 2019 | 2 |
 | 1991 | 1 |
 | 1994 | 1 |
@@ -200,7 +202,6 @@ Generated: 2026-08-09T09:22:10.286Z
 | 1997 | 1 |
 | 1999 | 1 |
 | 2003 | 1 |
-| 2007 | 1 |
 | 2011 | 1 |
 | 2015 | 1 |
 | 2017 | 1 |
@@ -209,7 +210,7 @@ Generated: 2026-08-09T09:22:10.286Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 107 |
+| metadata-only | 108 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

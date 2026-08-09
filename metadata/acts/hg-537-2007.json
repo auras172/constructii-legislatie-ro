@@ -1,0 +1,60 @@
+{
+  "title": "Hotărârea Guvernului nr. 537 din 6 iunie 2007 privind stabilirea şi sancţionarea contravenţiilor la normele de prevenire şi stingere a incendiilor",
+  "short_title": "HG 537/2007",
+  "canonical_citation": "HG nr. 537/2007",
+  "type": "hotarare",
+  "number": "537",
+  "year": "2007",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "prevenire-stingere",
+    "contraventii",
+    "sanctiuni",
+    "constructii",
+    "instalatii"
+  ],
+  "status": "unknown",
+  "issue_date": "2007-06-06",
+  "effective_date": "2007-08-11",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2007-06-12",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82739",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 395 din 12 iunie 2007",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/82739",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ",
+  "article_count": 6,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii şi publicarea în M.Of. nr. 395/12.06.2007. Preambulul citează explicit art. 45 alin. (3) din Legea nr. 307/2006 privind apărarea împotriva incendiilor, iar Art. 5 prevede intrarea în vigoare la 60 de zile de la publicare; effective_date 2007-08-11 este o derivare calendaristică documentată. Art. 6 abrogă HG 678/1998, act extern neimportat. Statusul juridic curent nu este declarat explicit şi rămâne unknown. Textul legal nu este importat.",
+  "implements": [
+    "lege-307-2006"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-307-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG 537/2007 indică emiterea în temeiul art. 45 alin. (3) din Legea nr. 307/2006 privind apărarea împotriva incendiilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82739",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "Relația este limitată la actul-cadru explicit citat; nu se adaugă relații tematice către alte acte de incendiu sau construcții."
+    }
+  ],
+  "tags": [
+    "incendiu",
+    "prevenire-stingere",
+    "contraventii",
+    "sanctiuni",
+    "constructii",
+    "instalatii",
+    "hotarare-guvern"
+  ]
+}
