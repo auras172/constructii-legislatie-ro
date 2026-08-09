@@ -1068,6 +1068,14 @@
       "domain": "calitate",
       "status": "unknown",
       "import_method": "metadata-only"
+    },
+    {
+      "id": "oug-6-2018",
+      "label": "OUG 6/2018",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
     }
   ],
   "edges": [
@@ -1508,6 +1516,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292"
+    },
+    {
+      "source": "lege-163-2016",
+      "target": "oug-6-2018",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "OUG nr. 6/2018 prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2019; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic din OUG 6/2018",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070"
     },
     {
       "source": "lege-177-2015",
@@ -3062,11 +3083,24 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302698",
       "notes": "Singura relație repo-locală; nu sunt adăugate relații pentru acte externe sau pentru referințe fără țintă locală."
+    },
+    {
+      "source": "oug-6-2018",
+      "target": "lege-163-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Articolul unic prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2019; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070"
     }
   ],
   "stats": {
-    "total_nodes": 133,
-    "confirmed_edges": 213,
+    "total_nodes": 134,
+    "confirmed_edges": 215,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
