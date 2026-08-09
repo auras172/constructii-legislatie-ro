@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-09T12:54:26.195Z
+Generated: 2026-08-09T13:27:24.763Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 128 |
+| Total metadata entries | 129 |
 | Full-text acts | 15 |
-| Metadata-only acts | 113 |
-| Import log files | 129 |
-| Total relationship links | 250 |
+| Metadata-only acts | 114 |
+| Import log files | 130 |
+| Total relationship links | 252 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -139,6 +139,7 @@ Generated: 2026-08-09T12:54:26.195Z
 | ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -162,15 +163,15 @@ Generated: 2026-08-09T12:54:26.195Z
 | nzeb | 4 |
 | munca | 3 |
 | receptie | 3 |
+| isc | 3 |
 | autorizatii | 3 |
 | mediu | 3 |
-| isc | 2 |
 
 ### Issuers
 
 | Value | Count |
 | --- | --- |
-| minister | 70 |
+| minister | 71 |
 | guvern | 24 |
 | autoritate | 19 |
 | parlament | 15 |
@@ -200,6 +201,7 @@ Generated: 2026-08-09T12:54:26.195Z
 | 2001 | 2 |
 | 2004 | 2 |
 | 2007 | 2 |
+| 2011 | 2 |
 | 2015 | 2 |
 | 2017 | 2 |
 | 2019 | 2 |
@@ -209,13 +211,12 @@ Generated: 2026-08-09T12:54:26.195Z
 | 1997 | 1 |
 | 1999 | 1 |
 | 2003 | 1 |
-| 2011 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 113 |
+| metadata-only | 114 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
