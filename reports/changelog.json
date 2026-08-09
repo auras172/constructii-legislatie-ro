@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:54:26.898Z",
+  "generated_at": "2026-08-09T13:27:25.466Z",
   "months": [
     {
       "month": "2026-08",
@@ -71,9 +71,11 @@
         "docs: refresh status after OUG 31 import (#267)"
       ],
       "fixes": [
+        "fix(metadata): add frontmatter parity for HG 668/2017",
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #345 from auras172/codex/metadata-hg-668-2017-fix",
         "Merge pull request #326 from auras172/codex/metadata-rtc6-2022",
         "Merge pull request #324 from auras172/codex/metadata-pt-c14-2021",
         "Merge pull request #323 from auras172/codex/metadata-ordin-anre-2-2023",

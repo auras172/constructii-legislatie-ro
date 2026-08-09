@@ -600,6 +600,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: incendiu · Implements: Legea 307/2006 · metadata-only
   - Official source checked: [Portal Legislativ, document 117899](https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899)
   - Status: unknown · M.Of. nr. 238/14.04.2010 · 3 articles · 1 annex · metodologia aprobată nu este importată; Ordinul 252/2007 este abrogat ca referință externă; effective_date omisă
+- [Ordin MDRT 1496/2011](./ordin-mdrt-1496-2011.md)
+  - Domain: isc · Implements: Legea 10/1995, OG 63/2001 · metadata-only
+  - Official source checked: [Portal Legislativ, document 129692](https://legislatie.just.ro/Public/DetaliiDocumentAfis/129692)
+  - Status: unknown · M.Of. nr. 458/30.06.2011 · 4 articles · 1 annex · effective_date omisă · Ordinul 154/2010 este predecessor extern abrogat; Ordinul 277/2012 și Ordinul 3482/2013 sunt modificatori externi · procedura nu este importată
 - [Legea 207/2025](./lege-207-2025.md)
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 305018](https://legislatie.just.ro/Public/DetaliiDocument/305018) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G30W092Z31N8YF1QX847MU1I1X1)

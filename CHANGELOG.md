@@ -74,9 +74,11 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Fixes
+- fix(metadata): add frontmatter parity for HG 668/2017
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #345 from auras172/codex/metadata-hg-668-2017-fix
 - Merge pull request #326 from auras172/codex/metadata-rtc6-2022
 - Merge pull request #324 from auras172/codex/metadata-pt-c14-2021
 - Merge pull request #323 from auras172/codex/metadata-ordin-anre-2-2023
