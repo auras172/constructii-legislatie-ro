@@ -142,6 +142,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-537-2007",
+      "label": "HG 537/2007",
+      "type": "hotarare",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-571-2016",
       "label": "HG 571/2016",
       "type": "hotarare",
@@ -1238,6 +1246,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-525-2013.json"
+    },
+    {
+      "source": "hg-537-2007",
+      "target": "lege-307-2006",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG 537/2007 indică emiterea în temeiul art. 45 alin. (3) din Legea nr. 307/2006 privind apărarea împotriva incendiilor.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82739",
+      "notes": "Relația este limitată la actul-cadru explicit citat; nu se adaugă relații tematice către alte acte de incendiu sau construcții."
     },
     {
       "source": "hg-571-2016",
@@ -2711,8 +2733,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 122,
-    "confirmed_edges": 193,
+    "total_nodes": 123,
+    "confirmed_edges": 194,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

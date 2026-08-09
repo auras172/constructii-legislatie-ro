@@ -592,6 +592,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0EML7SW7KI81W0T1P0B5TXQTO3)
   - Status: unknown · M.Of. nr. 352/10.12.1997 · forma actualizată până la 27.02.2005 · 3 articles · 7 originally approved regulations · effective_date omisă; anexele 6 și 7 sunt notate ca abrogate
+- [HG 537/2007](./hg-537-2007.md)
+  - Domain: incendiu · Implements: Legea 307/2006 · metadata-only
+  - Official source checked: [Portal Legislativ, document 82739](https://legislatie.just.ro/Public/DetaliiDocument/82739)
+  - Status: unknown · M.Of. nr. 395/12.06.2007 · intră în vigoare la 60 de zile de la publicare, effective_date derivată 11.08.2007 · 6 articles · Art. 6 abrogă HG 678/1998 (extern)
 
 ## Naming convention proposal
 
