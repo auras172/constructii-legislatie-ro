@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add OUG 52/2025 metadata
 - feat(metadata): add Legea 207/2025 metadata
 - feat(metadata): add Ordin MAI 87/2010 metadata
 - feat(metadata): add HG 537/2007 metadata
@@ -70,6 +71,9 @@ All notable changes to constructii-legislatie-ro.
 - docs: align status after ANRE 59 full-text import
 - docs: refresh repository status at 100 acts
 - docs: refresh status after OUG 31 import (#267)
+
+### Fixes
+- fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
 - Merge pull request #326 from auras172/codex/metadata-rtc6-2022

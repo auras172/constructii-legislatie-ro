@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-09T10:27:13.499Z
+Generated: 2026-08-09T11:04:44.990Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 126 |
+| Total metadata entries | 127 |
 | Full-text acts | 15 |
-| Metadata-only acts | 111 |
-| Import log files | 127 |
-| Total relationship links | 247 |
+| Metadata-only acts | 112 |
+| Import log files | 128 |
+| Total relationship links | 249 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -42,9 +42,10 @@ Generated: 2026-08-09T10:27:13.499Z
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 9 | ✓ |
+| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 10 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-163-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| lege-177-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-193-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-207-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -151,7 +152,7 @@ Generated: 2026-08-09T10:27:13.499Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 44 |
+| calitate | 45 |
 | anre | 20 |
 | iscir | 16 |
 | incendiu | 15 |
@@ -171,7 +172,7 @@ Generated: 2026-08-09T10:27:13.499Z
 | minister | 70 |
 | guvern | 23 |
 | autoritate | 19 |
-| parlament | 14 |
+| parlament | 15 |
 
 ### Publication Years
 
@@ -198,6 +199,7 @@ Generated: 2026-08-09T10:27:13.499Z
 | 2001 | 2 |
 | 2004 | 2 |
 | 2007 | 2 |
+| 2015 | 2 |
 | 2019 | 2 |
 | 1991 | 1 |
 | 1994 | 1 |
@@ -206,14 +208,13 @@ Generated: 2026-08-09T10:27:13.499Z
 | 1999 | 1 |
 | 2003 | 1 |
 | 2011 | 1 |
-| 2015 | 1 |
 | 2017 | 1 |
 
 ### Import Methods
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 111 |
+| metadata-only | 112 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

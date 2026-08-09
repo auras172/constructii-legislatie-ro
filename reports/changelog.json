@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T10:27:15.161Z",
+  "generated_at": "2026-08-09T11:04:46.422Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 52/2025 metadata",
         "feat(metadata): add Legea 207/2025 metadata",
         "feat(metadata): add Ordin MAI 87/2010 metadata",
         "feat(metadata): add HG 537/2007 metadata",
@@ -68,7 +69,9 @@
         "docs: refresh repository status at 100 acts",
         "docs: refresh status after OUG 31 import (#267)"
       ],
-      "fixes": [],
+      "fixes": [
+        "fix(metadata): restore OUG 52 frontmatter parity"
+      ],
       "misc": [
         "Merge pull request #326 from auras172/codex/metadata-rtc6-2022",
         "Merge pull request #324 from auras172/codex/metadata-pt-c14-2021",
@@ -515,6 +518,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 114
+    "infrastructure_changes": 115
   }
 }
