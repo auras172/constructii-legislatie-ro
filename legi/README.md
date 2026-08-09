@@ -604,6 +604,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0EML7SW7KI81W0T1P0B5TXQTO3)
   - Status: unknown · M.Of. nr. 352/10.12.1997 · forma actualizată până la 27.02.2005 · 3 articles · 7 originally approved regulations · effective_date omisă; anexele 6 și 7 sunt notate ca abrogate
+- [HG 203/2003](./hg-203-2003.md)
+  - Domain: calitate · Implements: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 42096](https://legislatie.just.ro/Public/DetaliiDocument/42096)
+  - Status: unknown · M.Of. nr. 139/04.03.2003 · forma consolidată până la 30.06.2018 · 5 articles · 2 annexes, dintre care anexa nr. 2 este abrogată · effective_date omisă
+  - Import log: [import-log/2026-08-09-hg-203-2003.md](../import-log/2026-08-09-hg-203-2003.md)
 - [HG 808/2005](./hg-808-2005.md)
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 64136](https://legislatie.just.ro/Public/DetaliiDocument/64136)

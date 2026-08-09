@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:08:57.466Z",
+  "generated_at": "2026-08-09T20:29:01.496Z",
   "summary": {
-    "total_metadata_entries": 136,
+    "total_metadata_entries": 137,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 121,
-    "total_import_logs": 137,
-    "total_relationship_links": 268,
+    "total_metadata_only_acts": 122,
+    "total_import_logs": 138,
+    "total_relationship_links": 269,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -111,6 +111,15 @@
     },
     {
       "slug": "hg-1425-2006",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-203-2003",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1239,7 +1248,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 50,
+      "calitate": 51,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1252,7 +1261,7 @@
     },
     "issuers": {
       "minister": 74,
-      "guvern": 27,
+      "guvern": 28,
       "parlament": 16,
       "autoritate": 19
     },
@@ -1266,7 +1275,7 @@
       "2000": 2,
       "2001": 2,
       "2002": 3,
-      "2003": 1,
+      "2003": 2,
       "2004": 2,
       "2005": 5,
       "2006": 4,
@@ -1291,7 +1300,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 121,
+      "metadata-only": 122,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

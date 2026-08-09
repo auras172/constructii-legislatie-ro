@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-09T19:09:00.183Z",
+  "generated_at": "2026-08-09T20:29:02.591Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 203/2003 metadata",
+        "feat(metadata): add Ordin ISC 4093/2024 metadata",
         "feat(metadata): add HG 808/2005 metadata",
         "feat(metadata): add OUG 6/2018 metadata",
         "feat(metadata): add OG 18/2019 metadata",
@@ -83,6 +85,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #355 from auras172/codex/metadata-ordin-isc-4093-2024",
         "Merge pull request #354 from auras172/codex/metadata-hg-808-2005",
         "Merge pull request #353 from auras172/codex/metadata-oug-6-2018",
         "Merge pull request #352 from auras172/codex/metadata-og-18-2019-v2",
@@ -537,6 +540,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 123
+    "infrastructure_changes": 125
   }
 }
