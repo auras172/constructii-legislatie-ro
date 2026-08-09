@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-09T09:59:47.105Z",
+  "generated_at": "2026-08-09T10:12:36.088Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 124,
+    "acts_total": 125,
     "acts_full_text": 15,
-    "acts_metadata_only": 109,
+    "acts_metadata_only": 110,
     "article_anchors_total": 881,
-    "import_logs_total": 125,
+    "import_logs_total": 126,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 195,
+    "confirmed_relationships": 196,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -430,6 +430,19 @@
       "anchor_count": 0,
       "file": "legi/lege-193-2019.md",
       "metadata_file": "metadata/acts/lege-193-2019.json"
+    },
+    {
+      "slug": "lege-207-2025",
+      "title": "Legea nr. 207 din 8 decembrie 2025 pentru modificarea art. 22 din Legea nr. 10/1995 privind calitatea în construcții, precum și pentru completarea art. 26 din Legea cadastrului și a publicității imobiliare nr. 7/1996",
+      "short_title": "Legea 207/2025",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/lege-207-2025.md",
+      "metadata_file": "metadata/acts/lege-207-2025.json"
     },
     {
       "slug": "lege-292-2018",

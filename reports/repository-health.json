@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T09:59:47.019Z",
+  "generated_at": "2026-08-09T10:12:36.008Z",
   "summary": {
-    "total_metadata_entries": 124,
+    "total_metadata_entries": 125,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 109,
-    "total_import_logs": 125,
-    "total_relationship_links": 243,
+    "total_metadata_only_acts": 110,
+    "total_import_logs": 126,
+    "total_relationship_links": 245,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -232,7 +232,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 7,
+      "relationships": 8,
       "provenance": true
     },
     {
@@ -260,6 +260,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-207-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -1131,7 +1140,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 42,
+      "calitate": 43,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1145,7 +1154,7 @@
     "issuers": {
       "minister": 70,
       "guvern": 22,
-      "parlament": 13,
+      "parlament": 14,
       "autoritate": 19
     },
     "publication_years": {
@@ -1178,11 +1187,11 @@
       "2022": 16,
       "2023": 19,
       "2024": 5,
-      "2025": 6,
+      "2025": 7,
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 109,
+      "metadata-only": 110,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
