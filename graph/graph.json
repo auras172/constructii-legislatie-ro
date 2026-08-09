@@ -270,6 +270,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-204-2020",
+      "label": "Legea 204/2020",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-207-2025",
       "label": "Legea 207/2025",
       "type": "lege",
@@ -1628,6 +1636,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-193-2019.json"
+    },
+    {
+      "source": "lege-204-2020",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 204/2020 prevede explicit că Legea nr. 10/1995 privind calitatea în construcții se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230322",
+      "notes": "Art. II conține reguli tranzitorii și de aplicare; nu este modelată o effective_date globală. Nu sunt adăugate relații pentru acte citate doar contextual."
     },
     {
       "source": "lege-207-2025",
@@ -3165,8 +3187,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 137,
-    "confirmed_edges": 218,
+    "total_nodes": 138,
+    "confirmed_edges": 219,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
