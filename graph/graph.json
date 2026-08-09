@@ -918,6 +918,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-148-2024",
+      "label": "OUG 148/2024",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-17-2026",
       "label": "OUG 17/2026",
       "type": "ordonanta",
@@ -1254,6 +1262,13 @@
     {
       "source": "lege-10-1995",
       "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "oug-148-2024",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
@@ -2527,6 +2542,13 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205649"
     },
     {
+      "source": "oug-148-2024",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/oug-148-2024.json"
+    },
+    {
       "source": "oug-17-2026",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -2622,8 +2644,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 118,
-    "confirmed_edges": 188,
+    "total_nodes": 119,
+    "confirmed_edges": 190,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

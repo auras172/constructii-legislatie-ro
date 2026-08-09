@@ -21,6 +21,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/291690)
   - Status: unknown · publicată în M.Of. nr. 561/25.07.2016 · effective_date omisă din cauza aplicării diferențiate și prorogărilor · 5 articole · 0 anexe
   - Import log: [import-log/2026-08-08-lege-163-2016.md](../import-log/2026-08-08-lege-163-2016.md)
+- [OUG 148/2024](./oug-148-2024.md)
+  - Domain: calitate · Related: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/303051)
+  - Status: unknown · publicată în M.Of. nr. 1272/17.12.2024 · effective_date omisă din cauza termenelor și aplicărilor diferențiate · 8 articole · 0 anexe
+  - Import log: [import-log/2026-08-08-oug-148-2024.md](../import-log/2026-08-08-oug-148-2024.md)
 - [Legea 7/2020](./lege-7-2020.md)
   - Domain: calitate · Amends: Legea 10/1995, Legea 50/1991 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/221908)

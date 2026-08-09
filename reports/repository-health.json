@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T18:22:43.646Z",
+  "generated_at": "2026-08-08T19:53:52.627Z",
   "summary": {
-    "total_metadata_entries": 118,
+    "total_metadata_entries": 119,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 103,
-    "total_import_logs": 119,
-    "total_relationship_links": 236,
+    "total_metadata_only_acts": 104,
+    "total_import_logs": 120,
+    "total_relationship_links": 238,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -196,7 +196,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 6,
+      "relationships": 7,
       "provenance": true
     },
     {
@@ -1037,6 +1037,15 @@
       "provenance": true
     },
     {
+      "slug": "oug-148-2024",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "oug-17-2026",
       "full_text": false,
       "metadata": true,
@@ -1077,7 +1086,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 39,
+      "calitate": 40,
       "nzeb": 4,
       "munca": 3,
       "receptie": 2,
@@ -1090,7 +1099,7 @@
     },
     "issuers": {
       "minister": 69,
-      "guvern": 17,
+      "guvern": 18,
       "parlament": 13,
       "autoritate": 19
     },
@@ -1121,12 +1130,12 @@
       "2021": 3,
       "2022": 16,
       "2023": 19,
-      "2024": 4,
+      "2024": 5,
       "2025": 6,
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 103,
+      "metadata-only": 104,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
