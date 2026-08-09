@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDRT 277/2012 metadata
 - feat(metadata): add Ordin MDRT 1496/2011 metadata
 - feat(metadata): add Legea 177/2015 metadata
 - feat(metadata): add OUG 52/2025 metadata
@@ -79,6 +80,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #347 from auras172/codex/metadata-ordin-mdrt-277-2012
 - Merge pull request #346 from auras172/codex/metadata-ordin-mdrt-1496-2011
 - Merge pull request #345 from auras172/codex/metadata-hg-668-2017-fix
 - Merge pull request #326 from auras172/codex/metadata-rtc6-2022

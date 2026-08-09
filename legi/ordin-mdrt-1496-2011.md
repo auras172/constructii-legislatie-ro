@@ -20,6 +20,7 @@ tags:
 import_method: metadata-only
 amended_by:
   - ordin-mdrt-277-2012
+  - ordin-mdrt-3482-2013
 ---
 
 # Ordin MDRT 1496/2011
@@ -43,6 +44,6 @@ Preambulul citează explicit art. 30 din Legea nr. 10/1995 și Ordonanța Guvern
 
 ## Referințe externe
 
-Art. 3 abrogă Ordinul ISC nr. 154/2010. ISC documentează ulterior modificări prin Ordinul MDRT nr. 277/2012 și Ordinul MDRT nr. 3482/2013. Aceste acte nu sunt importate și nu sunt create ca noduri grafice.
+Art. 3 abrogă Ordinul ISC nr. 154/2010. Ordinul MDRT nr. 277/2012 și Ordinul MDRT nr. 3482/2013 sunt importate local ca acte metadata-only modificatoare.
 
 Nu se adaugă relații către HG 272/1994, HG 273/1994, HG 925/1995, HG 525/2013 sau alte acte doar pe baza domeniului comun.

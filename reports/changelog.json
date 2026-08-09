@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T13:48:42.564Z",
+  "generated_at": "2026-08-09T14:10:49.101Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRT 277/2012 metadata",
         "feat(metadata): add Ordin MDRT 1496/2011 metadata",
         "feat(metadata): add Legea 177/2015 metadata",
         "feat(metadata): add OUG 52/2025 metadata",
@@ -76,6 +77,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #347 from auras172/codex/metadata-ordin-mdrt-277-2012",
         "Merge pull request #346 from auras172/codex/metadata-ordin-mdrt-1496-2011",
         "Merge pull request #345 from auras172/codex/metadata-hg-668-2017-fix",
         "Merge pull request #326 from auras172/codex/metadata-rtc6-2022",
@@ -523,6 +525,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 117
+    "infrastructure_changes": 118
   }
 }

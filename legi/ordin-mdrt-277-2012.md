@@ -45,4 +45,4 @@ Art. I modifică și completează explicit procedura aprobată prin Ordinul MDRT
 - `implements -> lege-10-1995`
 - `implements -> og-63-2001`
 
-Ordinul MDRT nr. 3482/2013 este documentat ca modificator ulterior extern, fără nod grafic.
+Ordinul MDRT nr. 3482/2013 este importat local ca modificator ulterior metadata-only.
