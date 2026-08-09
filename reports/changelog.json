@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T11:04:46.422Z",
+  "generated_at": "2026-08-09T12:54:26.898Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 177/2015 metadata",
         "feat(metadata): add OUG 52/2025 metadata",
         "feat(metadata): add Legea 207/2025 metadata",
         "feat(metadata): add Ordin MAI 87/2010 metadata",
@@ -518,6 +519,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 115
+    "infrastructure_changes": 116
   }
 }
