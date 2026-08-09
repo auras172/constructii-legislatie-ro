@@ -230,6 +230,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-207-2025",
+      "label": "Legea 207/2025",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -1416,6 +1424,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-193-2019.json"
+    },
+    {
+      "source": "lege-207-2025",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 207/2025 prevede că art. 22 din Legea nr. 10/1995 privind calitatea în construcții se modifică și va avea următorul cuprins.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305018",
+      "notes": "Art. II privește Legea nr. 7/1996, absentă din repo, și este documentat ca referință externă fără edge."
     },
     {
       "source": "lege-292-2018",
@@ -2755,8 +2777,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 124,
-    "confirmed_edges": 195,
+    "total_nodes": 125,
+    "confirmed_edges": 196,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

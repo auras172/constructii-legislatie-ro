@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T09:59:47.795Z",
+  "generated_at": "2026-08-09T10:12:36.761Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MAI 87/2010 metadata",
         "feat(metadata): add HG 537/2007 metadata",
         "feat(metadata): add HG 766/1997 metadata",
         "feat(metadata): add HG 273/1994 metadata",
@@ -513,6 +514,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 112
+    "infrastructure_changes": 113
   }
 }
