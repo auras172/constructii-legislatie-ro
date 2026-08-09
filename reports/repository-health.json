@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T14:49:08.099Z",
+  "generated_at": "2026-08-09T15:05:45.097Z",
   "summary": {
-    "total_metadata_entries": 132,
+    "total_metadata_entries": 133,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 117,
-    "total_import_logs": 133,
-    "total_relationship_links": 262,
+    "total_metadata_only_acts": 118,
+    "total_import_logs": 134,
+    "total_relationship_links": 264,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -259,7 +259,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 2,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -812,6 +812,15 @@
       "provenance": true
     },
     {
+      "slug": "og-18-2019",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "og-31-2023",
       "full_text": false,
       "metadata": true,
@@ -1203,7 +1212,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 47,
+      "calitate": 48,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1216,7 +1225,7 @@
     },
     "issuers": {
       "minister": 73,
-      "guvern": 24,
+      "guvern": 25,
       "parlament": 16,
       "autoritate": 19
     },
@@ -1245,7 +1254,7 @@
       "2016": 4,
       "2017": 2,
       "2018": 4,
-      "2019": 2,
+      "2019": 3,
       "2020": 4,
       "2021": 4,
       "2022": 16,
@@ -1255,7 +1264,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 117,
+      "metadata-only": 118,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

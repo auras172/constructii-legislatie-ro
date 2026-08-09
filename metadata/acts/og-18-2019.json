@@ -1,0 +1,41 @@
+{
+  "title": "Ordonanța nr. 18 din 21 august 2019 privind prorogarea termenului prevăzut la art. II din Legea nr. 163/2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții",
+  "short_title": "OG 18/2019",
+  "canonical_citation": "Ordonanța Guvernului nr. 18/2019",
+  "type": "ordonanta",
+  "number": "18",
+  "year": "2019",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["constructii", "calitate-constructii", "prorogare-termene"],
+  "status": "unknown",
+  "issue_date": "2019-08-21",
+  "publication_date": "2019-08-22",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 694 din 22 august 2019",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma afișată de Portal Legislativ; articolul unic este notat ca modificat ulterior prin Legea 190/2021",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 694/22.08.2019. Articolul unic prorogă explicit până la 25 august 2023 termenul prevăzut la art. II din Legea nr. 163/2016, referitor la intrarea în vigoare a măsurilor prevăzute la art. 9 lit. m), n) și o) din Legea nr. 10/1995. Relația cu Legea 163/2016 este modelată ca related_to deoarece schema nu are relația prorogates și nu este folosit amends pentru o prorogare de termen. Portalul nu declară explicit un status juridic curent și nu afișează o clauză distinctă de intrare în vigoare; effective_date este omisă. Legea nr. 190/2021 este documentată ca modificator ulterior extern în acest import; textul legal integral nu este importat.",
+  "related_acts": ["lege-163-2016"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-163-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2023; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "source_article": "Articol unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    }
+  ],
+  "tags": ["constructii", "calitate", "prorogare", "ordonanta"]
+}
