@@ -102,6 +102,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-203-2003",
+      "label": "HG 203/2003",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-273-1994",
       "label": "HG 273/1994",
       "type": "hotarare",
@@ -1273,6 +1281,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-02",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138"
+    },
+    {
+      "source": "hg-203-2003",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul HG nr. 203/2003 precizează că hotărârea este adoptată în temeiul art. 40 alin. (1) lit. a) și b) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42096",
+      "notes": "Relația privește actul-cadru existent. HG nr. 650/2001, Legea nr. 500/2002, OG nr. 16/2014 și HG nr. 369/2018 sunt documentate ca referințe externe, fără noduri sau relații suplimentare."
     },
     {
       "source": "hg-273-1994",
@@ -3143,8 +3165,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 136,
-    "confirmed_edges": 217,
+    "total_nodes": 137,
+    "confirmed_edges": 218,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
