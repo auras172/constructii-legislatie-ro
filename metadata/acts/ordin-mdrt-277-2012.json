@@ -27,7 +27,7 @@
   "article_count": 2,
   "annex_count": 6,
   "import_method": "metadata-only",
-  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 216/02.04.2012. Art. I modifică și completează explicit Procedura de autorizare a diriginților de șantier aprobată prin Ordinul MDRT nr. 1496/2011. Preambulul citează explicit art. 30 din Legea nr. 10/1995 și Ordonanța Guvernului nr. 63/2001 privind înființarea ISC. Art. II dispune publicarea, fără o clauză calendaristică distinctă pentru intrarea în vigoare; effective_date este omisă. Ordinul MDRT nr. 3482/2013 este documentat ca modificator ulterior extern, conform sursei ISC. Textul și anexele tehnice nu sunt importate.",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 216/02.04.2012. Art. I modifică și completează explicit Procedura de autorizare a diriginților de șantier aprobată prin Ordinul MDRT nr. 1496/2011. Preambulul citează explicit art. 30 din Legea nr. 10/1995 și Ordonanța Guvernului nr. 63/2001 privind înființarea ISC. Art. II dispune publicarea, fără o clauză calendaristică distinctă pentru intrarea în vigoare; effective_date este omisă. Ordinul MDRT nr. 3482/2013 este acum importat local ca modificator ulterior metadata-only, conform surselor oficiale. Textul și anexele tehnice nu sunt importate.",
   "amends": [
     "ordin-mdrt-1496-2011"
   ],

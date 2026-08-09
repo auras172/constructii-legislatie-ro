@@ -998,6 +998,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-3482-2013",
+      "label": "Ordin MDRT 3482/2013",
+      "type": "ordin",
+      "domain": "isc",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-148-2024",
       "label": "OUG 148/2024",
       "type": "ordonanta",
@@ -2769,6 +2777,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801"
     },
     {
+      "source": "ordin-mdrt-1496-2011",
+      "target": "ordin-mdrt-3482-2013",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul MDRT nr. 3482/2013 prevede că procedura aprobată prin Ordinul MDRT nr. 1.496/2011 se modifică, iar anexele nr. 3 și 4 se modifică și se înlocuiesc.",
+      "source_article": "Art. I pct. 1-2 din Ordinul MDRT nr. 3482/2013",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
+    },
+    {
       "source": "ordin-mdrt-2701-2010",
       "target": "lege-350-2001",
       "relationship": "related",
@@ -2819,6 +2840,45 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801"
+    },
+    {
+      "source": "ordin-mdrt-3482-2013",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 30 din Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare; ordinul modifică procedura de autorizare a diriginților de șantier.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
+    },
+    {
+      "source": "ordin-mdrt-3482-2013",
+      "target": "og-63-2001",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă Ordonanța Guvernului nr. 63/2001 privind înființarea Inspectoratului de Stat în Construcții — I.S.C., ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
+    },
+    {
+      "source": "ordin-mdrt-3482-2013",
+      "target": "ordin-mdrt-1496-2011",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că Procedura de autorizare a diriginților de șantier, aprobată prin Ordinul ministrului dezvoltării regionale și turismului nr. 1.496/2011, se modifică, iar anexele nr. 3 și 4 se modifică și se înlocuiesc.",
+      "source_article": "Art. I pct. 1-2",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
     },
     {
       "source": "oug-148-2024",
@@ -2937,8 +2997,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 130,
-    "confirmed_edges": 205,
+    "total_nodes": 131,
+    "confirmed_edges": 209,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
