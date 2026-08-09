@@ -886,6 +886,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mai-87-2010",
+      "label": "Ordin MAI 87/2010",
+      "type": "ordin",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-1129-2022",
       "label": "Ordin MDLPA 1129/2022",
       "type": "ordin",
@@ -2474,6 +2482,20 @@
       "evidence": "metadata/acts/ordin-mai-180-2022.json"
     },
     {
+      "source": "ordin-mai-87-2010",
+      "target": "lege-307-2006",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 87/2010 indică prevederile art. 51 alin. (2) din Legea nr. 307/2006 privind apărarea împotriva incendiilor.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899",
+      "notes": "Relația este limitată la actul-cadru explicit citat; metodologia anexată nu este modelată ca nod separat."
+    },
+    {
       "source": "ordin-mdlpa-1129-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -2733,8 +2755,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 123,
-    "confirmed_edges": 194,
+    "total_nodes": 124,
+    "confirmed_edges": 195,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 537/2007 metadata
 - feat(metadata): add HG 766/1997 metadata
 - feat(metadata): add HG 273/1994 metadata
 - feat(metadata): add HG 925/1995 metadata
