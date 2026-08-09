@@ -578,6 +578,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871`](https://legislatie.just.ro/Public/FormaPrintabila/00000G0FTH3SMUJJX6Z092B771ED9871)) + [`/Public/DetaliiDocumentAfis/205185`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/205185)
   - Status: unknown · M.Of. nr. 828/27.09.2018 · modifică titlul, art. 1 și anexa HG 925/1995 (regulament de verificare/expertizare tehnică a proiectelor, execuției lucrărilor și construcțiilor, și verificarea calității lucrărilor executate) · 26 articles (2 HG + 24 Regulament) · 1 annex · HG 925/1995 referință externă neimportată
   - Import log: [import-log/2026-08-05-hg-742-2018.md](../import-log/2026-08-05-hg-742-2018.md)
+- [HG 925/1995](./hg-925-1995.md)
+  - Domain: calitate · Amended by: HG 742/2018 · metadata-only
+  - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G2U8V7RKT6PCVQ0XEON5ACAGIKS) + [document 7426](https://legislatie.just.ro/Public/DetaliiDocument/7426)
+  - Status: unknown · M.Of. nr. 286/11.12.1995 · forma consolidată indică modificarea titlului și art. 1 și înlocuirea anexei prin HG 742/2018 · 5 articles · 1 annex · effective_date omisă
+  - Import log: [import-log/2026-08-09-hg-925-1995.md](../import-log/2026-08-09-hg-925-1995.md)
 
 ## Naming convention proposal
 

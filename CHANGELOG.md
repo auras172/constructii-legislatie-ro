@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 925/1995 metadata
 - feat(metadata): add OUG 148/2024 metadata
 - feat(metadata): add Legea 163/2016 metadata
 - feat(metadata): add Legea 7/2020 metadata
@@ -59,6 +60,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh repository status after PR 332
 - docs: refresh status after RTC 7 import
 - docs: align status after ANRE 59 full-text import
 - docs: refresh repository status at 100 acts
