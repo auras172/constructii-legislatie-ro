@@ -2,6 +2,13 @@
 
 This roadmap keeps the project focused on infrastructure first. We do not start with OCR, chatbots, vector databases, or AI summaries. We first build a trustworthy Git-native base.
 
+## Current status (2026-08-09)
+
+- 131 acts tracked: 15 full-text and 116 metadata-only.
+- 131 graph nodes and 209 confirmed relationships.
+- 0 `needs_review`; repository health 100/100.
+- PR #348 is merged; the next work should remain source-backed and scoped.
+
 ## Phase 0 — Foundation
 
 Status: complete
@@ -18,39 +25,39 @@ Status: complete
 
 ## Phase 1 — Core construction legislation index
 
-- [ ] Legea 10/1995 — quality in construction.
-- [ ] Legea 350/2001 — spatial planning and urbanism.
-- [ ] Ordin MDRAP 839/2009 — application norms for Legea 50/1991.
-- [ ] HG 343/2017 — reception of construction works.
-- [ ] Fire safety authorization references.
-- [ ] ISC references and procedures.
-- [ ] ISCIR technical prescriptions index.
-- [ ] ANRE electrical authorization references.
-- [ ] nZEB / energy performance references.
+- [x] Legea 10/1995 — quality in construction.
+- [x] Legea 350/2001 — spatial planning and urbanism.
+- [x] Ordin MDRAP 839/2009 — application norms for Legea 50/1991.
+- [x] HG 343/2017 — reception of construction works.
+- [x] Fire safety authorization references.
+- [x] ISC references and procedures.
+- [x] ISCIR technical prescriptions index.
+- [x] ANRE electrical authorization references.
+- [x] nZEB / energy performance references.
 
 Each act should start as metadata + source links, then receive official-source text only when source/reuse rules are satisfied.
 
 ## Phase 2 — Provenance and change tracking
 
-- [ ] One import-log file per official text import.
-- [ ] Optional checksums for raw official source captures.
-- [ ] Per-act changelog sections normalized across files.
-- [ ] Article-level anchors and stable citation conventions.
-- [ ] Relationship metadata between acts.
+- [x] One import-log file per official text import.
+- [x] Optional checksums for raw official source captures.
+- [x] Per-act changelog sections normalized across files.
+- [x] Article-level anchors and stable citation conventions.
+- [x] Relationship metadata between acts.
 
 ## Phase 3 — Contributor workflow
 
-- [ ] Good-first-issue list for metadata-only contributions.
-- [ ] Review checklist for legal-source imports.
+- [x] Good-first-issue list for metadata-only contributions.
+- [x] Review checklist for legal-source imports.
 - [ ] CODEOWNERS for metadata, docs, and act files.
-- [ ] Community contribution guide examples.
+- [x] Community contribution guide examples.
 
 ## Phase 4 — Automation
 
-- [ ] Metadata validation in CI.
-- [ ] Markdown hygiene validation in CI.
-- [ ] Source-link validation, initially manual or optional.
-- [ ] Import tooling prototypes for official pages, with no scraping by default.
+- [x] Metadata validation in CI.
+- [x] Markdown hygiene validation in CI.
+- [x] Source-link validation, initially manual or optional.
+- [x] Import tooling prototypes for official pages, with no scraping by default.
 
 ## Not now
 
