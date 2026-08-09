@@ -604,6 +604,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 305018](https://legislatie.just.ro/Public/DetaliiDocument/305018) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G30W092Z31N8YF1QX847MU1I1X1)
   - Status: unknown · M.Of. nr. 1133/08.12.2025 · Art. I modifică art. 22 din Legea 10/1995; Art. II completează Legea 7/1996 ca referință externă; effective_date globală omisă · 4 articles · text nedisponibil în repo
+- [OUG 52/2025](./oug-52-2025.md)
+  - Domain: calitate · Amends: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 302698](https://legislatie.just.ro/Public/DetaliiDocumentAfis/302698) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G04NTJ1H46XRY62KEFOTDZFXH3C)
+  - Status: unknown · M.Of. nr. 907/02.10.2025 · Art. IX modifică art. 43 alin. (5) din Legea 10/1995; Art. XX are referințe externe; effective_date globală omisă · 20 articles · text nedisponibil în repo
 
 ## Naming convention proposal
 
