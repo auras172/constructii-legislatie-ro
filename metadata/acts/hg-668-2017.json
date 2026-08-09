@@ -1,0 +1,43 @@
+{
+  "title": "Hotărârea Guvernului nr. 668 din 13 septembrie 2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții",
+  "short_title": "HG 668/2017",
+  "canonical_citation": "HG nr. 668/2017",
+  "type": "hotarare",
+  "number": "668",
+  "year": "2017",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["produse-pentru-constructii", "comercializare", "evaluarea-performantei", "agrement-tehnic"],
+  "status": "unknown",
+  "issue_date": "2017-09-13",
+  "publication_date": "2017-09-20",
+  "effective_date": "2017-11-19",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 752 din 20 septembrie 2017",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ; Art. 36 prevede intrarea în vigoare la 60 de zile de la publicare",
+  "article_count": 38,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 alin. (1) stabilește condiții pentru comercializarea produselor pentru construcții în scopul realizării unor construcții care să mențină cerințele fundamentale prevăzute la art. 5 alin. (1) din Legea nr. 10/1995. Preambulul citează explicit art. IV lit. e) din Legea nr. 177/2015 și Legea nr. 10/1995. Art. 36 prevede intrarea în vigoare la 60 de zile de la publicare; data de 2017-11-19 este derivată mecanic. Regulamentul (UE) nr. 305/2011 și alte acte UE sunt referințe externe și nu sunt modelate ca noduri. Textul integral nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 alin. (1) stabilește condițiile pentru comercializarea produselor pentru construcții în scopul realizării unor construcții care să asigure menținerea cerințelor fundamentale aplicabile construcțiilor prevăzute la art. 5 alin. (1) din Legea nr. 10/1995.",
+      "source_article": "Art. 1 alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "Legea nr. 177/2015 este citată în preambul și rămâne referință de proveniență; nu se adaugă o relație separată către aceasta. Actele UE rămân externe."
+    }
+  ],
+  "tags": ["constructii", "calitate", "produse-pentru-constructii", "comercializare", "agrement-tehnic"]
+}
