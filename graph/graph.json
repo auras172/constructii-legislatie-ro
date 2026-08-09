@@ -1094,6 +1094,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-46-2015",
+      "label": "OUG 46/2015",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-52-2025",
       "label": "OUG 52/2025",
       "type": "ordonanta",
@@ -3167,6 +3175,20 @@
       "evidence": "metadata/acts/oug-31-2025.json"
     },
     {
+      "source": "oug-46-2015",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VII din OUG nr. 46/2015 prevede că art. 43 din Legea nr. 10/1995 se modifică după cum urmează, inclusiv alineatul (1) și alineatul (2) lit. b).",
+      "source_article": "Art. VII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172411",
+      "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte menționate contextual sau pentru domeniul general al măsurilor financiare."
+    },
+    {
       "source": "oug-52-2025",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -3209,8 +3231,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 139,
-    "confirmed_edges": 220,
+    "total_nodes": 140,
+    "confirmed_edges": 221,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
