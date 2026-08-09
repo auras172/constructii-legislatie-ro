@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T17:37:27.130Z",
+  "generated_at": "2026-08-09T19:09:00.183Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 808/2005 metadata",
         "feat(metadata): add OUG 6/2018 metadata",
         "feat(metadata): add OG 18/2019 metadata",
         "feat(metadata): add Legea 190/2021 metadata",
@@ -82,6 +83,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #354 from auras172/codex/metadata-hg-808-2005",
         "Merge pull request #353 from auras172/codex/metadata-oug-6-2018",
         "Merge pull request #352 from auras172/codex/metadata-og-18-2019-v2",
         "Merge pull request #350 from auras172/codex/metadata-lege-190-2021",
@@ -535,6 +537,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 122
+    "infrastructure_changes": 123
   }
 }

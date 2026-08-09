@@ -918,6 +918,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-isc-4093-2024",
+      "label": "Ordin ISC 4093/2024",
+      "type": "ordin",
+      "domain": "isc",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mai-163-2007",
       "label": "Ordin MAI 163/2007",
       "type": "ordin",
@@ -2632,6 +2640,20 @@
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
     },
     {
+      "source": "ordin-isc-4093-2024",
+      "target": "og-63-2001",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 1 din Ordonanța Guvernului nr. 63/2001 privind înființarea Inspectoratului de Stat în Construcții - I.S.C., ca temei pentru emiterea ordinului și atribuția ISC de emitere a avizului tehnic.",
+      "source_article": "Preambul; Art. 1; Art. 4",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291757",
+      "notes": "Legea 707/2001, HG 1072/2003, HG 477/2020 și Ordinul MDRAP nr. 901/2015 sunt referințe externe și nu sunt modelate ca noduri; nu se adaugă relații tematice către alte acte locale."
+    },
+    {
       "source": "ordin-mai-163-2007",
       "target": "lege-307-2006",
       "relationship": "related",
@@ -3121,8 +3143,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 135,
-    "confirmed_edges": 216,
+    "total_nodes": 136,
+    "confirmed_edges": 217,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

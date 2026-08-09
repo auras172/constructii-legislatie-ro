@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 808/2005 metadata
 - feat(metadata): add OUG 6/2018 metadata
 - feat(metadata): add OG 18/2019 metadata
 - feat(metadata): add Legea 190/2021 metadata
@@ -85,6 +86,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #354 from auras172/codex/metadata-hg-808-2005
 - Merge pull request #353 from auras172/codex/metadata-oug-6-2018
 - Merge pull request #352 from auras172/codex/metadata-og-18-2019-v2
 - Merge pull request #350 from auras172/codex/metadata-lege-190-2021
