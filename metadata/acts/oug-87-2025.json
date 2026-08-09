@@ -1,0 +1,42 @@
+{
+  "title": "Ordonanță de urgență nr. 87 din 23 decembrie 2025 pentru stabilirea unor măsuri bugetare privind implementarea programelor naționale din domeniul lucrărilor publice",
+  "short_title": "OUG 87/2025",
+  "canonical_citation": "OUG nr. 87/2025",
+  "type": "ordonanta",
+  "number": "87",
+  "year": "2025",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["calitate-constructii", "lucrari-publice", "programe-nationale", "infrastructura", "amendament"],
+  "status": "unknown",
+  "issue_date": "2025-12-23",
+  "publication_date": "2025-12-24",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305816",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 1203 din 24 decembrie 2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/305816",
+  "version_kind": "original",
+  "last_checked": "2026-08-10",
+  "version": "Forma de bază afișată de Portal Legislativ; Art. VIII modifică art. 43 alin. (5) lit. b) din Legea nr. 10/1995",
+  "article_count": 8,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul și publicarea actului. Art. VIII modifică explicit art. 43 alin. (5) lit. b) din Legea nr. 10/1995 privind calitatea în construcții. Sursa nu oferă o singură dată calendaristică distinctă pentru effective_date, iar statusul curent rămâne unknown. OUG nr. 52/2025 este documentată numai dacă apare ca referință contextuală; nu se adaugă o relație topică sau de modificare fără temei explicit. Textul legal integral nu este importat.",
+  "amends": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VIII din OUG nr. 87/2025 prevede că la art. 43 alin. (5) din Legea nr. 10/1995, republicată, cu modificările și completările ulterioare, lit. b) se modifică și va avea următorul cuprins.",
+      "source_article": "Art. VIII",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305816",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte contextual citate sau pentru subiectul general al programelor de lucrări publice."
+    }
+  ],
+  "tags": ["calitate-constructii", "lucrari-publice", "programe-nationale", "infrastructura", "amendament", "ordonanta-urgenta"]
+}

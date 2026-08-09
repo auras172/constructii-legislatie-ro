@@ -1108,6 +1108,14 @@
       "domain": "calitate",
       "status": "unknown",
       "import_method": "metadata-only"
+    },
+    {
+      "id": "oug-87-2025",
+      "label": "OUG 87/2025",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
     }
   ],
   "edges": [
@@ -3184,11 +3192,25 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070"
+    },
+    {
+      "source": "oug-87-2025",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VIII din OUG nr. 87/2025 prevede că la art. 43 alin. (5) din Legea nr. 10/1995, republicată, cu modificările și completările ulterioare, lit. b) se modifică și va avea următorul cuprins.",
+      "source_article": "Art. VIII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305816",
+      "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte contextual citate sau pentru subiectul general al programelor de lucrări publice."
     }
   ],
   "stats": {
-    "total_nodes": 138,
-    "confirmed_edges": 219,
+    "total_nodes": 139,
+    "confirmed_edges": 220,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
