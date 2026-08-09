@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-09T09:06:53.239Z",
+  "generated_at": "2026-08-09T09:22:10.369Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 121,
+    "acts_total": 122,
     "acts_full_text": 15,
-    "acts_metadata_only": 106,
+    "acts_metadata_only": 107,
     "article_anchors_total": 881,
-    "import_logs_total": 122,
+    "import_logs_total": 123,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 192,
+    "confirmed_relationships": 193,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -313,6 +313,19 @@
       "anchor_count": 0,
       "file": "legi/hg-742-2018.md",
       "metadata_file": "metadata/acts/hg-742-2018.json"
+    },
+    {
+      "slug": "hg-766-1997",
+      "title": "Hotărârea Guvernului nr. 766 din 21 noiembrie 1997 pentru aprobarea unor regulamente privind calitatea în construcții",
+      "short_title": "HG 766/1997",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/hg-766-1997.md",
+      "metadata_file": "metadata/acts/hg-766-1997.json"
     },
     {
       "slug": "hg-862-2016",
