@@ -645,6 +645,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 302698](https://legislatie.just.ro/Public/DetaliiDocumentAfis/302698) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G04NTJ1H46XRY62KEFOTDZFXH3C)
   - Status: unknown · M.Of. nr. 907/02.10.2025 · Art. IX modifică art. 43 alin. (5) din Legea 10/1995; Art. XX are referințe externe; effective_date globală omisă · 20 articles · text nedisponibil în repo
+- [OUG 87/2025](./oug-87-2025.md)
+  - Domain: calitate · Amends: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 305816](https://legislatie.just.ro/Public/DetaliiDocument/305816)
+  - Status: unknown · M.Of. nr. 1203/24.12.2025 · Art. VIII modifică art. 43 alin. (5) lit. b) din Legea 10/1995; effective_date omisă · 8 articles · text nedisponibil în repo
 - [Legea 177/2015](./lege-177-2015.md)
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 169348](https://legislatie.just.ro/Public/DetaliiDocumentAfis/169348)

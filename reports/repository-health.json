@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T20:50:40.019Z",
+  "generated_at": "2026-08-09T21:29:23.671Z",
   "summary": {
-    "total_metadata_entries": 138,
+    "total_metadata_entries": 139,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 123,
-    "total_import_logs": 139,
-    "total_relationship_links": 271,
+    "total_metadata_only_acts": 124,
+    "total_import_logs": 140,
+    "total_relationship_links": 273,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -259,7 +259,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
-      "relationships": 11,
+      "relationships": 12,
       "provenance": true
     },
     {
@@ -1251,13 +1251,22 @@
       "official_markers": null,
       "relationships": 1,
       "provenance": true
+    },
+    {
+      "slug": "oug-87-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
     }
   ],
   "statistics": {
     "domains": {
       "urbanism": 9,
       "executie": 4,
-      "calitate": 52,
+      "calitate": 53,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1270,7 +1279,7 @@
     },
     "issuers": {
       "minister": 74,
-      "guvern": 28,
+      "guvern": 29,
       "parlament": 17,
       "autoritate": 19
     },
@@ -1305,11 +1314,11 @@
       "2022": 16,
       "2023": 19,
       "2024": 6,
-      "2025": 8,
+      "2025": 9,
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 123,
+      "metadata-only": 124,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

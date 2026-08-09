@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-09T20:50:40.019Z
+Generated: 2026-08-09T21:29:23.671Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 138 |
+| Total metadata entries | 139 |
 | Full-text acts | 15 |
-| Metadata-only acts | 123 |
-| Import log files | 139 |
-| Total relationship links | 271 |
+| Metadata-only acts | 124 |
+| Import log files | 140 |
+| Total relationship links | 273 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -45,7 +45,7 @@ Generated: 2026-08-09T20:50:40.019Z
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 11 | ✓ |
+| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 12 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-163-2016 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | lege-177-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -156,6 +156,7 @@ Generated: 2026-08-09T20:50:40.019Z
 | oug-31-2025 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | oug-52-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-6-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| oug-87-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 
 ## Statistics
 
@@ -163,7 +164,7 @@ Generated: 2026-08-09T20:50:40.019Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 52 |
+| calitate | 53 |
 | anre | 20 |
 | iscir | 16 |
 | incendiu | 15 |
@@ -181,7 +182,7 @@ Generated: 2026-08-09T20:50:40.019Z
 | Value | Count |
 | --- | --- |
 | minister | 74 |
-| guvern | 28 |
+| guvern | 29 |
 | autoritate | 19 |
 | parlament | 17 |
 
@@ -192,7 +193,7 @@ Generated: 2026-08-09T20:50:40.019Z
 | 2023 | 19 |
 | 2022 | 16 |
 | 2010 | 15 |
-| 2025 | 8 |
+| 2025 | 9 |
 | 2013 | 7 |
 | 2024 | 6 |
 | 2005 | 5 |
@@ -226,7 +227,7 @@ Generated: 2026-08-09T20:50:40.019Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 123 |
+| metadata-only | 124 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
