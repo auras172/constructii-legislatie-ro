@@ -1,0 +1,53 @@
+{
+  "title": "Hotărârea Guvernului nr. 273 din 14 iunie 1994 privind aprobarea Regulamentului de recepție a lucrărilor de construcții și instalații aferente acestora",
+  "short_title": "HG 273/1994",
+  "canonical_citation": "HG nr. 273/1994",
+  "type": "hotarare",
+  "number": "273",
+  "year": "1994",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "receptie",
+  "topics": [
+    "receptie",
+    "receptie-constructii",
+    "regulament-receptie"
+  ],
+  "status": "unknown",
+  "issue_date": "1994-06-14",
+  "publication_date": "1994-07-28",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3KEP332SQHYM22ZBWYTMISCV0O",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 193 din 28 iulie 1994",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/74081",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2006-07-28",
+  "last_checked": "2026-08-09",
+  "version": "Forma actualizată afișată de Portal Legislativ la 28.07.2006; HG 343/2017 a modificat ulterior regulamentul, prin înlocuirea anexei",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă Hotărârea Guvernului nr. 273 din 14 iunie 1994, emitentul, aprobarea Regulamentului de recepție și forma actualizată la 28 iulie 2006. Art. 2 prevede intrarea în vigoare în termen de 30 de zile de la publicare; effective_date este omisă deoarece taskul cere o dată explicită. Publicarea în M.Of. nr. 193/28.07.1994 este confirmată în textul oficial al HG 343/2017, care identifică explicit HG 273/1994 ca act modificat. Statusul juridic curent nu este declarat explicit și rămâne unknown. Textul hotărârii și Regulamentul anexat nu sunt importate.",
+  "amended_by": ["hg-343-2017"],
+  "relationships": [
+    {
+      "type": "amended_by",
+      "target": "hg-343-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din HG 343/2017 precizează explicit că HG 273/1994 se modifică, iar anexa la HG 273/1994 se înlocuiește cu anexa la HG 343/2017.",
+      "source_article": "HG 343/2017, Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596",
+      "evidence_path": "legi/hg-343-2017.md",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "Regulamentul rămâne anexa actului HG 273/1994 și nu este modelat ca nod separat."
+    }
+  ],
+  "tags": [
+    "receptie",
+    "receptie-constructii",
+    "regulament-receptie",
+    "hotarare-guvern"
+  ]
+}

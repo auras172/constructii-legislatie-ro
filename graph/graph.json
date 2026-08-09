@@ -102,6 +102,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-273-1994",
+      "label": "HG 273/1994",
+      "type": "hotarare",
+      "domain": "receptie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-300-2006",
       "label": "HG 300/2006",
       "type": "hotarare",
@@ -1145,6 +1153,21 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-02",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138"
+    },
+    {
+      "source": "hg-273-1994",
+      "target": "hg-343-2017",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din HG 343/2017 precizează explicit că HG 273/1994 se modifică, iar anexa la HG 273/1994 se înlocuiește cu anexa la HG 343/2017.",
+      "source_article": "HG 343/2017, Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596",
+      "evidence_path": "legi/hg-343-2017.md",
+      "notes": "Regulamentul rămâne anexa actului HG 273/1994 și nu este modelat ca nod separat."
     },
     {
       "source": "hg-300-2006",
@@ -2666,8 +2689,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 120,
-    "confirmed_edges": 191,
+    "total_nodes": 121,
+    "confirmed_edges": 192,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
