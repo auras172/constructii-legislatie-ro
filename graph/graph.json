@@ -1004,6 +1004,14 @@
       "domain": "urbanism",
       "status": "active",
       "import_method": "metadata-only"
+    },
+    {
+      "id": "oug-52-2025",
+      "label": "OUG 52/2025",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
     }
   ],
   "edges": [
@@ -2774,11 +2782,25 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/oug-31-2025.json"
+    },
+    {
+      "source": "oug-52-2025",
+      "target": "lege-10-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. IX din OUG nr. 52/2025 prevede că la art. 43 alin. (5) din Legea nr. 10/1995 privind calitatea în construcții, după lit. d) se introduce o nouă literă, lit. e).",
+      "source_article": "Art. IX",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/302698",
+      "notes": "Singura relație repo-locală; nu sunt adăugate relații pentru acte externe sau pentru referințe fără țintă locală."
     }
   ],
   "stats": {
-    "total_nodes": 125,
-    "confirmed_edges": 196,
+    "total_nodes": 126,
+    "confirmed_edges": 197,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
