@@ -1,0 +1,58 @@
+{
+  "title": "Hotărârea Guvernului nr. 925 din 20 noiembrie 1995 pentru aprobarea Regulamentului privind verificarea și expertizarea tehnică a proiectelor, expertizarea tehnică a execuției lucrărilor și a construcțiilor, precum și verificarea calității lucrărilor executate",
+  "short_title": "HG 925/1995",
+  "canonical_citation": "HG nr. 925/1995",
+  "type": "hotarare",
+  "number": "925",
+  "year": "1995",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "calitate-constructii",
+    "verificare-tehnica",
+    "expertizare-tehnica",
+    "verificatori-proiecte",
+    "experti-tehnici",
+    "regulament"
+  ],
+  "status": "unknown",
+  "issue_date": "1995-11-20",
+  "publication_date": "1995-12-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2U8V7RKT6PCVQ0XEON5ACAGIKS",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 286 din 11 decembrie 1995",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/7426",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2018-09-27",
+  "last_checked": "2026-08-09",
+  "version": "Forma consolidată afișată de Portal Legislativ, cu titlul și art. 1 modificate și anexa înlocuită prin HG 742/2018",
+  "article_count": 5,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 286/11.12.1995. Art. 4 prevede intrarea în vigoare în termen de 30 de zile de la publicare, dar effective_date este omisă deoarece taskul cere o dată numai dacă este explicită. Forma consolidată indică explicit că titlul hotărârii și art. 1 au fost modificate, iar anexa (Regulamentul) a fost înlocuită prin HG 742/2018, publicată în M.Of. nr. 828/27.09.2018. Statusul juridic curent nu este declarat explicit și rămâne unknown. Textul legal și Regulamentul anexat nu sunt importate.",
+  "amended_by": ["hg-742-2018"],
+  "relationships": [
+    {
+      "type": "amended_by",
+      "target": "hg-742-2018",
+      "confidence": "confirmed",
+      "evidence_type": "portal_action",
+      "evidence": "Forma consolidată a HG 925/1995 indică explicit că titlul hotărârii și art. 1 au fost modificate, iar anexa (Regulamentul) a fost înlocuită prin HG 742/2018.",
+      "source_article": "Titlu; Art. 1; Anexă",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2U8V7RKT6PCVQ0XEON5ACAGIKS",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "HG 742/2018 este singura relație grafică adăugată; nu se importă Regulamentul ca nod separat."
+    }
+  ],
+  "tags": [
+    "calitate-constructii",
+    "verificare-tehnica",
+    "expertizare-tehnica",
+    "verificatori-proiecte",
+    "experti-tehnici",
+    "regulament",
+    "hotarare-guvern"
+  ]
+}

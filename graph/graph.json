@@ -166,6 +166,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-925-1995",
+      "label": "HG 925/1995",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-10-1995",
       "label": "Legea 10/1995",
       "type": "lege",
@@ -1251,6 +1259,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-90-2008.json"
+    },
+    {
+      "source": "hg-925-1995",
+      "target": "hg-742-2018",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "portal_action",
+      "evidence": "Forma consolidată a HG 925/1995 indică explicit că titlul hotărârii și art. 1 au fost modificate, iar anexa (Regulamentul) a fost înlocuită prin HG 742/2018.",
+      "source_article": "Titlu; Art. 1; Anexă",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2U8V7RKT6PCVQ0XEON5ACAGIKS",
+      "notes": "HG 742/2018 este singura relație grafică adăugată; nu se importă Regulamentul ca nod separat."
     },
     {
       "source": "lege-10-1995",
@@ -2644,8 +2666,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 119,
-    "confirmed_edges": 190,
+    "total_nodes": 120,
+    "confirmed_edges": 191,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

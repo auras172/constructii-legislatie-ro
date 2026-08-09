@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-08T19:54:13.212Z",
+  "generated_at": "2026-08-09T08:57:56.978Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 925/1995 metadata",
         "feat(metadata): add OUG 148/2024 metadata",
         "feat(metadata): add Legea 163/2016 metadata",
         "feat(metadata): add Legea 7/2020 metadata",
@@ -56,6 +57,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh repository status after PR 332",
         "docs: refresh status after RTC 7 import",
         "docs: align status after ANRE 59 full-text import",
         "docs: refresh repository status at 100 acts",
@@ -508,6 +510,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 108
+    "infrastructure_changes": 109
   }
 }
