@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T13:27:24.763Z",
+  "generated_at": "2026-08-09T13:48:41.717Z",
   "summary": {
-    "total_metadata_entries": 129,
+    "total_metadata_entries": 130,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 114,
-    "total_import_logs": 130,
-    "total_relationship_links": 252,
+    "total_metadata_only_acts": 115,
+    "total_import_logs": 131,
+    "total_relationship_links": 256,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -1105,7 +1105,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 2,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -1115,6 +1115,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-mdrt-277-2012",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -1180,7 +1189,7 @@
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
-      "isc": 3,
+      "isc": 4,
       "incendiu": 15,
       "anre": 20,
       "autorizatii": 3,
@@ -1188,7 +1197,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 71,
+      "minister": 72,
       "guvern": 24,
       "parlament": 15,
       "autoritate": 19
@@ -1212,6 +1221,7 @@
       "2009": 3,
       "2010": 15,
       "2011": 2,
+      "2012": 1,
       "2013": 6,
       "2015": 2,
       "2016": 4,
@@ -1227,7 +1237,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 114,
+      "metadata-only": 115,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

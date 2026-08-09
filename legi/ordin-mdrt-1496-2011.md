@@ -18,6 +18,8 @@ tags:
   - verificarea-executiei
   - ordin-ministerial
 import_method: metadata-only
+amended_by:
+  - ordin-mdrt-277-2012
 ---
 
 # Ordin MDRT 1496/2011
