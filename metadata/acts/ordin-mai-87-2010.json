@@ -1,0 +1,57 @@
+{
+  "title": "Ordinul nr. 87 din 6 aprilie 2010 pentru aprobarea Metodologiei de autorizare a persoanelor care efectuează lucrări în domeniul apărării împotriva incendiilor",
+  "short_title": "Ordin MAI 87/2010",
+  "canonical_citation": "Ordinul MAI nr. 87/2010",
+  "type": "ordin",
+  "number": "87",
+  "year": "2010",
+  "issuer": "Ministerul Administraţiei şi Internelor",
+  "issuing_body_kind": "minister",
+  "domain": "incendiu",
+  "topics": [
+    "incendiu",
+    "autorizare-persoane",
+    "prevenire-stingere",
+    "constructii",
+    "instalatii"
+  ],
+  "status": "unknown",
+  "issue_date": "2010-04-06",
+  "publication_date": "2010-04-14",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 238 din 14 aprilie 2010",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ; istoricul indică o formă consolidată la 27.08.2014",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii şi publicarea în M.Of. nr. 238/14.04.2010. Preambulul citează explicit art. 51 alin. (2) din Legea nr. 307/2006 privind apărarea împotriva incendiilor. Art. 1 aprobă metodologia, iar Art. 3 alin. (2) abrogă Ordinul nr. 252/2007 ca act extern neimportat; forma verificată nu oferă o clauză proprie suficientă pentru o dată calendaristică de intrare în vigoare, astfel că effective_date este omisă. Statusul juridic curent nu este declarat explicit şi rămâne unknown. Metodologia anexată nu este importată ca nod separat.",
+  "implements": [
+    "lege-307-2006"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-307-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul Ordinului nr. 87/2010 indică prevederile art. 51 alin. (2) din Legea nr. 307/2006 privind apărarea împotriva incendiilor.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "Relația este limitată la actul-cadru explicit citat; metodologia anexată nu este modelată ca nod separat."
+    }
+  ],
+  "tags": [
+    "incendiu",
+    "autorizare-persoane",
+    "prevenire-stingere",
+    "constructii",
+    "instalatii",
+    "ordin-ministerial"
+  ]
+}

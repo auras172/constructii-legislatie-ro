@@ -596,6 +596,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: incendiu · Implements: Legea 307/2006 · metadata-only
   - Official source checked: [Portal Legislativ, document 82739](https://legislatie.just.ro/Public/DetaliiDocument/82739)
   - Status: unknown · M.Of. nr. 395/12.06.2007 · intră în vigoare la 60 de zile de la publicare, effective_date derivată 11.08.2007 · 6 articles · Art. 6 abrogă HG 678/1998 (extern)
+- [Ordin MAI 87/2010](./ordin-mai-87-2010.md)
+  - Domain: incendiu · Implements: Legea 307/2006 · metadata-only
+  - Official source checked: [Portal Legislativ, document 117899](https://legislatie.just.ro/Public/DetaliiDocumentAfis/117899)
+  - Status: unknown · M.Of. nr. 238/14.04.2010 · 3 articles · 1 annex · metodologia aprobată nu este importată; Ordinul 252/2007 este abrogat ca referință externă; effective_date omisă
 
 ## Naming convention proposal
 
