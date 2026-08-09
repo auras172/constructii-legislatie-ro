@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-09T17:20:02.269Z",
+  "generated_at": "2026-08-09T17:37:27.130Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 6/2018 metadata",
         "feat(metadata): add OG 18/2019 metadata",
         "feat(metadata): add Legea 190/2021 metadata",
         "feat(metadata): add Ordin MDRT 3482/2013 metadata",
@@ -81,6 +82,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #353 from auras172/codex/metadata-oug-6-2018",
         "Merge pull request #352 from auras172/codex/metadata-og-18-2019-v2",
         "Merge pull request #350 from auras172/codex/metadata-lege-190-2021",
         "Merge pull request #349 from auras172/codex/housekeeping-refresh-2026-08-09",
@@ -533,6 +535,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 121
+    "infrastructure_changes": 122
   }
 }
