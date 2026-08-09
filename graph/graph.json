@@ -238,6 +238,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-190-2021",
+      "label": "Legea 190/2021",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-193-2019",
       "label": "Legea 193/2019",
       "type": "lege",
@@ -1468,6 +1476,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291690"
     },
     {
+      "source": "lege-163-2016",
+      "target": "lege-190-2021",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Legea nr. 190/2021 modifică termenul prevăzut la art. II din Legea nr. 163/2016 prin modificarea art. unic al OG nr. 18/2019; legătura este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic din Legea 190/2021",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226"
+    },
+    {
       "source": "lege-177-2015",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -1480,6 +1501,19 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/169348",
       "notes": "Art. IV este documentat ca obligație de revizuire/actualizare a unor acte, fără relații graph suplimentare; Art. V este efect de republicare, nu relație distinctă."
+    },
+    {
+      "source": "lege-190-2021",
+      "target": "lege-163-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Articolul unic modifică termenul prevăzut la art. II din Legea nr. 163/2016 prin modificarea art. unic al OG nr. 18/2019; legătura este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226"
     },
     {
       "source": "lege-193-2019",
@@ -2997,8 +3031,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 131,
-    "confirmed_edges": 209,
+    "total_nodes": 132,
+    "confirmed_edges": 211,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

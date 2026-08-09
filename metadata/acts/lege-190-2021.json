@@ -1,0 +1,52 @@
+{
+  "title": "Legea nr. 190 din 8 iulie 2021 pentru aprobarea Ordonanței Guvernului nr. 18/2019 privind prorogarea termenului prevăzut la art. II din Legea nr. 163/2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții",
+  "short_title": "Legea 190/2021",
+  "canonical_citation": "Legea nr. 190/2021",
+  "type": "lege",
+  "number": "190",
+  "year": "2021",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "prorogare-termene"
+  ],
+  "status": "unknown",
+  "issue_date": "2021-07-08",
+  "publication_date": "2021-07-09",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 681 din 9 iulie 2021",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ; aprobă OG 18/2019 și modifică termenul prorogat privind art. II din Legea 163/2016",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 681/09.07.2021. Articolul unic aprobă OG nr. 18/2019 și modifică termenul prevăzut la art. II din Legea nr. 163/2016, referitor la intrarea în vigoare a măsurilor prevăzute la art. 9 lit. m), n) și o) din Legea nr. 10/1995, prorogându-l până la 25 august 2023. Relația cu Legea 163/2016 este modelată ca related_to, deoarece actul aprobă și modifică OG 18/2019, nu modifică direct textul Legii 163/2016; schema nu are relația prorogates. Portalul nu declară explicit un status juridic curent și nu oferă o clauză proprie distinctă de intrare în vigoare; effective_date este omisă. Textul legal integral nu este importat.",
+  "related_acts": [
+    "lege-163-2016"
+  ],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-163-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic modifică termenul prevăzut la art. II din Legea nr. 163/2016 prin modificarea art. unic al OG nr. 18/2019; legătura este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "source_article": "Articol unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    }
+  ],
+  "tags": [
+    "constructii",
+    "calitate",
+    "prorogare",
+    "amendament-indirect"
+  ]
+}
