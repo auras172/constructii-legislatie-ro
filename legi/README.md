@@ -71,6 +71,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocumentAfis/189596`](https://legislatie.just.ro/Public/DetaliiDocumentAfis/189596))
   - Status: active · full official text imported 2026-06-28 · 43 articles (3 HG + 40 Regulament) · 6 annexes
   - Import log: [import-log/2026-06-28-hg-343-2017.md](../import-log/2026-06-28-hg-343-2017.md)
+- [HG 273/1994](./hg-273-1994.md)
+  - Domain: receptie · Amended by: HG 343/2017 · metadata-only
+  - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G3KEP332SQHYM22ZBWYTMISCV0O) + [document 74081](https://legislatie.just.ro/Public/DetaliiDocument/74081)
+  - Status: unknown · M.Of. nr. 193/28.07.1994 · formă actualizată la 28.07.2006 · 3 articles · 1 annex · effective_date omisă
+  - Import log: [import-log/2026-08-09-hg-273-1994.md](../import-log/2026-08-09-hg-273-1994.md)
 - [Legea 141/2026](./lege-141-2026.md)
   - Domain: receptie · Related: Legea 307/2006, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/312240`](https://legislatie.just.ro/Public/DetaliiDocument/312240)) + Monitorul Oficial nr. 575/13.07.2026 PDF atașat importului

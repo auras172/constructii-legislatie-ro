@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T08:57:56.177Z",
+  "generated_at": "2026-08-09T09:06:53.124Z",
   "summary": {
-    "total_metadata_entries": 120,
+    "total_metadata_entries": 121,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 105,
-    "total_import_logs": 121,
-    "total_relationship_links": 239,
+    "total_metadata_only_acts": 106,
+    "total_import_logs": 122,
+    "total_relationship_links": 240,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -111,6 +111,15 @@
     },
     {
       "slug": "hg-1425-2006",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-273-1994",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1098,7 +1107,7 @@
       "calitate": 41,
       "nzeb": 4,
       "munca": 3,
-      "receptie": 2,
+      "receptie": 3,
       "isc": 2,
       "incendiu": 13,
       "anre": 20,
@@ -1108,12 +1117,13 @@
     },
     "issuers": {
       "minister": 69,
-      "guvern": 19,
+      "guvern": 20,
       "parlament": 13,
       "autoritate": 19
     },
     "publication_years": {
       "1991": 1,
+      "1994": 1,
       "1995": 2,
       "1996": 1,
       "1999": 1,
@@ -1144,7 +1154,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 105,
+      "metadata-only": 106,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
