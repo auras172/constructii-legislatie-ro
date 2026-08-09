@@ -604,6 +604,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: isc · Implements: Legea 10/1995, OG 63/2001 · metadata-only
   - Official source checked: [Portal Legislativ, document 129692](https://legislatie.just.ro/Public/DetaliiDocumentAfis/129692)
   - Status: unknown · M.Of. nr. 458/30.06.2011 · 4 articles · 1 annex · effective_date omisă · Ordinul 154/2010 este predecessor extern abrogat; Ordinul 277/2012 și Ordinul 3482/2013 sunt modificatori externi · procedura nu este importată
+- [Ordin MDRT 277/2012](./ordin-mdrt-277-2012.md)
+  - Domain: isc · Amends: Ordin MDRT 1496/2011 · Implements: Legea 10/1995, OG 63/2001 · metadata-only
+  - Official source checked: [Portal Legislativ, document 136801](https://legislatie.just.ro/Public/DetaliiDocument/136801)
+  - Status: unknown · M.Of. nr. 216/02.04.2012 · 2 articles · 6 annexes · effective_date omisă · Ordinul 3482/2013 este modificator extern · procedura și anexele nu sunt importate
 - [Legea 207/2025](./lege-207-2025.md)
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 305018](https://legislatie.just.ro/Public/DetaliiDocument/305018) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G30W092Z31N8YF1QX847MU1I1X1)

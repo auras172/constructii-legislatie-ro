@@ -1,0 +1,80 @@
+{
+  "title": "Ordin nr. 277 din 19 martie 2012 pentru modificarea şi completarea Procedurii de autorizare a diriginţilor de şantier, aprobată prin Ordinul ministrului dezvoltării regionale şi turismului nr. 1.496/2011",
+  "short_title": "Ordin MDRT 277/2012",
+  "canonical_citation": "Ordinul MDRT nr. 277/2012",
+  "type": "ordin",
+  "number": "277",
+  "year": "2012",
+  "issuer": "Ministerul Dezvoltării Regionale şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "isc",
+  "topics": [
+    "autorizare-diriginti-de-santier",
+    "calitate-constructii",
+    "verificarea-executiei",
+    "isc"
+  ],
+  "status": "unknown",
+  "issue_date": "2012-03-19",
+  "publication_date": "2012-04-02",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 216 din 2 aprilie 2012",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ; modifică și completează explicit procedura aprobată prin Ordinul MDRT nr. 1496/2011",
+  "article_count": 2,
+  "annex_count": 6,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 216/02.04.2012. Art. I modifică și completează explicit Procedura de autorizare a diriginților de șantier aprobată prin Ordinul MDRT nr. 1496/2011. Preambulul citează explicit art. 30 din Legea nr. 10/1995 și Ordonanța Guvernului nr. 63/2001 privind înființarea ISC. Art. II dispune publicarea, fără o clauză calendaristică distinctă pentru intrarea în vigoare; effective_date este omisă. Ordinul MDRT nr. 3482/2013 este documentat ca modificator ulterior extern, conform sursei ISC. Textul și anexele tehnice nu sunt importate.",
+  "amends": [
+    "ordin-mdrt-1496-2011"
+  ],
+  "implements": [
+    "lege-10-1995",
+    "og-63-2001"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdrt-1496-2011",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că Procedura de autorizare a diriginților de șantier, aprobată prin Ordinul ministrului dezvoltării regionale și turismului nr. 1.496/2011, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    },
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 30 din Legea nr. 10/1995 privind calitatea în construcții; ordinul modifică și completează procedura de autorizare a diriginților de șantier.",
+      "source_article": "Preambul; Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    },
+    {
+      "type": "implements",
+      "target": "og-63-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă Ordonanța Guvernului nr. 63/2001 privind înființarea Inspectoratului de Stat în Construcții — I.S.C., ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    }
+  ],
+  "tags": [
+    "isc",
+    "autorizare-diriginti-de-santier",
+    "calitate-constructii",
+    "verificarea-executiei",
+    "ordin-ministerial"
+  ]
+}
