@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 204/2020 metadata
 - feat(metadata): add HG 203/2003 metadata
 - feat(metadata): add Ordin ISC 4093/2024 metadata
 - feat(metadata): add HG 808/2005 metadata
@@ -88,6 +89,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #356 from auras172/codex/metadata-hg-203-2003
 - Merge pull request #355 from auras172/codex/metadata-ordin-isc-4093-2024
 - Merge pull request #354 from auras172/codex/metadata-hg-808-2005
 - Merge pull request #353 from auras172/codex/metadata-oug-6-2018

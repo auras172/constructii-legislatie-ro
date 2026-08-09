@@ -649,6 +649,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Amends: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 169348](https://legislatie.just.ro/Public/DetaliiDocumentAfis/169348)
   - Status: unknown · M.Of. nr. 484/02.07.2015 · Art. I și II modifică explicit Legea 10/1995; Art. III are aplicare diferențiată; Art. IV dispune revizuirea unor acte, iar Art. V republicarea Legii 10/1995; effective_date globală omisă · 5 articles · text nedisponibil în repo
+- [Legea 204/2020](./lege-204-2020.md)
+  - Domain: calitate · Amends: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 230322](https://legislatie.just.ro/Public/DetaliiDocument/230322)
+  - Status: unknown · M.Of. nr. 858/18.09.2020 · Art. I modifică și completează explicit Legea 10/1995; Art. II conține reguli tranzitorii și de aplicare; effective_date omisă · 2 articles · text nedisponibil în repo
 - [HG 668/2017](./hg-668-2017.md)
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 193282](https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282)

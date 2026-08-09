@@ -1,0 +1,42 @@
+{
+  "title": "Legea nr. 204 din 18 septembrie 2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții",
+  "short_title": "Legea 204/2020",
+  "canonical_citation": "Legea nr. 204/2020",
+  "type": "lege",
+  "number": "204",
+  "year": "2020",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": ["constructii", "calitate-constructii", "atestate-specialisti", "verificare-proiecte", "expertizare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2020-09-18",
+  "publication_date": "2020-09-18",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230322",
+  "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 858 din 18 septembrie 2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/230322",
+  "version_kind": "original",
+  "last_checked": "2026-08-09",
+  "version": "Forma de bază afișată de Portal Legislativ; Art. I modifică și completează Legea nr. 10/1995, iar Art. II conține norme tranzitorii și de aplicare",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portal Legislativ confirmă titlul, emitentul, data emiterii și publicarea în M.Of. nr. 858 din 18 septembrie 2020. Art. I modifică și completează explicit Legea nr. 10/1995 privind calitatea în construcții. Art. II conține reguli tranzitorii și de aplicare, astfel că nu se aplatizează într-o singură effective_date. Statusul juridic curent rămâne unknown. Textul legal integral nu este importat.",
+  "amends": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Legea nr. 204/2020 prevede explicit că Legea nr. 10/1995 privind calitatea în construcții se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230322",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "notes": "Art. II conține reguli tranzitorii și de aplicare; nu este modelată o effective_date globală. Nu sunt adăugate relații pentru acte citate doar contextual."
+    }
+  ],
+  "tags": ["constructii", "calitate-constructii", "atestate-specialisti", "verificare-proiecte", "expertizare-tehnica", "amendament"]
+}
