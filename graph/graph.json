@@ -718,6 +718,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "og-18-2019",
+      "label": "OG 18/2019",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "og-31-2023",
       "label": "OG 31/2023",
       "type": "ordonanta",
@@ -1489,6 +1497,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244226"
     },
     {
+      "source": "lege-163-2016",
+      "target": "og-18-2019",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "OG nr. 18/2019 prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2023; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic din OG 18/2019",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292"
+    },
+    {
       "source": "lege-177-2015",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -2229,6 +2250,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-04",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257920"
+    },
+    {
+      "source": "og-18-2019",
+      "target": "lege-163-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Articolul unic prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2023; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Articol unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292"
     },
     {
       "source": "og-31-2023",
@@ -3031,8 +3065,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 132,
-    "confirmed_edges": 211,
+    "total_nodes": 133,
+    "confirmed_edges": 213,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
