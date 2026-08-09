@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-09T15:05:45.474Z",
+  "generated_at": "2026-08-09T17:19:59.732Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 133,
+    "acts_total": 134,
     "acts_full_text": 15,
-    "acts_metadata_only": 118,
+    "acts_metadata_only": 119,
     "article_anchors_total": 881,
-    "import_logs_total": 134,
+    "import_logs_total": 135,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 213,
+    "confirmed_relationships": 215,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1795,6 +1795,19 @@
       "anchor_count": 0,
       "file": "legi/oug-52-2025.md",
       "metadata_file": "metadata/acts/oug-52-2025.json"
+    },
+    {
+      "slug": "oug-6-2018",
+      "title": "Ordonanța de urgență nr. 6 din 22 februarie 2018 privind prorogarea termenului prevăzut la art. II din Legea nr. 163/2016 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții",
+      "short_title": "OUG 6/2018",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 1,
+      "anchor_count": 0,
+      "file": "legi/oug-6-2018.md",
+      "metadata_file": "metadata/acts/oug-6-2018.json"
     }
   ],
   "ai_guidance": {

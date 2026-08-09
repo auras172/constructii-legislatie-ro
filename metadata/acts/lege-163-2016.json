@@ -30,7 +30,8 @@
   "rights_note": "Portalul Legislativ confirmă Legea nr. 163/21.07.2016, emisă de Parlamentul României și publicată în M.Of. nr. 561/25.07.2016. Art. I modifică și completează explicit Legea nr. 10/1995 privind calitatea în construcții. Art. II stabilește aplicare diferențiată și include măsuri al căror termen a fost prorogat ulterior; nu este înregistrată o singură effective_date. Portalul nu declară explicit statusul juridic curent, astfel că statusul este păstrat unknown. Metadata-only — textul integral nu este importat.",
   "related_acts": [
     "lege-190-2021",
-    "og-18-2019"
+    "og-18-2019",
+    "oug-6-2018"
   ],
   "amends": [
     "lege-10-1995"
@@ -66,6 +67,17 @@
       "evidence": "OG nr. 18/2019 prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2023; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
       "source_article": "Articol unic din OG 18/2019",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217292",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-09"
+    },
+    {
+      "type": "related_to",
+      "target": "oug-6-2018",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "OUG nr. 6/2018 prorogă termenul prevăzut la art. II din Legea nr. 163/2016 până la 25 august 2019; relația este explicită, dar nu este o modificare directă a textului Legii 163/2016.",
+      "source_article": "Articol unic din OUG 6/2018",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-09"
     }
