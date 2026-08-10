@@ -461,6 +461,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
   - Status: active · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrat în vigoare 01.01.2026 · înlocuiește NP 007-1997
   - Import log: [import-log/2026-06-29-normativ-np007-2025.md](../import-log/2026-06-29-normativ-np007-2025.md)
+- [Ordin MDLPA 880/2025](./ordin-mdlpa-880-2025.md)
+  - Domain: calitate (structuri beton armat) · Implements: Legea 10/1995
+  - Official source checked: Portal Legislativ ([forma oficială](https://legislatie.just.ro/Public/DetaliiDocumentAfis/299628))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 630 și 630 bis/04.07.2025 · intrare în vigoare 31.12.2025, derivată din regula de 180 de zile · 4 articole și 1 anexă; aprobă NP 007-2025 fără edge `approves` nesuportat de schema repo
+  - Import log: [import-log/2026-08-10-ordin-mdlpa-880-2025.md](../import-log/2026-08-10-ordin-mdlpa-880-2025.md)
 - [Normativ NP 015-2022](./normativ-np015-2022.md)
   - Domain: calitate (construcții spitalicești) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.L.P.A. nr. 2412/15.09.2022
