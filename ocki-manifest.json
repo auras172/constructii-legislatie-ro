@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-09T21:48:04.756Z",
+  "generated_at": "2026-08-10T04:50:52.118Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 141,
+    "acts_total": 142,
     "acts_full_text": 15,
-    "acts_metadata_only": 126,
+    "acts_metadata_only": 127,
     "article_anchors_total": 881,
-    "import_logs_total": 142,
+    "import_logs_total": 143,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 223,
+    "confirmed_relationships": 224,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -820,6 +820,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-np007-2025.md",
       "metadata_file": "metadata/acts/normativ-np007-2025.json"
+    },
+    {
+      "slug": "normativ-np011-2022",
+      "title": "Normativ privind cerințe de calitate specifice construcțiilor pentru grădinițe, indicativ NP 011-2022",
+      "short_title": "NP 011-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/normativ-np011-2022.md",
+      "metadata_file": "metadata/acts/normativ-np011-2022.json"
     },
     {
       "slug": "normativ-np015-2022",
