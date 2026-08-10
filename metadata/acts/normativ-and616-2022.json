@@ -1,0 +1,43 @@
+{
+  "title": "Ordin nr. 1.553/2023/12/1.400/2024 pentru aprobarea reglementării tehnice „Instrucțiuni tehnice pentru marcaje rutiere“, indicativ AND 616-2022",
+  "short_title": "AND 616-2022",
+  "canonical_citation": "AND 616-2022",
+  "type": "normativ",
+  "number": "1553/2023/12/1400/2024",
+  "year": "2022",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Afacerilor Interne; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["marcaje-rutiere", "drumuri", "infrastructura-rutiera", "normativ-tehnic"],
+  "status": "unknown",
+  "issue_date": "2023-08-18",
+  "publication_date": "2024-07-10",
+  "effective_date": "2024-09-08",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
+  "official_source": "Portal Legislativ — Ordinul comun nr. 1.553/2023, nr. 12/2023 și nr. 1.400/2024; Monitorul Oficial al României, Partea I, nr. 656 și 656 bis/10.07.2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
+  "version_kind": "original",
+  "last_checked": "2026-08-10",
+  "version": "Ordin comun în forma afișată de Portal Legislativ; art. 2 prevede intrarea în vigoare la 60 de zile de la publicare",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul comun aprobă reglementarea tehnică „Instrucțiuni tehnice pentru marcaje rutiere”, indicativ AND 616-2022. Art. 2 prevede intrarea în vigoare în 60 de zile de la publicare; data de 2024-09-08 este derivată mecanic din publicarea la 10.07.2024. Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. OG nr. 43/1997, HG nr. 370/2021, OUG nr. 30/2007, Legea nr. 15/2008 și HG nr. 477/2020 sunt referințe externe sau temeiuri legale și nu sunt modelate ca noduri. Textul tehnic integral nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "notes": "Nu se adaugă relații către OG nr. 43/1997, Legea nr. 50/1991, acte rutiere sau normative surori; acestea sunt referințe externe/contextuale în sursa oficială."
+    }
+  ],
+  "tags": ["marcaje-rutiere", "drumuri", "infrastructura-rutiera", "normativ-tehnic", "mt", "mai", "mdlpa", "and616"]
+}
