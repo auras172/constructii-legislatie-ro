@@ -1038,6 +1038,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-770-2025",
+      "label": "Ordin MDLPA 770/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-817-2021",
       "label": "Ordin MDLPA 817/2021",
       "type": "ordin",
@@ -3018,6 +3026,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593"
     },
     {
+      "source": "ordin-mdlpa-770-2025",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299154"
+    },
+    {
       "source": "ordin-mdlpa-817-2021",
       "target": "hg-742-2018",
       "relationship": "related",
@@ -3496,8 +3517,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 148,
-    "confirmed_edges": 236,
+    "total_nodes": 149,
+    "confirmed_edges": 237,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
