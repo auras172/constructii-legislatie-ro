@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T05:19:12.256Z",
+  "generated_at": "2026-08-10T05:41:51.495Z",
   "summary": {
-    "total_metadata_entries": 146,
+    "total_metadata_entries": 147,
     "total_full_text_acts": 15,
-    "total_metadata_only_acts": 131,
-    "total_import_logs": 147,
-    "total_relationship_links": 286,
+    "total_metadata_only_acts": 132,
+    "total_import_logs": 148,
+    "total_relationship_links": 292,
     "total_unique_domains": 12,
     "total_unique_issuers": 4
   },
@@ -125,6 +125,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-272-1994",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1204,7 +1213,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 4,
+      "relationships": 6,
       "provenance": true
     },
     {
@@ -1222,7 +1231,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 3,
+      "relationships": 5,
       "provenance": true
     },
     {
@@ -1329,7 +1338,7 @@
     "domains": {
       "urbanism": 9,
       "executie": 6,
-      "calitate": 58,
+      "calitate": 59,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1342,13 +1351,13 @@
     },
     "issuers": {
       "minister": 79,
-      "guvern": 31,
+      "guvern": 32,
       "parlament": 17,
       "autoritate": 19
     },
     "publication_years": {
       "1991": 1,
-      "1994": 1,
+      "1994": 2,
       "1995": 2,
       "1996": 1,
       "1997": 1,
@@ -1381,7 +1390,7 @@
       "2026": 4
     },
     "import_methods": {
-      "metadata-only": 131,
+      "metadata-only": 132,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

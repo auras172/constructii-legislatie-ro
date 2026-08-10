@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-10T05:19:12.349Z",
+  "generated_at": "2026-08-10T05:41:51.576Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 146,
+    "acts_total": 147,
     "acts_full_text": 15,
-    "acts_metadata_only": 131,
+    "acts_metadata_only": 132,
     "article_anchors_total": 881,
-    "import_logs_total": 147,
+    "import_logs_total": 148,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 229,
+    "confirmed_relationships": 235,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -235,6 +235,19 @@
       "anchor_count": 0,
       "file": "legi/hg-203-2003.md",
       "metadata_file": "metadata/acts/hg-203-2003.json"
+    },
+    {
+      "slug": "hg-272-1994",
+      "title": "Hotărârea Guvernului nr. 272 din 14 iunie 1994 pentru aprobarea Regulamentului privind controlul de stat al calității în construcții",
+      "short_title": "HG 272/1994",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/hg-272-1994.md",
+      "metadata_file": "metadata/acts/hg-272-1994.json"
     },
     {
       "slug": "hg-273-1994",

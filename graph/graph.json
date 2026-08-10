@@ -110,6 +110,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-272-1994",
+      "label": "HG 272/1994",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-273-1994",
       "label": "HG 273/1994",
       "type": "hotarare",
@@ -1367,6 +1375,32 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42096",
       "notes": "Relația privește actul-cadru existent. HG nr. 650/2001, Legea nr. 500/2002, OG nr. 16/2014 și HG nr. 369/2018 sunt documentate ca referințe externe, fără noduri sau relații suplimentare."
+    },
+    {
+      "source": "hg-272-1994",
+      "target": "ordin-mdrt-1496-2011",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul MDRT nr. 1496/2011 citează explicit art. 10 lit. i) din regulamentul aprobat prin HG nr. 272/1994.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă, art. 1 din Ordinul MDRT nr. 1496/2011",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129692"
+    },
+    {
+      "source": "hg-272-1994",
+      "target": "ordin-mdrt-277-2012",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul MDRT nr. 277/2012 citează explicit art. 10 lit. i) din regulamentul aprobat prin HG nr. 272/1994.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul; Anexă, art. 1 din Ordinul MDRT nr. 277/2012",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801"
     },
     {
       "source": "hg-273-1994",
@@ -3062,6 +3096,32 @@
     },
     {
       "source": "ordin-mdrt-1496-2011",
+      "target": "hg-272-1994",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul oficial citează art. 10 lit. i) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin HG nr. 272/1994.",
+      "source_article": "Anexă, art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129692"
+    },
+    {
+      "source": "ordin-mdrt-1496-2011",
+      "target": "hg-272-1994",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Textul oficial citează art. 10 lit. i) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin HG nr. 272/1994.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Anexă, art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129692"
+    },
+    {
+      "source": "ordin-mdrt-1496-2011",
       "target": "lege-10-1995",
       "relationship": "implements",
       "review_status": "confirmed",
@@ -3124,6 +3184,32 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-04",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205649"
+    },
+    {
+      "source": "ordin-mdrt-277-2012",
+      "target": "hg-272-1994",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul oficial citează art. 10 lit. i) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin HG nr. 272/1994.",
+      "source_article": "Preambul; Anexă, art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801"
+    },
+    {
+      "source": "ordin-mdrt-277-2012",
+      "target": "hg-272-1994",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Textul oficial citează art. 10 lit. i) din Regulamentul privind controlul de stat al calității în construcții, aprobat prin HG nr. 272/1994.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul; Anexă, art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136801"
     },
     {
       "source": "ordin-mdrt-277-2012",
@@ -3389,8 +3475,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 146,
-    "confirmed_edges": 229,
+    "total_nodes": 147,
+    "confirmed_edges": 235,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

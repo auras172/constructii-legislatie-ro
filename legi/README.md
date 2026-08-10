@@ -88,6 +88,12 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G3KEP332SQHYM22ZBWYTMISCV0O) + [document 74081](https://legislatie.just.ro/Public/DetaliiDocument/74081)
   - Status: unknown · M.Of. nr. 193/28.07.1994 · formă actualizată la 28.07.2006 · 3 articles · 1 annex · effective_date omisă
   - Import log: [import-log/2026-08-09-hg-273-1994.md](../import-log/2026-08-09-hg-273-1994.md)
+- [HG 272/1994](./hg-272-1994.md)
+  - Domain: calitate · metadata-only
+  - Official source checked: [Portal Legislativ, document 4820](https://legislatie.just.ro/Public/DetaliiDocumentAfis/4820)
+  - Status: repealed prin Art. 4 din HG 492/2018 · M.Of. nr. 193/28.07.1994 · 4 articles · 1 annex · effective_date omisă
+  - Regulamentul privind controlul de stat al calității în construcții nu este modelat ca nod separat; ordinele MDRT 1496/2011 și 277/2012 citează explicit art. 10 lit. i)
+  - Import log: [import-log/2026-08-10-hg-272-1994.md](../import-log/2026-08-10-hg-272-1994.md)
 - [Legea 141/2026](./lege-141-2026.md)
   - Domain: receptie · Related: Legea 307/2006, Legea 10/1995
   - Official source checked: Portal Legislativ ([`/Public/DetaliiDocument/312240`](https://legislatie.just.ro/Public/DetaliiDocument/312240)) + Monitorul Oficial nr. 575/13.07.2026 PDF atașat importului

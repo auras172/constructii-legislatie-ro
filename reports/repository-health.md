@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-10T05:19:12.256Z
+Generated: 2026-08-10T05:41:51.495Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 146 |
+| Total metadata entries | 147 |
 | Full-text acts | 15 |
-| Metadata-only acts | 131 |
-| Import log files | 147 |
-| Total relationship links | 286 |
+| Metadata-only acts | 132 |
+| Import log files | 148 |
+| Total relationship links | 292 |
 | Unique domains | 12 |
 | Unique issuers | 4 |
 
@@ -31,6 +31,7 @@ Generated: 2026-08-10T05:19:12.256Z
 | ghid-rtc8-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-1425-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-203-2003 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-272-1994 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-273-1994 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
@@ -150,9 +151,9 @@ Generated: 2026-08-10T05:19:12.256Z
 | ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 6 | ✓ |
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 3 | ✓ |
+| ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdrt-3482-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -171,7 +172,7 @@ Generated: 2026-08-10T05:19:12.256Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 58 |
+| calitate | 59 |
 | anre | 20 |
 | iscir | 16 |
 | incendiu | 15 |
@@ -189,7 +190,7 @@ Generated: 2026-08-10T05:19:12.256Z
 | Value | Count |
 | --- | --- |
 | minister | 79 |
-| guvern | 31 |
+| guvern | 32 |
 | autoritate | 19 |
 | parlament | 17 |
 
@@ -215,6 +216,7 @@ Generated: 2026-08-10T05:19:12.256Z
 | 2009 | 3 |
 | 2015 | 3 |
 | 2019 | 3 |
+| 1994 | 2 |
 | 1995 | 2 |
 | 2000 | 2 |
 | 2001 | 2 |
@@ -224,7 +226,6 @@ Generated: 2026-08-10T05:19:12.256Z
 | 2011 | 2 |
 | 2017 | 2 |
 | 1991 | 1 |
-| 1994 | 1 |
 | 1996 | 1 |
 | 1997 | 1 |
 | 1999 | 1 |
@@ -234,7 +235,7 @@ Generated: 2026-08-10T05:19:12.256Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 131 |
+| metadata-only | 132 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
