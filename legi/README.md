@@ -184,6 +184,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28)) — O.M.D.L.P.A. nr. 267/28.02.2025
   - Status: active · metadata-only (698 pag., text integral nedisponibil în repo) · intrat în vigoare 08.05.2025
   - Import log: [import-log/2026-06-28-normativ-p118-1-2025.md](../import-log/2026-06-28-normativ-p118-1-2025.md)
+- [Ordin MDLPA 267/2025](./ordin-mdlpa-267-2025.md)
+  - Domain: incendiu · Implements: Legea 10/1995
+  - Official source checked: Portal Legislativ ([forma oficială](https://legislatie.just.ro/Public/DetaliiDocumentAfis/295242))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 204 și 204 bis/10.03.2025 · intrare în vigoare 09.05.2025, derivată din regula de 60 de zile · 4 articole și 1 anexă; aprobă P 118/1-2025 fără edge `approves` nesuportat de schema repo
+  - Import log: [import-log/2026-08-10-ordin-mdlpa-267-2025.md](../import-log/2026-08-10-ordin-mdlpa-267-2025.md)
 - [Normativ P 118/2-2013](./normativ-p118-2-2013.md)
   - Domain: incendiu (instalații de stingere) · Related: NP 086-2005 (abrogat de acest act)
   - Official source checked: MDLPA ([reglementare28](https://www.mdlpa.ro/pages/reglementare28), poziția XXVIII-15) — O.M.D.R.A.P. nr. 2.463/08.08.2013
