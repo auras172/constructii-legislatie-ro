@@ -455,6 +455,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — Ordinul nr. 2.487/20.09.2022](https://legislatie.just.ro/Public/DetaliiDocument/259725)
   - Status: unknown · metadata-only · publicat în M.Of. nr. 950/29.09.2022 · intrat în vigoare 29.10.2022, derivat din regula de 30 de zile · încetează aplicabilitatea NP 011-1997
   - Import log: [import-log/2026-08-10-normativ-np011-2022.md](../import-log/2026-08-10-normativ-np011-2022.md)
+- [Normativ NP 022-2021](./normativ-np022-2021.md)
+  - Domain: calitate (construcții pentru creșe) · Implements: Legea 10/1995
+  - Official source checked: [Portal Legislativ — Ordinul nr. 749/02.06.2021](https://legislatie.just.ro/Public/DetaliiDocument/243147)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 582/09.06.2021 · intrat în vigoare 19.06.2021, derivat din regula de 10 zile · încetează aplicabilitatea NP 022-1997
+  - Import log: [import-log/2026-08-10-normativ-np022-2021.md](../import-log/2026-08-10-normativ-np022-2021.md)
 - [Normativ NP 051-2012](./normativ-np051-2012.md)
   - Domain: calitate (accesibilitate clădiri civile) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.R.A.P. nr. 189/12.02.2013

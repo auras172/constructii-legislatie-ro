@@ -486,6 +486,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np022-2021",
+      "label": "NP 022-2021",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np051-2012",
       "label": "Normativ NP 051-2012",
       "type": "normativ",
@@ -2064,6 +2072,20 @@
       "evidence": "metadata/acts/normativ-np015-2022.json"
     },
     {
+      "source": "normativ-np022-2021",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 10 din Legea nr. 10/1995, iar art. 1 aprobă normativul tehnic care stabilește cerințe de calitate pentru construcțiile destinate creșelor.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243147",
+      "notes": "NP 022-1997 este documentat ca predecessor extern. Nu se adaugă relații către NP 011, Legea nr. 50/1991 sau alte normative pe similitudine tematică."
+    },
+    {
       "source": "normativ-np051-2012",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -3289,8 +3311,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 142,
-    "confirmed_edges": 224,
+    "total_nodes": 143,
+    "confirmed_edges": 225,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
