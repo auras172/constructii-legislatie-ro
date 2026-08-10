@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-10T05:41:51.576Z",
+  "generated_at": "2026-08-10T05:53:22.491Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 147,
+    "acts_total": 148,
     "acts_full_text": 15,
-    "acts_metadata_only": 132,
+    "acts_metadata_only": 133,
     "article_anchors_total": 881,
-    "import_logs_total": 148,
+    "import_logs_total": 149,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 235,
+    "confirmed_relationships": 236,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1717,6 +1717,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-205-2023.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-205-2023.json"
+    },
+    {
+      "slug": "ordin-mdlpa-267-2025",
+      "title": "Ordin nr. 267 din 28 februarie 2025 pentru aprobarea reglementării tehnice «Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025»",
+      "short_title": "Ordin MDLPA 267/2025",
+      "type": "ordin",
+      "domain": "incendiu",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-267-2025.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-267-2025.json"
     },
     {
       "slug": "ordin-mdlpa-2837-2022",
