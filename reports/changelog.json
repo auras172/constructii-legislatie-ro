@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-10T04:50:55.051Z",
+  "generated_at": "2026-08-10T04:58:46.735Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP 011-2022 metadata",
         "feat(metadata): add OUG 26/2022 metadata",
         "feat(metadata): add OUG 46/2015 metadata",
         "feat(metadata): add OUG 87/2025 metadata",
@@ -90,6 +91,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #362 from auras172/codex/metadata-np011-2022",
         "Merge pull request #361 from auras172/codex/housekeeping-refresh-2026-08-10",
         "Merge pull request #360 from auras172/codex/metadata-oug-26-2022",
         "Merge pull request #359 from auras172/codex/metadata-oug-46-2015",
@@ -551,6 +553,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 129
+    "infrastructure_changes": 130
   }
 }
