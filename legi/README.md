@@ -209,6 +209,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare21](https://www.mdlpa.ro/pages/reglementare21)) — O.M.D.L.P.A. nr. 770/30.05.2025
   - Status: active · metadata-only · intrat în vigoare 18.05.2025 · înlocuiește P 130 din 1999/2003
   - Import log: [import-log/2026-06-28-normativ-p130-2025.md](../import-log/2026-06-28-normativ-p130-2025.md)
+- [Ordin MDLPA 770/2025](./ordin-mdlpa-770-2025.md)
+  - Domain: calitate · Implements: Legea 10/1995
+  - Official source checked: Portal Legislativ ([forma oficială](https://legislatie.just.ro/Public/DetaliiDocument/299154))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 568/19.06.2025 · intrare în vigoare 19.07.2025, derivată din regula de 30 de zile · 6 articole și 1 anexă; aprobă P 130-2025 fără edge `approves` nesuportat de schema repo
+  - Import log: [import-log/2026-08-10-ordin-mdlpa-770-2025.md](../import-log/2026-08-10-ordin-mdlpa-770-2025.md)
 - [Prescripție Tehnică PT A 1-2010](./normativ-pt-a1-2010.md)
   - Domain: iscir · Related: Legea 10/1995
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1007/22.06.2010
