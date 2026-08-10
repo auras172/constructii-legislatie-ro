@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add NP 022-2021 metadata
 - feat(metadata): add NP 011-2022 metadata
 - feat(metadata): add OUG 26/2022 metadata
 - feat(metadata): add OUG 46/2015 metadata
@@ -94,6 +95,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #363 from auras172/codex/metadata-np022-2021
 - Merge pull request #362 from auras172/codex/metadata-np011-2022
 - Merge pull request #361 from auras172/codex/housekeeping-refresh-2026-08-10
 - Merge pull request #360 from auras172/codex/metadata-oug-26-2022

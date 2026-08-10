@@ -1014,6 +1014,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-894-2023",
+      "label": "Ordin MDLPA 894/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-904-2023",
       "label": "Ordin MDLPA 904/2023",
       "type": "ordin",
@@ -2937,6 +2945,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076"
     },
     {
+      "source": "ordin-mdlpa-894-2023",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613"
+    },
+    {
+      "source": "ordin-mdlpa-894-2023",
+      "target": "normativ-np022-2021",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că reglementarea tehnică „Normativ privind proiectarea, execuția și exploatarea construcțiilor pentru creșe”, indicativ NP 022-2021, se modifică după cum urmează și modifică punctul 3.9.8.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613"
+    },
+    {
       "source": "ordin-mdlpa-904-2023",
       "target": "ordin-mdrap-233-2016",
       "relationship": "amends",
@@ -3311,8 +3345,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 143,
-    "confirmed_edges": 225,
+    "total_nodes": 144,
+    "confirmed_edges": 227,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

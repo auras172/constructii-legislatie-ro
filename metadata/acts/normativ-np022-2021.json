@@ -25,6 +25,7 @@
   "import_method": "metadata-only",
   "rights_note": "Ordinul nr. 749/02.06.2021 aprobă reglementarea tehnică NP 022-2021 pentru construcții destinate creșelor. Art. 2 prevede publicarea și intrarea în vigoare la 10 zile de la publicare; data de 2021-06-19 este derivată mecanic din publicarea la 09.06.2021. Art. 4 prevede încetarea aplicabilității NP 022-1997, care rămâne referință externă și nu este modelat ca nod. Textul tehnic integral nu este importat.",
   "implements": ["lege-10-1995"],
+  "amended_by": ["ordin-mdlpa-894-2023"],
   "relationships": [
     {
       "type": "implements",

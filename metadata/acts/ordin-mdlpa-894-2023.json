@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 894 din 15 mai 2023 pentru modificarea reglementării tehnice „Normativ privind proiectarea, execuția și exploatarea construcțiilor pentru creșe”, indicativ NP 022-2021, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 749/2021",
+  "short_title": "Ordin MDLPA 894/2023",
+  "canonical_citation": "Ordinul nr. 894/2023",
+  "type": "ordin",
+  "number": "894",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["creșe", "construcții-educaționale", "clădiri-sociale", "normativ-tehnic"],
+  "status": "unknown",
+  "issue_date": "2023-05-15",
+  "publication_date": "2023-05-23",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613",
+  "official_source": "Portal Legislativ — Ordinul nr. 894/15.05.2023; Monitorul Oficial al României, Partea I, nr. 447/23.05.2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613",
+  "version_kind": "original",
+  "last_checked": "2026-08-10",
+  "version": "Forma de bază afișată de Portal Legislativ; Art. I modifică punctul 3.9.8 din NP 022-2021, iar Art. II prevede publicarea",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul modifică direct reglementarea tehnică NP 022-2021, aprobată prin Ordinul nr. 749/2021. Art. I modifică punctul 3.9.8, iar Art. II prevede publicarea în Monitorul Oficial; nu este stabilită o effective_date calendaristică. Preambulul citează art. 10 din Legea nr. 10/1995. Textul integral al ordinului și al normativului nu este importat.",
+  "related_acts": ["lege-10-1995"],
+  "amends": ["normativ-np022-2021"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "normativ-np022-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că reglementarea tehnică „Normativ privind proiectarea, execuția și exploatarea construcțiilor pentru creșe”, indicativ NP 022-2021, se modifică după cum urmează și modifică punctul 3.9.8.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10"
+    },
+    {
+      "type": "related_to",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270613",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10"
+    }
+  ],
+  "tags": ["mdlpa", "creșe", "construcții-educaționale", "clădiri-sociale", "normativ-tehnic", "ordin-amendament"]
+}
