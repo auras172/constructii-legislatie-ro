@@ -2,12 +2,12 @@
 
 This roadmap keeps the project focused on infrastructure first. We do not start with OCR, chatbots, vector databases, or AI summaries. We first build a trustworthy Git-native base.
 
-## Current status (2026-08-09)
+## Current status (2026-08-10)
 
-- 131 acts tracked: 15 full-text and 116 metadata-only.
-- 131 graph nodes and 209 confirmed relationships.
+- 141 acts tracked: 15 full-text and 126 metadata-only.
+- 141 graph nodes and 223 confirmed relationships.
 - 0 `needs_review`; repository health 100/100.
-- PR #348 is merged; the next work should remain source-backed and scoped.
+- PR #360 is merged; the next work should remain source-backed and scoped.
 
 ## Phase 0 — Foundation
 
