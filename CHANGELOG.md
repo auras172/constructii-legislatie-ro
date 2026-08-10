@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add OUG 26/2022 metadata
 - feat(metadata): add OUG 46/2015 metadata
 - feat(metadata): add OUG 87/2025 metadata
 - feat(metadata): add Legea 204/2020 metadata
@@ -79,6 +80,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh housekeeping after PR 360
 - docs: refresh repository housekeeping status
 - docs: refresh repository status after PR 332
 - docs: refresh status after RTC 7 import
@@ -91,6 +93,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #361 from auras172/codex/housekeeping-refresh-2026-08-10
+- Merge pull request #360 from auras172/codex/metadata-oug-26-2022
 - Merge pull request #359 from auras172/codex/metadata-oug-46-2015
 - Merge pull request #358 from auras172/codex/metadata-oug-87-2025
 - Merge pull request #357 from auras172/codex/metadata-lege-204-2020

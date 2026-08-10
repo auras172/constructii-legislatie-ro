@@ -470,6 +470,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np011-2022",
+      "label": "NP 011-2022",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np015-2022",
       "label": "NP 015-2022",
       "type": "normativ",
@@ -2035,6 +2043,20 @@
       "evidence": "metadata/acts/normativ-np007-2025.json"
     },
     {
+      "source": "normativ-np011-2022",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 10 din Legea nr. 10/1995, iar art. 1 aprobă normativul tehnic care stabilește cerințe de calitate pentru construcțiile destinate grădinițelor.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259725",
+      "notes": "NP 011-1997 este documentat ca predecessor extern. Nu se adaugă relații către NP 022, Legea nr. 50/1991 sau alte normative pe similitudine tematică."
+    },
+    {
       "source": "normativ-np015-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -3267,8 +3289,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 141,
-    "confirmed_edges": 223,
+    "total_nodes": 142,
+    "confirmed_edges": 224,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
