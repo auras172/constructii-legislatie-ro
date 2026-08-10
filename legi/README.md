@@ -470,6 +470,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — Ordin comun nr. 1553/2023, nr. 12/2023 și nr. 1400/2024](https://legislatie.just.ro/Public/DetaliiDocument/285240)
   - Status: unknown · metadata-only · publicat în M.Of. nr. 656 și 656 bis/10.07.2024 · intrat în vigoare 08.09.2024, derivat din regula de 60 de zile
   - Import log: [import-log/2026-08-10-normativ-and616-2022.md](../import-log/2026-08-10-normativ-and616-2022.md)
+- [Normativ AND 619-2024](./normativ-and619-2024.md)
+  - Domain: execuție (investigații GPR) · Related: Legea 10/1995
+  - Official source checked: [Portal Legislativ — Ordinul comun nr. 132/2026 și nr. 285/2026](https://legislatie.just.ro/Public/DetaliiDocument/308348)
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 216/20.03.2026 · intrat în vigoare 19.05.2026, derivat din regula de 60 de zile
+  - Import log: [import-log/2026-08-10-normativ-and619-2024.md](../import-log/2026-08-10-normativ-and619-2024.md)
 - [Normativ NP 051-2012](./normativ-np051-2012.md)
   - Domain: calitate (accesibilitate clădiri civile) · Related: Legea 10/1995
   - Official source checked: MDLPA ([reglementare17](https://www.mdlpa.ro/pages/reglementare17)) — O.M.D.R.A.P. nr. 189/12.02.2013
