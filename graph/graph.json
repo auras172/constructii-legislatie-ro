@@ -366,6 +366,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-and616-2022",
+      "label": "AND 616-2022",
+      "type": "normativ",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-c254-2022",
       "label": "C 254-2022",
       "type": "normativ",
@@ -1915,6 +1923,20 @@
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
     },
     {
+      "source": "normativ-and616-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Preambulul invocă art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
+      "notes": "Nu se adaugă relații către OG nr. 43/1997, Legea nr. 50/1991, acte rutiere sau normative surori; acestea sunt referințe externe/contextuale în sursa oficială."
+    },
+    {
       "source": "normativ-c254-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -3345,8 +3367,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 144,
-    "confirmed_edges": 227,
+    "total_nodes": 145,
+    "confirmed_edges": 228,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
