@@ -1,0 +1,55 @@
+{
+  "title": "Ordin nr. 880 din 23 iunie 2025 pentru aprobarea reglementării tehnice «Cod de proiectare pentru structuri în cadre din beton armat, indicativ NP 007-2025»",
+  "short_title": "Ordin MDLPA 880/2025",
+  "canonical_citation": "Ordinul MDLPA nr. 880/2025",
+  "type": "ordin",
+  "number": "880",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "structuri-beton-armat",
+    "constructii",
+    "np007-2025",
+    "normativ-tehnic"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-06-23",
+  "publication_date": "2025-07-04",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299628",
+  "official_source": "Portal Legislativ — Ordinul nr. 880/23.06.2025; Monitorul Oficial al României, Partea I, nr. 630 și 630 bis din 04.07.2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299628",
+  "version_kind": "original",
+  "last_checked": "2026-08-10",
+  "version": "Forma oficială a ordinului; reglementarea tehnică NP 007-2025 este anexă și nu este importată ca text integral",
+  "article_count": 4,
+  "annex_count": 1,
+  "effective_date": "2025-12-31",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică «Cod de proiectare pentru structuri în cadre din beton armat, indicativ NP 007-2025». Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. Art. 4 prevede intrarea în vigoare în 180 de zile de la data publicării; data de 2025-12-31 este derivată mecanic din publicarea la 2025-07-04. Statusul curent nu este declarat și rămâne unknown. Ordinul și normativul tehnic anexat nu sunt importate ca text integral.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299628",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-10"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "structuri",
+    "structuri-beton-armat",
+    "np007-2025",
+    "normativ-tehnic"
+  ]
+}
