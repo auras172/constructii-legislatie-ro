@@ -1054,6 +1054,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-310-2022",
+      "label": "Ordin MDLPA 310/2022",
+      "type": "ordin",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-770-2025",
       "label": "Ordin MDLPA 770/2025",
       "type": "ordin",
@@ -3102,6 +3110,126 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593"
     },
     {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "hg-525-2013",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 pct. II lit. j) și pct. III lit. c) și d) din anexa nr. 1 la Hotărârea Guvernului nr. 525/2013 privind atribuțiile Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "hg-525-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "lege-350-2001",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul indică dispozițiile Legii nr. 350/2001, iar procedurile verifică în temeiul art. 62 alin. (1) și aplică cerințele acestei legi, inclusiv prin art. 5 alin. (1) și procedura din Anexa nr. 3.",
+      "source_article": "Preambul; Anexa nr. 1, Art. 5 alin. (1); Anexa nr. 3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "lege-350-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "lege-50-1991",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul indică dispozițiile Legii nr. 50/1991, iar procedurile verifică în temeiul art. 29 și aplică cerințele acestei legi, inclusiv prin art. 5 alin. (1) și art. 8.",
+      "source_article": "Preambul; Anexa nr. 1, Art. 5 alin. (1) și Art. 8",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "og-63-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 1 alin. (2) din Ordonanța Guvernului nr. 63/2001 privind înființarea Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "og-63-2001",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "ordin-839-2009",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Normele metodologice de aplicare a Legii nr. 50/1991 aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "ordin-839-2009",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "ordin-mdrap-233-2016",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Normele metodologice de aplicare a Legii nr. 350/2001 aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice nr. 233/2016.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253671"
+    },
+    {
+      "source": "ordin-mdlpa-310-2022",
+      "target": "ordin-mdrap-233-2016",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
+    },
+    {
       "source": "ordin-mdlpa-770-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -3606,8 +3734,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 152,
-    "confirmed_edges": 242,
+    "total_nodes": 153,
+    "confirmed_edges": 254,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -625,6 +625,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, original ID 176682](https://legislatie.just.ro/Public/DetaliiDocument/176682) + [forma consolidată ID 267783](https://legislatie.just.ro/Public/DetaliiDocument/267783) + [PDF ISC](https://isc.gov.ro/files/2018/Legislatie/Ordinul%20nr%20233_2016%20Norme%20aplicare%20%20Legiea%20350_2001.pdf)
   - Status active · Ordinul nr. 233/26.02.2016 · M.Of. nr. 199/17.03.2016 · ultima consolidare afișată 07.11.2025
   - Import log: [import-log/2026-08-10-ordin-mdrap-233-2016.md](../import-log/2026-08-10-ordin-mdrap-233-2016.md)
+- [Ordin MDLPA 310/2022](./ordin-mdlpa-310-2022.md)
+  - Domain: urbanism · Implements: Legea 50/1991, Legea 350/2001 · References: OG 63/2001, HG 525/2013, Ordin 839/2009, Ordin 233/2016 · metadata-only
+  - Official source checked: [Portal Legislativ, ID 253671](https://legislatie.just.ro/Public/DetaliiDocument/253671) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0UODABQW7V8WJ14L878TY9QKWL) + [PDF ISC](https://isc.gov.ro/files/2022/Legislatie/Ordin%20310-2022.pdf)
+  - Status unknown · Ordinul nr. 310/28.02.2022 · M.Of. nr. 337/06.04.2022 și 337 bis pentru anexe · effective_date 06.04.2022 · abrogă Ordinul 456/2014 extern
+  - Import log: [import-log/2026-08-11-ordin-mdlpa-310-2022.md](../import-log/2026-08-11-ordin-mdlpa-310-2022.md)
 - [Ordin MDRT 2701/2010](./ordin-mdrt-2701-2010.md)
   - Domain: urbanism · Related: Legea 350/2001 · metadata-only
   - Official source checked: [Portal Legislativ, Ordin ID 125365](https://legislatie.just.ro/Public/DetaliiDocument/125365) + [metodologie ID 205649](https://legislatie.just.ro/Public/DetaliiDocument/205649)
