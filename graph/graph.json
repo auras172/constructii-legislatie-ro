@@ -822,6 +822,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-2371-2022",
+      "label": "Ordin comun 2371/21.361/3.765/2022",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
@@ -2634,6 +2642,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306804"
     },
     {
+      "source": "ordin-2371-2022",
+      "target": "hg-203-2003",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 2 din Regulamentul privind activitatea de reglementare în construcții, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580"
+    },
+    {
+      "source": "ordin-2371-2022",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580"
+    },
+    {
       "source": "ordin-839-2009",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -3734,8 +3768,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 153,
-    "confirmed_edges": 254,
+    "total_nodes": 154,
+    "confirmed_edges": 256,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
