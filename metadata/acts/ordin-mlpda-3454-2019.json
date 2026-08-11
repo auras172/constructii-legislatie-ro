@@ -1,0 +1,54 @@
+{
+  "title": "Ordin nr. 3.454 din 31 decembrie 2019 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009",
+  "short_title": "Ordin MLPDA 3454/2019",
+  "canonical_citation": "Ordin nr. 3.454/2019",
+  "type": "ordin",
+  "number": "3454",
+  "year": "2019",
+  "issuer": "Ministerul Lucrărilor Publice, Dezvoltării și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "legea-50-1991"
+  ],
+  "status": "unknown",
+  "issue_date": "2019-12-31",
+  "publication_date": "2020-01-06",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221878",
+  "official_source": "Portal Legislativ — Ordin nr. 3.454/31.12.2019, ID 221878; Monitorul Oficial al României, Partea I, nr. 4 din 6 ianuarie 2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/221878",
+  "version": "Forma originală afișată de Portal Legislativ; două articole și nicio anexă; textul integral nu este importat",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Ordinul nr. 3.454 din 31 decembrie 2019, emis de Ministerul Lucrărilor Publice, Dezvoltării și Administrației și publicat în M.Of. nr. 4/06.01.2020. Art. I modifică și completează explicit Normele metodologice aprobate prin Ordinul nr. 839/2009, iar Art. II prevede numai publicarea, fără o dată globală distinctă de intrare în vigoare; effective_date este omisă. Statusul curent nu este declarat explicit și este păstrat unknown. Legea nr. 53/2016 și Legea nr. 193/2019 sunt documentate ca referințe în preambul, fără relații graf suplimentare. Textul integral al ordinului nu este importat.",
+  "amends": [
+    "ordin-839-2009"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 50/1991, aprobate prin Ordinul nr. 839/2009, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221878",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "mlpda",
+    "ordin-3454-2019"
+  ]
+}
