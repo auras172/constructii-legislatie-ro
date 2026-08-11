@@ -1182,6 +1182,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mlpda-3454-2019",
+      "label": "Ordin MLPDA 3454/2019",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mlpda-3494-2020",
       "label": "Ordin MLPDA 3494/2020",
       "type": "ordin",
@@ -3765,6 +3773,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
     },
     {
+      "source": "ordin-mlpda-3454-2019",
+      "target": "ordin-839-2009",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 50/1991, aprobate prin Ordinul nr. 839/2009, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221878"
+    },
+    {
       "source": "ordin-mlpda-3494-2020",
       "target": "ordin-mdrap-233-2016",
       "relationship": "amends",
@@ -3989,8 +4010,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 160,
-    "confirmed_edges": 272,
+    "total_nodes": 161,
+    "confirmed_edges": 273,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

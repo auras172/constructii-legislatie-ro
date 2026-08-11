@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-11T22:00:02.710Z",
+  "generated_at": "2026-08-11T22:20:05.256Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 160,
+    "acts_total": 161,
     "acts_full_text": 16,
-    "acts_metadata_only": 144,
+    "acts_metadata_only": 145,
     "article_anchors_total": 1465,
-    "import_logs_total": 161,
+    "import_logs_total": 162,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 272,
+    "confirmed_relationships": 273,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1977,6 +1977,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdrt-3482-2013.md",
       "metadata_file": "metadata/acts/ordin-mdrt-3482-2013.json"
+    },
+    {
+      "slug": "ordin-mlpda-3454-2019",
+      "title": "Ordin nr. 3.454 din 31 decembrie 2019 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009",
+      "short_title": "Ordin MLPDA 3454/2019",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/ordin-mlpda-3454-2019.md",
+      "metadata_file": "metadata/acts/ordin-mlpda-3454-2019.json"
     },
     {
       "slug": "ordin-mlpda-3494-2020",
