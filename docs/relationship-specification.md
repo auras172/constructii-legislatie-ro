@@ -1126,7 +1126,7 @@ Romanian doctrine recognizes *abrogare tacită*: a later act on the same subject
 | `defined_by` | term → act | explicit | No | *(future ontology)* |
 | `issued_by` | act → authority | explicit | No | `issuer` (string) |
 | `enforced_by` | act → authority | explicit | No | *(new)* |
-| `approves` | act → annex | structural | No | *(new)* |
+| `approves` | act → annex | structural | No | `approves` |
 | `basis_for` | act → template | structural | Via `operationalizes` | *(reserved)* |
 | `operationalizes` | template → act | structural | Via `basis_for` | *(reserved)* |
 

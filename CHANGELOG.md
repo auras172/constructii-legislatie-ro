@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDLPA 227/2023 metadata
 - feat(metadata): add Ordin MDLPA 880/2025 metadata
 - feat(metadata): add Ordin MDLPA 770/2025 metadata
 - feat(metadata): add Ordin MDLPA 267/2025 metadata

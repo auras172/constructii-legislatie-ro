@@ -21,6 +21,8 @@ tags:
   - normativ-tehnic
 implements:
   - lege-10-1995
+approves:
+  - normativ-np005-2022
 import_method: metadata-only
 ---
 
@@ -40,7 +42,7 @@ import_method: metadata-only
 
 - `implements -> lege-10-1995`: preambulul citează explicit art. 10 din Legea nr. 10/1995.
 
-Art. 1 aprobă reglementarea tehnică NP 005-2022. Relația de aprobare nu este materializată ca edge deoarece `approves` și `approved_by` nu sunt tipuri suportate de schema repository-ului; indicativul aprobat este păstrat ca proveniență în această pagină și în metadata.
+Art. 1 aprobă reglementarea tehnică NP 005-2022, prevăzută în anexa care face parte integrantă din ordin. Relația `approves -> normativ-np005-2022` este confirmată prin textul explicit al art. 1.
 
 ## Limitarea importului
 

@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-11T15:06:53.238Z",
+  "generated_at": "2026-08-11T15:31:50.038Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 239,
+    "confirmed_relationships": 240,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },

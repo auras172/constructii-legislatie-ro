@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-11T15:06:56.074Z",
+  "generated_at": "2026-08-11T15:31:54.329Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 227/2023 metadata",
         "feat(metadata): add Ordin MDLPA 880/2025 metadata",
         "feat(metadata): add Ordin MDLPA 770/2025 metadata",
         "feat(metadata): add Ordin MDLPA 267/2025 metadata",
@@ -569,6 +570,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 138
+    "infrastructure_changes": 139
   }
 }

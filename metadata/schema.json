@@ -162,6 +162,18 @@
       "uniqueItems": true,
       "description": "Slugs of acts that this act implements or applies"
     },
+    "approves": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of normative documents approved by this act as annexes"
+    },
+    "approved_by": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Slugs of acts that approve this normative document as an annex"
+    },
     "amends": {
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
@@ -195,12 +207,12 @@
           "target": { "type": "string", "minLength": 1 },
           "type": {
             "type": "string",
-            "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
+            "enum": ["related_to", "implements", "approves", "amends", "amended_by", "references", "cites"]
           },
           "relationship": {
             "type": "string",
             "description": "Backward-compatible alias for 'type'; prefer 'type' in new records",
-            "enum": ["related_to", "implements", "amends", "amended_by", "references", "cites"]
+            "enum": ["related_to", "implements", "approves", "amends", "amended_by", "references", "cites"]
           },
           "confidence": {
             "type": "string",
