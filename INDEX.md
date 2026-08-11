@@ -166,7 +166,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | Ordin ISC 4093/2024 | isc | ordin | metadata-only | 4 | 1 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/291757) | [legi/ordin-isc-4093-2024.md](./legi/ordin-isc-4093-2024.md) | [metadata/acts/ordin-isc-4093-2024.json](./metadata/acts/ordin-isc-4093-2024.json) | Aprobă metodologia de emitere a avizului tehnic ISC pentru documentații tehnico-economice aferente investițiilor finanțate din fonduri publice; M.Of. nr. 1192/29.11.2024; relație explicită `implements` către OG 63/2001; Ordinul MDRAP 901/2015 este abrogat extern; status unknown; effective_date omisă; metodologia anexată nu este importată |
 | Legea 207/2025 | calitate | lege | metadata-only | 4 | 0 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305018) | [legi/lege-207-2025.md](./legi/lege-207-2025.md) | [metadata/acts/lege-207-2025.json](./metadata/acts/lege-207-2025.json) | Modifică explicit art. 22 din Legea 10/1995; M.Of. nr. 1133/08.12.2025; relație `amends` către Legea 10/1995; Art. II privește Legea 7/1996, externă; effective_date globală omisă din cauza aplicării distincte a Art. III; status unknown; text nedisponibil în repo |
 
-**Sumar:** 136 acte urmărite · 15 full-text importate · 121 metadata-only
+**Sumar:** 153 acte urmărite · 15 full-text importate · 138 metadata-only
 
 ---
 
