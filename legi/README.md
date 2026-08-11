@@ -751,6 +751,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: executie · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 306476](https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True)
   - Status: unknown · M.Of. nr. 34/19.01.2026 · effective date 19.01.2026 explicit in Art. II · 2 articles · 0 annexes · modifies table 5 of external AND 532-2022 · technical text unavailable in repo
+- [Ordin comun MTI/MDLPA 285/412/2026](./ordin-mti-mdlpa-285-412-2026.md)
+  - Domain: executie · Implements: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 310265](https://legislatie.just.ro/Public/DetaliiDocument/310265)
+  - Status: unknown · M.Of. nr. 379/06.05.2026 · effective date 06.05.2026 explicit in Art. 3 · 3 articles · 1 annex · Ordinul 906/2004 repealed externally · DD 509-2024 technical text unavailable in repo
 
 ## Naming convention proposal
 
