@@ -1022,6 +1022,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-227-2023",
+      "label": "Ordin MDLPA 227/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-267-2025",
       "label": "Ordin MDLPA 267/2025",
       "type": "ordin",
@@ -3008,6 +3016,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265149"
     },
     {
+      "source": "ordin-mdlpa-227-2023",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158"
+    },
+    {
+      "source": "ordin-mdlpa-227-2023",
+      "target": "normativ-np005-2022",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă reglementarea tehnică «Normativ privind proiectarea și verificarea construcțiilor din lemn, indicativ NP 005-2022», prevăzută în anexa care face parte integrantă din ordin.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158"
+    },
+    {
       "source": "ordin-mdlpa-267-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -3538,8 +3572,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 150,
-    "confirmed_edges": 238,
+    "total_nodes": 151,
+    "confirmed_edges": 240,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

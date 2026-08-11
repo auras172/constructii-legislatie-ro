@@ -21,6 +21,8 @@ tags:
   - np005
 related_acts:
   - lege-10-1995
+approved_by:
+  - ordin-mdlpa-227-2023
 import_method: metadata-only
 ---
 
