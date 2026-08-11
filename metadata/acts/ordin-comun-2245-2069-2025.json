@@ -1,0 +1,58 @@
+{
+  "title": "Ordin nr. 2.245/2.069/2025 privind modificarea anexei la Ordinul ministrului transporturilor și infrastructurii și al ministrului dezvoltării, lucrărilor publice și administrației nr. 1.431/1.746/2023 pentru aprobarea reglementării tehnice «Normativ privind reciclarea la rece a straturilor rutiere» - indicativ AND 532-2022",
+  "short_title": "Ordin comun 2245/2069/2025",
+  "canonical_citation": "Ordinul comun MTI nr. 2.245/2025 și MDLPA nr. 2.069/2025",
+  "type": "ordin",
+  "number": "2245/2069",
+  "year": "2025",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": [
+    "drumuri",
+    "reciclare-la-rece",
+    "and532-2022",
+    "reglementare-tehnica",
+    "emulsie-bituminoasa"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-12-29",
+  "publication_date": "2026-01-19",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True",
+  "official_source": "Portal Legislativ — Ordinul comun MTI nr. 2.245/16.12.2025 și MDLPA nr. 2.069/29.12.2025; Monitorul Oficial al României, Partea I, nr. 34 din 19.01.2026",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True",
+  "version_kind": "original",
+  "last_checked": "2026-08-11",
+  "version": "Forma oficială a ordinului; modificarea tabelului 5 din reglementarea tehnică AND 532-2022 nu este importată ca text tehnic integral",
+  "article_count": 2,
+  "annex_count": 0,
+  "effective_date": "2026-01-19",
+  "import_method": "metadata-only",
+  "rights_note": "Numărul MTI 2.245 este datat 16.12.2025, iar numărul MDLPA 2.069 este datat 29.12.2025; issue_date stochează ultima dată de emitere. Art. I modifică tabelul 5 din anexa la Ordinul comun nr. 1.431/1.746/2023 privind AND 532-2022, acte externe absente din repository. Art. II prevede explicit intrarea în vigoare la data publicării, 19.01.2026. Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. Statusul curent nu este declarat și rămâne unknown. Textul tehnic modificat nu este importat.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții ca temei pentru emiterea ordinului comun.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    }
+  ],
+  "tags": [
+    "mti",
+    "mdlpa",
+    "executie",
+    "drumuri",
+    "reciclare-la-rece",
+    "and532-2022",
+    "ordin-comun"
+  ]
+}

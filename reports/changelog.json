@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-11T20:22:18.533Z",
+  "generated_at": "2026-08-11T20:42:53.550Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 348/2026 metadata",
         "feat(metadata): add Ordin MTI 596/2026 metadata",
         "feat(metadata): add Ordin comun 2371/21.361/3.765/2022 metadata",
         "feat(metadata): add Ordin MDLPA 310/2022 metadata",
@@ -106,6 +107,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #380 from auras172/codex/metadata-ordin-mdlpa-348-2026",
         "Merge pull request #379 from auras172/codex/metadata-ordin-mti-596-2026",
         "Merge pull request #378 from auras172/codex/fulltext-lege-169-2026-v2",
         "feat(fulltext): import Law 169/2026 urbanism code",
@@ -584,6 +586,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 143
+    "infrastructure_changes": 144
   }
 }
