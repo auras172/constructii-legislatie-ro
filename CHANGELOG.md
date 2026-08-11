@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin comun 2371/21.361/3.765/2022 metadata
 - feat(metadata): add Ordin MDLPA 310/2022 metadata
 - feat(metadata): add OG 33/2023 metadata
 - feat(metadata): add Ordin MDLPA 227/2023 metadata
@@ -92,6 +93,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh repository status after PR 374
 - docs: refresh housekeeping after PR 360
 - docs: refresh repository housekeeping status
 - docs: refresh repository status after PR 332
@@ -106,7 +108,10 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #378 from auras172/codex/fulltext-lege-169-2026-v2
 - feat(fulltext): import Law 169/2026 urbanism code
+- Merge pull request #376 from auras172/codex/housekeeping-refresh-2026-08-11
+- Merge pull request #375 from auras172/codex/metadata-ordin-2371-2022
 - Merge pull request #374 from auras172/codex/metadata-ordin-mdlpa-310-2022
 - Merge pull request #373 from auras172/codex/metadata-og-33-2023
 - Merge pull request #371 from auras172/codex/metadata-ordin-mdlpa-227-2023
