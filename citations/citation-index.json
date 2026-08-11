@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:04:54.149Z",
+  "generated_at": "2026-08-11T18:58:12.516Z",
   "acts": {
     "ghid-rtc13-2024": {
       "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
@@ -1004,6 +1004,3518 @@
         }
       ],
       "article_count": 43
+    },
+    "lege-169-2026": {
+      "title": "Lege privind Codul amenajării teritoriului, urbanismului și construcțiilor",
+      "slug": "lege-169-2026",
+      "file": "legi/lege-169-2026.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-169-2026.md#art-1",
+          "line": 125
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-169-2026.md#art-2",
+          "line": 148
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-169-2026.md#art-3",
+          "line": 176
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-169-2026.md#art-4",
+          "line": 196
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-169-2026.md#art-5",
+          "line": 240
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/lege-169-2026.md#art-6",
+          "line": 259
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-169-2026.md#art-7",
+          "line": 281
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-169-2026.md#art-8",
+          "line": 337
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-169-2026.md#art-9",
+          "line": 380
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-169-2026.md#art-10",
+          "line": 435
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-169-2026.md#art-11",
+          "line": 478
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-169-2026.md#art-12",
+          "line": 508
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-169-2026.md#art-13",
+          "line": 517
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-169-2026.md#art-14",
+          "line": 565
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-169-2026.md#art-15",
+          "line": 582
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-169-2026.md#art-16",
+          "line": 608
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-169-2026.md#art-17",
+          "line": 651
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-169-2026.md#art-18",
+          "line": 663
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-169-2026.md#art-19",
+          "line": 675
+        },
+        {
+          "id": "art-20",
+          "anchor": "#art-20",
+          "url_fragment": "legi/lege-169-2026.md#art-20",
+          "line": 684
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-169-2026.md#art-21",
+          "line": 698
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-169-2026.md#art-22",
+          "line": 710
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-169-2026.md#art-23",
+          "line": 723
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-169-2026.md#art-24",
+          "line": 737
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-169-2026.md#art-25",
+          "line": 766
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-169-2026.md#art-26",
+          "line": 788
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-169-2026.md#art-27",
+          "line": 806
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-169-2026.md#art-28",
+          "line": 832
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-169-2026.md#art-29",
+          "line": 848
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-169-2026.md#art-30",
+          "line": 870
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-169-2026.md#art-31",
+          "line": 897
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-169-2026.md#art-32",
+          "line": 930
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-169-2026.md#art-33",
+          "line": 1006
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-169-2026.md#art-34",
+          "line": 1041
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-169-2026.md#art-35",
+          "line": 1187
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-169-2026.md#art-36",
+          "line": 1205
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-169-2026.md#art-37",
+          "line": 1246
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-169-2026.md#art-38",
+          "line": 1290
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-169-2026.md#art-39",
+          "line": 1317
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-169-2026.md#art-40",
+          "line": 1369
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-169-2026.md#art-41",
+          "line": 1386
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-169-2026.md#art-42",
+          "line": 1415
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-169-2026.md#art-43",
+          "line": 1433
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-169-2026.md#art-44",
+          "line": 1445
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-169-2026.md#art-45",
+          "line": 1460
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-169-2026.md#art-46",
+          "line": 1486
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-169-2026.md#art-47",
+          "line": 1624
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-169-2026.md#art-48",
+          "line": 1662
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-169-2026.md#art-49",
+          "line": 1682
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-169-2026.md#art-50",
+          "line": 1781
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-169-2026.md#art-51",
+          "line": 1815
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-169-2026.md#art-52",
+          "line": 1895
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-169-2026.md#art-53",
+          "line": 1912
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/lege-169-2026.md#art-54",
+          "line": 1944
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/lege-169-2026.md#art-55",
+          "line": 1973
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/lege-169-2026.md#art-56",
+          "line": 2012
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/lege-169-2026.md#art-57",
+          "line": 2044
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/lege-169-2026.md#art-58",
+          "line": 2083
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/lege-169-2026.md#art-59",
+          "line": 2121
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/lege-169-2026.md#art-60",
+          "line": 2156
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/lege-169-2026.md#art-61",
+          "line": 2196
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/lege-169-2026.md#art-62",
+          "line": 2235
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/lege-169-2026.md#art-63",
+          "line": 2294
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/lege-169-2026.md#art-64",
+          "line": 2346
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/lege-169-2026.md#art-65",
+          "line": 2389
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/lege-169-2026.md#art-66",
+          "line": 2422
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/lege-169-2026.md#art-67",
+          "line": 2474
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/lege-169-2026.md#art-68",
+          "line": 2492
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/lege-169-2026.md#art-69",
+          "line": 2525
+        },
+        {
+          "id": "art-70",
+          "anchor": "#art-70",
+          "url_fragment": "legi/lege-169-2026.md#art-70",
+          "line": 2605
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/lege-169-2026.md#art-71",
+          "line": 2614
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/lege-169-2026.md#art-72",
+          "line": 2641
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/lege-169-2026.md#art-73",
+          "line": 2673
+        },
+        {
+          "id": "art-74",
+          "anchor": "#art-74",
+          "url_fragment": "legi/lege-169-2026.md#art-74",
+          "line": 2692
+        },
+        {
+          "id": "art-75",
+          "anchor": "#art-75",
+          "url_fragment": "legi/lege-169-2026.md#art-75",
+          "line": 2755
+        },
+        {
+          "id": "art-76",
+          "anchor": "#art-76",
+          "url_fragment": "legi/lege-169-2026.md#art-76",
+          "line": 2773
+        },
+        {
+          "id": "art-77",
+          "anchor": "#art-77",
+          "url_fragment": "legi/lege-169-2026.md#art-77",
+          "line": 2858
+        },
+        {
+          "id": "art-78",
+          "anchor": "#art-78",
+          "url_fragment": "legi/lege-169-2026.md#art-78",
+          "line": 2889
+        },
+        {
+          "id": "art-79",
+          "anchor": "#art-79",
+          "url_fragment": "legi/lege-169-2026.md#art-79",
+          "line": 2924
+        },
+        {
+          "id": "art-80",
+          "anchor": "#art-80",
+          "url_fragment": "legi/lege-169-2026.md#art-80",
+          "line": 2940
+        },
+        {
+          "id": "art-81",
+          "anchor": "#art-81",
+          "url_fragment": "legi/lege-169-2026.md#art-81",
+          "line": 2966
+        },
+        {
+          "id": "art-82",
+          "anchor": "#art-82",
+          "url_fragment": "legi/lege-169-2026.md#art-82",
+          "line": 2999
+        },
+        {
+          "id": "art-83",
+          "anchor": "#art-83",
+          "url_fragment": "legi/lege-169-2026.md#art-83",
+          "line": 3110
+        },
+        {
+          "id": "art-84",
+          "anchor": "#art-84",
+          "url_fragment": "legi/lege-169-2026.md#art-84",
+          "line": 3144
+        },
+        {
+          "id": "art-85",
+          "anchor": "#art-85",
+          "url_fragment": "legi/lege-169-2026.md#art-85",
+          "line": 3172
+        },
+        {
+          "id": "art-86",
+          "anchor": "#art-86",
+          "url_fragment": "legi/lege-169-2026.md#art-86",
+          "line": 3200
+        },
+        {
+          "id": "art-87",
+          "anchor": "#art-87",
+          "url_fragment": "legi/lege-169-2026.md#art-87",
+          "line": 3273
+        },
+        {
+          "id": "art-88",
+          "anchor": "#art-88",
+          "url_fragment": "legi/lege-169-2026.md#art-88",
+          "line": 3308
+        },
+        {
+          "id": "art-89",
+          "anchor": "#art-89",
+          "url_fragment": "legi/lege-169-2026.md#art-89",
+          "line": 3351
+        },
+        {
+          "id": "art-90",
+          "anchor": "#art-90",
+          "url_fragment": "legi/lege-169-2026.md#art-90",
+          "line": 3429
+        },
+        {
+          "id": "art-91",
+          "anchor": "#art-91",
+          "url_fragment": "legi/lege-169-2026.md#art-91",
+          "line": 3450
+        },
+        {
+          "id": "art-92",
+          "anchor": "#art-92",
+          "url_fragment": "legi/lege-169-2026.md#art-92",
+          "line": 3534
+        },
+        {
+          "id": "art-93",
+          "anchor": "#art-93",
+          "url_fragment": "legi/lege-169-2026.md#art-93",
+          "line": 3591
+        },
+        {
+          "id": "art-94",
+          "anchor": "#art-94",
+          "url_fragment": "legi/lege-169-2026.md#art-94",
+          "line": 3654
+        },
+        {
+          "id": "art-95",
+          "anchor": "#art-95",
+          "url_fragment": "legi/lege-169-2026.md#art-95",
+          "line": 3676
+        },
+        {
+          "id": "art-96",
+          "anchor": "#art-96",
+          "url_fragment": "legi/lege-169-2026.md#art-96",
+          "line": 3700
+        },
+        {
+          "id": "art-97",
+          "anchor": "#art-97",
+          "url_fragment": "legi/lege-169-2026.md#art-97",
+          "line": 3726
+        },
+        {
+          "id": "art-98",
+          "anchor": "#art-98",
+          "url_fragment": "legi/lege-169-2026.md#art-98",
+          "line": 3746
+        },
+        {
+          "id": "art-99",
+          "anchor": "#art-99",
+          "url_fragment": "legi/lege-169-2026.md#art-99",
+          "line": 3797
+        },
+        {
+          "id": "art-100",
+          "anchor": "#art-100",
+          "url_fragment": "legi/lege-169-2026.md#art-100",
+          "line": 3805
+        },
+        {
+          "id": "art-101",
+          "anchor": "#art-101",
+          "url_fragment": "legi/lege-169-2026.md#art-101",
+          "line": 3814
+        },
+        {
+          "id": "art-102",
+          "anchor": "#art-102",
+          "url_fragment": "legi/lege-169-2026.md#art-102",
+          "line": 3843
+        },
+        {
+          "id": "art-103",
+          "anchor": "#art-103",
+          "url_fragment": "legi/lege-169-2026.md#art-103",
+          "line": 3857
+        },
+        {
+          "id": "art-104",
+          "anchor": "#art-104",
+          "url_fragment": "legi/lege-169-2026.md#art-104",
+          "line": 3888
+        },
+        {
+          "id": "art-105",
+          "anchor": "#art-105",
+          "url_fragment": "legi/lege-169-2026.md#art-105",
+          "line": 3979
+        },
+        {
+          "id": "art-106",
+          "anchor": "#art-106",
+          "url_fragment": "legi/lege-169-2026.md#art-106",
+          "line": 3999
+        },
+        {
+          "id": "art-107",
+          "anchor": "#art-107",
+          "url_fragment": "legi/lege-169-2026.md#art-107",
+          "line": 4007
+        },
+        {
+          "id": "art-108",
+          "anchor": "#art-108",
+          "url_fragment": "legi/lege-169-2026.md#art-108",
+          "line": 4016
+        },
+        {
+          "id": "art-109",
+          "anchor": "#art-109",
+          "url_fragment": "legi/lege-169-2026.md#art-109",
+          "line": 4037
+        },
+        {
+          "id": "art-110",
+          "anchor": "#art-110",
+          "url_fragment": "legi/lege-169-2026.md#art-110",
+          "line": 4050
+        },
+        {
+          "id": "art-111",
+          "anchor": "#art-111",
+          "url_fragment": "legi/lege-169-2026.md#art-111",
+          "line": 4083
+        },
+        {
+          "id": "art-112",
+          "anchor": "#art-112",
+          "url_fragment": "legi/lege-169-2026.md#art-112",
+          "line": 4116
+        },
+        {
+          "id": "art-113",
+          "anchor": "#art-113",
+          "url_fragment": "legi/lege-169-2026.md#art-113",
+          "line": 4136
+        },
+        {
+          "id": "art-114",
+          "anchor": "#art-114",
+          "url_fragment": "legi/lege-169-2026.md#art-114",
+          "line": 4211
+        },
+        {
+          "id": "art-115",
+          "anchor": "#art-115",
+          "url_fragment": "legi/lege-169-2026.md#art-115",
+          "line": 4221
+        },
+        {
+          "id": "art-116",
+          "anchor": "#art-116",
+          "url_fragment": "legi/lege-169-2026.md#art-116",
+          "line": 4240
+        },
+        {
+          "id": "art-117",
+          "anchor": "#art-117",
+          "url_fragment": "legi/lege-169-2026.md#art-117",
+          "line": 4284
+        },
+        {
+          "id": "art-118",
+          "anchor": "#art-118",
+          "url_fragment": "legi/lege-169-2026.md#art-118",
+          "line": 4306
+        },
+        {
+          "id": "art-119",
+          "anchor": "#art-119",
+          "url_fragment": "legi/lege-169-2026.md#art-119",
+          "line": 4429
+        },
+        {
+          "id": "art-120",
+          "anchor": "#art-120",
+          "url_fragment": "legi/lege-169-2026.md#art-120",
+          "line": 4473
+        },
+        {
+          "id": "art-121",
+          "anchor": "#art-121",
+          "url_fragment": "legi/lege-169-2026.md#art-121",
+          "line": 4554
+        },
+        {
+          "id": "art-122",
+          "anchor": "#art-122",
+          "url_fragment": "legi/lege-169-2026.md#art-122",
+          "line": 4673
+        },
+        {
+          "id": "art-123",
+          "anchor": "#art-123",
+          "url_fragment": "legi/lege-169-2026.md#art-123",
+          "line": 4727
+        },
+        {
+          "id": "art-124",
+          "anchor": "#art-124",
+          "url_fragment": "legi/lege-169-2026.md#art-124",
+          "line": 4759
+        },
+        {
+          "id": "art-125",
+          "anchor": "#art-125",
+          "url_fragment": "legi/lege-169-2026.md#art-125",
+          "line": 4839
+        },
+        {
+          "id": "art-126",
+          "anchor": "#art-126",
+          "url_fragment": "legi/lege-169-2026.md#art-126",
+          "line": 4883
+        },
+        {
+          "id": "art-127",
+          "anchor": "#art-127",
+          "url_fragment": "legi/lege-169-2026.md#art-127",
+          "line": 4990
+        },
+        {
+          "id": "art-128",
+          "anchor": "#art-128",
+          "url_fragment": "legi/lege-169-2026.md#art-128",
+          "line": 5016
+        },
+        {
+          "id": "art-129",
+          "anchor": "#art-129",
+          "url_fragment": "legi/lege-169-2026.md#art-129",
+          "line": 5073
+        },
+        {
+          "id": "art-130",
+          "anchor": "#art-130",
+          "url_fragment": "legi/lege-169-2026.md#art-130",
+          "line": 5097
+        },
+        {
+          "id": "art-131",
+          "anchor": "#art-131",
+          "url_fragment": "legi/lege-169-2026.md#art-131",
+          "line": 5169
+        },
+        {
+          "id": "art-132",
+          "anchor": "#art-132",
+          "url_fragment": "legi/lege-169-2026.md#art-132",
+          "line": 5212
+        },
+        {
+          "id": "art-133",
+          "anchor": "#art-133",
+          "url_fragment": "legi/lege-169-2026.md#art-133",
+          "line": 5311
+        },
+        {
+          "id": "art-134",
+          "anchor": "#art-134",
+          "url_fragment": "legi/lege-169-2026.md#art-134",
+          "line": 5405
+        },
+        {
+          "id": "art-135",
+          "anchor": "#art-135",
+          "url_fragment": "legi/lege-169-2026.md#art-135",
+          "line": 5474
+        },
+        {
+          "id": "art-136",
+          "anchor": "#art-136",
+          "url_fragment": "legi/lege-169-2026.md#art-136",
+          "line": 5555
+        },
+        {
+          "id": "art-137",
+          "anchor": "#art-137",
+          "url_fragment": "legi/lege-169-2026.md#art-137",
+          "line": 5600
+        },
+        {
+          "id": "art-138",
+          "anchor": "#art-138",
+          "url_fragment": "legi/lege-169-2026.md#art-138",
+          "line": 5647
+        },
+        {
+          "id": "art-139",
+          "anchor": "#art-139",
+          "url_fragment": "legi/lege-169-2026.md#art-139",
+          "line": 5772
+        },
+        {
+          "id": "art-140",
+          "anchor": "#art-140",
+          "url_fragment": "legi/lege-169-2026.md#art-140",
+          "line": 5865
+        },
+        {
+          "id": "art-141",
+          "anchor": "#art-141",
+          "url_fragment": "legi/lege-169-2026.md#art-141",
+          "line": 5875
+        },
+        {
+          "id": "art-142",
+          "anchor": "#art-142",
+          "url_fragment": "legi/lege-169-2026.md#art-142",
+          "line": 5893
+        },
+        {
+          "id": "art-143",
+          "anchor": "#art-143",
+          "url_fragment": "legi/lege-169-2026.md#art-143",
+          "line": 5934
+        },
+        {
+          "id": "art-144",
+          "anchor": "#art-144",
+          "url_fragment": "legi/lege-169-2026.md#art-144",
+          "line": 6017
+        },
+        {
+          "id": "art-145",
+          "anchor": "#art-145",
+          "url_fragment": "legi/lege-169-2026.md#art-145",
+          "line": 6211
+        },
+        {
+          "id": "art-146",
+          "anchor": "#art-146",
+          "url_fragment": "legi/lege-169-2026.md#art-146",
+          "line": 6227
+        },
+        {
+          "id": "art-147",
+          "anchor": "#art-147",
+          "url_fragment": "legi/lege-169-2026.md#art-147",
+          "line": 6258
+        },
+        {
+          "id": "art-148",
+          "anchor": "#art-148",
+          "url_fragment": "legi/lege-169-2026.md#art-148",
+          "line": 6301
+        },
+        {
+          "id": "art-149",
+          "anchor": "#art-149",
+          "url_fragment": "legi/lege-169-2026.md#art-149",
+          "line": 6326
+        },
+        {
+          "id": "art-150",
+          "anchor": "#art-150",
+          "url_fragment": "legi/lege-169-2026.md#art-150",
+          "line": 6345
+        },
+        {
+          "id": "art-151",
+          "anchor": "#art-151",
+          "url_fragment": "legi/lege-169-2026.md#art-151",
+          "line": 6491
+        },
+        {
+          "id": "art-152",
+          "anchor": "#art-152",
+          "url_fragment": "legi/lege-169-2026.md#art-152",
+          "line": 6556
+        },
+        {
+          "id": "art-153",
+          "anchor": "#art-153",
+          "url_fragment": "legi/lege-169-2026.md#art-153",
+          "line": 6580
+        },
+        {
+          "id": "art-154",
+          "anchor": "#art-154",
+          "url_fragment": "legi/lege-169-2026.md#art-154",
+          "line": 6621
+        },
+        {
+          "id": "art-155",
+          "anchor": "#art-155",
+          "url_fragment": "legi/lege-169-2026.md#art-155",
+          "line": 6658
+        },
+        {
+          "id": "art-156",
+          "anchor": "#art-156",
+          "url_fragment": "legi/lege-169-2026.md#art-156",
+          "line": 6673
+        },
+        {
+          "id": "art-157",
+          "anchor": "#art-157",
+          "url_fragment": "legi/lege-169-2026.md#art-157",
+          "line": 6691
+        },
+        {
+          "id": "art-158",
+          "anchor": "#art-158",
+          "url_fragment": "legi/lege-169-2026.md#art-158",
+          "line": 6712
+        },
+        {
+          "id": "art-159",
+          "anchor": "#art-159",
+          "url_fragment": "legi/lege-169-2026.md#art-159",
+          "line": 6772
+        },
+        {
+          "id": "art-160",
+          "anchor": "#art-160",
+          "url_fragment": "legi/lege-169-2026.md#art-160",
+          "line": 6799
+        },
+        {
+          "id": "art-161",
+          "anchor": "#art-161",
+          "url_fragment": "legi/lege-169-2026.md#art-161",
+          "line": 6835
+        },
+        {
+          "id": "art-162",
+          "anchor": "#art-162",
+          "url_fragment": "legi/lege-169-2026.md#art-162",
+          "line": 6844
+        },
+        {
+          "id": "art-163",
+          "anchor": "#art-163",
+          "url_fragment": "legi/lege-169-2026.md#art-163",
+          "line": 6851
+        },
+        {
+          "id": "art-164",
+          "anchor": "#art-164",
+          "url_fragment": "legi/lege-169-2026.md#art-164",
+          "line": 6857
+        },
+        {
+          "id": "art-165",
+          "anchor": "#art-165",
+          "url_fragment": "legi/lege-169-2026.md#art-165",
+          "line": 6910
+        },
+        {
+          "id": "art-166",
+          "anchor": "#art-166",
+          "url_fragment": "legi/lege-169-2026.md#art-166",
+          "line": 6922
+        },
+        {
+          "id": "art-167",
+          "anchor": "#art-167",
+          "url_fragment": "legi/lege-169-2026.md#art-167",
+          "line": 6934
+        },
+        {
+          "id": "art-168",
+          "anchor": "#art-168",
+          "url_fragment": "legi/lege-169-2026.md#art-168",
+          "line": 6955
+        },
+        {
+          "id": "art-169",
+          "anchor": "#art-169",
+          "url_fragment": "legi/lege-169-2026.md#art-169",
+          "line": 6961
+        },
+        {
+          "id": "art-170",
+          "anchor": "#art-170",
+          "url_fragment": "legi/lege-169-2026.md#art-170",
+          "line": 6966
+        },
+        {
+          "id": "art-171",
+          "anchor": "#art-171",
+          "url_fragment": "legi/lege-169-2026.md#art-171",
+          "line": 6980
+        },
+        {
+          "id": "art-172",
+          "anchor": "#art-172",
+          "url_fragment": "legi/lege-169-2026.md#art-172",
+          "line": 7015
+        },
+        {
+          "id": "art-173",
+          "anchor": "#art-173",
+          "url_fragment": "legi/lege-169-2026.md#art-173",
+          "line": 7029
+        },
+        {
+          "id": "art-174",
+          "anchor": "#art-174",
+          "url_fragment": "legi/lege-169-2026.md#art-174",
+          "line": 7036
+        },
+        {
+          "id": "art-175",
+          "anchor": "#art-175",
+          "url_fragment": "legi/lege-169-2026.md#art-175",
+          "line": 7053
+        },
+        {
+          "id": "art-176",
+          "anchor": "#art-176",
+          "url_fragment": "legi/lege-169-2026.md#art-176",
+          "line": 7064
+        },
+        {
+          "id": "art-177",
+          "anchor": "#art-177",
+          "url_fragment": "legi/lege-169-2026.md#art-177",
+          "line": 7075
+        },
+        {
+          "id": "art-178",
+          "anchor": "#art-178",
+          "url_fragment": "legi/lege-169-2026.md#art-178",
+          "line": 7119
+        },
+        {
+          "id": "art-179",
+          "anchor": "#art-179",
+          "url_fragment": "legi/lege-169-2026.md#art-179",
+          "line": 7127
+        },
+        {
+          "id": "art-180",
+          "anchor": "#art-180",
+          "url_fragment": "legi/lege-169-2026.md#art-180",
+          "line": 7142
+        },
+        {
+          "id": "art-181",
+          "anchor": "#art-181",
+          "url_fragment": "legi/lege-169-2026.md#art-181",
+          "line": 7158
+        },
+        {
+          "id": "art-182",
+          "anchor": "#art-182",
+          "url_fragment": "legi/lege-169-2026.md#art-182",
+          "line": 7175
+        },
+        {
+          "id": "art-183",
+          "anchor": "#art-183",
+          "url_fragment": "legi/lege-169-2026.md#art-183",
+          "line": 7194
+        },
+        {
+          "id": "art-184",
+          "anchor": "#art-184",
+          "url_fragment": "legi/lege-169-2026.md#art-184",
+          "line": 7210
+        },
+        {
+          "id": "art-185",
+          "anchor": "#art-185",
+          "url_fragment": "legi/lege-169-2026.md#art-185",
+          "line": 7247
+        },
+        {
+          "id": "art-186",
+          "anchor": "#art-186",
+          "url_fragment": "legi/lege-169-2026.md#art-186",
+          "line": 7270
+        },
+        {
+          "id": "art-187",
+          "anchor": "#art-187",
+          "url_fragment": "legi/lege-169-2026.md#art-187",
+          "line": 7302
+        },
+        {
+          "id": "art-188",
+          "anchor": "#art-188",
+          "url_fragment": "legi/lege-169-2026.md#art-188",
+          "line": 7325
+        },
+        {
+          "id": "art-189",
+          "anchor": "#art-189",
+          "url_fragment": "legi/lege-169-2026.md#art-189",
+          "line": 7353
+        },
+        {
+          "id": "art-190",
+          "anchor": "#art-190",
+          "url_fragment": "legi/lege-169-2026.md#art-190",
+          "line": 7396
+        },
+        {
+          "id": "art-191",
+          "anchor": "#art-191",
+          "url_fragment": "legi/lege-169-2026.md#art-191",
+          "line": 7427
+        },
+        {
+          "id": "art-192",
+          "anchor": "#art-192",
+          "url_fragment": "legi/lege-169-2026.md#art-192",
+          "line": 7435
+        },
+        {
+          "id": "art-193",
+          "anchor": "#art-193",
+          "url_fragment": "legi/lege-169-2026.md#art-193",
+          "line": 7464
+        },
+        {
+          "id": "art-194",
+          "anchor": "#art-194",
+          "url_fragment": "legi/lege-169-2026.md#art-194",
+          "line": 7476
+        },
+        {
+          "id": "art-195",
+          "anchor": "#art-195",
+          "url_fragment": "legi/lege-169-2026.md#art-195",
+          "line": 7499
+        },
+        {
+          "id": "art-196",
+          "anchor": "#art-196",
+          "url_fragment": "legi/lege-169-2026.md#art-196",
+          "line": 7516
+        },
+        {
+          "id": "art-197",
+          "anchor": "#art-197",
+          "url_fragment": "legi/lege-169-2026.md#art-197",
+          "line": 7531
+        },
+        {
+          "id": "art-198",
+          "anchor": "#art-198",
+          "url_fragment": "legi/lege-169-2026.md#art-198",
+          "line": 7564
+        },
+        {
+          "id": "art-199",
+          "anchor": "#art-199",
+          "url_fragment": "legi/lege-169-2026.md#art-199",
+          "line": 7581
+        },
+        {
+          "id": "art-200",
+          "anchor": "#art-200",
+          "url_fragment": "legi/lege-169-2026.md#art-200",
+          "line": 7623
+        },
+        {
+          "id": "art-201",
+          "anchor": "#art-201",
+          "url_fragment": "legi/lege-169-2026.md#art-201",
+          "line": 7662
+        },
+        {
+          "id": "art-202",
+          "anchor": "#art-202",
+          "url_fragment": "legi/lege-169-2026.md#art-202",
+          "line": 7676
+        },
+        {
+          "id": "art-203",
+          "anchor": "#art-203",
+          "url_fragment": "legi/lege-169-2026.md#art-203",
+          "line": 7695
+        },
+        {
+          "id": "art-204",
+          "anchor": "#art-204",
+          "url_fragment": "legi/lege-169-2026.md#art-204",
+          "line": 7718
+        },
+        {
+          "id": "art-205",
+          "anchor": "#art-205",
+          "url_fragment": "legi/lege-169-2026.md#art-205",
+          "line": 7755
+        },
+        {
+          "id": "art-206",
+          "anchor": "#art-206",
+          "url_fragment": "legi/lege-169-2026.md#art-206",
+          "line": 7767
+        },
+        {
+          "id": "art-207",
+          "anchor": "#art-207",
+          "url_fragment": "legi/lege-169-2026.md#art-207",
+          "line": 7778
+        },
+        {
+          "id": "art-208",
+          "anchor": "#art-208",
+          "url_fragment": "legi/lege-169-2026.md#art-208",
+          "line": 7791
+        },
+        {
+          "id": "art-209",
+          "anchor": "#art-209",
+          "url_fragment": "legi/lege-169-2026.md#art-209",
+          "line": 7816
+        },
+        {
+          "id": "art-210",
+          "anchor": "#art-210",
+          "url_fragment": "legi/lege-169-2026.md#art-210",
+          "line": 7840
+        },
+        {
+          "id": "art-211",
+          "anchor": "#art-211",
+          "url_fragment": "legi/lege-169-2026.md#art-211",
+          "line": 7863
+        },
+        {
+          "id": "art-212",
+          "anchor": "#art-212",
+          "url_fragment": "legi/lege-169-2026.md#art-212",
+          "line": 7877
+        },
+        {
+          "id": "art-213",
+          "anchor": "#art-213",
+          "url_fragment": "legi/lege-169-2026.md#art-213",
+          "line": 7901
+        },
+        {
+          "id": "art-214",
+          "anchor": "#art-214",
+          "url_fragment": "legi/lege-169-2026.md#art-214",
+          "line": 7917
+        },
+        {
+          "id": "art-215",
+          "anchor": "#art-215",
+          "url_fragment": "legi/lege-169-2026.md#art-215",
+          "line": 7928
+        },
+        {
+          "id": "art-216",
+          "anchor": "#art-216",
+          "url_fragment": "legi/lege-169-2026.md#art-216",
+          "line": 7942
+        },
+        {
+          "id": "art-217",
+          "anchor": "#art-217",
+          "url_fragment": "legi/lege-169-2026.md#art-217",
+          "line": 7966
+        },
+        {
+          "id": "art-218",
+          "anchor": "#art-218",
+          "url_fragment": "legi/lege-169-2026.md#art-218",
+          "line": 7977
+        },
+        {
+          "id": "art-219",
+          "anchor": "#art-219",
+          "url_fragment": "legi/lege-169-2026.md#art-219",
+          "line": 7990
+        },
+        {
+          "id": "art-220",
+          "anchor": "#art-220",
+          "url_fragment": "legi/lege-169-2026.md#art-220",
+          "line": 8003
+        },
+        {
+          "id": "art-221",
+          "anchor": "#art-221",
+          "url_fragment": "legi/lege-169-2026.md#art-221",
+          "line": 8021
+        },
+        {
+          "id": "art-222",
+          "anchor": "#art-222",
+          "url_fragment": "legi/lege-169-2026.md#art-222",
+          "line": 8029
+        },
+        {
+          "id": "art-223",
+          "anchor": "#art-223",
+          "url_fragment": "legi/lege-169-2026.md#art-223",
+          "line": 8042
+        },
+        {
+          "id": "art-224",
+          "anchor": "#art-224",
+          "url_fragment": "legi/lege-169-2026.md#art-224",
+          "line": 8049
+        },
+        {
+          "id": "art-225",
+          "anchor": "#art-225",
+          "url_fragment": "legi/lege-169-2026.md#art-225",
+          "line": 8099
+        },
+        {
+          "id": "art-226",
+          "anchor": "#art-226",
+          "url_fragment": "legi/lege-169-2026.md#art-226",
+          "line": 8148
+        },
+        {
+          "id": "art-227",
+          "anchor": "#art-227",
+          "url_fragment": "legi/lege-169-2026.md#art-227",
+          "line": 8159
+        },
+        {
+          "id": "art-228",
+          "anchor": "#art-228",
+          "url_fragment": "legi/lege-169-2026.md#art-228",
+          "line": 8178
+        },
+        {
+          "id": "art-229",
+          "anchor": "#art-229",
+          "url_fragment": "legi/lege-169-2026.md#art-229",
+          "line": 8196
+        },
+        {
+          "id": "art-230",
+          "anchor": "#art-230",
+          "url_fragment": "legi/lege-169-2026.md#art-230",
+          "line": 8211
+        },
+        {
+          "id": "art-231",
+          "anchor": "#art-231",
+          "url_fragment": "legi/lege-169-2026.md#art-231",
+          "line": 8248
+        },
+        {
+          "id": "art-232",
+          "anchor": "#art-232",
+          "url_fragment": "legi/lege-169-2026.md#art-232",
+          "line": 8270
+        },
+        {
+          "id": "art-233",
+          "anchor": "#art-233",
+          "url_fragment": "legi/lege-169-2026.md#art-233",
+          "line": 8277
+        },
+        {
+          "id": "art-234",
+          "anchor": "#art-234",
+          "url_fragment": "legi/lege-169-2026.md#art-234",
+          "line": 8304
+        },
+        {
+          "id": "art-235",
+          "anchor": "#art-235",
+          "url_fragment": "legi/lege-169-2026.md#art-235",
+          "line": 8311
+        },
+        {
+          "id": "art-236",
+          "anchor": "#art-236",
+          "url_fragment": "legi/lege-169-2026.md#art-236",
+          "line": 8344
+        },
+        {
+          "id": "art-237",
+          "anchor": "#art-237",
+          "url_fragment": "legi/lege-169-2026.md#art-237",
+          "line": 8373
+        },
+        {
+          "id": "art-238",
+          "anchor": "#art-238",
+          "url_fragment": "legi/lege-169-2026.md#art-238",
+          "line": 8393
+        },
+        {
+          "id": "art-239",
+          "anchor": "#art-239",
+          "url_fragment": "legi/lege-169-2026.md#art-239",
+          "line": 8417
+        },
+        {
+          "id": "art-240",
+          "anchor": "#art-240",
+          "url_fragment": "legi/lege-169-2026.md#art-240",
+          "line": 8433
+        },
+        {
+          "id": "art-241",
+          "anchor": "#art-241",
+          "url_fragment": "legi/lege-169-2026.md#art-241",
+          "line": 8469
+        },
+        {
+          "id": "art-242",
+          "anchor": "#art-242",
+          "url_fragment": "legi/lege-169-2026.md#art-242",
+          "line": 8524
+        },
+        {
+          "id": "art-243",
+          "anchor": "#art-243",
+          "url_fragment": "legi/lege-169-2026.md#art-243",
+          "line": 8530
+        },
+        {
+          "id": "art-244",
+          "anchor": "#art-244",
+          "url_fragment": "legi/lege-169-2026.md#art-244",
+          "line": 8569
+        },
+        {
+          "id": "art-245",
+          "anchor": "#art-245",
+          "url_fragment": "legi/lege-169-2026.md#art-245",
+          "line": 8588
+        },
+        {
+          "id": "art-246",
+          "anchor": "#art-246",
+          "url_fragment": "legi/lege-169-2026.md#art-246",
+          "line": 8628
+        },
+        {
+          "id": "art-247",
+          "anchor": "#art-247",
+          "url_fragment": "legi/lege-169-2026.md#art-247",
+          "line": 8657
+        },
+        {
+          "id": "art-248",
+          "anchor": "#art-248",
+          "url_fragment": "legi/lege-169-2026.md#art-248",
+          "line": 8668
+        },
+        {
+          "id": "art-249",
+          "anchor": "#art-249",
+          "url_fragment": "legi/lege-169-2026.md#art-249",
+          "line": 8682
+        },
+        {
+          "id": "art-250",
+          "anchor": "#art-250",
+          "url_fragment": "legi/lege-169-2026.md#art-250",
+          "line": 8741
+        },
+        {
+          "id": "art-251",
+          "anchor": "#art-251",
+          "url_fragment": "legi/lege-169-2026.md#art-251",
+          "line": 8772
+        },
+        {
+          "id": "art-252",
+          "anchor": "#art-252",
+          "url_fragment": "legi/lege-169-2026.md#art-252",
+          "line": 8783
+        },
+        {
+          "id": "art-253",
+          "anchor": "#art-253",
+          "url_fragment": "legi/lege-169-2026.md#art-253",
+          "line": 8838
+        },
+        {
+          "id": "art-254",
+          "anchor": "#art-254",
+          "url_fragment": "legi/lege-169-2026.md#art-254",
+          "line": 8943
+        },
+        {
+          "id": "art-255",
+          "anchor": "#art-255",
+          "url_fragment": "legi/lege-169-2026.md#art-255",
+          "line": 9008
+        },
+        {
+          "id": "art-256",
+          "anchor": "#art-256",
+          "url_fragment": "legi/lege-169-2026.md#art-256",
+          "line": 9012
+        },
+        {
+          "id": "art-257",
+          "anchor": "#art-257",
+          "url_fragment": "legi/lege-169-2026.md#art-257",
+          "line": 9098
+        },
+        {
+          "id": "art-258",
+          "anchor": "#art-258",
+          "url_fragment": "legi/lege-169-2026.md#art-258",
+          "line": 9259
+        },
+        {
+          "id": "art-259",
+          "anchor": "#art-259",
+          "url_fragment": "legi/lege-169-2026.md#art-259",
+          "line": 9315
+        },
+        {
+          "id": "art-260",
+          "anchor": "#art-260",
+          "url_fragment": "legi/lege-169-2026.md#art-260",
+          "line": 9375
+        },
+        {
+          "id": "art-261",
+          "anchor": "#art-261",
+          "url_fragment": "legi/lege-169-2026.md#art-261",
+          "line": 9402
+        },
+        {
+          "id": "art-262",
+          "anchor": "#art-262",
+          "url_fragment": "legi/lege-169-2026.md#art-262",
+          "line": 9435
+        },
+        {
+          "id": "art-263",
+          "anchor": "#art-263",
+          "url_fragment": "legi/lege-169-2026.md#art-263",
+          "line": 9505
+        },
+        {
+          "id": "art-264",
+          "anchor": "#art-264",
+          "url_fragment": "legi/lege-169-2026.md#art-264",
+          "line": 9536
+        },
+        {
+          "id": "art-265",
+          "anchor": "#art-265",
+          "url_fragment": "legi/lege-169-2026.md#art-265",
+          "line": 9576
+        },
+        {
+          "id": "art-266",
+          "anchor": "#art-266",
+          "url_fragment": "legi/lege-169-2026.md#art-266",
+          "line": 9711
+        },
+        {
+          "id": "art-267",
+          "anchor": "#art-267",
+          "url_fragment": "legi/lege-169-2026.md#art-267",
+          "line": 9790
+        },
+        {
+          "id": "art-268",
+          "anchor": "#art-268",
+          "url_fragment": "legi/lege-169-2026.md#art-268",
+          "line": 9828
+        },
+        {
+          "id": "art-269",
+          "anchor": "#art-269",
+          "url_fragment": "legi/lege-169-2026.md#art-269",
+          "line": 9856
+        },
+        {
+          "id": "art-270",
+          "anchor": "#art-270",
+          "url_fragment": "legi/lege-169-2026.md#art-270",
+          "line": 9990
+        },
+        {
+          "id": "art-271",
+          "anchor": "#art-271",
+          "url_fragment": "legi/lege-169-2026.md#art-271",
+          "line": 10018
+        },
+        {
+          "id": "art-272",
+          "anchor": "#art-272",
+          "url_fragment": "legi/lege-169-2026.md#art-272",
+          "line": 10045
+        },
+        {
+          "id": "art-273",
+          "anchor": "#art-273",
+          "url_fragment": "legi/lege-169-2026.md#art-273",
+          "line": 10073
+        },
+        {
+          "id": "art-274",
+          "anchor": "#art-274",
+          "url_fragment": "legi/lege-169-2026.md#art-274",
+          "line": 10119
+        },
+        {
+          "id": "art-275",
+          "anchor": "#art-275",
+          "url_fragment": "legi/lege-169-2026.md#art-275",
+          "line": 10170
+        },
+        {
+          "id": "art-276",
+          "anchor": "#art-276",
+          "url_fragment": "legi/lege-169-2026.md#art-276",
+          "line": 10187
+        },
+        {
+          "id": "art-277",
+          "anchor": "#art-277",
+          "url_fragment": "legi/lege-169-2026.md#art-277",
+          "line": 10201
+        },
+        {
+          "id": "art-278",
+          "anchor": "#art-278",
+          "url_fragment": "legi/lege-169-2026.md#art-278",
+          "line": 10229
+        },
+        {
+          "id": "art-279",
+          "anchor": "#art-279",
+          "url_fragment": "legi/lege-169-2026.md#art-279",
+          "line": 10258
+        },
+        {
+          "id": "art-280",
+          "anchor": "#art-280",
+          "url_fragment": "legi/lege-169-2026.md#art-280",
+          "line": 10279
+        },
+        {
+          "id": "art-281",
+          "anchor": "#art-281",
+          "url_fragment": "legi/lege-169-2026.md#art-281",
+          "line": 10338
+        },
+        {
+          "id": "art-282",
+          "anchor": "#art-282",
+          "url_fragment": "legi/lege-169-2026.md#art-282",
+          "line": 10350
+        },
+        {
+          "id": "art-283",
+          "anchor": "#art-283",
+          "url_fragment": "legi/lege-169-2026.md#art-283",
+          "line": 10382
+        },
+        {
+          "id": "art-284",
+          "anchor": "#art-284",
+          "url_fragment": "legi/lege-169-2026.md#art-284",
+          "line": 10423
+        },
+        {
+          "id": "art-285",
+          "anchor": "#art-285",
+          "url_fragment": "legi/lege-169-2026.md#art-285",
+          "line": 10514
+        },
+        {
+          "id": "art-286",
+          "anchor": "#art-286",
+          "url_fragment": "legi/lege-169-2026.md#art-286",
+          "line": 10549
+        },
+        {
+          "id": "art-287",
+          "anchor": "#art-287",
+          "url_fragment": "legi/lege-169-2026.md#art-287",
+          "line": 10596
+        },
+        {
+          "id": "art-288",
+          "anchor": "#art-288",
+          "url_fragment": "legi/lege-169-2026.md#art-288",
+          "line": 10625
+        },
+        {
+          "id": "art-289",
+          "anchor": "#art-289",
+          "url_fragment": "legi/lege-169-2026.md#art-289",
+          "line": 10660
+        },
+        {
+          "id": "art-290",
+          "anchor": "#art-290",
+          "url_fragment": "legi/lege-169-2026.md#art-290",
+          "line": 10742
+        },
+        {
+          "id": "art-291",
+          "anchor": "#art-291",
+          "url_fragment": "legi/lege-169-2026.md#art-291",
+          "line": 10758
+        },
+        {
+          "id": "art-292",
+          "anchor": "#art-292",
+          "url_fragment": "legi/lege-169-2026.md#art-292",
+          "line": 10802
+        },
+        {
+          "id": "art-293",
+          "anchor": "#art-293",
+          "url_fragment": "legi/lege-169-2026.md#art-293",
+          "line": 10825
+        },
+        {
+          "id": "art-294",
+          "anchor": "#art-294",
+          "url_fragment": "legi/lege-169-2026.md#art-294",
+          "line": 10872
+        },
+        {
+          "id": "art-295",
+          "anchor": "#art-295",
+          "url_fragment": "legi/lege-169-2026.md#art-295",
+          "line": 11082
+        },
+        {
+          "id": "art-296",
+          "anchor": "#art-296",
+          "url_fragment": "legi/lege-169-2026.md#art-296",
+          "line": 11122
+        },
+        {
+          "id": "art-297",
+          "anchor": "#art-297",
+          "url_fragment": "legi/lege-169-2026.md#art-297",
+          "line": 11174
+        },
+        {
+          "id": "art-298",
+          "anchor": "#art-298",
+          "url_fragment": "legi/lege-169-2026.md#art-298",
+          "line": 11203
+        },
+        {
+          "id": "art-299",
+          "anchor": "#art-299",
+          "url_fragment": "legi/lege-169-2026.md#art-299",
+          "line": 11242
+        },
+        {
+          "id": "art-300",
+          "anchor": "#art-300",
+          "url_fragment": "legi/lege-169-2026.md#art-300",
+          "line": 11440
+        },
+        {
+          "id": "art-301",
+          "anchor": "#art-301",
+          "url_fragment": "legi/lege-169-2026.md#art-301",
+          "line": 11481
+        },
+        {
+          "id": "art-302",
+          "anchor": "#art-302",
+          "url_fragment": "legi/lege-169-2026.md#art-302",
+          "line": 11602
+        },
+        {
+          "id": "art-303",
+          "anchor": "#art-303",
+          "url_fragment": "legi/lege-169-2026.md#art-303",
+          "line": 11628
+        },
+        {
+          "id": "art-304",
+          "anchor": "#art-304",
+          "url_fragment": "legi/lege-169-2026.md#art-304",
+          "line": 11640
+        },
+        {
+          "id": "art-305",
+          "anchor": "#art-305",
+          "url_fragment": "legi/lege-169-2026.md#art-305",
+          "line": 11682
+        },
+        {
+          "id": "art-306",
+          "anchor": "#art-306",
+          "url_fragment": "legi/lege-169-2026.md#art-306",
+          "line": 11702
+        },
+        {
+          "id": "art-307",
+          "anchor": "#art-307",
+          "url_fragment": "legi/lege-169-2026.md#art-307",
+          "line": 11732
+        },
+        {
+          "id": "art-308",
+          "anchor": "#art-308",
+          "url_fragment": "legi/lege-169-2026.md#art-308",
+          "line": 11769
+        },
+        {
+          "id": "art-309",
+          "anchor": "#art-309",
+          "url_fragment": "legi/lege-169-2026.md#art-309",
+          "line": 11789
+        },
+        {
+          "id": "art-310",
+          "anchor": "#art-310",
+          "url_fragment": "legi/lege-169-2026.md#art-310",
+          "line": 11824
+        },
+        {
+          "id": "art-311",
+          "anchor": "#art-311",
+          "url_fragment": "legi/lege-169-2026.md#art-311",
+          "line": 11862
+        },
+        {
+          "id": "art-312",
+          "anchor": "#art-312",
+          "url_fragment": "legi/lege-169-2026.md#art-312",
+          "line": 11895
+        },
+        {
+          "id": "art-313",
+          "anchor": "#art-313",
+          "url_fragment": "legi/lege-169-2026.md#art-313",
+          "line": 11907
+        },
+        {
+          "id": "art-314",
+          "anchor": "#art-314",
+          "url_fragment": "legi/lege-169-2026.md#art-314",
+          "line": 11936
+        },
+        {
+          "id": "art-315",
+          "anchor": "#art-315",
+          "url_fragment": "legi/lege-169-2026.md#art-315",
+          "line": 12024
+        },
+        {
+          "id": "art-316",
+          "anchor": "#art-316",
+          "url_fragment": "legi/lege-169-2026.md#art-316",
+          "line": 12048
+        },
+        {
+          "id": "art-317",
+          "anchor": "#art-317",
+          "url_fragment": "legi/lege-169-2026.md#art-317",
+          "line": 12144
+        },
+        {
+          "id": "art-318",
+          "anchor": "#art-318",
+          "url_fragment": "legi/lege-169-2026.md#art-318",
+          "line": 12181
+        },
+        {
+          "id": "art-319",
+          "anchor": "#art-319",
+          "url_fragment": "legi/lege-169-2026.md#art-319",
+          "line": 12202
+        },
+        {
+          "id": "art-320",
+          "anchor": "#art-320",
+          "url_fragment": "legi/lege-169-2026.md#art-320",
+          "line": 12219
+        },
+        {
+          "id": "art-321",
+          "anchor": "#art-321",
+          "url_fragment": "legi/lege-169-2026.md#art-321",
+          "line": 12248
+        },
+        {
+          "id": "art-322",
+          "anchor": "#art-322",
+          "url_fragment": "legi/lege-169-2026.md#art-322",
+          "line": 12297
+        },
+        {
+          "id": "art-323",
+          "anchor": "#art-323",
+          "url_fragment": "legi/lege-169-2026.md#art-323",
+          "line": 12311
+        },
+        {
+          "id": "art-324",
+          "anchor": "#art-324",
+          "url_fragment": "legi/lege-169-2026.md#art-324",
+          "line": 12327
+        },
+        {
+          "id": "art-325",
+          "anchor": "#art-325",
+          "url_fragment": "legi/lege-169-2026.md#art-325",
+          "line": 12339
+        },
+        {
+          "id": "art-326",
+          "anchor": "#art-326",
+          "url_fragment": "legi/lege-169-2026.md#art-326",
+          "line": 12370
+        },
+        {
+          "id": "art-327",
+          "anchor": "#art-327",
+          "url_fragment": "legi/lege-169-2026.md#art-327",
+          "line": 12402
+        },
+        {
+          "id": "art-328",
+          "anchor": "#art-328",
+          "url_fragment": "legi/lege-169-2026.md#art-328",
+          "line": 12413
+        },
+        {
+          "id": "art-329",
+          "anchor": "#art-329",
+          "url_fragment": "legi/lege-169-2026.md#art-329",
+          "line": 12452
+        },
+        {
+          "id": "art-330",
+          "anchor": "#art-330",
+          "url_fragment": "legi/lege-169-2026.md#art-330",
+          "line": 12513
+        },
+        {
+          "id": "art-331",
+          "anchor": "#art-331",
+          "url_fragment": "legi/lege-169-2026.md#art-331",
+          "line": 12576
+        },
+        {
+          "id": "art-332",
+          "anchor": "#art-332",
+          "url_fragment": "legi/lege-169-2026.md#art-332",
+          "line": 12598
+        },
+        {
+          "id": "art-333",
+          "anchor": "#art-333",
+          "url_fragment": "legi/lege-169-2026.md#art-333",
+          "line": 12633
+        },
+        {
+          "id": "art-334",
+          "anchor": "#art-334",
+          "url_fragment": "legi/lege-169-2026.md#art-334",
+          "line": 12701
+        },
+        {
+          "id": "art-335",
+          "anchor": "#art-335",
+          "url_fragment": "legi/lege-169-2026.md#art-335",
+          "line": 12762
+        },
+        {
+          "id": "art-336",
+          "anchor": "#art-336",
+          "url_fragment": "legi/lege-169-2026.md#art-336",
+          "line": 12794
+        },
+        {
+          "id": "art-337",
+          "anchor": "#art-337",
+          "url_fragment": "legi/lege-169-2026.md#art-337",
+          "line": 12821
+        },
+        {
+          "id": "art-338",
+          "anchor": "#art-338",
+          "url_fragment": "legi/lege-169-2026.md#art-338",
+          "line": 12827
+        },
+        {
+          "id": "art-339",
+          "anchor": "#art-339",
+          "url_fragment": "legi/lege-169-2026.md#art-339",
+          "line": 12838
+        },
+        {
+          "id": "art-340",
+          "anchor": "#art-340",
+          "url_fragment": "legi/lege-169-2026.md#art-340",
+          "line": 12847
+        },
+        {
+          "id": "art-341",
+          "anchor": "#art-341",
+          "url_fragment": "legi/lege-169-2026.md#art-341",
+          "line": 12864
+        },
+        {
+          "id": "art-342",
+          "anchor": "#art-342",
+          "url_fragment": "legi/lege-169-2026.md#art-342",
+          "line": 12873
+        },
+        {
+          "id": "art-343",
+          "anchor": "#art-343",
+          "url_fragment": "legi/lege-169-2026.md#art-343",
+          "line": 12910
+        },
+        {
+          "id": "art-344",
+          "anchor": "#art-344",
+          "url_fragment": "legi/lege-169-2026.md#art-344",
+          "line": 12918
+        },
+        {
+          "id": "art-345",
+          "anchor": "#art-345",
+          "url_fragment": "legi/lege-169-2026.md#art-345",
+          "line": 13032
+        },
+        {
+          "id": "art-346",
+          "anchor": "#art-346",
+          "url_fragment": "legi/lege-169-2026.md#art-346",
+          "line": 13093
+        },
+        {
+          "id": "art-347",
+          "anchor": "#art-347",
+          "url_fragment": "legi/lege-169-2026.md#art-347",
+          "line": 13139
+        },
+        {
+          "id": "art-348",
+          "anchor": "#art-348",
+          "url_fragment": "legi/lege-169-2026.md#art-348",
+          "line": 13164
+        },
+        {
+          "id": "art-349",
+          "anchor": "#art-349",
+          "url_fragment": "legi/lege-169-2026.md#art-349",
+          "line": 13178
+        },
+        {
+          "id": "art-350",
+          "anchor": "#art-350",
+          "url_fragment": "legi/lege-169-2026.md#art-350",
+          "line": 13227
+        },
+        {
+          "id": "art-351",
+          "anchor": "#art-351",
+          "url_fragment": "legi/lege-169-2026.md#art-351",
+          "line": 13252
+        },
+        {
+          "id": "art-352",
+          "anchor": "#art-352",
+          "url_fragment": "legi/lege-169-2026.md#art-352",
+          "line": 13284
+        },
+        {
+          "id": "art-353",
+          "anchor": "#art-353",
+          "url_fragment": "legi/lege-169-2026.md#art-353",
+          "line": 13387
+        },
+        {
+          "id": "art-354",
+          "anchor": "#art-354",
+          "url_fragment": "legi/lege-169-2026.md#art-354",
+          "line": 13482
+        },
+        {
+          "id": "art-355",
+          "anchor": "#art-355",
+          "url_fragment": "legi/lege-169-2026.md#art-355",
+          "line": 13521
+        },
+        {
+          "id": "art-356",
+          "anchor": "#art-356",
+          "url_fragment": "legi/lege-169-2026.md#art-356",
+          "line": 13534
+        },
+        {
+          "id": "art-357",
+          "anchor": "#art-357",
+          "url_fragment": "legi/lege-169-2026.md#art-357",
+          "line": 13565
+        },
+        {
+          "id": "art-358",
+          "anchor": "#art-358",
+          "url_fragment": "legi/lege-169-2026.md#art-358",
+          "line": 13762
+        },
+        {
+          "id": "art-359",
+          "anchor": "#art-359",
+          "url_fragment": "legi/lege-169-2026.md#art-359",
+          "line": 13828
+        },
+        {
+          "id": "art-360",
+          "anchor": "#art-360",
+          "url_fragment": "legi/lege-169-2026.md#art-360",
+          "line": 13864
+        },
+        {
+          "id": "art-361",
+          "anchor": "#art-361",
+          "url_fragment": "legi/lege-169-2026.md#art-361",
+          "line": 13876
+        },
+        {
+          "id": "art-362",
+          "anchor": "#art-362",
+          "url_fragment": "legi/lege-169-2026.md#art-362",
+          "line": 13915
+        },
+        {
+          "id": "art-363",
+          "anchor": "#art-363",
+          "url_fragment": "legi/lege-169-2026.md#art-363",
+          "line": 13924
+        },
+        {
+          "id": "art-364",
+          "anchor": "#art-364",
+          "url_fragment": "legi/lege-169-2026.md#art-364",
+          "line": 13938
+        },
+        {
+          "id": "art-365",
+          "anchor": "#art-365",
+          "url_fragment": "legi/lege-169-2026.md#art-365",
+          "line": 13953
+        },
+        {
+          "id": "art-366",
+          "anchor": "#art-366",
+          "url_fragment": "legi/lege-169-2026.md#art-366",
+          "line": 13976
+        },
+        {
+          "id": "art-367",
+          "anchor": "#art-367",
+          "url_fragment": "legi/lege-169-2026.md#art-367",
+          "line": 14006
+        },
+        {
+          "id": "art-368",
+          "anchor": "#art-368",
+          "url_fragment": "legi/lege-169-2026.md#art-368",
+          "line": 14025
+        },
+        {
+          "id": "art-369",
+          "anchor": "#art-369",
+          "url_fragment": "legi/lege-169-2026.md#art-369",
+          "line": 14083
+        },
+        {
+          "id": "art-370",
+          "anchor": "#art-370",
+          "url_fragment": "legi/lege-169-2026.md#art-370",
+          "line": 14108
+        },
+        {
+          "id": "art-371",
+          "anchor": "#art-371",
+          "url_fragment": "legi/lege-169-2026.md#art-371",
+          "line": 14239
+        },
+        {
+          "id": "art-372",
+          "anchor": "#art-372",
+          "url_fragment": "legi/lege-169-2026.md#art-372",
+          "line": 14266
+        },
+        {
+          "id": "art-373",
+          "anchor": "#art-373",
+          "url_fragment": "legi/lege-169-2026.md#art-373",
+          "line": 14350
+        },
+        {
+          "id": "art-374",
+          "anchor": "#art-374",
+          "url_fragment": "legi/lege-169-2026.md#art-374",
+          "line": 14391
+        },
+        {
+          "id": "art-375",
+          "anchor": "#art-375",
+          "url_fragment": "legi/lege-169-2026.md#art-375",
+          "line": 14471
+        },
+        {
+          "id": "art-376",
+          "anchor": "#art-376",
+          "url_fragment": "legi/lege-169-2026.md#art-376",
+          "line": 14500
+        },
+        {
+          "id": "art-377",
+          "anchor": "#art-377",
+          "url_fragment": "legi/lege-169-2026.md#art-377",
+          "line": 14557
+        },
+        {
+          "id": "art-378",
+          "anchor": "#art-378",
+          "url_fragment": "legi/lege-169-2026.md#art-378",
+          "line": 14590
+        },
+        {
+          "id": "art-379",
+          "anchor": "#art-379",
+          "url_fragment": "legi/lege-169-2026.md#art-379",
+          "line": 14609
+        },
+        {
+          "id": "art-380",
+          "anchor": "#art-380",
+          "url_fragment": "legi/lege-169-2026.md#art-380",
+          "line": 14624
+        },
+        {
+          "id": "art-381",
+          "anchor": "#art-381",
+          "url_fragment": "legi/lege-169-2026.md#art-381",
+          "line": 14629
+        },
+        {
+          "id": "art-382",
+          "anchor": "#art-382",
+          "url_fragment": "legi/lege-169-2026.md#art-382",
+          "line": 14642
+        },
+        {
+          "id": "art-383",
+          "anchor": "#art-383",
+          "url_fragment": "legi/lege-169-2026.md#art-383",
+          "line": 14694
+        },
+        {
+          "id": "art-384",
+          "anchor": "#art-384",
+          "url_fragment": "legi/lege-169-2026.md#art-384",
+          "line": 14811
+        },
+        {
+          "id": "art-385",
+          "anchor": "#art-385",
+          "url_fragment": "legi/lege-169-2026.md#art-385",
+          "line": 14832
+        },
+        {
+          "id": "art-386",
+          "anchor": "#art-386",
+          "url_fragment": "legi/lege-169-2026.md#art-386",
+          "line": 14846
+        },
+        {
+          "id": "art-387",
+          "anchor": "#art-387",
+          "url_fragment": "legi/lege-169-2026.md#art-387",
+          "line": 14868
+        },
+        {
+          "id": "art-388",
+          "anchor": "#art-388",
+          "url_fragment": "legi/lege-169-2026.md#art-388",
+          "line": 14878
+        },
+        {
+          "id": "art-389",
+          "anchor": "#art-389",
+          "url_fragment": "legi/lege-169-2026.md#art-389",
+          "line": 14898
+        },
+        {
+          "id": "art-390",
+          "anchor": "#art-390",
+          "url_fragment": "legi/lege-169-2026.md#art-390",
+          "line": 14922
+        },
+        {
+          "id": "art-391",
+          "anchor": "#art-391",
+          "url_fragment": "legi/lege-169-2026.md#art-391",
+          "line": 14938
+        },
+        {
+          "id": "art-392",
+          "anchor": "#art-392",
+          "url_fragment": "legi/lege-169-2026.md#art-392",
+          "line": 14963
+        },
+        {
+          "id": "art-393",
+          "anchor": "#art-393",
+          "url_fragment": "legi/lege-169-2026.md#art-393",
+          "line": 15008
+        },
+        {
+          "id": "art-394",
+          "anchor": "#art-394",
+          "url_fragment": "legi/lege-169-2026.md#art-394",
+          "line": 15025
+        },
+        {
+          "id": "art-395",
+          "anchor": "#art-395",
+          "url_fragment": "legi/lege-169-2026.md#art-395",
+          "line": 15078
+        },
+        {
+          "id": "art-396",
+          "anchor": "#art-396",
+          "url_fragment": "legi/lege-169-2026.md#art-396",
+          "line": 15094
+        },
+        {
+          "id": "art-397",
+          "anchor": "#art-397",
+          "url_fragment": "legi/lege-169-2026.md#art-397",
+          "line": 15116
+        },
+        {
+          "id": "art-398",
+          "anchor": "#art-398",
+          "url_fragment": "legi/lege-169-2026.md#art-398",
+          "line": 15135
+        },
+        {
+          "id": "art-399",
+          "anchor": "#art-399",
+          "url_fragment": "legi/lege-169-2026.md#art-399",
+          "line": 15150
+        },
+        {
+          "id": "art-400",
+          "anchor": "#art-400",
+          "url_fragment": "legi/lege-169-2026.md#art-400",
+          "line": 15167
+        },
+        {
+          "id": "art-401",
+          "anchor": "#art-401",
+          "url_fragment": "legi/lege-169-2026.md#art-401",
+          "line": 15192
+        },
+        {
+          "id": "art-402",
+          "anchor": "#art-402",
+          "url_fragment": "legi/lege-169-2026.md#art-402",
+          "line": 15229
+        },
+        {
+          "id": "art-403",
+          "anchor": "#art-403",
+          "url_fragment": "legi/lege-169-2026.md#art-403",
+          "line": 15244
+        },
+        {
+          "id": "art-404",
+          "anchor": "#art-404",
+          "url_fragment": "legi/lege-169-2026.md#art-404",
+          "line": 15267
+        },
+        {
+          "id": "art-405",
+          "anchor": "#art-405",
+          "url_fragment": "legi/lege-169-2026.md#art-405",
+          "line": 15281
+        },
+        {
+          "id": "art-406",
+          "anchor": "#art-406",
+          "url_fragment": "legi/lege-169-2026.md#art-406",
+          "line": 15310
+        },
+        {
+          "id": "art-407",
+          "anchor": "#art-407",
+          "url_fragment": "legi/lege-169-2026.md#art-407",
+          "line": 15355
+        },
+        {
+          "id": "art-408",
+          "anchor": "#art-408",
+          "url_fragment": "legi/lege-169-2026.md#art-408",
+          "line": 15375
+        },
+        {
+          "id": "art-409",
+          "anchor": "#art-409",
+          "url_fragment": "legi/lege-169-2026.md#art-409",
+          "line": 15409
+        },
+        {
+          "id": "art-410",
+          "anchor": "#art-410",
+          "url_fragment": "legi/lege-169-2026.md#art-410",
+          "line": 15442
+        },
+        {
+          "id": "art-411",
+          "anchor": "#art-411",
+          "url_fragment": "legi/lege-169-2026.md#art-411",
+          "line": 15457
+        },
+        {
+          "id": "art-412",
+          "anchor": "#art-412",
+          "url_fragment": "legi/lege-169-2026.md#art-412",
+          "line": 15483
+        },
+        {
+          "id": "art-413",
+          "anchor": "#art-413",
+          "url_fragment": "legi/lege-169-2026.md#art-413",
+          "line": 15507
+        },
+        {
+          "id": "art-414",
+          "anchor": "#art-414",
+          "url_fragment": "legi/lege-169-2026.md#art-414",
+          "line": 15517
+        },
+        {
+          "id": "art-415",
+          "anchor": "#art-415",
+          "url_fragment": "legi/lege-169-2026.md#art-415",
+          "line": 15531
+        },
+        {
+          "id": "art-416",
+          "anchor": "#art-416",
+          "url_fragment": "legi/lege-169-2026.md#art-416",
+          "line": 15573
+        },
+        {
+          "id": "art-417",
+          "anchor": "#art-417",
+          "url_fragment": "legi/lege-169-2026.md#art-417",
+          "line": 15602
+        },
+        {
+          "id": "art-418",
+          "anchor": "#art-418",
+          "url_fragment": "legi/lege-169-2026.md#art-418",
+          "line": 15641
+        },
+        {
+          "id": "art-419",
+          "anchor": "#art-419",
+          "url_fragment": "legi/lege-169-2026.md#art-419",
+          "line": 15686
+        },
+        {
+          "id": "art-420",
+          "anchor": "#art-420",
+          "url_fragment": "legi/lege-169-2026.md#art-420",
+          "line": 15711
+        },
+        {
+          "id": "art-421",
+          "anchor": "#art-421",
+          "url_fragment": "legi/lege-169-2026.md#art-421",
+          "line": 15807
+        },
+        {
+          "id": "art-422",
+          "anchor": "#art-422",
+          "url_fragment": "legi/lege-169-2026.md#art-422",
+          "line": 15836
+        },
+        {
+          "id": "art-423",
+          "anchor": "#art-423",
+          "url_fragment": "legi/lege-169-2026.md#art-423",
+          "line": 15961
+        },
+        {
+          "id": "art-424",
+          "anchor": "#art-424",
+          "url_fragment": "legi/lege-169-2026.md#art-424",
+          "line": 16072
+        },
+        {
+          "id": "art-425",
+          "anchor": "#art-425",
+          "url_fragment": "legi/lege-169-2026.md#art-425",
+          "line": 16130
+        },
+        {
+          "id": "art-426",
+          "anchor": "#art-426",
+          "url_fragment": "legi/lege-169-2026.md#art-426",
+          "line": 16143
+        },
+        {
+          "id": "art-427",
+          "anchor": "#art-427",
+          "url_fragment": "legi/lege-169-2026.md#art-427",
+          "line": 16202
+        },
+        {
+          "id": "art-428",
+          "anchor": "#art-428",
+          "url_fragment": "legi/lege-169-2026.md#art-428",
+          "line": 16214
+        },
+        {
+          "id": "art-429",
+          "anchor": "#art-429",
+          "url_fragment": "legi/lege-169-2026.md#art-429",
+          "line": 16295
+        },
+        {
+          "id": "art-430",
+          "anchor": "#art-430",
+          "url_fragment": "legi/lege-169-2026.md#art-430",
+          "line": 16328
+        },
+        {
+          "id": "art-431",
+          "anchor": "#art-431",
+          "url_fragment": "legi/lege-169-2026.md#art-431",
+          "line": 16432
+        },
+        {
+          "id": "art-432",
+          "anchor": "#art-432",
+          "url_fragment": "legi/lege-169-2026.md#art-432",
+          "line": 16451
+        },
+        {
+          "id": "art-433",
+          "anchor": "#art-433",
+          "url_fragment": "legi/lege-169-2026.md#art-433",
+          "line": 16494
+        },
+        {
+          "id": "art-434",
+          "anchor": "#art-434",
+          "url_fragment": "legi/lege-169-2026.md#art-434",
+          "line": 16551
+        },
+        {
+          "id": "art-435",
+          "anchor": "#art-435",
+          "url_fragment": "legi/lege-169-2026.md#art-435",
+          "line": 16598
+        },
+        {
+          "id": "art-436",
+          "anchor": "#art-436",
+          "url_fragment": "legi/lege-169-2026.md#art-436",
+          "line": 16615
+        },
+        {
+          "id": "art-437",
+          "anchor": "#art-437",
+          "url_fragment": "legi/lege-169-2026.md#art-437",
+          "line": 16648
+        },
+        {
+          "id": "art-438",
+          "anchor": "#art-438",
+          "url_fragment": "legi/lege-169-2026.md#art-438",
+          "line": 16689
+        },
+        {
+          "id": "art-439",
+          "anchor": "#art-439",
+          "url_fragment": "legi/lege-169-2026.md#art-439",
+          "line": 16706
+        },
+        {
+          "id": "art-440",
+          "anchor": "#art-440",
+          "url_fragment": "legi/lege-169-2026.md#art-440",
+          "line": 16781
+        },
+        {
+          "id": "art-441",
+          "anchor": "#art-441",
+          "url_fragment": "legi/lege-169-2026.md#art-441",
+          "line": 16808
+        },
+        {
+          "id": "art-442",
+          "anchor": "#art-442",
+          "url_fragment": "legi/lege-169-2026.md#art-442",
+          "line": 16816
+        },
+        {
+          "id": "art-443",
+          "anchor": "#art-443",
+          "url_fragment": "legi/lege-169-2026.md#art-443",
+          "line": 16852
+        },
+        {
+          "id": "art-444",
+          "anchor": "#art-444",
+          "url_fragment": "legi/lege-169-2026.md#art-444",
+          "line": 16872
+        },
+        {
+          "id": "art-445",
+          "anchor": "#art-445",
+          "url_fragment": "legi/lege-169-2026.md#art-445",
+          "line": 16904
+        },
+        {
+          "id": "art-446",
+          "anchor": "#art-446",
+          "url_fragment": "legi/lege-169-2026.md#art-446",
+          "line": 16950
+        },
+        {
+          "id": "art-447",
+          "anchor": "#art-447",
+          "url_fragment": "legi/lege-169-2026.md#art-447",
+          "line": 16972
+        },
+        {
+          "id": "art-448",
+          "anchor": "#art-448",
+          "url_fragment": "legi/lege-169-2026.md#art-448",
+          "line": 16983
+        },
+        {
+          "id": "art-449",
+          "anchor": "#art-449",
+          "url_fragment": "legi/lege-169-2026.md#art-449",
+          "line": 17002
+        },
+        {
+          "id": "art-450",
+          "anchor": "#art-450",
+          "url_fragment": "legi/lege-169-2026.md#art-450",
+          "line": 17073
+        },
+        {
+          "id": "art-451",
+          "anchor": "#art-451",
+          "url_fragment": "legi/lege-169-2026.md#art-451",
+          "line": 17087
+        },
+        {
+          "id": "art-452",
+          "anchor": "#art-452",
+          "url_fragment": "legi/lege-169-2026.md#art-452",
+          "line": 17128
+        },
+        {
+          "id": "art-453",
+          "anchor": "#art-453",
+          "url_fragment": "legi/lege-169-2026.md#art-453",
+          "line": 17198
+        },
+        {
+          "id": "art-454",
+          "anchor": "#art-454",
+          "url_fragment": "legi/lege-169-2026.md#art-454",
+          "line": 17212
+        },
+        {
+          "id": "art-455",
+          "anchor": "#art-455",
+          "url_fragment": "legi/lege-169-2026.md#art-455",
+          "line": 17237
+        },
+        {
+          "id": "art-456",
+          "anchor": "#art-456",
+          "url_fragment": "legi/lege-169-2026.md#art-456",
+          "line": 17249
+        },
+        {
+          "id": "art-457",
+          "anchor": "#art-457",
+          "url_fragment": "legi/lege-169-2026.md#art-457",
+          "line": 17305
+        },
+        {
+          "id": "art-458",
+          "anchor": "#art-458",
+          "url_fragment": "legi/lege-169-2026.md#art-458",
+          "line": 17324
+        },
+        {
+          "id": "art-459",
+          "anchor": "#art-459",
+          "url_fragment": "legi/lege-169-2026.md#art-459",
+          "line": 17337
+        },
+        {
+          "id": "art-460",
+          "anchor": "#art-460",
+          "url_fragment": "legi/lege-169-2026.md#art-460",
+          "line": 17406
+        },
+        {
+          "id": "art-461",
+          "anchor": "#art-461",
+          "url_fragment": "legi/lege-169-2026.md#art-461",
+          "line": 17469
+        },
+        {
+          "id": "art-462",
+          "anchor": "#art-462",
+          "url_fragment": "legi/lege-169-2026.md#art-462",
+          "line": 17497
+        },
+        {
+          "id": "art-463",
+          "anchor": "#art-463",
+          "url_fragment": "legi/lege-169-2026.md#art-463",
+          "line": 17527
+        },
+        {
+          "id": "art-464",
+          "anchor": "#art-464",
+          "url_fragment": "legi/lege-169-2026.md#art-464",
+          "line": 17537
+        },
+        {
+          "id": "art-465",
+          "anchor": "#art-465",
+          "url_fragment": "legi/lege-169-2026.md#art-465",
+          "line": 17553
+        },
+        {
+          "id": "art-466",
+          "anchor": "#art-466",
+          "url_fragment": "legi/lege-169-2026.md#art-466",
+          "line": 17567
+        },
+        {
+          "id": "art-467",
+          "anchor": "#art-467",
+          "url_fragment": "legi/lege-169-2026.md#art-467",
+          "line": 17642
+        },
+        {
+          "id": "art-468",
+          "anchor": "#art-468",
+          "url_fragment": "legi/lege-169-2026.md#art-468",
+          "line": 17681
+        },
+        {
+          "id": "art-469",
+          "anchor": "#art-469",
+          "url_fragment": "legi/lege-169-2026.md#art-469",
+          "line": 17712
+        },
+        {
+          "id": "art-470",
+          "anchor": "#art-470",
+          "url_fragment": "legi/lege-169-2026.md#art-470",
+          "line": 17729
+        },
+        {
+          "id": "art-471",
+          "anchor": "#art-471",
+          "url_fragment": "legi/lege-169-2026.md#art-471",
+          "line": 17750
+        },
+        {
+          "id": "art-472",
+          "anchor": "#art-472",
+          "url_fragment": "legi/lege-169-2026.md#art-472",
+          "line": 17788
+        },
+        {
+          "id": "art-473",
+          "anchor": "#art-473",
+          "url_fragment": "legi/lege-169-2026.md#art-473",
+          "line": 17798
+        },
+        {
+          "id": "art-474",
+          "anchor": "#art-474",
+          "url_fragment": "legi/lege-169-2026.md#art-474",
+          "line": 17815
+        },
+        {
+          "id": "art-475",
+          "anchor": "#art-475",
+          "url_fragment": "legi/lege-169-2026.md#art-475",
+          "line": 17822
+        },
+        {
+          "id": "art-476",
+          "anchor": "#art-476",
+          "url_fragment": "legi/lege-169-2026.md#art-476",
+          "line": 17859
+        },
+        {
+          "id": "art-477",
+          "anchor": "#art-477",
+          "url_fragment": "legi/lege-169-2026.md#art-477",
+          "line": 17919
+        },
+        {
+          "id": "art-478",
+          "anchor": "#art-478",
+          "url_fragment": "legi/lege-169-2026.md#art-478",
+          "line": 17930
+        },
+        {
+          "id": "art-479",
+          "anchor": "#art-479",
+          "url_fragment": "legi/lege-169-2026.md#art-479",
+          "line": 17988
+        },
+        {
+          "id": "art-480",
+          "anchor": "#art-480",
+          "url_fragment": "legi/lege-169-2026.md#art-480",
+          "line": 18014
+        },
+        {
+          "id": "art-481",
+          "anchor": "#art-481",
+          "url_fragment": "legi/lege-169-2026.md#art-481",
+          "line": 18022
+        },
+        {
+          "id": "art-482",
+          "anchor": "#art-482",
+          "url_fragment": "legi/lege-169-2026.md#art-482",
+          "line": 18033
+        },
+        {
+          "id": "art-483",
+          "anchor": "#art-483",
+          "url_fragment": "legi/lege-169-2026.md#art-483",
+          "line": 18049
+        },
+        {
+          "id": "art-484",
+          "anchor": "#art-484",
+          "url_fragment": "legi/lege-169-2026.md#art-484",
+          "line": 18065
+        },
+        {
+          "id": "art-485",
+          "anchor": "#art-485",
+          "url_fragment": "legi/lege-169-2026.md#art-485",
+          "line": 18096
+        },
+        {
+          "id": "art-486",
+          "anchor": "#art-486",
+          "url_fragment": "legi/lege-169-2026.md#art-486",
+          "line": 18122
+        },
+        {
+          "id": "art-487",
+          "anchor": "#art-487",
+          "url_fragment": "legi/lege-169-2026.md#art-487",
+          "line": 18165
+        },
+        {
+          "id": "art-488",
+          "anchor": "#art-488",
+          "url_fragment": "legi/lege-169-2026.md#art-488",
+          "line": 18172
+        },
+        {
+          "id": "art-489",
+          "anchor": "#art-489",
+          "url_fragment": "legi/lege-169-2026.md#art-489",
+          "line": 18180
+        },
+        {
+          "id": "art-490",
+          "anchor": "#art-490",
+          "url_fragment": "legi/lege-169-2026.md#art-490",
+          "line": 18186
+        },
+        {
+          "id": "art-491",
+          "anchor": "#art-491",
+          "url_fragment": "legi/lege-169-2026.md#art-491",
+          "line": 18217
+        },
+        {
+          "id": "art-492",
+          "anchor": "#art-492",
+          "url_fragment": "legi/lege-169-2026.md#art-492",
+          "line": 18266
+        },
+        {
+          "id": "art-493",
+          "anchor": "#art-493",
+          "url_fragment": "legi/lege-169-2026.md#art-493",
+          "line": 18287
+        },
+        {
+          "id": "art-494",
+          "anchor": "#art-494",
+          "url_fragment": "legi/lege-169-2026.md#art-494",
+          "line": 18307
+        },
+        {
+          "id": "art-495",
+          "anchor": "#art-495",
+          "url_fragment": "legi/lege-169-2026.md#art-495",
+          "line": 18331
+        },
+        {
+          "id": "art-496",
+          "anchor": "#art-496",
+          "url_fragment": "legi/lege-169-2026.md#art-496",
+          "line": 18368
+        },
+        {
+          "id": "art-497",
+          "anchor": "#art-497",
+          "url_fragment": "legi/lege-169-2026.md#art-497",
+          "line": 18410
+        },
+        {
+          "id": "art-498",
+          "anchor": "#art-498",
+          "url_fragment": "legi/lege-169-2026.md#art-498",
+          "line": 18454
+        },
+        {
+          "id": "art-499",
+          "anchor": "#art-499",
+          "url_fragment": "legi/lege-169-2026.md#art-499",
+          "line": 18501
+        },
+        {
+          "id": "art-500",
+          "anchor": "#art-500",
+          "url_fragment": "legi/lege-169-2026.md#art-500",
+          "line": 18532
+        },
+        {
+          "id": "art-501",
+          "anchor": "#art-501",
+          "url_fragment": "legi/lege-169-2026.md#art-501",
+          "line": 18576
+        },
+        {
+          "id": "art-502",
+          "anchor": "#art-502",
+          "url_fragment": "legi/lege-169-2026.md#art-502",
+          "line": 18604
+        },
+        {
+          "id": "art-503",
+          "anchor": "#art-503",
+          "url_fragment": "legi/lege-169-2026.md#art-503",
+          "line": 18624
+        },
+        {
+          "id": "art-504",
+          "anchor": "#art-504",
+          "url_fragment": "legi/lege-169-2026.md#art-504",
+          "line": 18654
+        },
+        {
+          "id": "art-505",
+          "anchor": "#art-505",
+          "url_fragment": "legi/lege-169-2026.md#art-505",
+          "line": 18680
+        },
+        {
+          "id": "art-506",
+          "anchor": "#art-506",
+          "url_fragment": "legi/lege-169-2026.md#art-506",
+          "line": 18695
+        },
+        {
+          "id": "art-507",
+          "anchor": "#art-507",
+          "url_fragment": "legi/lege-169-2026.md#art-507",
+          "line": 18720
+        },
+        {
+          "id": "art-508",
+          "anchor": "#art-508",
+          "url_fragment": "legi/lege-169-2026.md#art-508",
+          "line": 18729
+        },
+        {
+          "id": "art-509",
+          "anchor": "#art-509",
+          "url_fragment": "legi/lege-169-2026.md#art-509",
+          "line": 18817
+        },
+        {
+          "id": "art-510",
+          "anchor": "#art-510",
+          "url_fragment": "legi/lege-169-2026.md#art-510",
+          "line": 18898
+        },
+        {
+          "id": "art-511",
+          "anchor": "#art-511",
+          "url_fragment": "legi/lege-169-2026.md#art-511",
+          "line": 18912
+        },
+        {
+          "id": "art-512",
+          "anchor": "#art-512",
+          "url_fragment": "legi/lege-169-2026.md#art-512",
+          "line": 18918
+        },
+        {
+          "id": "art-513",
+          "anchor": "#art-513",
+          "url_fragment": "legi/lege-169-2026.md#art-513",
+          "line": 18944
+        },
+        {
+          "id": "art-514",
+          "anchor": "#art-514",
+          "url_fragment": "legi/lege-169-2026.md#art-514",
+          "line": 18966
+        },
+        {
+          "id": "art-515",
+          "anchor": "#art-515",
+          "url_fragment": "legi/lege-169-2026.md#art-515",
+          "line": 18986
+        },
+        {
+          "id": "art-516",
+          "anchor": "#art-516",
+          "url_fragment": "legi/lege-169-2026.md#art-516",
+          "line": 18996
+        },
+        {
+          "id": "art-517",
+          "anchor": "#art-517",
+          "url_fragment": "legi/lege-169-2026.md#art-517",
+          "line": 19013
+        },
+        {
+          "id": "art-518",
+          "anchor": "#art-518",
+          "url_fragment": "legi/lege-169-2026.md#art-518",
+          "line": 19054
+        },
+        {
+          "id": "art-519",
+          "anchor": "#art-519",
+          "url_fragment": "legi/lege-169-2026.md#art-519",
+          "line": 19060
+        },
+        {
+          "id": "art-520",
+          "anchor": "#art-520",
+          "url_fragment": "legi/lege-169-2026.md#art-520",
+          "line": 19065
+        },
+        {
+          "id": "art-521",
+          "anchor": "#art-521",
+          "url_fragment": "legi/lege-169-2026.md#art-521",
+          "line": 19111
+        },
+        {
+          "id": "art-522",
+          "anchor": "#art-522",
+          "url_fragment": "legi/lege-169-2026.md#art-522",
+          "line": 19156
+        },
+        {
+          "id": "art-523",
+          "anchor": "#art-523",
+          "url_fragment": "legi/lege-169-2026.md#art-523",
+          "line": 19184
+        },
+        {
+          "id": "art-524",
+          "anchor": "#art-524",
+          "url_fragment": "legi/lege-169-2026.md#art-524",
+          "line": 19197
+        },
+        {
+          "id": "art-525",
+          "anchor": "#art-525",
+          "url_fragment": "legi/lege-169-2026.md#art-525",
+          "line": 19230
+        },
+        {
+          "id": "art-526",
+          "anchor": "#art-526",
+          "url_fragment": "legi/lege-169-2026.md#art-526",
+          "line": 19243
+        },
+        {
+          "id": "art-527",
+          "anchor": "#art-527",
+          "url_fragment": "legi/lege-169-2026.md#art-527",
+          "line": 19272
+        },
+        {
+          "id": "art-528",
+          "anchor": "#art-528",
+          "url_fragment": "legi/lege-169-2026.md#art-528",
+          "line": 19330
+        },
+        {
+          "id": "art-529",
+          "anchor": "#art-529",
+          "url_fragment": "legi/lege-169-2026.md#art-529",
+          "line": 19376
+        },
+        {
+          "id": "art-530",
+          "anchor": "#art-530",
+          "url_fragment": "legi/lege-169-2026.md#art-530",
+          "line": 19389
+        },
+        {
+          "id": "art-531",
+          "anchor": "#art-531",
+          "url_fragment": "legi/lege-169-2026.md#art-531",
+          "line": 19434
+        },
+        {
+          "id": "art-532",
+          "anchor": "#art-532",
+          "url_fragment": "legi/lege-169-2026.md#art-532",
+          "line": 19477
+        },
+        {
+          "id": "art-533",
+          "anchor": "#art-533",
+          "url_fragment": "legi/lege-169-2026.md#art-533",
+          "line": 19493
+        },
+        {
+          "id": "art-534",
+          "anchor": "#art-534",
+          "url_fragment": "legi/lege-169-2026.md#art-534",
+          "line": 19509
+        },
+        {
+          "id": "art-535",
+          "anchor": "#art-535",
+          "url_fragment": "legi/lege-169-2026.md#art-535",
+          "line": 19520
+        },
+        {
+          "id": "art-536",
+          "anchor": "#art-536",
+          "url_fragment": "legi/lege-169-2026.md#art-536",
+          "line": 19532
+        },
+        {
+          "id": "art-537",
+          "anchor": "#art-537",
+          "url_fragment": "legi/lege-169-2026.md#art-537",
+          "line": 19584
+        },
+        {
+          "id": "art-538",
+          "anchor": "#art-538",
+          "url_fragment": "legi/lege-169-2026.md#art-538",
+          "line": 19615
+        },
+        {
+          "id": "art-539",
+          "anchor": "#art-539",
+          "url_fragment": "legi/lege-169-2026.md#art-539",
+          "line": 19633
+        },
+        {
+          "id": "art-540",
+          "anchor": "#art-540",
+          "url_fragment": "legi/lege-169-2026.md#art-540",
+          "line": 19657
+        },
+        {
+          "id": "art-541",
+          "anchor": "#art-541",
+          "url_fragment": "legi/lege-169-2026.md#art-541",
+          "line": 19669
+        },
+        {
+          "id": "art-542",
+          "anchor": "#art-542",
+          "url_fragment": "legi/lege-169-2026.md#art-542",
+          "line": 19693
+        },
+        {
+          "id": "art-543",
+          "anchor": "#art-543",
+          "url_fragment": "legi/lege-169-2026.md#art-543",
+          "line": 19730
+        },
+        {
+          "id": "art-544",
+          "anchor": "#art-544",
+          "url_fragment": "legi/lege-169-2026.md#art-544",
+          "line": 19754
+        },
+        {
+          "id": "art-545",
+          "anchor": "#art-545",
+          "url_fragment": "legi/lege-169-2026.md#art-545",
+          "line": 19773
+        },
+        {
+          "id": "art-546",
+          "anchor": "#art-546",
+          "url_fragment": "legi/lege-169-2026.md#art-546",
+          "line": 19793
+        },
+        {
+          "id": "art-547",
+          "anchor": "#art-547",
+          "url_fragment": "legi/lege-169-2026.md#art-547",
+          "line": 19813
+        },
+        {
+          "id": "art-548",
+          "anchor": "#art-548",
+          "url_fragment": "legi/lege-169-2026.md#art-548",
+          "line": 19835
+        },
+        {
+          "id": "art-549",
+          "anchor": "#art-549",
+          "url_fragment": "legi/lege-169-2026.md#art-549",
+          "line": 19873
+        },
+        {
+          "id": "art-550",
+          "anchor": "#art-550",
+          "url_fragment": "legi/lege-169-2026.md#art-550",
+          "line": 19895
+        },
+        {
+          "id": "art-551",
+          "anchor": "#art-551",
+          "url_fragment": "legi/lege-169-2026.md#art-551",
+          "line": 20037
+        },
+        {
+          "id": "art-552",
+          "anchor": "#art-552",
+          "url_fragment": "legi/lege-169-2026.md#art-552",
+          "line": 20069
+        },
+        {
+          "id": "art-553",
+          "anchor": "#art-553",
+          "url_fragment": "legi/lege-169-2026.md#art-553",
+          "line": 20102
+        },
+        {
+          "id": "art-554",
+          "anchor": "#art-554",
+          "url_fragment": "legi/lege-169-2026.md#art-554",
+          "line": 20112
+        },
+        {
+          "id": "art-555",
+          "anchor": "#art-555",
+          "url_fragment": "legi/lege-169-2026.md#art-555",
+          "line": 20135
+        },
+        {
+          "id": "art-556",
+          "anchor": "#art-556",
+          "url_fragment": "legi/lege-169-2026.md#art-556",
+          "line": 20147
+        },
+        {
+          "id": "art-557",
+          "anchor": "#art-557",
+          "url_fragment": "legi/lege-169-2026.md#art-557",
+          "line": 20185
+        },
+        {
+          "id": "art-558",
+          "anchor": "#art-558",
+          "url_fragment": "legi/lege-169-2026.md#art-558",
+          "line": 20192
+        },
+        {
+          "id": "art-559",
+          "anchor": "#art-559",
+          "url_fragment": "legi/lege-169-2026.md#art-559",
+          "line": 20199
+        },
+        {
+          "id": "art-560",
+          "anchor": "#art-560",
+          "url_fragment": "legi/lege-169-2026.md#art-560",
+          "line": 20223
+        },
+        {
+          "id": "art-561",
+          "anchor": "#art-561",
+          "url_fragment": "legi/lege-169-2026.md#art-561",
+          "line": 20243
+        },
+        {
+          "id": "art-562",
+          "anchor": "#art-562",
+          "url_fragment": "legi/lege-169-2026.md#art-562",
+          "line": 20290
+        },
+        {
+          "id": "art-563",
+          "anchor": "#art-563",
+          "url_fragment": "legi/lege-169-2026.md#art-563",
+          "line": 20298
+        },
+        {
+          "id": "art-564",
+          "anchor": "#art-564",
+          "url_fragment": "legi/lege-169-2026.md#art-564",
+          "line": 20367
+        },
+        {
+          "id": "art-565",
+          "anchor": "#art-565",
+          "url_fragment": "legi/lege-169-2026.md#art-565",
+          "line": 20381
+        },
+        {
+          "id": "art-566",
+          "anchor": "#art-566",
+          "url_fragment": "legi/lege-169-2026.md#art-566",
+          "line": 20426
+        },
+        {
+          "id": "art-567",
+          "anchor": "#art-567",
+          "url_fragment": "legi/lege-169-2026.md#art-567",
+          "line": 20436
+        },
+        {
+          "id": "art-568",
+          "anchor": "#art-568",
+          "url_fragment": "legi/lege-169-2026.md#art-568",
+          "line": 20465
+        },
+        {
+          "id": "art-569",
+          "anchor": "#art-569",
+          "url_fragment": "legi/lege-169-2026.md#art-569",
+          "line": 20490
+        },
+        {
+          "id": "art-570",
+          "anchor": "#art-570",
+          "url_fragment": "legi/lege-169-2026.md#art-570",
+          "line": 20513
+        },
+        {
+          "id": "art-571",
+          "anchor": "#art-571",
+          "url_fragment": "legi/lege-169-2026.md#art-571",
+          "line": 20700
+        },
+        {
+          "id": "art-572",
+          "anchor": "#art-572",
+          "url_fragment": "legi/lege-169-2026.md#art-572",
+          "line": 20713
+        },
+        {
+          "id": "art-573",
+          "anchor": "#art-573",
+          "url_fragment": "legi/lege-169-2026.md#art-573",
+          "line": 20888
+        },
+        {
+          "id": "art-574",
+          "anchor": "#art-574",
+          "url_fragment": "legi/lege-169-2026.md#art-574",
+          "line": 20906
+        },
+        {
+          "id": "art-575",
+          "anchor": "#art-575",
+          "url_fragment": "legi/lege-169-2026.md#art-575",
+          "line": 20911
+        },
+        {
+          "id": "art-576",
+          "anchor": "#art-576",
+          "url_fragment": "legi/lege-169-2026.md#art-576",
+          "line": 20918
+        },
+        {
+          "id": "art-577",
+          "anchor": "#art-577",
+          "url_fragment": "legi/lege-169-2026.md#art-577",
+          "line": 20968
+        },
+        {
+          "id": "art-578",
+          "anchor": "#art-578",
+          "url_fragment": "legi/lege-169-2026.md#art-578",
+          "line": 21051
+        },
+        {
+          "id": "art-579",
+          "anchor": "#art-579",
+          "url_fragment": "legi/lege-169-2026.md#art-579",
+          "line": 21063
+        },
+        {
+          "id": "art-580",
+          "anchor": "#art-580",
+          "url_fragment": "legi/lege-169-2026.md#art-580",
+          "line": 21070
+        },
+        {
+          "id": "art-581",
+          "anchor": "#art-581",
+          "url_fragment": "legi/lege-169-2026.md#art-581",
+          "line": 21077
+        },
+        {
+          "id": "art-582",
+          "anchor": "#art-582",
+          "url_fragment": "legi/lege-169-2026.md#art-582",
+          "line": 21120
+        },
+        {
+          "id": "art-583",
+          "anchor": "#art-583",
+          "url_fragment": "legi/lege-169-2026.md#art-583",
+          "line": 21159
+        },
+        {
+          "id": "art-584",
+          "anchor": "#art-584",
+          "url_fragment": "legi/lege-169-2026.md#art-584",
+          "line": 21182
+        }
+      ],
+      "article_count": 584
     },
     "lege-292-2018": {
       "title": "Legea nr. 292 din 3 decembrie 2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",

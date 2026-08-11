@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-11T17:23:00.234Z",
+  "generated_at": "2026-08-11T18:58:15.076Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 153,
-    "acts_full_text": 15,
+    "acts_total": 154,
+    "acts_full_text": 16,
     "acts_metadata_only": 138,
-    "article_anchors_total": 881,
-    "import_logs_total": 154,
+    "article_anchors_total": 1465,
+    "import_logs_total": 155,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 254,
+    "confirmed_relationships": 264,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -469,6 +469,19 @@
       "anchor_count": 0,
       "file": "legi/lege-163-2016.md",
       "metadata_file": "metadata/acts/lege-163-2016.json"
+    },
+    {
+      "slug": "lege-169-2026",
+      "title": "Lege privind Codul amenajării teritoriului, urbanismului și construcțiilor",
+      "short_title": "Codul amenajării teritoriului, urbanismului și construcțiilor",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "full-text",
+      "article_count": 584,
+      "anchor_count": 584,
+      "file": "legi/lege-169-2026.md",
+      "metadata_file": "metadata/acts/lege-169-2026.json"
     },
     {
       "slug": "lege-177-2015",
