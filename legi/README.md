@@ -630,6 +630,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, ID 253671](https://legislatie.just.ro/Public/DetaliiDocument/253671) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0UODABQW7V8WJ14L878TY9QKWL) + [PDF ISC](https://isc.gov.ro/files/2022/Legislatie/Ordin%20310-2022.pdf)
   - Status unknown · Ordinul nr. 310/28.02.2022 · M.Of. nr. 337/06.04.2022 și 337 bis pentru anexe · effective_date 06.04.2022 · abrogă Ordinul 456/2014 extern
   - Import log: [import-log/2026-08-11-ordin-mdlpa-310-2022.md](../import-log/2026-08-11-ordin-mdlpa-310-2022.md)
+- [Ordin comun 2371/21.361/3.765/2022](./ordin-2371-2022.md)
+  - Domain: executie · Implements: Legea 10/1995 · References: HG 203/2003 · metadata-only
+  - Official source checked: [Portal Legislativ, ID 259580](https://legislatie.just.ro/Public/DetaliiDocument/259580)
+  - Status unknown · Ordin comun nr. 2.371/21.361/3.765/2022 · M.Of. nr. 935/23.09.2022 · effective_date 23.10.2022, derivată din regula de 30 de zile · RTC 5-2022 este anexă și nu este nod local
+  - Import log: [import-log/2026-08-11-ordin-2371-2022.md](../import-log/2026-08-11-ordin-2371-2022.md)
 - [Ordin MDRT 2701/2010](./ordin-mdrt-2701-2010.md)
   - Domain: urbanism · Related: Legea 350/2001 · metadata-only
   - Official source checked: [Portal Legislativ, Ordin ID 125365](https://legislatie.just.ro/Public/DetaliiDocument/125365) + [metodologie ID 205649](https://legislatie.just.ro/Public/DetaliiDocument/205649)

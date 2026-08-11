@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 2.371/21.361/3.765/2022 pentru aprobarea reglementării tehnice «Canalizații de telecomunicații (CTc). Fibră optică. Proiectare, execuție, utilizare, întreținere și verificare, indicativ RTC 5-2022»",
+  "short_title": "Ordin comun 2371/21.361/3.765/2022",
+  "canonical_citation": "Ordinul comun MDLPA nr. 2.371/2022, MCID nr. 21.361/2022 și ANCOM nr. 3.765/2022",
+  "type": "ordin",
+  "number": "2371/21.361/3.765",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației; Ministerul Cercetării, Inovării și Digitalizării; Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["telecomunicatii", "fibra-optica", "canalizatii", "reglementari-tehnice", "constructii"],
+  "status": "unknown",
+  "issue_date": "2022-09-15",
+  "publication_date": "2022-09-23",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
+  "official_source": "Portal Legislativ — Ordin comun nr. 2.371/21.361/3.765/2022; Monitorul Oficial al României, Partea I, nr. 935 din 23 septembrie 2022",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
+  "version_kind": "original",
+  "last_checked": "2026-08-11",
+  "version": "Forma oficială a ordinului; două articole și o anexă; reglementarea tehnică RTC 5-2022 nu este importată ca text integral",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2022-10-23",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică «Canalizații de telecomunicații (CTc). Fibră optică. Proiectare, execuție, utilizare, întreținere și verificare, indicativ RTC 5-2022», în anexă. Art. 2 prevede publicarea și intrarea în vigoare la 30 de zile de la publicare; data de 2022-10-23 este derivată mecanic din publicarea la 2022-09-23. Preambulul invocă art. 10 din Legea nr. 10/1995 și art. 2 din regulamentul aprobat prin HG nr. 203/2003. RTC 5-2022 și celelalte acte citate care nu există în repository rămân referințe externe. Statusul curent nu este declarat și rămâne unknown. Textul ordinului și al anexei tehnice nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    },
+    {
+      "type": "references",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 2 din Regulamentul privind activitatea de reglementare în construcții, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    }
+  ],
+  "tags": ["mdlpa", "mcid", "ancom", "telecomunicatii", "fibra-optica", "canalizatii", "reglementari-tehnice", "ordin-comun"]
+}
