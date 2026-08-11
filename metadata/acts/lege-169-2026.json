@@ -1,0 +1,99 @@
+{
+  "title": "Lege privind Codul amenajării teritoriului, urbanismului și construcțiilor",
+  "short_title": "Codul amenajării teritoriului, urbanismului și construcțiilor",
+  "canonical_citation": "Legea nr. 169/2026",
+  "type": "lege",
+  "number": "169",
+  "year": "2026",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "amenajarea-teritoriului",
+    "urbanism",
+    "constructii",
+    "autorizare",
+    "calitate"
+  ],
+  "status": "unknown",
+  "issue_date": "2026-08-05",
+  "publication_date": "2026-08-10",
+  "effective_date": "2026-08-25",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-11",
+  "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+  "official_source": "Monitorul Oficial al României, Partea I, nr. 661/10.08.2026; textul publicat include Legea nr. 169/2026 și Decretul nr. 720/2026",
+  "version": "Forma publicată în Monitorul Oficial nr. 661/10.08.2026",
+  "article_count": 584,
+  "annex_count": 8,
+  "import_method": "Monitorul Oficial nr. 661/10.08.2026 → PDF text extraction → Markdown with stable article anchors",
+  "rights_note": "Textul este reprodus pentru referință juridică din forma publicată în Monitorul Oficial. Art. 575 stabilește intrarea în vigoare la 15 zile de la publicare; data de 2026-08-25 este derivată mecanic. Art. 576 alin. (3) enumeră acte abrogate, însă schema repository nu are relația repeals; aceste efecte sunt documentate în import-log, fără muchii reinterpretate.",
+  "related_acts": [
+    "lege-350-2001",
+    "lege-50-1991",
+    "lege-10-1995",
+    "ordin-mdrap-233-2016",
+    "ordin-839-2009"
+  ],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 576 alin. (3) lit. a) explicitly names Legea nr. 350/2001.",
+      "source_article": "Art. 576 alin. (3) lit. a)",
+      "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+      "evidence_path": "legi/lege-169-2026.md"
+    },
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 576 alin. (3) lit. b) explicitly names Legea nr. 50/1991.",
+      "source_article": "Art. 576 alin. (3) lit. b)",
+      "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+      "evidence_path": "legi/lege-169-2026.md"
+    },
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 576 alin. (3) lit. c) explicitly names Legea nr. 10/1995.",
+      "source_article": "Art. 576 alin. (3) lit. c)",
+      "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+      "evidence_path": "legi/lege-169-2026.md"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdrap-233-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 576 alin. (3) lit. d) explicitly names Ordinul nr. 233/2016.",
+      "source_article": "Art. 576 alin. (3) lit. d)",
+      "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+      "evidence_path": "legi/lege-169-2026.md"
+    },
+    {
+      "type": "references",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 576 alin. (3) lit. e) explicitly names Ordinul nr. 839/2009.",
+      "source_article": "Art. 576 alin. (3) lit. e)",
+      "source_url": "https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html",
+      "evidence_path": "legi/lege-169-2026.md"
+    }
+  ],
+  "tags": [
+    "catuc",
+    "urbanism",
+    "amenajarea-teritoriului",
+    "constructii",
+    "autorizare",
+    "codificare"
+  ]
+}

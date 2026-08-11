@@ -57,6 +57,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/307036`)
   - Status: active · full official consolidated text reconciled 2026-07-17 · consolidated 25.02.2026 · 68 articles · 2 annexe
   - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
+- [Legea 169/2026 — Codul amenajării teritoriului, urbanismului și construcțiilor](./lege-169-2026.md)
+  - Domain: urbanism · full-text importat
+  - Official source checked: [Monitorul Oficial nr. 661/10.08.2026](https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html)
+  - Status: unknown · intră în vigoare la 25.08.2026, derivat din art. 575 · 584 articles · 8 annexe · references explicite către Legea 350/2001, Legea 50/1991, Legea 10/1995, Ordinul 233/2016 și Ordinul 839/2009
+  - Import log: [import-log/2026-08-11-lege-169-2026.md](../import-log/2026-08-11-lege-169-2026.md)
 - [OG 7/2026](./og-7-2026.md)
   - Domain: urbanism · Amends: Legea 350/2001, Legea 50/1991 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/306804)
