@@ -1182,6 +1182,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mlpda-3494-2020",
+      "label": "Ordin MLPDA 3494/2020",
+      "type": "ordin",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mti-596-2026",
       "label": "Ordin MTI 596/2026",
       "type": "ordin",
@@ -3757,6 +3765,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
     },
     {
+      "source": "ordin-mlpda-3494-2020",
+      "target": "ordin-mdrap-233-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 350/2001, aprobate prin Ordinul nr. 233/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228632"
+    },
+    {
       "source": "ordin-mti-596-2026",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -3968,8 +3989,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 159,
-    "confirmed_edges": 271,
+    "total_nodes": 160,
+    "confirmed_edges": 272,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

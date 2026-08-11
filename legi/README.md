@@ -654,6 +654,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, ID 270781](https://legislatie.just.ro/Public/DetaliiDocument/270781) + [MDLPA](https://www.mdlpa.ro/pages/normetehnicepatjdocumentatiiurbanism) + [PDF oficial](https://www.mdlpa.ro/uploads/articole/attachments/6762a8a1a91b8796660933.pdf)
   - Status active · Ordinul nr. 904/15.05.2023 · M.Of. nr. 470/29.05.2023 · modifică explicit Ordinul 233/2016 · effective_date omisă
   - Import log: [import-log/2026-08-12-ordin-mdlpa-904-2023.md](../import-log/2026-08-12-ordin-mdlpa-904-2023.md)
+- [Ordin MLPDA 3494/2020](./ordin-mlpda-3494-2020.md)
+  - Domain: urbanism · Amends: Ordin MDRAP 233/2016 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/228632)
+  - Status: unknown · publicat în M.Of. nr. 696/04.08.2020 · effective_date omisă · 2 articole · 1 anexă
+  - Import log: [import-log/2026-08-12-ordin-mlpda-3494-2020.md](../import-log/2026-08-12-ordin-mlpda-3494-2020.md)
 - [Ordin MDLPA 205/2023](./ordin-mdlpa-205-2023.md)
   - Domain: calitate · Related: Legea 10/1995, Normativ I7-2011 · metadata-only
   - Official source checked: [Portal Legislativ, ID 265149](https://legislatie.just.ro/Public/DetaliiDocumentAfis/265149)
