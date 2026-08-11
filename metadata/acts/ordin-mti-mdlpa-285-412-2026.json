@@ -1,0 +1,59 @@
+{
+  "title": "Ordin nr. 285/412/2026 pentru aprobarea reglementării tehnice «Normativ privind reciclarea mixturilor asfaltice la cald în instalații de preparare fixe, semimobile și mobile» - indicativ DD 509-2024",
+  "short_title": "Ordin comun MTI/MDLPA 285/412/2026",
+  "canonical_citation": "Ordinul comun MTI nr. 285/2026 și MDLPA nr. 412/2026",
+  "type": "ordin",
+  "number": "285/412",
+  "year": "2026",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": [
+    "drumuri",
+    "mixturi-asfaltice",
+    "reciclare-la-cald",
+    "dd509-2024",
+    "reglementare-tehnica"
+  ],
+  "status": "unknown",
+  "issue_date": "2026-04-02",
+  "publication_date": "2026-05-06",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310265",
+  "official_source": "Portal Legislativ — Ordinul comun MTI nr. 285/24.03.2026 și MDLPA nr. 412/02.04.2026; Monitorul Oficial al României, Partea I, nr. 379 din 06.05.2026",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/310265",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "version": "Forma oficială a ordinului; reglementarea tehnică DD 509-2024 este anexă și nu este importată ca text tehnic integral",
+  "article_count": 3,
+  "annex_count": 1,
+  "effective_date": "2026-05-06",
+  "import_method": "metadata-only",
+  "rights_note": "Numărul MTI 285 este datat 24.03.2026, iar numărul MDLPA 412 este datat 02.04.2026; issue_date stochează ultima dată de emitere. Art. 1 aprobă reglementarea tehnică DD 509-2024 ca anexă. Art. 2 abrogă Ordinul MTCT nr. 906/2004, act extern absent din repository. Art. 3 prevede explicit intrarea în vigoare la data publicării, 06.05.2026. Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții ca temei pentru emiterea ordinului comun și aprobarea reglementării tehnice.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310265",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": [
+    "mti",
+    "mdlpa",
+    "executie",
+    "drumuri",
+    "mixturi-asfaltice",
+    "reciclare-la-cald",
+    "dd509-2024",
+    "ordin-comun"
+  ]
+}

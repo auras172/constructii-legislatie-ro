@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-11T20:42:51.424Z
+Generated: 2026-08-11T21:39:01.112Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 158 |
+| Total metadata entries | 159 |
 | Full-text acts | 16 |
-| Metadata-only acts | 142 |
-| Import log files | 159 |
-| Total relationship links | 315 |
+| Metadata-only acts | 143 |
+| Import log files | 160 |
+| Total relationship links | 316 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -166,6 +166,7 @@ Generated: 2026-08-11T20:42:51.424Z
 | ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdrt-3482-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mti-596-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mti-mdlpa-285-412-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -188,7 +189,7 @@ Generated: 2026-08-11T20:42:51.424Z
 | incendiu | 16 |
 | iscir | 16 |
 | urbanism | 12 |
-| executie | 9 |
+| executie | 10 |
 | isc | 6 |
 | nzeb | 4 |
 | munca | 3 |
@@ -204,7 +205,7 @@ Generated: 2026-08-11T20:42:51.424Z
 | guvern | 33 |
 | autoritate | 19 |
 | parlament | 18 |
-| other | 2 |
+| other | 3 |
 
 ### Publication Years
 
@@ -214,9 +215,9 @@ Generated: 2026-08-11T20:42:51.424Z
 | 2022 | 21 |
 | 2010 | 15 |
 | 2025 | 13 |
+| 2026 | 8 |
 | 2013 | 7 |
 | 2024 | 7 |
-| 2026 | 7 |
 | 2005 | 5 |
 | 2018 | 5 |
 | 2020 | 5 |
@@ -247,7 +248,7 @@ Generated: 2026-08-11T20:42:51.424Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 142 |
+| metadata-only | 143 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
