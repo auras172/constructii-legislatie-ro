@@ -106,6 +106,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- feat(fulltext): import Law 169/2026 urbanism code
 - Merge pull request #374 from auras172/codex/metadata-ordin-mdlpa-310-2022
 - Merge pull request #373 from auras172/codex/metadata-og-33-2023
 - Merge pull request #371 from auras172/codex/metadata-ordin-mdlpa-227-2023
