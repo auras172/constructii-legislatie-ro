@@ -33,6 +33,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Related: Legea 163/2016 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/217292)
   - Status: unknown · publicată în M.Of. nr. 694/22.08.2019 · articol unic · prorogă până la 25.08.2023 termenul din art. II al Legii 163/2016; effective_date omisă; Legea 190/2021 este modificator ulterior extern
+- [OG 33/2023](./og-33-2023.md)
+  - Domain: urbanism · Related: Legea 163/2016, Legea 350/2001 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/273969)
+  - Status: unknown · publicată în M.Of. nr. 769/24.08.2023 · două articole · prorogă termenele din domeniul urbanismului și al construcțiilor; effective_date omisă; fără `amends` sau `prorogates`
 - [OUG 148/2024](./oug-148-2024.md)
   - Domain: calitate · Related: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/303051)
