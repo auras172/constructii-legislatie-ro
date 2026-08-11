@@ -1,0 +1,66 @@
+{
+  "title": "Ordin nr. 348 din 24 martie 2026 pentru aprobarea Regulamentului privind atestarea tehnico-profesională a auditorilor energetici pentru clădiri",
+  "short_title": "Ordin MDLPA 348/2026",
+  "canonical_citation": "Ordinul MDLPA nr. 348/2026",
+  "type": "ordin",
+  "number": "348",
+  "year": "2026",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "auditori-energetici",
+    "performanta-energetica",
+    "cladiri",
+    "atestare-tehnico-profesionala"
+  ],
+  "status": "unknown",
+  "issue_date": "2026-03-24",
+  "publication_date": "2026-04-14",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526",
+  "official_source": "Portal Legislativ — Ordinul nr. 348/24.03.2026; Monitorul Oficial al României, Partea I, nr. 292 din 14.04.2026",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526",
+  "version_kind": "original",
+  "last_checked": "2026-08-11",
+  "version": "Forma oficială a ordinului; regulamentul anexat nu este importat ca text integral",
+  "article_count": 8,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă regulamentul anexat privind atestarea tehnico-profesională a auditorilor energetici pentru clădiri, care nu este importat ca text integral sau act separat. Art. 2 prevede intrarea în vigoare a ordinului la data publicării, iar art. 10 și art. 11 alin. (3) din regulamentul anexat intră în vigoare în 180 de zile de la publicare; până atunci rămâne aplicabil art. 11 din regulamentul aprobat prin Ordinul MDRT nr. 2.237/2010. Din cauza aplicării diferențiate, effective_date nu este stocată ca o singură dată. Art. 7 abrogă Ordinul MDRT nr. 2.237/2010, act extern absent din repository.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    },
+    {
+      "type": "references",
+      "target": "lege-372-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 30 alin. (2) din Legea nr. 372/2005 privind performanța energetică a clădirilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "calitate",
+    "auditori-energetici",
+    "performanta-energetica",
+    "cladiri",
+    "atestare-tehnico-profesionala"
+  ]
+}

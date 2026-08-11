@@ -1078,6 +1078,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-348-2026",
+      "label": "Ordin MDLPA 348/2026",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-770-2025",
       "label": "Ordin MDLPA 770/2025",
       "type": "ordin",
@@ -3375,6 +3383,32 @@
       "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
     },
     {
+      "source": "ordin-mdlpa-348-2026",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 21 alin. (1) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526"
+    },
+    {
+      "source": "ordin-mdlpa-348-2026",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 30 alin. (2) din Legea nr. 372/2005 privind performanța energetică a clădirilor.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526"
+    },
+    {
       "source": "ordin-mdlpa-770-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -3892,8 +3926,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 156,
-    "confirmed_edges": 267,
+    "total_nodes": 157,
+    "confirmed_edges": 269,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

@@ -743,6 +743,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 193282](https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282)
   - Status: unknown · M.Of. nr. 752/20.09.2017 · Art. 1 alin. (1) references art. 5 alin. (1) from Legea 10/1995; Art. 36 derives effective date 19.11.2017 · 38 articles · 1 annex · EU references external · text unavailable in repo
+- [Ordin MDLPA 348/2026](./ordin-mdlpa-348-2026.md)
+  - Domain: calitate · Implements: Legea 10/1995 · References: Legea 372/2005 · metadata-only
+  - Official source checked: [Portal Legislativ, document 309526](https://legislatie.just.ro/Public/DetaliiDocument/309526)
+  - Status: unknown · M.Of. nr. 292/14.04.2026 · 8 articles · 1 annex · effective date omitted because the ordinance enters into force at publication while selected annex provisions have a 180-day delay; Ordinul MDRT 2237/2010 remains external · text unavailable in repo
 
 ## Naming convention proposal
 
