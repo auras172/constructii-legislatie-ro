@@ -1,0 +1,55 @@
+{
+  "title": "Ordin nr. 227 din 13 februarie 2023 pentru aprobarea reglementării tehnice «Normativ privind proiectarea și verificarea construcțiilor din lemn, indicativ NP 005-2022»",
+  "short_title": "Ordin MDLPA 227/2023",
+  "canonical_citation": "Ordinul MDLPA nr. 227/2023",
+  "type": "ordin",
+  "number": "227",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "constructii-din-lemn",
+    "constructii",
+    "np005-2022",
+    "normativ-tehnic"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-02-13",
+  "publication_date": "2023-02-17",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158",
+  "official_source": "Portal Legislativ — Ordinul nr. 227/13.02.2023; Monitorul Oficial al României, Partea I, nr. 136 și 136 bis din 17.02.2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158",
+  "version_kind": "original",
+  "last_checked": "2026-08-11",
+  "version": "Forma oficială a ordinului; reglementarea tehnică NP 005-2022 este anexă și nu este importată ca text integral",
+  "article_count": 4,
+  "annex_count": 1,
+  "effective_date": "2023-03-19",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică «Normativ privind proiectarea și verificarea construcțiilor din lemn, indicativ NP 005-2022». Preambulul citează art. 10 din Legea nr. 10/1995. Art. 2 prevede intrarea în vigoare în 30 de zile de la data publicării; data de 2023-03-19 este derivată mecanic din publicarea la 2023-02-17. Art. 4 abrogă Ordinul MTCT nr. 303/2003, act extern. Statusul curent nu este declarat și rămâne unknown. Ordinul și normativul tehnic anexat nu sunt importate ca text integral.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265158",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-11"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "calitate",
+    "constructii-din-lemn",
+    "np005-2022",
+    "normativ-tehnic"
+  ]
+}

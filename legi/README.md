@@ -456,6 +456,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: MDLPA ([reglementare7](https://www.mdlpa.ro/pages/reglementare7), poziția VII-6) — O.M.D.L.P.A. nr. 227/13.02.2023
   - Status: active · metadata-only · publicat în M.Of. nr. 136 și 136bis/17.02.2023 · intrat în vigoare 19.03.2023 · abrogă NP 005-2003
   - Import log: [import-log/2026-06-29-normativ-np005-2022.md](../import-log/2026-06-29-normativ-np005-2022.md)
+- [Ordin MDLPA 227/2023](./ordin-mdlpa-227-2023.md)
+  - Domain: calitate (construcții din lemn) · Implements: Legea 10/1995
+  - Official source checked: Portal Legislativ ([forma oficială](https://legislatie.just.ro/Public/DetaliiDocument/265158))
+  - Status: unknown · metadata-only · publicat în M.Of. nr. 136 și 136 bis/17.02.2023 · intrare în vigoare 19.03.2023, derivată din regula de 30 de zile · 4 articole și 1 anexă; aprobă NP 005-2022 fără edge `approves` nesuportat de schema repo
+  - Import log: [import-log/2026-08-11-ordin-mdlpa-227-2023.md](../import-log/2026-08-11-ordin-mdlpa-227-2023.md)
 - [Normativ NP 007-2025](./normativ-np007-2025.md)
   - Domain: calitate (structuri beton armat) · Related: Legea 10/1995, Normativ P 100-1/2013
   - Official source checked: MDLPA ([reglementare4](https://www.mdlpa.ro/pages/reglementare4)) — O.M.D.L.P.A. nr. 880/23.06.2025
