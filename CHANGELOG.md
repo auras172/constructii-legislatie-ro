@@ -99,10 +99,12 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Fixes
+- fix(metadata): model Ordin 227 approval relationship
 - fix(metadata): add frontmatter parity for HG 668/2017
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #371 from auras172/codex/metadata-ordin-mdlpa-227-2023
 - Merge pull request #370 from auras172/codex/metadata-ordin-mdlpa-880-2025
 - Merge pull request #369 from auras172/codex/metadata-ordin-mdlpa-770-2025
 - Merge pull request #368 from auras172/codex/metadata-ordin-mdlpa-267-2025
