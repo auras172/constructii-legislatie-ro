@@ -1158,6 +1158,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-1867-2010",
+      "label": "Ordin MDRT 1867/2010",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrt-2701-2010",
       "label": "Ordin MDRT 2701/2010",
       "type": "ordin",
@@ -3656,6 +3664,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
     },
     {
+      "source": "ordin-mdrt-1867-2010",
+      "target": "ordin-839-2009",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 50/1991, aprobate prin Ordinul nr. 839/2009, se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121063"
+    },
+    {
       "source": "ordin-mdrt-2701-2010",
       "target": "lege-350-2001",
       "relationship": "related",
@@ -4010,8 +4031,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 161,
-    "confirmed_edges": 273,
+    "total_nodes": 162,
+    "confirmed_edges": 274,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
