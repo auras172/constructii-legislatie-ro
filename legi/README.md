@@ -87,6 +87,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ — ORDIN (A) [`/Public/DetaliiDocument/156617`](https://legislatie.just.ro/Public/DetaliiDocument/156617) + NORMA (A) [`/Public/DetaliiDocument/259096`](https://legislatie.just.ro/Public/DetaliiDocument/259096)
   - Status: active · full official actualizata text imported 2026-06-27 · 85 articles (3 ORDIN + 82 NORMA) · NORMA actualizata la 05.10.2022
   - Import log: [import-log/2026-06-27-ordin-839-2009.md](../import-log/2026-06-27-ordin-839-2009.md)
+- [Ordin MDRT 1867/2010](./ordin-mdrt-1867-2010.md)
+  - Domain: autorizatii · Amends: Ordin 839/2009 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/121063)
+  - Status: unknown · publicat în M.Of. nr. 534/30.07.2010 · effective_date omisă · 3 articole · 2 anexe
+  - Import log: [import-log/2026-08-12-ordin-mdrt-1867-2010.md](../import-log/2026-08-12-ordin-mdrt-1867-2010.md)
 - [Ordin MLPDA 3454/2019](./ordin-mlpda-3454-2019.md)
   - Domain: autorizatii · Amends: Ordin 839/2009 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/221878)

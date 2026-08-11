@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-11T22:20:04.953Z
+Generated: 2026-08-11T22:39:38.757Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 161 |
+| Total metadata entries | 162 |
 | Full-text acts | 16 |
-| Metadata-only acts | 145 |
-| Import log files | 162 |
-| Total relationship links | 320 |
+| Metadata-only acts | 146 |
+| Import log files | 163 |
+| Total relationship links | 322 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -122,7 +122,7 @@ Generated: 2026-08-11T22:20:04.953Z
 | og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-7-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-2371-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 5 | ✓ |
+| ordin-839-2009 | ✓ | ✓ | ✓ | ✓ | 6 | ✓ |
 | ordin-anre-133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-15-2026 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-anre-16-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -162,6 +162,7 @@ Generated: 2026-08-11T22:20:04.953Z
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 6 | ✓ |
+| ordin-mdrt-1867-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdrt-3482-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -193,8 +194,8 @@ Generated: 2026-08-11T22:20:04.953Z
 | urbanism | 13 |
 | executie | 10 |
 | isc | 6 |
+| autorizatii | 5 |
 | nzeb | 4 |
-| autorizatii | 4 |
 | munca | 3 |
 | receptie | 3 |
 | mediu | 3 |
@@ -203,7 +204,7 @@ Generated: 2026-08-11T22:20:04.953Z
 
 | Value | Count |
 | --- | --- |
-| minister | 88 |
+| minister | 89 |
 | guvern | 33 |
 | autoritate | 19 |
 | parlament | 18 |
@@ -215,7 +216,7 @@ Generated: 2026-08-11T22:20:04.953Z
 | --- | --- |
 | 2023 | 22 |
 | 2022 | 21 |
-| 2010 | 15 |
+| 2010 | 16 |
 | 2025 | 13 |
 | 2026 | 8 |
 | 2013 | 7 |
@@ -250,7 +251,7 @@ Generated: 2026-08-11T22:20:04.953Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 145 |
+| metadata-only | 146 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

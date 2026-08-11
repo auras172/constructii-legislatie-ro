@@ -1,0 +1,54 @@
+{
+  "title": "Ordin nr. 1.867 din 16 iulie 2010 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009",
+  "short_title": "Ordin MDRT 1867/2010",
+  "canonical_citation": "Ordin nr. 1.867/2010",
+  "type": "ordin",
+  "number": "1867",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "legea-50-1991"
+  ],
+  "status": "unknown",
+  "issue_date": "2010-07-16",
+  "publication_date": "2010-07-30",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121063",
+  "official_source": "Portal Legislativ — Ordin nr. 1.867/16.07.2010, ID 121063; Monitorul Oficial al României, Partea I, nr. 534 din 30 iulie 2010",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/121063",
+  "version": "Forma originală afișată de Portal Legislativ; trei articole și două anexe; textul integral și anexele nu sunt importate",
+  "article_count": 3,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Ordinul nr. 1.867 din 16 iulie 2010, emis de Ministerul Dezvoltării Regionale și Turismului și publicat în M.Of. nr. 534/30.07.2010. Art. I modifică și completează explicit Normele metodologice aprobate prin Ordinul nr. 839/2009, Art. II stabilește că anexele nr. 1 și 2 fac parte integrantă din ordin, iar Art. III prevede numai publicarea, fără o dată globală distinctă de intrare în vigoare; effective_date este omisă. Statusul curent nu este declarat explicit și este păstrat unknown. Legea nr. 261/2009, OUG nr. 214/2008, Ordinul comun nr. 135/84/76/1.284/2010 și HG nr. 1.631/2009 sunt documentate ca referințe contextuale, fără relații graf suplimentare. Textul integral al ordinului și anexele nu sunt importate.",
+  "amends": [
+    "ordin-839-2009"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice de aplicare a Legii nr. 50/1991, aprobate prin Ordinul nr. 839/2009, se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121063",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "mdrt",
+    "ordin-1867-2010"
+  ]
+}
