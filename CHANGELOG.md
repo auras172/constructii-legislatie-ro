@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 492/2018 state quality control regulation
 - feat(metadata): add Ordin MTCT 1430/2005 metadata
 - feat(metadata): add Ordin MDRL 119/2009 metadata
 - feat(metadata): add Ordin MDRAP 374/2014 metadata
@@ -118,6 +119,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #393 from auras172/codex/metadata-hg-492-2018
 - Merge pull request #392 from auras172/codex/fulltext-p118-1-2025-v2
 - feat(fulltext): import P 118/1-2025 official text
 - Merge pull request #390 from auras172/codex/metadata-ordin-mtct-1430-2005
