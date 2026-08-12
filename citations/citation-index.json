@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:55:41.879Z",
+  "generated_at": "2026-08-12T20:04:00.882Z",
   "acts": {
     "ghid-rtc13-2024": {
       "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
@@ -7034,6 +7034,4910 @@
         }
       ],
       "article_count": 64
+    },
+    "normativ-p118-1-2025": {
+      "title": "Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118-1/2025",
+      "slug": "normativ-p118-1-2025",
+      "file": "legi/normativ-p118-1-2025.md",
+      "articles": [
+        {
+          "id": "art-1-1-1",
+          "anchor": "#art-1-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-1",
+          "line": 45
+        },
+        {
+          "id": "art-1-1-2",
+          "anchor": "#art-1-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-2",
+          "line": 49
+        },
+        {
+          "id": "art-1-1-3",
+          "anchor": "#art-1-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-3",
+          "line": 53
+        },
+        {
+          "id": "art-1-1-4",
+          "anchor": "#art-1-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-4",
+          "line": 61
+        },
+        {
+          "id": "art-1-1-5",
+          "anchor": "#art-1-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-5",
+          "line": 66
+        },
+        {
+          "id": "art-1-1-6",
+          "anchor": "#art-1-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-6",
+          "line": 71
+        },
+        {
+          "id": "art-1-1-7",
+          "anchor": "#art-1-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-7",
+          "line": 90
+        },
+        {
+          "id": "art-1-1-8",
+          "anchor": "#art-1-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-8",
+          "line": 98
+        },
+        {
+          "id": "art-1-1-9",
+          "anchor": "#art-1-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-9",
+          "line": 107
+        },
+        {
+          "id": "art-1-1-10",
+          "anchor": "#art-1-1-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-10",
+          "line": 112
+        },
+        {
+          "id": "art-1-1-11",
+          "anchor": "#art-1-1-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-11",
+          "line": 121
+        },
+        {
+          "id": "art-1-1-12",
+          "anchor": "#art-1-1-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-12",
+          "line": 132
+        },
+        {
+          "id": "art-1-1-13",
+          "anchor": "#art-1-1-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-1-13",
+          "line": 137
+        },
+        {
+          "id": "art-1-2-1",
+          "anchor": "#art-1-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-1-2-1",
+          "line": 145
+        },
+        {
+          "id": "art-2-1-1-1",
+          "anchor": "#art-2-1-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-1-1",
+          "line": 1169
+        },
+        {
+          "id": "art-2-1-1-2",
+          "anchor": "#art-2-1-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-1-2",
+          "line": 1178
+        },
+        {
+          "id": "art-2-1-1-3",
+          "anchor": "#art-2-1-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-1-3",
+          "line": 1181
+        },
+        {
+          "id": "art-2-1-2-1",
+          "anchor": "#art-2-1-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-1",
+          "line": 1187
+        },
+        {
+          "id": "art-2-1-2-2",
+          "anchor": "#art-2-1-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-2",
+          "line": 1193
+        },
+        {
+          "id": "art-2-1-2-3",
+          "anchor": "#art-2-1-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-3",
+          "line": 1202
+        },
+        {
+          "id": "art-2-1-2-4",
+          "anchor": "#art-2-1-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-4",
+          "line": 1211
+        },
+        {
+          "id": "art-2-1-2-5",
+          "anchor": "#art-2-1-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-5",
+          "line": 1216
+        },
+        {
+          "id": "art-2-1-2-6",
+          "anchor": "#art-2-1-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-2-6",
+          "line": 1220
+        },
+        {
+          "id": "art-2-1-3-1",
+          "anchor": "#art-2-1-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-1",
+          "line": 1226
+        },
+        {
+          "id": "art-2-1-3-2",
+          "anchor": "#art-2-1-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-2",
+          "line": 1233
+        },
+        {
+          "id": "art-2-1-3-3",
+          "anchor": "#art-2-1-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-3",
+          "line": 1265
+        },
+        {
+          "id": "art-2-1-3-4",
+          "anchor": "#art-2-1-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-4",
+          "line": 1274
+        },
+        {
+          "id": "art-2-1-3-5",
+          "anchor": "#art-2-1-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-5",
+          "line": 1314
+        },
+        {
+          "id": "art-2-1-3-6",
+          "anchor": "#art-2-1-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-6",
+          "line": 1326
+        },
+        {
+          "id": "art-2-1-3-7",
+          "anchor": "#art-2-1-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-1-3-7",
+          "line": 1331
+        },
+        {
+          "id": "art-2-2-0-1",
+          "anchor": "#art-2-2-0-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-0-1",
+          "line": 1342
+        },
+        {
+          "id": "art-2-2-1-1",
+          "anchor": "#art-2-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-1-1",
+          "line": 1351
+        },
+        {
+          "id": "art-2-2-1-2",
+          "anchor": "#art-2-2-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-1-2",
+          "line": 1374
+        },
+        {
+          "id": "art-2-2-2-1",
+          "anchor": "#art-2-2-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-2-1",
+          "line": 1388
+        },
+        {
+          "id": "art-2-2-2-2",
+          "anchor": "#art-2-2-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-2-2",
+          "line": 1392
+        },
+        {
+          "id": "art-2-2-2-3",
+          "anchor": "#art-2-2-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-2-3",
+          "line": 1395
+        },
+        {
+          "id": "art-2-2-2-4",
+          "anchor": "#art-2-2-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-2-2-4",
+          "line": 1398
+        },
+        {
+          "id": "art-2-3-1-1",
+          "anchor": "#art-2-3-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-1-1",
+          "line": 1413
+        },
+        {
+          "id": "art-2-3-1-2",
+          "anchor": "#art-2-3-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-1-2",
+          "line": 1423
+        },
+        {
+          "id": "art-2-3-1-3",
+          "anchor": "#art-2-3-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-1-3",
+          "line": 1429
+        },
+        {
+          "id": "art-2-3-1-4",
+          "anchor": "#art-2-3-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-1-4",
+          "line": 1432
+        },
+        {
+          "id": "art-2-3-2-1-1",
+          "anchor": "#art-2-3-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-1",
+          "line": 1441
+        },
+        {
+          "id": "art-2-3-2-1-2",
+          "anchor": "#art-2-3-2-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-2",
+          "line": 1446
+        },
+        {
+          "id": "art-2-3-2-1-3",
+          "anchor": "#art-2-3-2-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-3",
+          "line": 1457
+        },
+        {
+          "id": "art-2-3-2-1-4",
+          "anchor": "#art-2-3-2-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-4",
+          "line": 1468
+        },
+        {
+          "id": "art-2-3-2-1-5",
+          "anchor": "#art-2-3-2-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-5",
+          "line": 1472
+        },
+        {
+          "id": "art-2-3-2-1-6",
+          "anchor": "#art-2-3-2-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-6",
+          "line": 1478
+        },
+        {
+          "id": "art-2-3-2-1-7",
+          "anchor": "#art-2-3-2-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-7",
+          "line": 1486
+        },
+        {
+          "id": "art-2-3-2-1-8",
+          "anchor": "#art-2-3-2-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-8",
+          "line": 1527
+        },
+        {
+          "id": "art-2-3-2-1-9",
+          "anchor": "#art-2-3-2-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-9",
+          "line": 1530
+        },
+        {
+          "id": "art-2-3-2-1-10",
+          "anchor": "#art-2-3-2-1-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-10",
+          "line": 1639
+        },
+        {
+          "id": "art-2-3-2-1-11",
+          "anchor": "#art-2-3-2-1-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-11",
+          "line": 1644
+        },
+        {
+          "id": "art-2-3-2-1-12",
+          "anchor": "#art-2-3-2-1-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-1-12",
+          "line": 1651
+        },
+        {
+          "id": "art-2-3-2-2-1-1",
+          "anchor": "#art-2-3-2-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-2-1-1",
+          "line": 1670
+        },
+        {
+          "id": "art-2-3-2-2-2-1",
+          "anchor": "#art-2-3-2-2-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-2-2-1",
+          "line": 1677
+        },
+        {
+          "id": "art-2-3-2-2-3-1",
+          "anchor": "#art-2-3-2-2-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-2-3-1",
+          "line": 1688
+        },
+        {
+          "id": "art-2-3-2-2-4-1",
+          "anchor": "#art-2-3-2-2-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-2-4-1",
+          "line": 1710
+        },
+        {
+          "id": "art-2-3-2-3-1",
+          "anchor": "#art-2-3-2-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-3-1",
+          "line": 1725
+        },
+        {
+          "id": "art-2-3-2-3-2",
+          "anchor": "#art-2-3-2-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-3-2",
+          "line": 1729
+        },
+        {
+          "id": "art-2-3-2-3-3",
+          "anchor": "#art-2-3-2-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-2-3-3",
+          "line": 1732
+        },
+        {
+          "id": "art-2-3-3-1-1",
+          "anchor": "#art-2-3-3-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-1-1",
+          "line": 1741
+        },
+        {
+          "id": "art-2-3-3-1-2",
+          "anchor": "#art-2-3-3-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-1-2",
+          "line": 1744
+        },
+        {
+          "id": "art-2-3-3-2-1",
+          "anchor": "#art-2-3-3-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-2-1",
+          "line": 1750
+        },
+        {
+          "id": "art-2-3-3-2-2",
+          "anchor": "#art-2-3-3-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-2-2",
+          "line": 1755
+        },
+        {
+          "id": "art-2-3-3-3-1",
+          "anchor": "#art-2-3-3-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-3-1",
+          "line": 1761
+        },
+        {
+          "id": "art-2-3-3-4-1",
+          "anchor": "#art-2-3-3-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-4-1",
+          "line": 1769
+        },
+        {
+          "id": "art-2-3-3-4-2",
+          "anchor": "#art-2-3-3-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-4-2",
+          "line": 1773
+        },
+        {
+          "id": "art-2-3-3-4-3",
+          "anchor": "#art-2-3-3-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-3-4-3",
+          "line": 1777
+        },
+        {
+          "id": "art-2-3-4-1-1",
+          "anchor": "#art-2-3-4-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-1-1",
+          "line": 1790
+        },
+        {
+          "id": "art-2-3-4-1-2",
+          "anchor": "#art-2-3-4-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-1-2",
+          "line": 1793
+        },
+        {
+          "id": "art-2-3-4-1-3",
+          "anchor": "#art-2-3-4-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-1-3",
+          "line": 1797
+        },
+        {
+          "id": "art-2-3-4-1-4",
+          "anchor": "#art-2-3-4-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-1-4",
+          "line": 1803
+        },
+        {
+          "id": "art-2-3-4-1-5",
+          "anchor": "#art-2-3-4-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-1-5",
+          "line": 1811
+        },
+        {
+          "id": "art-2-3-4-2-1",
+          "anchor": "#art-2-3-4-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-2-1",
+          "line": 1823
+        },
+        {
+          "id": "art-2-3-4-2-2",
+          "anchor": "#art-2-3-4-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-2-2",
+          "line": 1826
+        },
+        {
+          "id": "art-2-3-4-3-1",
+          "anchor": "#art-2-3-4-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-3-1",
+          "line": 1832
+        },
+        {
+          "id": "art-2-3-4-4-1",
+          "anchor": "#art-2-3-4-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-4-1",
+          "line": 1842
+        },
+        {
+          "id": "art-2-3-4-4-2",
+          "anchor": "#art-2-3-4-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-4-4-2",
+          "line": 1845
+        },
+        {
+          "id": "art-2-3-5-1",
+          "anchor": "#art-2-3-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-5-1",
+          "line": 1851
+        },
+        {
+          "id": "art-2-3-6-1-1",
+          "anchor": "#art-2-3-6-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-1",
+          "line": 1861
+        },
+        {
+          "id": "art-2-3-6-1-2",
+          "anchor": "#art-2-3-6-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-2",
+          "line": 1868
+        },
+        {
+          "id": "art-2-3-6-1-3",
+          "anchor": "#art-2-3-6-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-3",
+          "line": 1888
+        },
+        {
+          "id": "art-2-3-6-1-4",
+          "anchor": "#art-2-3-6-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-4",
+          "line": 2110
+        },
+        {
+          "id": "art-2-3-6-1-5",
+          "anchor": "#art-2-3-6-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-5",
+          "line": 2156
+        },
+        {
+          "id": "art-2-3-6-1-6",
+          "anchor": "#art-2-3-6-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-6",
+          "line": 2204
+        },
+        {
+          "id": "art-2-3-6-1-7",
+          "anchor": "#art-2-3-6-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-7",
+          "line": 2217
+        },
+        {
+          "id": "art-2-3-6-1-8",
+          "anchor": "#art-2-3-6-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-8",
+          "line": 2220
+        },
+        {
+          "id": "art-2-3-6-1-9",
+          "anchor": "#art-2-3-6-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-9",
+          "line": 2232
+        },
+        {
+          "id": "art-2-3-6-1-10",
+          "anchor": "#art-2-3-6-1-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-10",
+          "line": 2245
+        },
+        {
+          "id": "art-2-3-6-1-11",
+          "anchor": "#art-2-3-6-1-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-1-11",
+          "line": 2248
+        },
+        {
+          "id": "art-2-3-6-2-1",
+          "anchor": "#art-2-3-6-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-2-1",
+          "line": 2254
+        },
+        {
+          "id": "art-2-3-6-3-1",
+          "anchor": "#art-2-3-6-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-3-6-3-1",
+          "line": 2266
+        },
+        {
+          "id": "art-2-4-1-1",
+          "anchor": "#art-2-4-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-1-1",
+          "line": 2280
+        },
+        {
+          "id": "art-2-4-1-2",
+          "anchor": "#art-2-4-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-1-2",
+          "line": 2284
+        },
+        {
+          "id": "art-2-4-2-1",
+          "anchor": "#art-2-4-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-1",
+          "line": 2294
+        },
+        {
+          "id": "art-2-4-2-2",
+          "anchor": "#art-2-4-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-2",
+          "line": 2298
+        },
+        {
+          "id": "art-2-4-2-3",
+          "anchor": "#art-2-4-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-3",
+          "line": 2303
+        },
+        {
+          "id": "art-2-4-2-4",
+          "anchor": "#art-2-4-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-4",
+          "line": 2310
+        },
+        {
+          "id": "art-2-4-2-5",
+          "anchor": "#art-2-4-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-5",
+          "line": 2313
+        },
+        {
+          "id": "art-2-4-2-6",
+          "anchor": "#art-2-4-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-6",
+          "line": 2328
+        },
+        {
+          "id": "art-2-4-2-7",
+          "anchor": "#art-2-4-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-7",
+          "line": 2337
+        },
+        {
+          "id": "art-2-4-2-8",
+          "anchor": "#art-2-4-2-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-2-8",
+          "line": 2342
+        },
+        {
+          "id": "art-2-4-3-1",
+          "anchor": "#art-2-4-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-3-1",
+          "line": 2350
+        },
+        {
+          "id": "art-2-4-3-2",
+          "anchor": "#art-2-4-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-3-2",
+          "line": 2354
+        },
+        {
+          "id": "art-2-4-3-3",
+          "anchor": "#art-2-4-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-3-3",
+          "line": 2370
+        },
+        {
+          "id": "art-2-4-3-4",
+          "anchor": "#art-2-4-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-3-4",
+          "line": 2375
+        },
+        {
+          "id": "art-2-4-4-1-1",
+          "anchor": "#art-2-4-4-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-1-1",
+          "line": 2399
+        },
+        {
+          "id": "art-2-4-4-1-2",
+          "anchor": "#art-2-4-4-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-1-2",
+          "line": 2402
+        },
+        {
+          "id": "art-2-4-4-1-3",
+          "anchor": "#art-2-4-4-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-1-3",
+          "line": 2407
+        },
+        {
+          "id": "art-2-4-4-1-4",
+          "anchor": "#art-2-4-4-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-1-4",
+          "line": 2410
+        },
+        {
+          "id": "art-2-4-4-2-1",
+          "anchor": "#art-2-4-4-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-2-1",
+          "line": 2416
+        },
+        {
+          "id": "art-2-4-4-2-2",
+          "anchor": "#art-2-4-4-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-2-2",
+          "line": 2439
+        },
+        {
+          "id": "art-2-4-4-2-3",
+          "anchor": "#art-2-4-4-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-2-3",
+          "line": 2443
+        },
+        {
+          "id": "art-2-4-4-2-4",
+          "anchor": "#art-2-4-4-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-2-4",
+          "line": 2448
+        },
+        {
+          "id": "art-2-4-4-2-5",
+          "anchor": "#art-2-4-4-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-2-5",
+          "line": 2457
+        },
+        {
+          "id": "art-2-4-4-3-1",
+          "anchor": "#art-2-4-4-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-3-1",
+          "line": 2470
+        },
+        {
+          "id": "art-2-4-4-3-2",
+          "anchor": "#art-2-4-4-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-3-2",
+          "line": 2474
+        },
+        {
+          "id": "art-2-4-4-3-3",
+          "anchor": "#art-2-4-4-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-3-3",
+          "line": 2477
+        },
+        {
+          "id": "art-2-4-4-4-1",
+          "anchor": "#art-2-4-4-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-4-1",
+          "line": 2483
+        },
+        {
+          "id": "art-2-4-4-4-2",
+          "anchor": "#art-2-4-4-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-4-4-2",
+          "line": 2486
+        },
+        {
+          "id": "art-2-4-5-1",
+          "anchor": "#art-2-4-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-5-1",
+          "line": 2492
+        },
+        {
+          "id": "art-2-4-5-2",
+          "anchor": "#art-2-4-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-5-2",
+          "line": 2496
+        },
+        {
+          "id": "art-2-4-5-3",
+          "anchor": "#art-2-4-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-5-3",
+          "line": 2504
+        },
+        {
+          "id": "art-2-4-5-4",
+          "anchor": "#art-2-4-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-5-4",
+          "line": 2507
+        },
+        {
+          "id": "art-2-4-6-1",
+          "anchor": "#art-2-4-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-6-1",
+          "line": 2524
+        },
+        {
+          "id": "art-2-4-6-2",
+          "anchor": "#art-2-4-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-6-2",
+          "line": 2531
+        },
+        {
+          "id": "art-2-4-6-3",
+          "anchor": "#art-2-4-6-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-6-3",
+          "line": 2535
+        },
+        {
+          "id": "art-2-4-6-4",
+          "anchor": "#art-2-4-6-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-6-4",
+          "line": 2538
+        },
+        {
+          "id": "art-2-4-6-5",
+          "anchor": "#art-2-4-6-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-6-5",
+          "line": 2541
+        },
+        {
+          "id": "art-2-4-7-1-1",
+          "anchor": "#art-2-4-7-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-1-1",
+          "line": 2550
+        },
+        {
+          "id": "art-2-4-7-1-2",
+          "anchor": "#art-2-4-7-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-1-2",
+          "line": 2553
+        },
+        {
+          "id": "art-2-4-7-1-3",
+          "anchor": "#art-2-4-7-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-1-3",
+          "line": 2556
+        },
+        {
+          "id": "art-2-4-7-1-4",
+          "anchor": "#art-2-4-7-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-1-4",
+          "line": 2559
+        },
+        {
+          "id": "art-2-4-7-2-1",
+          "anchor": "#art-2-4-7-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-2-1",
+          "line": 2565
+        },
+        {
+          "id": "art-2-4-7-2-2",
+          "anchor": "#art-2-4-7-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-2-2",
+          "line": 2568
+        },
+        {
+          "id": "art-2-4-7-2-3",
+          "anchor": "#art-2-4-7-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-2-3",
+          "line": 2571
+        },
+        {
+          "id": "art-2-4-7-3-1",
+          "anchor": "#art-2-4-7-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-3-1",
+          "line": 2577
+        },
+        {
+          "id": "art-2-4-7-3-2",
+          "anchor": "#art-2-4-7-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-3-2",
+          "line": 2580
+        },
+        {
+          "id": "art-2-4-7-3-3",
+          "anchor": "#art-2-4-7-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-3-3",
+          "line": 2586
+        },
+        {
+          "id": "art-2-4-7-3-4",
+          "anchor": "#art-2-4-7-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-7-3-4",
+          "line": 2595
+        },
+        {
+          "id": "art-2-4-8-1-1",
+          "anchor": "#art-2-4-8-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-8-1-1",
+          "line": 2610
+        },
+        {
+          "id": "art-2-4-8-2-1",
+          "anchor": "#art-2-4-8-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-8-2-1",
+          "line": 2617
+        },
+        {
+          "id": "art-2-4-8-2-2",
+          "anchor": "#art-2-4-8-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-8-2-2",
+          "line": 2626
+        },
+        {
+          "id": "art-2-4-9-1",
+          "anchor": "#art-2-4-9-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-1",
+          "line": 2632
+        },
+        {
+          "id": "art-2-4-9-2",
+          "anchor": "#art-2-4-9-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-2",
+          "line": 2636
+        },
+        {
+          "id": "art-2-4-9-3",
+          "anchor": "#art-2-4-9-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-3",
+          "line": 2643
+        },
+        {
+          "id": "art-2-4-9-4",
+          "anchor": "#art-2-4-9-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-4",
+          "line": 2646
+        },
+        {
+          "id": "art-2-4-9-5",
+          "anchor": "#art-2-4-9-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-5",
+          "line": 2651
+        },
+        {
+          "id": "art-2-4-9-6",
+          "anchor": "#art-2-4-9-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-6",
+          "line": 2656
+        },
+        {
+          "id": "art-2-4-9-7",
+          "anchor": "#art-2-4-9-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-7",
+          "line": 2659
+        },
+        {
+          "id": "art-2-4-9-8",
+          "anchor": "#art-2-4-9-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-8",
+          "line": 2664
+        },
+        {
+          "id": "art-2-4-9-9",
+          "anchor": "#art-2-4-9-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-9",
+          "line": 2667
+        },
+        {
+          "id": "art-2-4-9-10",
+          "anchor": "#art-2-4-9-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-10",
+          "line": 2670
+        },
+        {
+          "id": "art-2-4-9-11",
+          "anchor": "#art-2-4-9-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-9-11",
+          "line": 2673
+        },
+        {
+          "id": "art-2-4-10-1",
+          "anchor": "#art-2-4-10-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-10-1",
+          "line": 2683
+        },
+        {
+          "id": "art-2-4-11-1",
+          "anchor": "#art-2-4-11-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-11-1",
+          "line": 2693
+        },
+        {
+          "id": "art-2-4-11-2",
+          "anchor": "#art-2-4-11-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-11-2",
+          "line": 2696
+        },
+        {
+          "id": "art-2-4-12-1",
+          "anchor": "#art-2-4-12-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-12-1",
+          "line": 2713
+        },
+        {
+          "id": "art-2-4-12-2",
+          "anchor": "#art-2-4-12-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-12-2",
+          "line": 2726
+        },
+        {
+          "id": "art-2-4-13-1",
+          "anchor": "#art-2-4-13-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-1",
+          "line": 2734
+        },
+        {
+          "id": "art-2-4-13-2",
+          "anchor": "#art-2-4-13-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-2",
+          "line": 2737
+        },
+        {
+          "id": "art-2-4-13-3",
+          "anchor": "#art-2-4-13-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-3",
+          "line": 2741
+        },
+        {
+          "id": "art-2-4-13-4",
+          "anchor": "#art-2-4-13-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-4",
+          "line": 2744
+        },
+        {
+          "id": "art-2-4-13-5",
+          "anchor": "#art-2-4-13-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-5",
+          "line": 2748
+        },
+        {
+          "id": "art-2-4-13-6",
+          "anchor": "#art-2-4-13-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-6",
+          "line": 2751
+        },
+        {
+          "id": "art-2-4-13-7",
+          "anchor": "#art-2-4-13-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-7",
+          "line": 2754
+        },
+        {
+          "id": "art-2-4-13-8",
+          "anchor": "#art-2-4-13-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-8",
+          "line": 2757
+        },
+        {
+          "id": "art-2-4-13-9",
+          "anchor": "#art-2-4-13-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-9",
+          "line": 2760
+        },
+        {
+          "id": "art-2-4-13-10",
+          "anchor": "#art-2-4-13-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-13-10",
+          "line": 2763
+        },
+        {
+          "id": "art-2-4-14-1",
+          "anchor": "#art-2-4-14-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-14-1",
+          "line": 2769
+        },
+        {
+          "id": "art-2-4-14-2",
+          "anchor": "#art-2-4-14-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-14-2",
+          "line": 2800
+        },
+        {
+          "id": "art-2-4-14-3",
+          "anchor": "#art-2-4-14-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-14-3",
+          "line": 2804
+        },
+        {
+          "id": "art-2-4-14-4",
+          "anchor": "#art-2-4-14-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-14-4",
+          "line": 2814
+        },
+        {
+          "id": "art-2-4-15-1",
+          "anchor": "#art-2-4-15-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-15-1",
+          "line": 2831
+        },
+        {
+          "id": "art-2-4-15-2",
+          "anchor": "#art-2-4-15-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-15-2",
+          "line": 2836
+        },
+        {
+          "id": "art-2-4-16-1",
+          "anchor": "#art-2-4-16-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-1",
+          "line": 2844
+        },
+        {
+          "id": "art-2-4-16-2",
+          "anchor": "#art-2-4-16-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-2",
+          "line": 2848
+        },
+        {
+          "id": "art-2-4-16-3",
+          "anchor": "#art-2-4-16-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-3",
+          "line": 2863
+        },
+        {
+          "id": "art-2-4-16-4",
+          "anchor": "#art-2-4-16-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-4",
+          "line": 2872
+        },
+        {
+          "id": "art-2-4-16-5",
+          "anchor": "#art-2-4-16-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-5",
+          "line": 2875
+        },
+        {
+          "id": "art-2-4-16-6",
+          "anchor": "#art-2-4-16-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-6",
+          "line": 2883
+        },
+        {
+          "id": "art-2-4-16-7",
+          "anchor": "#art-2-4-16-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-7",
+          "line": 2887
+        },
+        {
+          "id": "art-2-4-16-8",
+          "anchor": "#art-2-4-16-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-8",
+          "line": 2891
+        },
+        {
+          "id": "art-2-4-16-9",
+          "anchor": "#art-2-4-16-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-16-9",
+          "line": 2895
+        },
+        {
+          "id": "art-2-4-17-1",
+          "anchor": "#art-2-4-17-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-17-1",
+          "line": 2909
+        },
+        {
+          "id": "art-2-4-18-1",
+          "anchor": "#art-2-4-18-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-1",
+          "line": 2917
+        },
+        {
+          "id": "art-2-4-18-2",
+          "anchor": "#art-2-4-18-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-2",
+          "line": 2922
+        },
+        {
+          "id": "art-2-4-18-3",
+          "anchor": "#art-2-4-18-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-3",
+          "line": 2925
+        },
+        {
+          "id": "art-2-4-18-4",
+          "anchor": "#art-2-4-18-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-4",
+          "line": 2928
+        },
+        {
+          "id": "art-2-4-18-5",
+          "anchor": "#art-2-4-18-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-5",
+          "line": 2933
+        },
+        {
+          "id": "art-2-4-18-6",
+          "anchor": "#art-2-4-18-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-6",
+          "line": 2944
+        },
+        {
+          "id": "art-2-4-18-7",
+          "anchor": "#art-2-4-18-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-7",
+          "line": 2952
+        },
+        {
+          "id": "art-2-4-18-8",
+          "anchor": "#art-2-4-18-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-8",
+          "line": 2955
+        },
+        {
+          "id": "art-2-4-18-9",
+          "anchor": "#art-2-4-18-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-9",
+          "line": 2969
+        },
+        {
+          "id": "art-2-4-18-10",
+          "anchor": "#art-2-4-18-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-18-10",
+          "line": 2972
+        },
+        {
+          "id": "art-2-4-19-1",
+          "anchor": "#art-2-4-19-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-1",
+          "line": 2978
+        },
+        {
+          "id": "art-2-4-19-2",
+          "anchor": "#art-2-4-19-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-2",
+          "line": 2984
+        },
+        {
+          "id": "art-2-4-19-3",
+          "anchor": "#art-2-4-19-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-3",
+          "line": 2991
+        },
+        {
+          "id": "art-2-4-19-4",
+          "anchor": "#art-2-4-19-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-4",
+          "line": 3000
+        },
+        {
+          "id": "art-2-4-19-5",
+          "anchor": "#art-2-4-19-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-5",
+          "line": 3013
+        },
+        {
+          "id": "art-2-4-19-6",
+          "anchor": "#art-2-4-19-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-6",
+          "line": 3030
+        },
+        {
+          "id": "art-2-4-19-7",
+          "anchor": "#art-2-4-19-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-4-19-7",
+          "line": 3035
+        },
+        {
+          "id": "art-2-5-1-1",
+          "anchor": "#art-2-5-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-1",
+          "line": 3049
+        },
+        {
+          "id": "art-2-5-1-2",
+          "anchor": "#art-2-5-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-2",
+          "line": 3052
+        },
+        {
+          "id": "art-2-5-1-3",
+          "anchor": "#art-2-5-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-3",
+          "line": 3057
+        },
+        {
+          "id": "art-2-5-1-4",
+          "anchor": "#art-2-5-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-4",
+          "line": 3062
+        },
+        {
+          "id": "art-2-5-1-5",
+          "anchor": "#art-2-5-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-5",
+          "line": 3070
+        },
+        {
+          "id": "art-2-5-1-6",
+          "anchor": "#art-2-5-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-1-6",
+          "line": 3073
+        },
+        {
+          "id": "art-2-5-2-1",
+          "anchor": "#art-2-5-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-2-1",
+          "line": 3079
+        },
+        {
+          "id": "art-2-5-2-2",
+          "anchor": "#art-2-5-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-2-2",
+          "line": 3093
+        },
+        {
+          "id": "art-2-5-2-3",
+          "anchor": "#art-2-5-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-2-3",
+          "line": 3098
+        },
+        {
+          "id": "art-2-5-3-1",
+          "anchor": "#art-2-5-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-3-1",
+          "line": 3104
+        },
+        {
+          "id": "art-2-5-4-1",
+          "anchor": "#art-2-5-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-4-1",
+          "line": 3115
+        },
+        {
+          "id": "art-2-5-5-1",
+          "anchor": "#art-2-5-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-1",
+          "line": 3122
+        },
+        {
+          "id": "art-2-5-5-2",
+          "anchor": "#art-2-5-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-2",
+          "line": 3130
+        },
+        {
+          "id": "art-2-5-5-3",
+          "anchor": "#art-2-5-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-3",
+          "line": 3144
+        },
+        {
+          "id": "art-2-5-5-4",
+          "anchor": "#art-2-5-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-4",
+          "line": 3148
+        },
+        {
+          "id": "art-2-5-5-5",
+          "anchor": "#art-2-5-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-5",
+          "line": 3152
+        },
+        {
+          "id": "art-2-5-5-6",
+          "anchor": "#art-2-5-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-6",
+          "line": 3156
+        },
+        {
+          "id": "art-2-5-5-7",
+          "anchor": "#art-2-5-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-5-7",
+          "line": 3175
+        },
+        {
+          "id": "art-2-5-6-1-1",
+          "anchor": "#art-2-5-6-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-1",
+          "line": 3184
+        },
+        {
+          "id": "art-2-5-6-1-2",
+          "anchor": "#art-2-5-6-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-2",
+          "line": 3189
+        },
+        {
+          "id": "art-2-5-6-1-3",
+          "anchor": "#art-2-5-6-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-3",
+          "line": 3193
+        },
+        {
+          "id": "art-2-5-6-1-4",
+          "anchor": "#art-2-5-6-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-4",
+          "line": 3199
+        },
+        {
+          "id": "art-2-5-6-1-5",
+          "anchor": "#art-2-5-6-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-5",
+          "line": 3207
+        },
+        {
+          "id": "art-2-5-6-1-6",
+          "anchor": "#art-2-5-6-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-6",
+          "line": 3217
+        },
+        {
+          "id": "art-2-5-6-1-7",
+          "anchor": "#art-2-5-6-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-7",
+          "line": 3221
+        },
+        {
+          "id": "art-2-5-6-1-8",
+          "anchor": "#art-2-5-6-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-1-8",
+          "line": 3231
+        },
+        {
+          "id": "art-2-5-6-2-1",
+          "anchor": "#art-2-5-6-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-1",
+          "line": 3239
+        },
+        {
+          "id": "art-2-5-6-2-2",
+          "anchor": "#art-2-5-6-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-2",
+          "line": 3242
+        },
+        {
+          "id": "art-2-5-6-2-3",
+          "anchor": "#art-2-5-6-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-3",
+          "line": 3248
+        },
+        {
+          "id": "art-2-5-6-2-4",
+          "anchor": "#art-2-5-6-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-4",
+          "line": 3254
+        },
+        {
+          "id": "art-2-5-6-2-5",
+          "anchor": "#art-2-5-6-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-5",
+          "line": 3257
+        },
+        {
+          "id": "art-2-5-6-2-6",
+          "anchor": "#art-2-5-6-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-2-6",
+          "line": 3260
+        },
+        {
+          "id": "art-2-5-6-3-1",
+          "anchor": "#art-2-5-6-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-3-1",
+          "line": 3266
+        },
+        {
+          "id": "art-2-5-6-3-2",
+          "anchor": "#art-2-5-6-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-3-2",
+          "line": 3271
+        },
+        {
+          "id": "art-2-5-6-3-3",
+          "anchor": "#art-2-5-6-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-3-3",
+          "line": 3274
+        },
+        {
+          "id": "art-2-5-6-3-4",
+          "anchor": "#art-2-5-6-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-3-4",
+          "line": 3283
+        },
+        {
+          "id": "art-2-5-6-4-1",
+          "anchor": "#art-2-5-6-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-4-1",
+          "line": 3292
+        },
+        {
+          "id": "art-2-5-6-4-2",
+          "anchor": "#art-2-5-6-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-6-4-2",
+          "line": 3300
+        },
+        {
+          "id": "art-2-5-7-1",
+          "anchor": "#art-2-5-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-7-1",
+          "line": 3306
+        },
+        {
+          "id": "art-2-5-7-2",
+          "anchor": "#art-2-5-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-7-2",
+          "line": 3317
+        },
+        {
+          "id": "art-2-5-8-1",
+          "anchor": "#art-2-5-8-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-8-1",
+          "line": 3323
+        },
+        {
+          "id": "art-2-5-8-2",
+          "anchor": "#art-2-5-8-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-8-2",
+          "line": 3326
+        },
+        {
+          "id": "art-2-5-8-3",
+          "anchor": "#art-2-5-8-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-8-3",
+          "line": 3330
+        },
+        {
+          "id": "art-2-5-8-4",
+          "anchor": "#art-2-5-8-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-8-4",
+          "line": 3333
+        },
+        {
+          "id": "art-2-5-8-5",
+          "anchor": "#art-2-5-8-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-8-5",
+          "line": 3341
+        },
+        {
+          "id": "art-2-5-9-1",
+          "anchor": "#art-2-5-9-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-9-1",
+          "line": 3350
+        },
+        {
+          "id": "art-2-5-9-2",
+          "anchor": "#art-2-5-9-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-9-2",
+          "line": 3353
+        },
+        {
+          "id": "art-2-5-10-1",
+          "anchor": "#art-2-5-10-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-10-1",
+          "line": 3425
+        },
+        {
+          "id": "art-2-5-11-1",
+          "anchor": "#art-2-5-11-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-11-1",
+          "line": 3431
+        },
+        {
+          "id": "art-2-5-12-1",
+          "anchor": "#art-2-5-12-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-12-1",
+          "line": 3451
+        },
+        {
+          "id": "art-2-5-12-2",
+          "anchor": "#art-2-5-12-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-12-2",
+          "line": 3464
+        },
+        {
+          "id": "art-2-5-13-1",
+          "anchor": "#art-2-5-13-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-13-1",
+          "line": 3471
+        },
+        {
+          "id": "art-2-5-14-1",
+          "anchor": "#art-2-5-14-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-14-1",
+          "line": 3477
+        },
+        {
+          "id": "art-2-5-14-2",
+          "anchor": "#art-2-5-14-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-14-2",
+          "line": 3533
+        },
+        {
+          "id": "art-2-5-14-3",
+          "anchor": "#art-2-5-14-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-14-3",
+          "line": 3536
+        },
+        {
+          "id": "art-2-5-14-4",
+          "anchor": "#art-2-5-14-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-14-4",
+          "line": 3543
+        },
+        {
+          "id": "art-2-5-15-1-1",
+          "anchor": "#art-2-5-15-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-15-1-1",
+          "line": 3553
+        },
+        {
+          "id": "art-2-5-15-1-2",
+          "anchor": "#art-2-5-15-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-15-1-2",
+          "line": 3557
+        },
+        {
+          "id": "art-2-5-15-2-1",
+          "anchor": "#art-2-5-15-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-15-2-1",
+          "line": 3573
+        },
+        {
+          "id": "art-2-5-16-1",
+          "anchor": "#art-2-5-16-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-5-16-1",
+          "line": 3580
+        },
+        {
+          "id": "art-2-6-1",
+          "anchor": "#art-2-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-1",
+          "line": 3590
+        },
+        {
+          "id": "art-2-6-2",
+          "anchor": "#art-2-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-2",
+          "line": 3597
+        },
+        {
+          "id": "art-2-6-3",
+          "anchor": "#art-2-6-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-3",
+          "line": 3625
+        },
+        {
+          "id": "art-2-6-4",
+          "anchor": "#art-2-6-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-4",
+          "line": 3634
+        },
+        {
+          "id": "art-2-6-5",
+          "anchor": "#art-2-6-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-5",
+          "line": 3638
+        },
+        {
+          "id": "art-2-6-6",
+          "anchor": "#art-2-6-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-6",
+          "line": 3642
+        },
+        {
+          "id": "art-2-6-7",
+          "anchor": "#art-2-6-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-7",
+          "line": 3652
+        },
+        {
+          "id": "art-2-6-8",
+          "anchor": "#art-2-6-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-6-8",
+          "line": 3665
+        },
+        {
+          "id": "art-2-7-1",
+          "anchor": "#art-2-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-7-1",
+          "line": 3675
+        },
+        {
+          "id": "art-2-7-2",
+          "anchor": "#art-2-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-7-2",
+          "line": 3679
+        },
+        {
+          "id": "art-2-7-3",
+          "anchor": "#art-2-7-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-2-7-3",
+          "line": 3682
+        },
+        {
+          "id": "art-3-1-1-1",
+          "anchor": "#art-3-1-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-1-1",
+          "line": 3698
+        },
+        {
+          "id": "art-3-1-2-1",
+          "anchor": "#art-3-1-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-1",
+          "line": 3707
+        },
+        {
+          "id": "art-3-1-2-2",
+          "anchor": "#art-3-1-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-2",
+          "line": 3710
+        },
+        {
+          "id": "art-3-1-2-3",
+          "anchor": "#art-3-1-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-3",
+          "line": 3713
+        },
+        {
+          "id": "art-3-1-2-4",
+          "anchor": "#art-3-1-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-4",
+          "line": 3716
+        },
+        {
+          "id": "art-3-1-2-5",
+          "anchor": "#art-3-1-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-5",
+          "line": 3719
+        },
+        {
+          "id": "art-3-1-2-6",
+          "anchor": "#art-3-1-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-6",
+          "line": 3727
+        },
+        {
+          "id": "art-3-1-2-7",
+          "anchor": "#art-3-1-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-7",
+          "line": 3739
+        },
+        {
+          "id": "art-3-1-2-8",
+          "anchor": "#art-3-1-2-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-8",
+          "line": 3752
+        },
+        {
+          "id": "art-3-1-2-9",
+          "anchor": "#art-3-1-2-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-2-9",
+          "line": 3762
+        },
+        {
+          "id": "art-3-1-3-1",
+          "anchor": "#art-3-1-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-1",
+          "line": 3808
+        },
+        {
+          "id": "art-3-1-3-2",
+          "anchor": "#art-3-1-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-2",
+          "line": 3811
+        },
+        {
+          "id": "art-3-1-3-3",
+          "anchor": "#art-3-1-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-3",
+          "line": 3814
+        },
+        {
+          "id": "art-3-1-3-4",
+          "anchor": "#art-3-1-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-4",
+          "line": 3827
+        },
+        {
+          "id": "art-3-1-3-5",
+          "anchor": "#art-3-1-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-5",
+          "line": 3833
+        },
+        {
+          "id": "art-3-1-3-6",
+          "anchor": "#art-3-1-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-6",
+          "line": 3849
+        },
+        {
+          "id": "art-3-1-3-7",
+          "anchor": "#art-3-1-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-3-7",
+          "line": 3857
+        },
+        {
+          "id": "art-3-1-4-1",
+          "anchor": "#art-3-1-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-1",
+          "line": 3863
+        },
+        {
+          "id": "art-3-1-4-2",
+          "anchor": "#art-3-1-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-2",
+          "line": 3868
+        },
+        {
+          "id": "art-3-1-4-3",
+          "anchor": "#art-3-1-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-3",
+          "line": 3871
+        },
+        {
+          "id": "art-3-1-4-4",
+          "anchor": "#art-3-1-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-4",
+          "line": 3880
+        },
+        {
+          "id": "art-3-1-4-5",
+          "anchor": "#art-3-1-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-5",
+          "line": 3892
+        },
+        {
+          "id": "art-3-1-4-6",
+          "anchor": "#art-3-1-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-6",
+          "line": 3900
+        },
+        {
+          "id": "art-3-1-4-7",
+          "anchor": "#art-3-1-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-7",
+          "line": 3904
+        },
+        {
+          "id": "art-3-1-4-8",
+          "anchor": "#art-3-1-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-8",
+          "line": 3908
+        },
+        {
+          "id": "art-3-1-4-9",
+          "anchor": "#art-3-1-4-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-9",
+          "line": 3932
+        },
+        {
+          "id": "art-3-1-4-10",
+          "anchor": "#art-3-1-4-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-10",
+          "line": 3935
+        },
+        {
+          "id": "art-3-1-4-11",
+          "anchor": "#art-3-1-4-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-11",
+          "line": 3938
+        },
+        {
+          "id": "art-3-1-4-12",
+          "anchor": "#art-3-1-4-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-4-12",
+          "line": 3955
+        },
+        {
+          "id": "art-3-1-5-1",
+          "anchor": "#art-3-1-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-1",
+          "line": 3962
+        },
+        {
+          "id": "art-3-1-5-2",
+          "anchor": "#art-3-1-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-2",
+          "line": 3971
+        },
+        {
+          "id": "art-3-1-5-3",
+          "anchor": "#art-3-1-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-3",
+          "line": 3975
+        },
+        {
+          "id": "art-3-1-5-4",
+          "anchor": "#art-3-1-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-4",
+          "line": 3978
+        },
+        {
+          "id": "art-3-1-5-5",
+          "anchor": "#art-3-1-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-5",
+          "line": 3985
+        },
+        {
+          "id": "art-3-1-5-6",
+          "anchor": "#art-3-1-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-5-6",
+          "line": 3989
+        },
+        {
+          "id": "art-3-1-6-1",
+          "anchor": "#art-3-1-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-6-1",
+          "line": 3999
+        },
+        {
+          "id": "art-3-1-7-1",
+          "anchor": "#art-3-1-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-7-1",
+          "line": 4009
+        },
+        {
+          "id": "art-3-1-7-2",
+          "anchor": "#art-3-1-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-1-7-2",
+          "line": 4012
+        },
+        {
+          "id": "art-3-2-1-1",
+          "anchor": "#art-3-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-1",
+          "line": 4025
+        },
+        {
+          "id": "art-3-2-1-2",
+          "anchor": "#art-3-2-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-2",
+          "line": 4028
+        },
+        {
+          "id": "art-3-2-1-3",
+          "anchor": "#art-3-2-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-3",
+          "line": 4031
+        },
+        {
+          "id": "art-3-2-1-4",
+          "anchor": "#art-3-2-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-4",
+          "line": 4034
+        },
+        {
+          "id": "art-3-2-1-5",
+          "anchor": "#art-3-2-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-5",
+          "line": 4044
+        },
+        {
+          "id": "art-3-2-1-6",
+          "anchor": "#art-3-2-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-6",
+          "line": 4047
+        },
+        {
+          "id": "art-3-2-1-7",
+          "anchor": "#art-3-2-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-7",
+          "line": 4061
+        },
+        {
+          "id": "art-3-2-1-8",
+          "anchor": "#art-3-2-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-8",
+          "line": 4065
+        },
+        {
+          "id": "art-3-2-1-9",
+          "anchor": "#art-3-2-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-9",
+          "line": 4075
+        },
+        {
+          "id": "art-3-2-1-10",
+          "anchor": "#art-3-2-1-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-10",
+          "line": 4085
+        },
+        {
+          "id": "art-3-2-1-11",
+          "anchor": "#art-3-2-1-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-11",
+          "line": 4088
+        },
+        {
+          "id": "art-3-2-1-12",
+          "anchor": "#art-3-2-1-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-12",
+          "line": 4094
+        },
+        {
+          "id": "art-3-2-1-13",
+          "anchor": "#art-3-2-1-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-1-13",
+          "line": 4101
+        },
+        {
+          "id": "art-3-2-2-1",
+          "anchor": "#art-3-2-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-1",
+          "line": 4110
+        },
+        {
+          "id": "art-3-2-2-2",
+          "anchor": "#art-3-2-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-2",
+          "line": 4113
+        },
+        {
+          "id": "art-3-2-2-3",
+          "anchor": "#art-3-2-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-3",
+          "line": 4119
+        },
+        {
+          "id": "art-3-2-2-4",
+          "anchor": "#art-3-2-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-4",
+          "line": 4122
+        },
+        {
+          "id": "art-3-2-2-5",
+          "anchor": "#art-3-2-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-5",
+          "line": 4141
+        },
+        {
+          "id": "art-3-2-2-6",
+          "anchor": "#art-3-2-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-6",
+          "line": 4145
+        },
+        {
+          "id": "art-3-2-2-7",
+          "anchor": "#art-3-2-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-7",
+          "line": 4155
+        },
+        {
+          "id": "art-3-2-2-8",
+          "anchor": "#art-3-2-2-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-8",
+          "line": 4166
+        },
+        {
+          "id": "art-3-2-2-9",
+          "anchor": "#art-3-2-2-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-9",
+          "line": 4177
+        },
+        {
+          "id": "art-3-2-2-10",
+          "anchor": "#art-3-2-2-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-2-10",
+          "line": 4184
+        },
+        {
+          "id": "art-3-2-3-1",
+          "anchor": "#art-3-2-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-1",
+          "line": 4191
+        },
+        {
+          "id": "art-3-2-3-2",
+          "anchor": "#art-3-2-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-2",
+          "line": 4194
+        },
+        {
+          "id": "art-3-2-3-3",
+          "anchor": "#art-3-2-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-3",
+          "line": 4198
+        },
+        {
+          "id": "art-3-2-3-4",
+          "anchor": "#art-3-2-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-4",
+          "line": 4202
+        },
+        {
+          "id": "art-3-2-3-5",
+          "anchor": "#art-3-2-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-5",
+          "line": 4205
+        },
+        {
+          "id": "art-3-2-3-6",
+          "anchor": "#art-3-2-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-6",
+          "line": 4210
+        },
+        {
+          "id": "art-3-2-3-7",
+          "anchor": "#art-3-2-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-7",
+          "line": 4215
+        },
+        {
+          "id": "art-3-2-3-8",
+          "anchor": "#art-3-2-3-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-8",
+          "line": 4220
+        },
+        {
+          "id": "art-3-2-3-9",
+          "anchor": "#art-3-2-3-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-9",
+          "line": 4225
+        },
+        {
+          "id": "art-3-2-3-10",
+          "anchor": "#art-3-2-3-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-10",
+          "line": 4228
+        },
+        {
+          "id": "art-3-2-3-11",
+          "anchor": "#art-3-2-3-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-11",
+          "line": 4236
+        },
+        {
+          "id": "art-3-2-3-12",
+          "anchor": "#art-3-2-3-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-12",
+          "line": 4244
+        },
+        {
+          "id": "art-3-2-3-13",
+          "anchor": "#art-3-2-3-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-13",
+          "line": 4247
+        },
+        {
+          "id": "art-3-2-3-14",
+          "anchor": "#art-3-2-3-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-14",
+          "line": 4251
+        },
+        {
+          "id": "art-3-2-3-15",
+          "anchor": "#art-3-2-3-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-15",
+          "line": 4255
+        },
+        {
+          "id": "art-3-2-3-16",
+          "anchor": "#art-3-2-3-16",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-16",
+          "line": 4264
+        },
+        {
+          "id": "art-3-2-3-17",
+          "anchor": "#art-3-2-3-17",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-17",
+          "line": 4276
+        },
+        {
+          "id": "art-3-2-3-18",
+          "anchor": "#art-3-2-3-18",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-18",
+          "line": 4288
+        },
+        {
+          "id": "art-3-2-3-19",
+          "anchor": "#art-3-2-3-19",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-19",
+          "line": 4291
+        },
+        {
+          "id": "art-3-2-3-20",
+          "anchor": "#art-3-2-3-20",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-3-20",
+          "line": 4298
+        },
+        {
+          "id": "art-3-2-4-1",
+          "anchor": "#art-3-2-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-1",
+          "line": 4305
+        },
+        {
+          "id": "art-3-2-4-2",
+          "anchor": "#art-3-2-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-2",
+          "line": 4310
+        },
+        {
+          "id": "art-3-2-4-3",
+          "anchor": "#art-3-2-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-3",
+          "line": 4315
+        },
+        {
+          "id": "art-3-2-4-4",
+          "anchor": "#art-3-2-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-4",
+          "line": 4333
+        },
+        {
+          "id": "art-3-2-4-5",
+          "anchor": "#art-3-2-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-5",
+          "line": 4352
+        },
+        {
+          "id": "art-3-2-4-6",
+          "anchor": "#art-3-2-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-6",
+          "line": 4361
+        },
+        {
+          "id": "art-3-2-4-7",
+          "anchor": "#art-3-2-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-7",
+          "line": 4372
+        },
+        {
+          "id": "art-3-2-4-8",
+          "anchor": "#art-3-2-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-8",
+          "line": 4376
+        },
+        {
+          "id": "art-3-2-4-9",
+          "anchor": "#art-3-2-4-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-9",
+          "line": 4391
+        },
+        {
+          "id": "art-3-2-4-10",
+          "anchor": "#art-3-2-4-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-10",
+          "line": 4413
+        },
+        {
+          "id": "art-3-2-4-11",
+          "anchor": "#art-3-2-4-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-4-11",
+          "line": 4416
+        },
+        {
+          "id": "art-3-2-5-1",
+          "anchor": "#art-3-2-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-1",
+          "line": 4424
+        },
+        {
+          "id": "art-3-2-5-2",
+          "anchor": "#art-3-2-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-2",
+          "line": 4428
+        },
+        {
+          "id": "art-3-2-5-3",
+          "anchor": "#art-3-2-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-3",
+          "line": 4431
+        },
+        {
+          "id": "art-3-2-5-4",
+          "anchor": "#art-3-2-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-4",
+          "line": 4440
+        },
+        {
+          "id": "art-3-2-5-5",
+          "anchor": "#art-3-2-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-5",
+          "line": 4450
+        },
+        {
+          "id": "art-3-2-5-6",
+          "anchor": "#art-3-2-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-6",
+          "line": 4453
+        },
+        {
+          "id": "art-3-2-5-7",
+          "anchor": "#art-3-2-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-7",
+          "line": 4459
+        },
+        {
+          "id": "art-3-2-5-8",
+          "anchor": "#art-3-2-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-8",
+          "line": 4462
+        },
+        {
+          "id": "art-3-2-5-9",
+          "anchor": "#art-3-2-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-5-9",
+          "line": 4469
+        },
+        {
+          "id": "art-3-2-6-1",
+          "anchor": "#art-3-2-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-1",
+          "line": 4475
+        },
+        {
+          "id": "art-3-2-6-2",
+          "anchor": "#art-3-2-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-2",
+          "line": 4478
+        },
+        {
+          "id": "art-3-2-6-3",
+          "anchor": "#art-3-2-6-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-3",
+          "line": 4481
+        },
+        {
+          "id": "art-3-2-6-4",
+          "anchor": "#art-3-2-6-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-4",
+          "line": 4485
+        },
+        {
+          "id": "art-3-2-6-5",
+          "anchor": "#art-3-2-6-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-5",
+          "line": 4491
+        },
+        {
+          "id": "art-3-2-6-6",
+          "anchor": "#art-3-2-6-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-6",
+          "line": 4498
+        },
+        {
+          "id": "art-3-2-6-7",
+          "anchor": "#art-3-2-6-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-7",
+          "line": 4507
+        },
+        {
+          "id": "art-3-2-6-8",
+          "anchor": "#art-3-2-6-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-8",
+          "line": 4516
+        },
+        {
+          "id": "art-3-2-6-9",
+          "anchor": "#art-3-2-6-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-9",
+          "line": 4527
+        },
+        {
+          "id": "art-3-2-6-10",
+          "anchor": "#art-3-2-6-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-10",
+          "line": 4537
+        },
+        {
+          "id": "art-3-2-6-11",
+          "anchor": "#art-3-2-6-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-11",
+          "line": 4546
+        },
+        {
+          "id": "art-3-2-6-12",
+          "anchor": "#art-3-2-6-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-6-12",
+          "line": 4552
+        },
+        {
+          "id": "art-3-2-7-1",
+          "anchor": "#art-3-2-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-1",
+          "line": 4559
+        },
+        {
+          "id": "art-3-2-7-2",
+          "anchor": "#art-3-2-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-2",
+          "line": 4562
+        },
+        {
+          "id": "art-3-2-7-3",
+          "anchor": "#art-3-2-7-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-3",
+          "line": 4571
+        },
+        {
+          "id": "art-3-2-7-4",
+          "anchor": "#art-3-2-7-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-4",
+          "line": 4581
+        },
+        {
+          "id": "art-3-2-7-5",
+          "anchor": "#art-3-2-7-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-5",
+          "line": 4584
+        },
+        {
+          "id": "art-3-2-7-6",
+          "anchor": "#art-3-2-7-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-6",
+          "line": 4591
+        },
+        {
+          "id": "art-3-2-7-7",
+          "anchor": "#art-3-2-7-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-7",
+          "line": 4594
+        },
+        {
+          "id": "art-3-2-7-8",
+          "anchor": "#art-3-2-7-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-7-8",
+          "line": 4597
+        },
+        {
+          "id": "art-3-2-8-1",
+          "anchor": "#art-3-2-8-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-1",
+          "line": 4604
+        },
+        {
+          "id": "art-3-2-8-2",
+          "anchor": "#art-3-2-8-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-2",
+          "line": 4607
+        },
+        {
+          "id": "art-3-2-8-3",
+          "anchor": "#art-3-2-8-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-3",
+          "line": 4611
+        },
+        {
+          "id": "art-3-2-8-4",
+          "anchor": "#art-3-2-8-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-4",
+          "line": 4614
+        },
+        {
+          "id": "art-3-2-8-5",
+          "anchor": "#art-3-2-8-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-5",
+          "line": 4620
+        },
+        {
+          "id": "art-3-2-8-6",
+          "anchor": "#art-3-2-8-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-6",
+          "line": 4627
+        },
+        {
+          "id": "art-3-2-8-7",
+          "anchor": "#art-3-2-8-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-7",
+          "line": 4630
+        },
+        {
+          "id": "art-3-2-8-8",
+          "anchor": "#art-3-2-8-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-8-8",
+          "line": 4633
+        },
+        {
+          "id": "art-3-2-9-1",
+          "anchor": "#art-3-2-9-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-1",
+          "line": 4639
+        },
+        {
+          "id": "art-3-2-9-2",
+          "anchor": "#art-3-2-9-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-2",
+          "line": 4643
+        },
+        {
+          "id": "art-3-2-9-3",
+          "anchor": "#art-3-2-9-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-3",
+          "line": 4646
+        },
+        {
+          "id": "art-3-2-9-4",
+          "anchor": "#art-3-2-9-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-4",
+          "line": 4655
+        },
+        {
+          "id": "art-3-2-9-5",
+          "anchor": "#art-3-2-9-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-5",
+          "line": 4666
+        },
+        {
+          "id": "art-3-2-9-6",
+          "anchor": "#art-3-2-9-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-6",
+          "line": 4672
+        },
+        {
+          "id": "art-3-2-9-7",
+          "anchor": "#art-3-2-9-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-9-7",
+          "line": 4679
+        },
+        {
+          "id": "art-3-2-10-1",
+          "anchor": "#art-3-2-10-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-1",
+          "line": 4686
+        },
+        {
+          "id": "art-3-2-10-2",
+          "anchor": "#art-3-2-10-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-2",
+          "line": 4689
+        },
+        {
+          "id": "art-3-2-10-3",
+          "anchor": "#art-3-2-10-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-3",
+          "line": 4692
+        },
+        {
+          "id": "art-3-2-10-4",
+          "anchor": "#art-3-2-10-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-4",
+          "line": 4696
+        },
+        {
+          "id": "art-3-2-10-5",
+          "anchor": "#art-3-2-10-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-5",
+          "line": 4706
+        },
+        {
+          "id": "art-3-2-10-6",
+          "anchor": "#art-3-2-10-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-6",
+          "line": 4718
+        },
+        {
+          "id": "art-3-2-10-7",
+          "anchor": "#art-3-2-10-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-7",
+          "line": 4721
+        },
+        {
+          "id": "art-3-2-10-8",
+          "anchor": "#art-3-2-10-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-8",
+          "line": 4724
+        },
+        {
+          "id": "art-3-2-10-9",
+          "anchor": "#art-3-2-10-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-9",
+          "line": 4727
+        },
+        {
+          "id": "art-3-2-10-10",
+          "anchor": "#art-3-2-10-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-10",
+          "line": 4733
+        },
+        {
+          "id": "art-3-2-10-11",
+          "anchor": "#art-3-2-10-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-10-11",
+          "line": 4736
+        },
+        {
+          "id": "art-3-2-11-1",
+          "anchor": "#art-3-2-11-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-1",
+          "line": 4742
+        },
+        {
+          "id": "art-3-2-11-2",
+          "anchor": "#art-3-2-11-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-2",
+          "line": 4749
+        },
+        {
+          "id": "art-3-2-11-3",
+          "anchor": "#art-3-2-11-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-3",
+          "line": 4752
+        },
+        {
+          "id": "art-3-2-11-4",
+          "anchor": "#art-3-2-11-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-4",
+          "line": 4763
+        },
+        {
+          "id": "art-3-2-11-5",
+          "anchor": "#art-3-2-11-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-5",
+          "line": 4770
+        },
+        {
+          "id": "art-3-2-11-6",
+          "anchor": "#art-3-2-11-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-6",
+          "line": 4775
+        },
+        {
+          "id": "art-3-2-11-7",
+          "anchor": "#art-3-2-11-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-7",
+          "line": 4782
+        },
+        {
+          "id": "art-3-2-11-8",
+          "anchor": "#art-3-2-11-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-8",
+          "line": 4787
+        },
+        {
+          "id": "art-3-2-11-9",
+          "anchor": "#art-3-2-11-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-9",
+          "line": 4796
+        },
+        {
+          "id": "art-3-2-11-10",
+          "anchor": "#art-3-2-11-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-10",
+          "line": 4803
+        },
+        {
+          "id": "art-3-2-11-11",
+          "anchor": "#art-3-2-11-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-11",
+          "line": 4814
+        },
+        {
+          "id": "art-3-2-11-12",
+          "anchor": "#art-3-2-11-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-12",
+          "line": 4818
+        },
+        {
+          "id": "art-3-2-11-13",
+          "anchor": "#art-3-2-11-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-13",
+          "line": 4828
+        },
+        {
+          "id": "art-3-2-11-14",
+          "anchor": "#art-3-2-11-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-14",
+          "line": 4833
+        },
+        {
+          "id": "art-3-2-11-15",
+          "anchor": "#art-3-2-11-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-15",
+          "line": 4839
+        },
+        {
+          "id": "art-3-2-11-16",
+          "anchor": "#art-3-2-11-16",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-16",
+          "line": 4847
+        },
+        {
+          "id": "art-3-2-11-17",
+          "anchor": "#art-3-2-11-17",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-17",
+          "line": 4855
+        },
+        {
+          "id": "art-3-2-11-18",
+          "anchor": "#art-3-2-11-18",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-18",
+          "line": 4864
+        },
+        {
+          "id": "art-3-2-11-19",
+          "anchor": "#art-3-2-11-19",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-19",
+          "line": 4874
+        },
+        {
+          "id": "art-3-2-11-20",
+          "anchor": "#art-3-2-11-20",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-20",
+          "line": 4885
+        },
+        {
+          "id": "art-3-2-11-21",
+          "anchor": "#art-3-2-11-21",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-21",
+          "line": 4891
+        },
+        {
+          "id": "art-3-2-11-22",
+          "anchor": "#art-3-2-11-22",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-22",
+          "line": 4896
+        },
+        {
+          "id": "art-3-2-11-23",
+          "anchor": "#art-3-2-11-23",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-23",
+          "line": 4899
+        },
+        {
+          "id": "art-3-2-11-24",
+          "anchor": "#art-3-2-11-24",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-24",
+          "line": 4902
+        },
+        {
+          "id": "art-3-2-11-25",
+          "anchor": "#art-3-2-11-25",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-25",
+          "line": 4912
+        },
+        {
+          "id": "art-3-2-11-26",
+          "anchor": "#art-3-2-11-26",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-26",
+          "line": 4923
+        },
+        {
+          "id": "art-3-2-11-27",
+          "anchor": "#art-3-2-11-27",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-27",
+          "line": 4926
+        },
+        {
+          "id": "art-3-2-11-28",
+          "anchor": "#art-3-2-11-28",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-2-11-28",
+          "line": 4935
+        },
+        {
+          "id": "art-3-3-1-1",
+          "anchor": "#art-3-3-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-1-1",
+          "line": 4946
+        },
+        {
+          "id": "art-3-3-1-2",
+          "anchor": "#art-3-3-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-1-2",
+          "line": 4949
+        },
+        {
+          "id": "art-3-3-2-1",
+          "anchor": "#art-3-3-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-1",
+          "line": 4955
+        },
+        {
+          "id": "art-3-3-2-2",
+          "anchor": "#art-3-3-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-2",
+          "line": 4958
+        },
+        {
+          "id": "art-3-3-2-3",
+          "anchor": "#art-3-3-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-3",
+          "line": 4961
+        },
+        {
+          "id": "art-3-3-2-4",
+          "anchor": "#art-3-3-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-4",
+          "line": 4966
+        },
+        {
+          "id": "art-3-3-2-5",
+          "anchor": "#art-3-3-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-5",
+          "line": 4970
+        },
+        {
+          "id": "art-3-3-2-6",
+          "anchor": "#art-3-3-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-6",
+          "line": 4973
+        },
+        {
+          "id": "art-3-3-2-7",
+          "anchor": "#art-3-3-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-7",
+          "line": 4976
+        },
+        {
+          "id": "art-3-3-2-8",
+          "anchor": "#art-3-3-2-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-8",
+          "line": 4979
+        },
+        {
+          "id": "art-3-3-2-9",
+          "anchor": "#art-3-3-2-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-9",
+          "line": 4982
+        },
+        {
+          "id": "art-3-3-2-10",
+          "anchor": "#art-3-3-2-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-10",
+          "line": 4986
+        },
+        {
+          "id": "art-3-3-2-11",
+          "anchor": "#art-3-3-2-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-11",
+          "line": 4991
+        },
+        {
+          "id": "art-3-3-2-12",
+          "anchor": "#art-3-3-2-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-12",
+          "line": 5000
+        },
+        {
+          "id": "art-3-3-2-13",
+          "anchor": "#art-3-3-2-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-13",
+          "line": 5007
+        },
+        {
+          "id": "art-3-3-2-14",
+          "anchor": "#art-3-3-2-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-14",
+          "line": 5011
+        },
+        {
+          "id": "art-3-3-2-15",
+          "anchor": "#art-3-3-2-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-2-15",
+          "line": 5015
+        },
+        {
+          "id": "art-3-3-3-1",
+          "anchor": "#art-3-3-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-1",
+          "line": 5021
+        },
+        {
+          "id": "art-3-3-3-2",
+          "anchor": "#art-3-3-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-2",
+          "line": 5029
+        },
+        {
+          "id": "art-3-3-3-3",
+          "anchor": "#art-3-3-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-3",
+          "line": 5034
+        },
+        {
+          "id": "art-3-3-3-4",
+          "anchor": "#art-3-3-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-4",
+          "line": 5039
+        },
+        {
+          "id": "art-3-3-3-5",
+          "anchor": "#art-3-3-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-5",
+          "line": 5058
+        },
+        {
+          "id": "art-3-3-3-6",
+          "anchor": "#art-3-3-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-6",
+          "line": 5069
+        },
+        {
+          "id": "art-3-3-3-7",
+          "anchor": "#art-3-3-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-7",
+          "line": 5078
+        },
+        {
+          "id": "art-3-3-3-8",
+          "anchor": "#art-3-3-3-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-3-8",
+          "line": 5093
+        },
+        {
+          "id": "art-3-3-4-1",
+          "anchor": "#art-3-3-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-1",
+          "line": 5099
+        },
+        {
+          "id": "art-3-3-4-2",
+          "anchor": "#art-3-3-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-2",
+          "line": 5102
+        },
+        {
+          "id": "art-3-3-4-3",
+          "anchor": "#art-3-3-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-3",
+          "line": 5105
+        },
+        {
+          "id": "art-3-3-4-4",
+          "anchor": "#art-3-3-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-4",
+          "line": 5108
+        },
+        {
+          "id": "art-3-3-4-5",
+          "anchor": "#art-3-3-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-5",
+          "line": 5112
+        },
+        {
+          "id": "art-3-3-4-6",
+          "anchor": "#art-3-3-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-6",
+          "line": 5115
+        },
+        {
+          "id": "art-3-3-4-7",
+          "anchor": "#art-3-3-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-7",
+          "line": 5119
+        },
+        {
+          "id": "art-3-3-4-8",
+          "anchor": "#art-3-3-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-3-3-4-8",
+          "line": 5122
+        },
+        {
+          "id": "art-4-1-1-1",
+          "anchor": "#art-4-1-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-1-1",
+          "line": 5138
+        },
+        {
+          "id": "art-4-1-2-1",
+          "anchor": "#art-4-1-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-2-1",
+          "line": 5145
+        },
+        {
+          "id": "art-4-1-2-2",
+          "anchor": "#art-4-1-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-2-2",
+          "line": 5156
+        },
+        {
+          "id": "art-4-1-3-1",
+          "anchor": "#art-4-1-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-1",
+          "line": 5163
+        },
+        {
+          "id": "art-4-1-3-2",
+          "anchor": "#art-4-1-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-2",
+          "line": 5166
+        },
+        {
+          "id": "art-4-1-3-3",
+          "anchor": "#art-4-1-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-3",
+          "line": 5169
+        },
+        {
+          "id": "art-4-1-3-4",
+          "anchor": "#art-4-1-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-4",
+          "line": 5172
+        },
+        {
+          "id": "art-4-1-3-5",
+          "anchor": "#art-4-1-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-5",
+          "line": 5178
+        },
+        {
+          "id": "art-4-1-3-6",
+          "anchor": "#art-4-1-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-3-6",
+          "line": 5184
+        },
+        {
+          "id": "art-4-1-4-1",
+          "anchor": "#art-4-1-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-1",
+          "line": 5196
+        },
+        {
+          "id": "art-4-1-4-2",
+          "anchor": "#art-4-1-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-2",
+          "line": 5202
+        },
+        {
+          "id": "art-4-1-4-3",
+          "anchor": "#art-4-1-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-3",
+          "line": 5207
+        },
+        {
+          "id": "art-4-1-4-4",
+          "anchor": "#art-4-1-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-4",
+          "line": 5218
+        },
+        {
+          "id": "art-4-1-4-5",
+          "anchor": "#art-4-1-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-5",
+          "line": 5225
+        },
+        {
+          "id": "art-4-1-4-6",
+          "anchor": "#art-4-1-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-6",
+          "line": 5229
+        },
+        {
+          "id": "art-4-1-4-7",
+          "anchor": "#art-4-1-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-7",
+          "line": 5232
+        },
+        {
+          "id": "art-4-1-4-8",
+          "anchor": "#art-4-1-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-8",
+          "line": 5235
+        },
+        {
+          "id": "art-4-1-4-9",
+          "anchor": "#art-4-1-4-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-9",
+          "line": 5241
+        },
+        {
+          "id": "art-4-1-4-10",
+          "anchor": "#art-4-1-4-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-10",
+          "line": 5245
+        },
+        {
+          "id": "art-4-1-4-11",
+          "anchor": "#art-4-1-4-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-11",
+          "line": 5249
+        },
+        {
+          "id": "art-4-1-4-12",
+          "anchor": "#art-4-1-4-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-12",
+          "line": 5254
+        },
+        {
+          "id": "art-4-1-4-13",
+          "anchor": "#art-4-1-4-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-13",
+          "line": 5260
+        },
+        {
+          "id": "art-4-1-4-14",
+          "anchor": "#art-4-1-4-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-14",
+          "line": 5274
+        },
+        {
+          "id": "art-4-1-4-15",
+          "anchor": "#art-4-1-4-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-4-15",
+          "line": 5277
+        },
+        {
+          "id": "art-4-1-5-1",
+          "anchor": "#art-4-1-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-1",
+          "line": 5290
+        },
+        {
+          "id": "art-4-1-5-2",
+          "anchor": "#art-4-1-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-2",
+          "line": 5294
+        },
+        {
+          "id": "art-4-1-5-3",
+          "anchor": "#art-4-1-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-3",
+          "line": 5301
+        },
+        {
+          "id": "art-4-1-5-4",
+          "anchor": "#art-4-1-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-4",
+          "line": 5308
+        },
+        {
+          "id": "art-4-1-5-5",
+          "anchor": "#art-4-1-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-5",
+          "line": 5312
+        },
+        {
+          "id": "art-4-1-5-6",
+          "anchor": "#art-4-1-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-6",
+          "line": 5315
+        },
+        {
+          "id": "art-4-1-5-7",
+          "anchor": "#art-4-1-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-7",
+          "line": 5328
+        },
+        {
+          "id": "art-4-1-5-8",
+          "anchor": "#art-4-1-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-8",
+          "line": 5331
+        },
+        {
+          "id": "art-4-1-5-9",
+          "anchor": "#art-4-1-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-9",
+          "line": 5337
+        },
+        {
+          "id": "art-4-1-5-10",
+          "anchor": "#art-4-1-5-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-10",
+          "line": 5342
+        },
+        {
+          "id": "art-4-1-5-11",
+          "anchor": "#art-4-1-5-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-11",
+          "line": 5347
+        },
+        {
+          "id": "art-4-1-5-12",
+          "anchor": "#art-4-1-5-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-5-12",
+          "line": 5353
+        },
+        {
+          "id": "art-4-1-6-1",
+          "anchor": "#art-4-1-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-6-1",
+          "line": 5361
+        },
+        {
+          "id": "art-4-1-7-1",
+          "anchor": "#art-4-1-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-1-7-1",
+          "line": 5368
+        },
+        {
+          "id": "art-4-2-1-1",
+          "anchor": "#art-4-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-1-1",
+          "line": 5380
+        },
+        {
+          "id": "art-4-2-2-1",
+          "anchor": "#art-4-2-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-2-1",
+          "line": 5387
+        },
+        {
+          "id": "art-4-2-2-2",
+          "anchor": "#art-4-2-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-2-2",
+          "line": 5398
+        },
+        {
+          "id": "art-4-2-3-1",
+          "anchor": "#art-4-2-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-1",
+          "line": 5405
+        },
+        {
+          "id": "art-4-2-3-2",
+          "anchor": "#art-4-2-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-2",
+          "line": 5408
+        },
+        {
+          "id": "art-4-2-3-3",
+          "anchor": "#art-4-2-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-3",
+          "line": 5411
+        },
+        {
+          "id": "art-4-2-3-4",
+          "anchor": "#art-4-2-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-4",
+          "line": 5414
+        },
+        {
+          "id": "art-4-2-3-5",
+          "anchor": "#art-4-2-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-5",
+          "line": 5425
+        },
+        {
+          "id": "art-4-2-3-6",
+          "anchor": "#art-4-2-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-3-6",
+          "line": 5431
+        },
+        {
+          "id": "art-4-2-4-1",
+          "anchor": "#art-4-2-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-1",
+          "line": 5447
+        },
+        {
+          "id": "art-4-2-4-2",
+          "anchor": "#art-4-2-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-2",
+          "line": 5453
+        },
+        {
+          "id": "art-4-2-4-3",
+          "anchor": "#art-4-2-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-3",
+          "line": 5459
+        },
+        {
+          "id": "art-4-2-4-4",
+          "anchor": "#art-4-2-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-4",
+          "line": 5471
+        },
+        {
+          "id": "art-4-2-4-5",
+          "anchor": "#art-4-2-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-5",
+          "line": 5478
+        },
+        {
+          "id": "art-4-2-4-6",
+          "anchor": "#art-4-2-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-6",
+          "line": 5482
+        },
+        {
+          "id": "art-4-2-4-7",
+          "anchor": "#art-4-2-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-7",
+          "line": 5485
+        },
+        {
+          "id": "art-4-2-4-8",
+          "anchor": "#art-4-2-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-8",
+          "line": 5488
+        },
+        {
+          "id": "art-4-2-4-9",
+          "anchor": "#art-4-2-4-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-9",
+          "line": 5494
+        },
+        {
+          "id": "art-4-2-4-10",
+          "anchor": "#art-4-2-4-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-10",
+          "line": 5498
+        },
+        {
+          "id": "art-4-2-4-11",
+          "anchor": "#art-4-2-4-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-11",
+          "line": 5502
+        },
+        {
+          "id": "art-4-2-4-12",
+          "anchor": "#art-4-2-4-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-12",
+          "line": 5507
+        },
+        {
+          "id": "art-4-2-4-13",
+          "anchor": "#art-4-2-4-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-13",
+          "line": 5513
+        },
+        {
+          "id": "art-4-2-4-14",
+          "anchor": "#art-4-2-4-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-14",
+          "line": 5527
+        },
+        {
+          "id": "art-4-2-4-15",
+          "anchor": "#art-4-2-4-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-4-15",
+          "line": 5530
+        },
+        {
+          "id": "art-4-2-5-1",
+          "anchor": "#art-4-2-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-1",
+          "line": 5547
+        },
+        {
+          "id": "art-4-2-5-2",
+          "anchor": "#art-4-2-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-2",
+          "line": 5551
+        },
+        {
+          "id": "art-4-2-5-3",
+          "anchor": "#art-4-2-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-3",
+          "line": 5557
+        },
+        {
+          "id": "art-4-2-5-4",
+          "anchor": "#art-4-2-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-4",
+          "line": 5566
+        },
+        {
+          "id": "art-4-2-5-5",
+          "anchor": "#art-4-2-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-5",
+          "line": 5570
+        },
+        {
+          "id": "art-4-2-5-6",
+          "anchor": "#art-4-2-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-6",
+          "line": 5573
+        },
+        {
+          "id": "art-4-2-5-7",
+          "anchor": "#art-4-2-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-7",
+          "line": 5587
+        },
+        {
+          "id": "art-4-2-5-8",
+          "anchor": "#art-4-2-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-8",
+          "line": 5590
+        },
+        {
+          "id": "art-4-2-5-9",
+          "anchor": "#art-4-2-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-9",
+          "line": 5596
+        },
+        {
+          "id": "art-4-2-5-10",
+          "anchor": "#art-4-2-5-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-10",
+          "line": 5601
+        },
+        {
+          "id": "art-4-2-5-11",
+          "anchor": "#art-4-2-5-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-11",
+          "line": 5606
+        },
+        {
+          "id": "art-4-2-5-12",
+          "anchor": "#art-4-2-5-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-5-12",
+          "line": 5612
+        },
+        {
+          "id": "art-4-2-6-1",
+          "anchor": "#art-4-2-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-6-1",
+          "line": 5620
+        },
+        {
+          "id": "art-4-2-7-1",
+          "anchor": "#art-4-2-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-2-7-1",
+          "line": 5626
+        },
+        {
+          "id": "art-4-3-1-1",
+          "anchor": "#art-4-3-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-1-1",
+          "line": 5638
+        },
+        {
+          "id": "art-4-3-1-2",
+          "anchor": "#art-4-3-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-1-2",
+          "line": 5643
+        },
+        {
+          "id": "art-4-3-2-1",
+          "anchor": "#art-4-3-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-2-1",
+          "line": 5653
+        },
+        {
+          "id": "art-4-3-2-2",
+          "anchor": "#art-4-3-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-2-2",
+          "line": 5672
+        },
+        {
+          "id": "art-4-3-2-3",
+          "anchor": "#art-4-3-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-2-3",
+          "line": 5679
+        },
+        {
+          "id": "art-4-3-2-4",
+          "anchor": "#art-4-3-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-2-4",
+          "line": 5685
+        },
+        {
+          "id": "art-4-3-3-1",
+          "anchor": "#art-4-3-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-3-1",
+          "line": 5693
+        },
+        {
+          "id": "art-4-3-3-2",
+          "anchor": "#art-4-3-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-3-2",
+          "line": 5702
+        },
+        {
+          "id": "art-4-3-4-1-1",
+          "anchor": "#art-4-3-4-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-1-1",
+          "line": 5711
+        },
+        {
+          "id": "art-4-3-4-1-2",
+          "anchor": "#art-4-3-4-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-1-2",
+          "line": 5715
+        },
+        {
+          "id": "art-4-3-4-1-3",
+          "anchor": "#art-4-3-4-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-1-3",
+          "line": 5719
+        },
+        {
+          "id": "art-4-3-4-1-4",
+          "anchor": "#art-4-3-4-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-1-4",
+          "line": 5724
+        },
+        {
+          "id": "art-4-3-4-2-1",
+          "anchor": "#art-4-3-4-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-1",
+          "line": 5734
+        },
+        {
+          "id": "art-4-3-4-2-2",
+          "anchor": "#art-4-3-4-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-2",
+          "line": 5741
+        },
+        {
+          "id": "art-4-3-4-2-3",
+          "anchor": "#art-4-3-4-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-3",
+          "line": 5751
+        },
+        {
+          "id": "art-4-3-4-2-4",
+          "anchor": "#art-4-3-4-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-4",
+          "line": 5760
+        },
+        {
+          "id": "art-4-3-4-2-5",
+          "anchor": "#art-4-3-4-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-5",
+          "line": 5763
+        },
+        {
+          "id": "art-4-3-4-2-6",
+          "anchor": "#art-4-3-4-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-6",
+          "line": 5769
+        },
+        {
+          "id": "art-4-3-4-2-7",
+          "anchor": "#art-4-3-4-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-4-2-7",
+          "line": 5774
+        },
+        {
+          "id": "art-4-3-5-1",
+          "anchor": "#art-4-3-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-1",
+          "line": 5781
+        },
+        {
+          "id": "art-4-3-5-2",
+          "anchor": "#art-4-3-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-2",
+          "line": 5789
+        },
+        {
+          "id": "art-4-3-5-3",
+          "anchor": "#art-4-3-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-3",
+          "line": 5798
+        },
+        {
+          "id": "art-4-3-5-4",
+          "anchor": "#art-4-3-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-4",
+          "line": 5807
+        },
+        {
+          "id": "art-4-3-5-5",
+          "anchor": "#art-4-3-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-5",
+          "line": 5816
+        },
+        {
+          "id": "art-4-3-5-6",
+          "anchor": "#art-4-3-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-6",
+          "line": 5825
+        },
+        {
+          "id": "art-4-3-5-7",
+          "anchor": "#art-4-3-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-7",
+          "line": 5834
+        },
+        {
+          "id": "art-4-3-5-8",
+          "anchor": "#art-4-3-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-8",
+          "line": 5843
+        },
+        {
+          "id": "art-4-3-5-9",
+          "anchor": "#art-4-3-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-9",
+          "line": 5850
+        },
+        {
+          "id": "art-4-3-5-10",
+          "anchor": "#art-4-3-5-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-10",
+          "line": 5857
+        },
+        {
+          "id": "art-4-3-5-11",
+          "anchor": "#art-4-3-5-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-11",
+          "line": 5863
+        },
+        {
+          "id": "art-4-3-5-12",
+          "anchor": "#art-4-3-5-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-12",
+          "line": 5866
+        },
+        {
+          "id": "art-4-3-5-13",
+          "anchor": "#art-4-3-5-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-13",
+          "line": 5875
+        },
+        {
+          "id": "art-4-3-5-14",
+          "anchor": "#art-4-3-5-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-14",
+          "line": 5881
+        },
+        {
+          "id": "art-4-3-5-15",
+          "anchor": "#art-4-3-5-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-15",
+          "line": 5885
+        },
+        {
+          "id": "art-4-3-5-16",
+          "anchor": "#art-4-3-5-16",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-16",
+          "line": 5888
+        },
+        {
+          "id": "art-4-3-5-17",
+          "anchor": "#art-4-3-5-17",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-17",
+          "line": 5892
+        },
+        {
+          "id": "art-4-3-5-18",
+          "anchor": "#art-4-3-5-18",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-18",
+          "line": 5896
+        },
+        {
+          "id": "art-4-3-5-19",
+          "anchor": "#art-4-3-5-19",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-19",
+          "line": 5900
+        },
+        {
+          "id": "art-4-3-5-20",
+          "anchor": "#art-4-3-5-20",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-20",
+          "line": 5905
+        },
+        {
+          "id": "art-4-3-5-21",
+          "anchor": "#art-4-3-5-21",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-5-21",
+          "line": 5909
+        },
+        {
+          "id": "art-4-3-6-1",
+          "anchor": "#art-4-3-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-6-1",
+          "line": 5918
+        },
+        {
+          "id": "art-4-3-6-2",
+          "anchor": "#art-4-3-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-6-2",
+          "line": 5921
+        },
+        {
+          "id": "art-4-3-6-3",
+          "anchor": "#art-4-3-6-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-6-3",
+          "line": 5925
+        },
+        {
+          "id": "art-4-3-6-4",
+          "anchor": "#art-4-3-6-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-6-4",
+          "line": 5928
+        },
+        {
+          "id": "art-4-3-7-1",
+          "anchor": "#art-4-3-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-4-3-7-1",
+          "line": 5934
+        },
+        {
+          "id": "art-5-1-1",
+          "anchor": "#art-5-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-1-1",
+          "line": 5946
+        },
+        {
+          "id": "art-5-1-2",
+          "anchor": "#art-5-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-1-2",
+          "line": 5949
+        },
+        {
+          "id": "art-5-1-3",
+          "anchor": "#art-5-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-1-3",
+          "line": 5953
+        },
+        {
+          "id": "art-5-1-4",
+          "anchor": "#art-5-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-1-4",
+          "line": 5956
+        },
+        {
+          "id": "art-5-2-1",
+          "anchor": "#art-5-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-2-1",
+          "line": 5962
+        },
+        {
+          "id": "art-5-2-2",
+          "anchor": "#art-5-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-2-2",
+          "line": 5965
+        },
+        {
+          "id": "art-5-2-3",
+          "anchor": "#art-5-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-2-3",
+          "line": 5969
+        },
+        {
+          "id": "art-5-2-4",
+          "anchor": "#art-5-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-2-4",
+          "line": 5973
+        },
+        {
+          "id": "art-5-3-1",
+          "anchor": "#art-5-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-3-1",
+          "line": 5979
+        },
+        {
+          "id": "art-5-3-2",
+          "anchor": "#art-5-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-3-2",
+          "line": 5982
+        },
+        {
+          "id": "art-5-4-1",
+          "anchor": "#art-5-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-4-1",
+          "line": 5989
+        },
+        {
+          "id": "art-5-4-2",
+          "anchor": "#art-5-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-4-2",
+          "line": 5992
+        },
+        {
+          "id": "art-5-4-3",
+          "anchor": "#art-5-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-4-3",
+          "line": 5995
+        },
+        {
+          "id": "art-5-5-1",
+          "anchor": "#art-5-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-1",
+          "line": 6003
+        },
+        {
+          "id": "art-5-5-2",
+          "anchor": "#art-5-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-2",
+          "line": 6006
+        },
+        {
+          "id": "art-5-5-3",
+          "anchor": "#art-5-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-3",
+          "line": 6017
+        },
+        {
+          "id": "art-5-5-4",
+          "anchor": "#art-5-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-4",
+          "line": 6021
+        },
+        {
+          "id": "art-5-5-5",
+          "anchor": "#art-5-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-5",
+          "line": 6025
+        },
+        {
+          "id": "art-5-5-6",
+          "anchor": "#art-5-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-6",
+          "line": 6033
+        },
+        {
+          "id": "art-5-5-7",
+          "anchor": "#art-5-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-5-7",
+          "line": 6036
+        },
+        {
+          "id": "art-5-6-1",
+          "anchor": "#art-5-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-6-1",
+          "line": 6045
+        },
+        {
+          "id": "art-5-6-2",
+          "anchor": "#art-5-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-6-2",
+          "line": 6049
+        },
+        {
+          "id": "art-5-7-1",
+          "anchor": "#art-5-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-5-7-1",
+          "line": 6055
+        },
+        {
+          "id": "art-6-1-1-1",
+          "anchor": "#art-6-1-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-1-1",
+          "line": 6072
+        },
+        {
+          "id": "art-6-1-1-2",
+          "anchor": "#art-6-1-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-1-2",
+          "line": 6089
+        },
+        {
+          "id": "art-6-1-1-3",
+          "anchor": "#art-6-1-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-1-3",
+          "line": 6094
+        },
+        {
+          "id": "art-6-1-1-4",
+          "anchor": "#art-6-1-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-1-4",
+          "line": 6098
+        },
+        {
+          "id": "art-6-1-2-1",
+          "anchor": "#art-6-1-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-2-1",
+          "line": 6105
+        },
+        {
+          "id": "art-6-1-2-2",
+          "anchor": "#art-6-1-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-2-2",
+          "line": 6108
+        },
+        {
+          "id": "art-6-1-2-3",
+          "anchor": "#art-6-1-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-2-3",
+          "line": 6117
+        },
+        {
+          "id": "art-6-1-2-4",
+          "anchor": "#art-6-1-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-2-4",
+          "line": 6121
+        },
+        {
+          "id": "art-6-1-3-1",
+          "anchor": "#art-6-1-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-1",
+          "line": 6129
+        },
+        {
+          "id": "art-6-1-3-2",
+          "anchor": "#art-6-1-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-2",
+          "line": 6134
+        },
+        {
+          "id": "art-6-1-3-3",
+          "anchor": "#art-6-1-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-3",
+          "line": 6141
+        },
+        {
+          "id": "art-6-1-3-4",
+          "anchor": "#art-6-1-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-4",
+          "line": 6146
+        },
+        {
+          "id": "art-6-1-3-5",
+          "anchor": "#art-6-1-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-5",
+          "line": 6149
+        },
+        {
+          "id": "art-6-1-3-6",
+          "anchor": "#art-6-1-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-6",
+          "line": 6152
+        },
+        {
+          "id": "art-6-1-3-7",
+          "anchor": "#art-6-1-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-7",
+          "line": 6155
+        },
+        {
+          "id": "art-6-1-3-8",
+          "anchor": "#art-6-1-3-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-8",
+          "line": 6158
+        },
+        {
+          "id": "art-6-1-3-9",
+          "anchor": "#art-6-1-3-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-9",
+          "line": 6162
+        },
+        {
+          "id": "art-6-1-3-10",
+          "anchor": "#art-6-1-3-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-10",
+          "line": 6167
+        },
+        {
+          "id": "art-6-1-3-11",
+          "anchor": "#art-6-1-3-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-3-11",
+          "line": 6170
+        },
+        {
+          "id": "art-6-1-4-1",
+          "anchor": "#art-6-1-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-1",
+          "line": 6176
+        },
+        {
+          "id": "art-6-1-4-2",
+          "anchor": "#art-6-1-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-2",
+          "line": 6181
+        },
+        {
+          "id": "art-6-1-4-3",
+          "anchor": "#art-6-1-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-3",
+          "line": 6185
+        },
+        {
+          "id": "art-6-1-4-4",
+          "anchor": "#art-6-1-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-4",
+          "line": 6190
+        },
+        {
+          "id": "art-6-1-4-5",
+          "anchor": "#art-6-1-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-5",
+          "line": 6193
+        },
+        {
+          "id": "art-6-1-4-6",
+          "anchor": "#art-6-1-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-6",
+          "line": 6196
+        },
+        {
+          "id": "art-6-1-4-7",
+          "anchor": "#art-6-1-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-7",
+          "line": 6201
+        },
+        {
+          "id": "art-6-1-4-8",
+          "anchor": "#art-6-1-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-8",
+          "line": 6204
+        },
+        {
+          "id": "art-6-1-4-9",
+          "anchor": "#art-6-1-4-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-4-9",
+          "line": 6208
+        },
+        {
+          "id": "art-6-1-5-1",
+          "anchor": "#art-6-1-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-1",
+          "line": 6214
+        },
+        {
+          "id": "art-6-1-5-2",
+          "anchor": "#art-6-1-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-2",
+          "line": 6218
+        },
+        {
+          "id": "art-6-1-5-3",
+          "anchor": "#art-6-1-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-3",
+          "line": 6224
+        },
+        {
+          "id": "art-6-1-5-4",
+          "anchor": "#art-6-1-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-4",
+          "line": 6227
+        },
+        {
+          "id": "art-6-1-5-5",
+          "anchor": "#art-6-1-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-5",
+          "line": 6236
+        },
+        {
+          "id": "art-6-1-5-6",
+          "anchor": "#art-6-1-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-6",
+          "line": 6248
+        },
+        {
+          "id": "art-6-1-5-7",
+          "anchor": "#art-6-1-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-7",
+          "line": 6256
+        },
+        {
+          "id": "art-6-1-5-8",
+          "anchor": "#art-6-1-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-8",
+          "line": 6265
+        },
+        {
+          "id": "art-6-1-5-9",
+          "anchor": "#art-6-1-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-9",
+          "line": 6276
+        },
+        {
+          "id": "art-6-1-5-10",
+          "anchor": "#art-6-1-5-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-10",
+          "line": 6283
+        },
+        {
+          "id": "art-6-1-5-11",
+          "anchor": "#art-6-1-5-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-11",
+          "line": 6286
+        },
+        {
+          "id": "art-6-1-5-12",
+          "anchor": "#art-6-1-5-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-12",
+          "line": 6289
+        },
+        {
+          "id": "art-6-1-5-13",
+          "anchor": "#art-6-1-5-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-13",
+          "line": 6294
+        },
+        {
+          "id": "art-6-1-5-14",
+          "anchor": "#art-6-1-5-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-14",
+          "line": 6298
+        },
+        {
+          "id": "art-6-1-5-15",
+          "anchor": "#art-6-1-5-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-15",
+          "line": 6302
+        },
+        {
+          "id": "art-6-1-5-16",
+          "anchor": "#art-6-1-5-16",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-16",
+          "line": 6308
+        },
+        {
+          "id": "art-6-1-5-17",
+          "anchor": "#art-6-1-5-17",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-17",
+          "line": 6319
+        },
+        {
+          "id": "art-6-1-5-18",
+          "anchor": "#art-6-1-5-18",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-5-18",
+          "line": 6322
+        },
+        {
+          "id": "art-6-1-6-1",
+          "anchor": "#art-6-1-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-6-1",
+          "line": 6350
+        },
+        {
+          "id": "art-6-1-6-2",
+          "anchor": "#art-6-1-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-6-2",
+          "line": 6353
+        },
+        {
+          "id": "art-6-1-6-3",
+          "anchor": "#art-6-1-6-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-6-3",
+          "line": 6356
+        },
+        {
+          "id": "art-6-1-7-1",
+          "anchor": "#art-6-1-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-1-7-1",
+          "line": 6363
+        },
+        {
+          "id": "art-6-2-1-1",
+          "anchor": "#art-6-2-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-1",
+          "line": 6380
+        },
+        {
+          "id": "art-6-2-1-2",
+          "anchor": "#art-6-2-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-2",
+          "line": 6385
+        },
+        {
+          "id": "art-6-2-1-3",
+          "anchor": "#art-6-2-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-3",
+          "line": 6388
+        },
+        {
+          "id": "art-6-2-1-4",
+          "anchor": "#art-6-2-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-4",
+          "line": 6391
+        },
+        {
+          "id": "art-6-2-1-5",
+          "anchor": "#art-6-2-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-5",
+          "line": 6396
+        },
+        {
+          "id": "art-6-2-1-6",
+          "anchor": "#art-6-2-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-6",
+          "line": 6399
+        },
+        {
+          "id": "art-6-2-1-7",
+          "anchor": "#art-6-2-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-7",
+          "line": 6402
+        },
+        {
+          "id": "art-6-2-1-8",
+          "anchor": "#art-6-2-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-8",
+          "line": 6406
+        },
+        {
+          "id": "art-6-2-1-9",
+          "anchor": "#art-6-2-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-1-9",
+          "line": 6409
+        },
+        {
+          "id": "art-6-2-2-1",
+          "anchor": "#art-6-2-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-1",
+          "line": 6415
+        },
+        {
+          "id": "art-6-2-2-2",
+          "anchor": "#art-6-2-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-2",
+          "line": 6418
+        },
+        {
+          "id": "art-6-2-2-3",
+          "anchor": "#art-6-2-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-3",
+          "line": 6421
+        },
+        {
+          "id": "art-6-2-2-4",
+          "anchor": "#art-6-2-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-4",
+          "line": 6425
+        },
+        {
+          "id": "art-6-2-2-5",
+          "anchor": "#art-6-2-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-5",
+          "line": 6430
+        },
+        {
+          "id": "art-6-2-2-6",
+          "anchor": "#art-6-2-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-6",
+          "line": 6433
+        },
+        {
+          "id": "art-6-2-2-7",
+          "anchor": "#art-6-2-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-7",
+          "line": 6436
+        },
+        {
+          "id": "art-6-2-2-8",
+          "anchor": "#art-6-2-2-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-8",
+          "line": 6440
+        },
+        {
+          "id": "art-6-2-2-9",
+          "anchor": "#art-6-2-2-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-9",
+          "line": 6444
+        },
+        {
+          "id": "art-6-2-2-10",
+          "anchor": "#art-6-2-2-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-10",
+          "line": 6447
+        },
+        {
+          "id": "art-6-2-2-11",
+          "anchor": "#art-6-2-2-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-11",
+          "line": 6451
+        },
+        {
+          "id": "art-6-2-2-12",
+          "anchor": "#art-6-2-2-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-2-2-12",
+          "line": 6455
+        },
+        {
+          "id": "art-6-3-1-1",
+          "anchor": "#art-6-3-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-1",
+          "line": 6466
+        },
+        {
+          "id": "art-6-3-1-2",
+          "anchor": "#art-6-3-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-2",
+          "line": 6470
+        },
+        {
+          "id": "art-6-3-1-3",
+          "anchor": "#art-6-3-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-3",
+          "line": 6479
+        },
+        {
+          "id": "art-6-3-1-4",
+          "anchor": "#art-6-3-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-4",
+          "line": 6482
+        },
+        {
+          "id": "art-6-3-1-5",
+          "anchor": "#art-6-3-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-5",
+          "line": 6489
+        },
+        {
+          "id": "art-6-3-1-6",
+          "anchor": "#art-6-3-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-6",
+          "line": 6494
+        },
+        {
+          "id": "art-6-3-1-7",
+          "anchor": "#art-6-3-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-7",
+          "line": 6498
+        },
+        {
+          "id": "art-6-3-1-8",
+          "anchor": "#art-6-3-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-1-8",
+          "line": 6503
+        },
+        {
+          "id": "art-6-3-2-1",
+          "anchor": "#art-6-3-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-1",
+          "line": 6509
+        },
+        {
+          "id": "art-6-3-2-2",
+          "anchor": "#art-6-3-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-2",
+          "line": 6513
+        },
+        {
+          "id": "art-6-3-2-3",
+          "anchor": "#art-6-3-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-3",
+          "line": 6517
+        },
+        {
+          "id": "art-6-3-2-4",
+          "anchor": "#art-6-3-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-4",
+          "line": 6521
+        },
+        {
+          "id": "art-6-3-2-5",
+          "anchor": "#art-6-3-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-5",
+          "line": 6524
+        },
+        {
+          "id": "art-6-3-2-6",
+          "anchor": "#art-6-3-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-6",
+          "line": 6529
+        },
+        {
+          "id": "art-6-3-2-7",
+          "anchor": "#art-6-3-2-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-3-2-7",
+          "line": 6533
+        },
+        {
+          "id": "art-6-4-1",
+          "anchor": "#art-6-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-1",
+          "line": 6541
+        },
+        {
+          "id": "art-6-4-2",
+          "anchor": "#art-6-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-2",
+          "line": 6544
+        },
+        {
+          "id": "art-6-4-3",
+          "anchor": "#art-6-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-3",
+          "line": 6547
+        },
+        {
+          "id": "art-6-4-4",
+          "anchor": "#art-6-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-4",
+          "line": 6550
+        },
+        {
+          "id": "art-6-4-5",
+          "anchor": "#art-6-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-5",
+          "line": 6554
+        },
+        {
+          "id": "art-6-4-6",
+          "anchor": "#art-6-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-6",
+          "line": 6557
+        },
+        {
+          "id": "art-6-4-7",
+          "anchor": "#art-6-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-7",
+          "line": 6561
+        },
+        {
+          "id": "art-6-4-8",
+          "anchor": "#art-6-4-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-6-4-8",
+          "line": 6564
+        },
+        {
+          "id": "art-7-1-1",
+          "anchor": "#art-7-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-1-1",
+          "line": 6576
+        },
+        {
+          "id": "art-7-1-2",
+          "anchor": "#art-7-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-1-2",
+          "line": 6582
+        },
+        {
+          "id": "art-7-1-3",
+          "anchor": "#art-7-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-1-3",
+          "line": 6585
+        },
+        {
+          "id": "art-7-1-4",
+          "anchor": "#art-7-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-1-4",
+          "line": 6590
+        },
+        {
+          "id": "art-7-2-1",
+          "anchor": "#art-7-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-2-1",
+          "line": 6596
+        },
+        {
+          "id": "art-7-2-2",
+          "anchor": "#art-7-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-2-2",
+          "line": 6600
+        },
+        {
+          "id": "art-7-2-3",
+          "anchor": "#art-7-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-2-3",
+          "line": 6603
+        },
+        {
+          "id": "art-7-2-4",
+          "anchor": "#art-7-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-2-4",
+          "line": 6608
+        },
+        {
+          "id": "art-7-3-1",
+          "anchor": "#art-7-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-1",
+          "line": 6615
+        },
+        {
+          "id": "art-7-3-2",
+          "anchor": "#art-7-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-2",
+          "line": 6620
+        },
+        {
+          "id": "art-7-3-3",
+          "anchor": "#art-7-3-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-3",
+          "line": 6623
+        },
+        {
+          "id": "art-7-3-4",
+          "anchor": "#art-7-3-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-4",
+          "line": 6628
+        },
+        {
+          "id": "art-7-3-5",
+          "anchor": "#art-7-3-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-5",
+          "line": 6631
+        },
+        {
+          "id": "art-7-3-6",
+          "anchor": "#art-7-3-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-6",
+          "line": 6634
+        },
+        {
+          "id": "art-7-3-7",
+          "anchor": "#art-7-3-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-7",
+          "line": 6640
+        },
+        {
+          "id": "art-7-3-8",
+          "anchor": "#art-7-3-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-8",
+          "line": 6643
+        },
+        {
+          "id": "art-7-3-9",
+          "anchor": "#art-7-3-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-9",
+          "line": 6646
+        },
+        {
+          "id": "art-7-3-10",
+          "anchor": "#art-7-3-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-3-10",
+          "line": 6649
+        },
+        {
+          "id": "art-7-4-1",
+          "anchor": "#art-7-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-1",
+          "line": 6655
+        },
+        {
+          "id": "art-7-4-2",
+          "anchor": "#art-7-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-2",
+          "line": 6658
+        },
+        {
+          "id": "art-7-4-3",
+          "anchor": "#art-7-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-3",
+          "line": 6662
+        },
+        {
+          "id": "art-7-4-4",
+          "anchor": "#art-7-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-4",
+          "line": 6665
+        },
+        {
+          "id": "art-7-4-5",
+          "anchor": "#art-7-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-5",
+          "line": 6668
+        },
+        {
+          "id": "art-7-4-6",
+          "anchor": "#art-7-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-6",
+          "line": 6671
+        },
+        {
+          "id": "art-7-4-7",
+          "anchor": "#art-7-4-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-4-7",
+          "line": 6674
+        },
+        {
+          "id": "art-7-5-1",
+          "anchor": "#art-7-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-1",
+          "line": 6680
+        },
+        {
+          "id": "art-7-5-2",
+          "anchor": "#art-7-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-2",
+          "line": 6683
+        },
+        {
+          "id": "art-7-5-3",
+          "anchor": "#art-7-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-3",
+          "line": 6687
+        },
+        {
+          "id": "art-7-5-4",
+          "anchor": "#art-7-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-4",
+          "line": 6691
+        },
+        {
+          "id": "art-7-5-5",
+          "anchor": "#art-7-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-5",
+          "line": 6694
+        },
+        {
+          "id": "art-7-5-6",
+          "anchor": "#art-7-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-6",
+          "line": 6697
+        },
+        {
+          "id": "art-7-5-7",
+          "anchor": "#art-7-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-7",
+          "line": 6700
+        },
+        {
+          "id": "art-7-5-8",
+          "anchor": "#art-7-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-8",
+          "line": 6703
+        },
+        {
+          "id": "art-7-5-9",
+          "anchor": "#art-7-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-9",
+          "line": 6706
+        },
+        {
+          "id": "art-7-5-10",
+          "anchor": "#art-7-5-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-10",
+          "line": 6710
+        },
+        {
+          "id": "art-7-5-11",
+          "anchor": "#art-7-5-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-11",
+          "line": 6714
+        },
+        {
+          "id": "art-7-5-12",
+          "anchor": "#art-7-5-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-12",
+          "line": 6717
+        },
+        {
+          "id": "art-7-5-13",
+          "anchor": "#art-7-5-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-13",
+          "line": 6720
+        },
+        {
+          "id": "art-7-5-14",
+          "anchor": "#art-7-5-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-5-14",
+          "line": 6723
+        },
+        {
+          "id": "art-7-6-1",
+          "anchor": "#art-7-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-6-1",
+          "line": 6729
+        },
+        {
+          "id": "art-7-6-2",
+          "anchor": "#art-7-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-6-2",
+          "line": 6737
+        },
+        {
+          "id": "art-7-7-1",
+          "anchor": "#art-7-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-7-1",
+          "line": 6743
+        },
+        {
+          "id": "art-7-7-2",
+          "anchor": "#art-7-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-7-7-2",
+          "line": 6746
+        },
+        {
+          "id": "art-8-1-1",
+          "anchor": "#art-8-1-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-1",
+          "line": 6755
+        },
+        {
+          "id": "art-8-1-2",
+          "anchor": "#art-8-1-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-2",
+          "line": 6772
+        },
+        {
+          "id": "art-8-1-3",
+          "anchor": "#art-8-1-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-3",
+          "line": 6777
+        },
+        {
+          "id": "art-8-1-4",
+          "anchor": "#art-8-1-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-4",
+          "line": 6792
+        },
+        {
+          "id": "art-8-1-5",
+          "anchor": "#art-8-1-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-5",
+          "line": 6802
+        },
+        {
+          "id": "art-8-1-6",
+          "anchor": "#art-8-1-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-6",
+          "line": 6805
+        },
+        {
+          "id": "art-8-1-7",
+          "anchor": "#art-8-1-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-7",
+          "line": 6808
+        },
+        {
+          "id": "art-8-1-8",
+          "anchor": "#art-8-1-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-8",
+          "line": 6812
+        },
+        {
+          "id": "art-8-1-9",
+          "anchor": "#art-8-1-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-9",
+          "line": 6855
+        },
+        {
+          "id": "art-8-1-10",
+          "anchor": "#art-8-1-10",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-10",
+          "line": 6862
+        },
+        {
+          "id": "art-8-1-11",
+          "anchor": "#art-8-1-11",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-11",
+          "line": 6879
+        },
+        {
+          "id": "art-8-1-12",
+          "anchor": "#art-8-1-12",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-12",
+          "line": 6882
+        },
+        {
+          "id": "art-8-1-13",
+          "anchor": "#art-8-1-13",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-13",
+          "line": 6890
+        },
+        {
+          "id": "art-8-1-14",
+          "anchor": "#art-8-1-14",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-14",
+          "line": 6894
+        },
+        {
+          "id": "art-8-1-15",
+          "anchor": "#art-8-1-15",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-15",
+          "line": 6907
+        },
+        {
+          "id": "art-8-1-16",
+          "anchor": "#art-8-1-16",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-1-16",
+          "line": 6910
+        },
+        {
+          "id": "art-8-2-1",
+          "anchor": "#art-8-2-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-1",
+          "line": 6918
+        },
+        {
+          "id": "art-8-2-2",
+          "anchor": "#art-8-2-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-2",
+          "line": 6925
+        },
+        {
+          "id": "art-8-2-3",
+          "anchor": "#art-8-2-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-3",
+          "line": 6930
+        },
+        {
+          "id": "art-8-2-4",
+          "anchor": "#art-8-2-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-4",
+          "line": 6937
+        },
+        {
+          "id": "art-8-2-5",
+          "anchor": "#art-8-2-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-5",
+          "line": 6944
+        },
+        {
+          "id": "art-8-2-6",
+          "anchor": "#art-8-2-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-2-6",
+          "line": 6947
+        },
+        {
+          "id": "art-8-3-1",
+          "anchor": "#art-8-3-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-3-1",
+          "line": 6967
+        },
+        {
+          "id": "art-8-3-2",
+          "anchor": "#art-8-3-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-3-2",
+          "line": 6977
+        },
+        {
+          "id": "art-8-4-1",
+          "anchor": "#art-8-4-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-1",
+          "line": 6983
+        },
+        {
+          "id": "art-8-4-2",
+          "anchor": "#art-8-4-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-2",
+          "line": 6997
+        },
+        {
+          "id": "art-8-4-3",
+          "anchor": "#art-8-4-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-3",
+          "line": 7005
+        },
+        {
+          "id": "art-8-4-4",
+          "anchor": "#art-8-4-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-4",
+          "line": 7008
+        },
+        {
+          "id": "art-8-4-5",
+          "anchor": "#art-8-4-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-5",
+          "line": 7011
+        },
+        {
+          "id": "art-8-4-6",
+          "anchor": "#art-8-4-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-4-6",
+          "line": 7014
+        },
+        {
+          "id": "art-8-5-1",
+          "anchor": "#art-8-5-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-1",
+          "line": 7031
+        },
+        {
+          "id": "art-8-5-2",
+          "anchor": "#art-8-5-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-2",
+          "line": 7039
+        },
+        {
+          "id": "art-8-5-3",
+          "anchor": "#art-8-5-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-3",
+          "line": 7042
+        },
+        {
+          "id": "art-8-5-4",
+          "anchor": "#art-8-5-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-4",
+          "line": 7047
+        },
+        {
+          "id": "art-8-5-5",
+          "anchor": "#art-8-5-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-5",
+          "line": 7058
+        },
+        {
+          "id": "art-8-5-6",
+          "anchor": "#art-8-5-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-6",
+          "line": 7068
+        },
+        {
+          "id": "art-8-5-7",
+          "anchor": "#art-8-5-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-7",
+          "line": 7072
+        },
+        {
+          "id": "art-8-5-8",
+          "anchor": "#art-8-5-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-8",
+          "line": 7076
+        },
+        {
+          "id": "art-8-5-9",
+          "anchor": "#art-8-5-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-5-9",
+          "line": 7079
+        },
+        {
+          "id": "art-8-6-1",
+          "anchor": "#art-8-6-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-6-1",
+          "line": 7087
+        },
+        {
+          "id": "art-8-6-2",
+          "anchor": "#art-8-6-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-6-2",
+          "line": 7093
+        },
+        {
+          "id": "art-8-7-1",
+          "anchor": "#art-8-7-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-1",
+          "line": 7103
+        },
+        {
+          "id": "art-8-7-2",
+          "anchor": "#art-8-7-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-2",
+          "line": 7106
+        },
+        {
+          "id": "art-8-7-3",
+          "anchor": "#art-8-7-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-3",
+          "line": 7109
+        },
+        {
+          "id": "art-8-7-4",
+          "anchor": "#art-8-7-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-4",
+          "line": 7117
+        },
+        {
+          "id": "art-8-7-5",
+          "anchor": "#art-8-7-5",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-5",
+          "line": 7122
+        },
+        {
+          "id": "art-8-7-6",
+          "anchor": "#art-8-7-6",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-6",
+          "line": 7125
+        },
+        {
+          "id": "art-8-7-7",
+          "anchor": "#art-8-7-7",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-7",
+          "line": 7136
+        },
+        {
+          "id": "art-8-7-8",
+          "anchor": "#art-8-7-8",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-8",
+          "line": 7140
+        },
+        {
+          "id": "art-8-7-9",
+          "anchor": "#art-8-7-9",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-8-7-9",
+          "line": 7144
+        },
+        {
+          "id": "art-9-1",
+          "anchor": "#art-9-1",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-9-1",
+          "line": 7151
+        },
+        {
+          "id": "art-9-2",
+          "anchor": "#art-9-2",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-9-2",
+          "line": 7154
+        },
+        {
+          "id": "art-9-3",
+          "anchor": "#art-9-3",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-9-3",
+          "line": 7157
+        },
+        {
+          "id": "art-9-4",
+          "anchor": "#art-9-4",
+          "url_fragment": "legi/normativ-p118-1-2025.md#art-9-4",
+          "line": 7163
+        }
+      ],
+      "article_count": 816
     },
     "ordin-839-2009": {
       "title": "Ordinul nr. 839 din 12 octombrie 2009 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
