@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-12T19:55:14.756Z",
+  "generated_at": "2026-08-12T20:36:22.264Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 165,
-    "acts_full_text": 17,
-    "acts_metadata_only": 148,
-    "article_anchors_total": 1472,
+    "acts_full_text": 18,
+    "acts_metadata_only": 147,
+    "article_anchors_total": 2288,
     "import_logs_total": 167,
     "domains": [
       "anre",
@@ -1075,9 +1075,9 @@
       "type": "normativ",
       "domain": "incendiu",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 816,
+      "anchor_count": 816,
       "file": "legi/normativ-p118-1-2025.md",
       "metadata_file": "metadata/acts/normativ-p118-1-2025.json"
     },
