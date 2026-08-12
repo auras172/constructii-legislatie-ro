@@ -1,0 +1,41 @@
+{
+  "title": "Ordin nr. 119 din 26 februarie 2009 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.430/2005",
+  "short_title": "Ordin MDRL 119/2009",
+  "canonical_citation": "Ordin nr. 119/2009",
+  "type": "ordin",
+  "number": "119",
+  "year": "2009",
+  "issuer": "Ministerul Dezvoltării Regionale și Locuinței",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": ["autorizatii-de-construire", "norme-metodologice", "constructii"],
+  "status": "unknown",
+  "issue_date": "2009-02-26",
+  "publication_date": "2009-03-27",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909",
+  "official_source": "Portal Legislativ — Ordinul nr. 119/26.02.2009; Monitorul Oficial al României, Partea I, nr. 193 din 27 martie 2009",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909",
+  "version": "Forma oficială a ordinului; patru articole și o anexă; textul ordinului și al anexei nu este importat",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Ordinul nr. 119 din 26 februarie 2009, emis de Ministerul Dezvoltării Regionale și Locuinței și publicat în M.Of. nr. 193/27.03.2009. Titlul și Art. I identifică explicit Legea nr. 50/1991 ca actul pentru aplicarea căruia au fost emise normele modificate. Actul modificat direct, Ordinul nr. 1.430/2005, este absent din repository și rămâne referință externă. Art. II conține o regulă tranzitorie raportată la OUG nr. 214/2008, nu o dată globală de intrare în vigoare; effective_date este omisă. Statusul curent nu este declarat explicit și rămâne unknown. Textul ordinului și al anexei nu este importat.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Titlul oficial și Art. I identifică explicit Legea nr. 50/1991 ca actul pentru aplicarea căruia au fost emise normele metodologice modificate; Art. I păstrează citarea actului și trimite la dispozițiile sale.",
+      "source_article": "Titlu; Art. I",
+      "scope": "Normele metodologice de aplicare a Legii nr. 50/1991",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": ["mdrl", "autorizatii", "norme-metodologice", "constructii", "ordin-ministerial"]
+}

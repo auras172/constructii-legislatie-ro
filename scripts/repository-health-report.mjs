@@ -98,10 +98,16 @@ for (const file of jsonFiles) {
 
 function countRelLinks(data) {
   const keys = ['related_acts', 'implements', 'amends', 'amended_by']
-  return keys.reduce((sum, k) => {
+  const legacyCount = keys.reduce((sum, k) => {
     const v = data[k]
     return sum + (Array.isArray(v) ? v.length : 0)
   }, 0)
+
+  if (legacyCount > 0) return legacyCount
+
+  return Array.isArray(data.relationships)
+    ? data.relationships.filter((relationship) => relationship?.confidence === 'confirmed').length
+    : 0
 }
 
 function findImportLog(slug) {
@@ -156,7 +162,7 @@ for (const { slug, data } of acts) {
     }
   }
   if (relCount === 0) {
-    warn('missing_relationships', slug, `No relationship links (related_acts/implements/amends/amended_by)`)
+    warn('missing_relationships', slug, `No relationship links (legacy fields or confirmed structured relationships)`)
   }
   if (isFullText && officialMarkers === false) {
     warn('missing_official_markers', slug, `legi/${slug}.md is missing OFFICIAL_TEXT_START or OFFICIAL_TEXT_END markers`)

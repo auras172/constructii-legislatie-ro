@@ -1158,6 +1158,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrl-119-2009",
+      "label": "Ordin MDRL 119/2009",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrt-1496-2011",
       "label": "Ordin MDRT 1496/2011",
       "type": "ordin",
@@ -3608,6 +3616,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156502"
     },
     {
+      "source": "ordin-mdrl-119-2009",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Titlul oficial și Art. I identifică explicit Legea nr. 50/1991 ca actul pentru aplicarea căruia au fost emise normele metodologice modificate; Art. I păstrează citarea actului și trimite la dispozițiile sale.",
+      "source_article": "Titlu; Art. I",
+      "scope": "Normele metodologice de aplicare a Legii nr. 50/1991",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
+    },
+    {
       "source": "ordin-mdrt-1496-2011",
       "target": "hg-272-1994",
       "relationship": "implements",
@@ -4053,8 +4075,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 163,
-    "confirmed_edges": 275,
+    "total_nodes": 164,
+    "confirmed_edges": 276,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
