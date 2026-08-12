@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDRAP 374/2014 metadata
 - feat(metadata): add Ordin MDRT 1867/2010 metadata
 - feat(metadata): add Ordin MLPDA 3454/2019 metadata
 - feat(metadata): add Ordin MLPDA 3494/2020 metadata
@@ -115,6 +116,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #385 from auras172/codex/metadata-ordin-mdrt-1867-2010
 - Merge pull request #384 from auras172/codex/metadata-ordin-mlpda-3454-2019
 - Merge pull request #383 from auras172/codex/metadata-ordin-mlpda-3494-2020
 - Merge pull request #382 from auras172/codex/metadata-ordin-mti-mdlpa-285-412-2026

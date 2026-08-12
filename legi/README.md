@@ -92,6 +92,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/121063)
   - Status: unknown · publicat în M.Of. nr. 534/30.07.2010 · effective_date omisă · 3 articole · 2 anexe
   - Import log: [import-log/2026-08-12-ordin-mdrt-1867-2010.md](../import-log/2026-08-12-ordin-mdrt-1867-2010.md)
+- [Ordin MDRAP 374/2014](./ordin-mdrap-374-2014.md)
+  - Domain: autorizatii · Amends: Ordin 839/2009, scoped la anexa nr. 7 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/156502)
+  - Status: unknown · publicat în M.Of. nr. 194/19.03.2014 · effective_date omisă · 2 articole · 1 anexă
+  - Import log: [import-log/2026-08-12-ordin-mdrap-374-2014.md](../import-log/2026-08-12-ordin-mdrap-374-2014.md)
 - [Ordin MLPDA 3454/2019](./ordin-mlpda-3454-2019.md)
   - Domain: autorizatii · Amends: Ordin 839/2009 · metadata-only
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/221878)
