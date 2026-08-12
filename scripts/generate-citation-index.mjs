@@ -3,7 +3,7 @@
  * generate-citation-index.mjs
  *
  * Generates citations/citation-index.json — a machine-readable registry
- * mapping every anchored article to its canonical file + line number.
+ * mapping every anchored article, provision, or annex to its canonical file + line number.
  *
  * Usage:
  *   node scripts/generate-citation-index.mjs
@@ -23,8 +23,24 @@ const OUTPUT_FILE = join(CITATIONS_DIR, 'citation-index.json');
 const OFFICIAL_START = '<!-- OFFICIAL_TEXT_START -->';
 const OFFICIAL_END = '<!-- OFFICIAL_TEXT_END -->';
 
-// Matches {#art-N} or {#art-N-b} etc. at end of heading line
-const ANCHOR_RE = /\{#(art-[^}]+)\}/;
+// Supported repository anchor families. Keep this narrower than arbitrary
+// Markdown heading IDs so malformed/unknown anchors cannot enter the index.
+const ANCHOR_RE = /\{#([^}\s]+)\}/g;
+const ANCHOR_FORMATS = [
+  /^art-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+  /^pct-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+  /^anexa-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+];
+
+function readGeneratedAt() {
+  try {
+    const existing = JSON.parse(readFileSync(OUTPUT_FILE, 'utf8'));
+    if (typeof existing.generated_at === 'string' && existing.generated_at.length > 0) {
+      return existing.generated_at;
+    }
+  } catch {}
+  return new Date().toISOString();
+}
 
 function loadMeta(slug) {
   const metaPath = join(ACTS_META_DIR, `${slug}.json`);
@@ -49,28 +65,48 @@ function processFile(slug, filePath) {
   if (startIdx === -1 || endIdx === -1 || startIdx >= endIdx) return null;
 
   const articles = [];
+  const provisions = [];
+  const annexes = [];
 
   for (let i = startIdx + 1; i < endIdx; i++) {
     const line = lines[i];
-    const m = line.match(ANCHOR_RE);
-    if (!m) continue;
+    for (const m of line.matchAll(ANCHOR_RE)) {
+      const anchorId = m[1];
+      if (!ANCHOR_FORMATS.some(format => format.test(anchorId))) {
+        throw new Error(`${slug}:${i + 1} — malformed or unsupported anchor {#${anchorId}}`);
+      }
 
-    const anchorId = m[1]; // e.g. "art-7"
-    articles.push({
-      id: anchorId,
-      anchor: `#${anchorId}`,
-      url_fragment: `legi/${basename(filePath)}#${anchorId}`,
-      line: i + 1, // 1-indexed
-    });
+      const entry = {
+        id: anchorId,
+        anchor: `#${anchorId}`,
+        url_fragment: `legi/${basename(filePath)}#${anchorId}`,
+        line: i + 1, // 1-indexed
+      };
+
+      if (anchorId.startsWith('art-')) articles.push(entry);
+      else if (anchorId.startsWith('pct-')) provisions.push(entry);
+      else if (anchorId.startsWith('anexa-')) annexes.push(entry);
+    }
   }
 
-  return {
+  const result = {
     title: meta.title || meta.short_title || slug,
     slug,
     file: `legi/${basename(filePath)}`,
     articles,
     article_count: articles.length,
   };
+
+  if (provisions.length > 0) {
+    result.provisions = provisions;
+    result.provision_count = provisions.length;
+  }
+  if (annexes.length > 0) {
+    result.annexes = annexes;
+    result.annex_count = annexes.length;
+  }
+
+  return result;
 }
 
 function main() {
@@ -98,7 +134,7 @@ function main() {
   }
 
   const index = {
-    generated_at: new Date().toISOString(),
+    generated_at: readGeneratedAt(),
     acts,
   };
 

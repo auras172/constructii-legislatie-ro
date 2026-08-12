@@ -1,6 +1,6 @@
 # Anchor convention
 
-This document defines the stable anchor convention for article-level citations in this repository.
+This document defines the stable anchor convention for article- and provision-level citations in this repository.
 
 ## Purpose
 
@@ -24,6 +24,7 @@ Article:          #art-{n}
 Paragraph:        #art-{n}-alin-{p}
 Letter:           #art-{n}-alin-{p}-lit-{l}
 Point:            #art-{n}-pct-{k}
+Technical point:  #pct-{n}
 Annex:            #anexa-{n}
 Article in annex: #anexa-{n}-art-{m}
 ```
@@ -35,6 +36,7 @@ Article 1:                          #art-1
 Article 7, paragraph 3:             #art-7-alin-3
 Article 1, paragraph 1, letter a:   #art-1-alin-1-lit-a
 Article 3, point 2:                 #art-3-pct-2
+Technical provision 1.1.1:          #pct-1-1-1
 Annex 1:                            #anexa-1
 Annex 1, article 2:                 #anexa-1-art-2
 ```
@@ -67,11 +69,11 @@ Anchors are placed at the end of the heading line that marks the article boundar
 ### Articolul 7 {#art-7}
 ```
 
-This is the format produced by `scripts/add-article-anchors.mjs` and the format expected by `scripts/validate-citation-anchors.mjs`.
+This is the format produced by repository import tooling and expected by `scripts/validate-citation-anchors.mjs`.
 
 ## What is currently anchored
 
-Only `#art-N` anchors on article headings are implemented. The following are **not yet anchored** (future scope):
+The validator and citation index support `#art-N`, `#pct-N`, and `#anexa-N` anchors. The following are **not yet anchored** (future scope):
 
 - Paragraph-level anchors (`#art-N-alin-P`)
 - Letter-level anchors (`#art-N-alin-P-lit-L`)
