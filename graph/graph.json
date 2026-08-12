@@ -1150,6 +1150,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrap-374-2014",
+      "label": "Ordin MDRAP 374/2014",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrt-1496-2011",
       "label": "Ordin MDRT 1496/2011",
       "type": "ordin",
@@ -3586,6 +3594,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267783"
     },
     {
+      "source": "ordin-mdrap-374-2014",
+      "target": "ordin-839-2009",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că anexa nr. 7 la Normele metodologice aprobate prin Ordinul nr. 839/2009 se modifică și se înlocuiește cu anexa ordinului.",
+      "source_article": "Art. I",
+      "scope": "Anexa nr. 7 «Proces-verbal de constatare și sancționare a contravențiilor»",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156502"
+    },
+    {
       "source": "ordin-mdrt-1496-2011",
       "target": "hg-272-1994",
       "relationship": "implements",
@@ -4031,8 +4053,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 162,
-    "confirmed_edges": 274,
+    "total_nodes": 163,
+    "confirmed_edges": 275,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

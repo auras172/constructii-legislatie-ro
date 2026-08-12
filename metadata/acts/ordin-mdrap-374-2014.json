@@ -1,0 +1,55 @@
+{
+  "title": "Ordin nr. 374 din 19 martie 2014 pentru modificarea anexei nr. 7 la Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009",
+  "short_title": "Ordin MDRAP 374/2014",
+  "canonical_citation": "Ordin nr. 374/2014",
+  "type": "ordin",
+  "number": "374",
+  "year": "2014",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "anexa-7"
+  ],
+  "status": "unknown",
+  "issue_date": "2014-03-19",
+  "publication_date": "2014-03-19",
+  "publication_medium": "monitorul-oficial",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156502",
+  "official_source": "Portal Legislativ — Ordin nr. 374/19.03.2014, ID 156502; Monitorul Oficial al României, Partea I, nr. 194 din 19 martie 2014",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/156502",
+  "version": "Forma originală afișată de Portal Legislativ; două articole și o anexă; textul integral și anexa nu sunt importate",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă Ordinul nr. 374 din 19 martie 2014, emis de Ministerul Dezvoltării Regionale și Administrației Publice și publicat în M.Of. nr. 194/19.03.2014. Art. I modifică și înlocuiește explicit anexa nr. 7 «Proces-verbal de constatare și sancționare a contravențiilor» la Normele metodologice aprobate prin Ordinul nr. 839/2009. Art. II prevede numai publicarea, fără o dată globală distinctă de intrare în vigoare; effective_date este omisă. Statusul curent nu este declarat explicit și este păstrat unknown. Legea nr. 50/1991, HG nr. 525/2013, OG nr. 2/2001, Legea nr. 180/2002, Legea nr. 76/2012, Legea nr. 134/2010 și HG nr. 1/2013 sunt documentate ca referințe contextuale, fără relații graf suplimentare. Textul integral al ordinului și anexa nu sunt importate.",
+  "amends": [
+    "ordin-839-2009"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că anexa nr. 7 la Normele metodologice aprobate prin Ordinul nr. 839/2009 se modifică și se înlocuiește cu anexa ordinului.",
+      "source_article": "Art. I",
+      "scope": "Anexa nr. 7 «Proces-verbal de constatare și sancționare a contravențiilor»",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156502",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": [
+    "autorizatii",
+    "norme-metodologice",
+    "autorizare-constructii",
+    "mdrap",
+    "ordin-374-2014"
+  ]
+}
