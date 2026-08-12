@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:01:02.437Z",
+  "generated_at": "2026-08-12T18:55:41.879Z",
   "acts": {
     "ghid-rtc13-2024": {
       "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
@@ -738,6 +738,56 @@
         }
       ],
       "article_count": 44
+    },
+    "hg-571-2016": {
+      "title": "Hotărârea Guvernului nr. 571 din 10 august 2016 pentru aprobarea categoriilor de construcții și amenajări care se supun avizării și/sau autorizării privind securitatea la incendiu",
+      "slug": "hg-571-2016",
+      "file": "legi/hg-571-2016.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-571-2016.md#art-1",
+          "line": 39
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-571-2016.md#art-2",
+          "line": 50
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-571-2016.md#art-3",
+          "line": 81
+        },
+        {
+          "id": "art-3-1",
+          "anchor": "#art-3-1",
+          "url_fragment": "legi/hg-571-2016.md#art-3-1",
+          "line": 83
+        },
+        {
+          "id": "art-3-2",
+          "anchor": "#art-3-2",
+          "url_fragment": "legi/hg-571-2016.md#art-3-2",
+          "line": 105
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-571-2016.md#art-4",
+          "line": 112
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-571-2016.md#art-5",
+          "line": 117
+        }
+      ],
+      "article_count": 7
     },
     "lege-10-1995": {
       "title": "Legea nr. 10 din 18 ianuarie 1995 privind calitatea în construcții",
