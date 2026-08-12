@@ -180,7 +180,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 | Ordin comun MTI/MDLPA 2245/2069/2025 | executie | ordin | metadata-only | 2 | 0 | 19.01.2026 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True) | [legi/ordin-comun-2245-2069-2025.md](./legi/ordin-comun-2245-2069-2025.md) | [metadata/acts/ordin-comun-2245-2069-2025.json](./metadata/acts/ordin-comun-2245-2069-2025.json) | Modifică tabelul 5 din anexa reglementării AND 532-2022; M.Of. nr. 34/19.01.2026; intrare explicită la publicare; relație `implements` către Legea 10/1995; actul din 2023 și AND 532-2022 rămân externe; status unknown; text tehnic nedisponibil în repo |
 | Ordin comun MTI/MDLPA 285/412/2026 | executie | ordin | metadata-only | 3 | 1 | 06.05.2026 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/310265) | [legi/ordin-mti-mdlpa-285-412-2026.md](./legi/ordin-mti-mdlpa-285-412-2026.md) | [metadata/acts/ordin-mti-mdlpa-285-412-2026.json](./metadata/acts/ordin-mti-mdlpa-285-412-2026.json) | Aprobă DD 509-2024 privind reciclarea mixturilor asfaltice la cald; M.Of. nr. 379/06.05.2026; intrare explicită la publicare; relație `implements` către Legea 10/1995; Ordinul 906/2004 este abrogat extern; status unknown; text tehnic nedisponibil în repo |
 
-**Sumar:** 159 acte urmărite · 16 full-text importate · 143 metadata-only
+**Sumar:** 167 acte urmărite · 18 full-text importate · 149 metadata-only
 
 ---
 

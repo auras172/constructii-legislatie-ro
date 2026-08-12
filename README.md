@@ -9,7 +9,7 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix. Internatio
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [153](./INDEX.md) | 15 | 138 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
+| [167](./INDEX.md) | 18 | 149 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
 
 ## The Problem
 
@@ -36,7 +36,7 @@ It provides:
 - **provenance records** for official-source imports;
 - **metadata** in JSON for machine-readable indexing;
 - **relationships** between acts, including related, implementing, amending, and amended-by links where verified;
-- **citation anchors** for stable article-level references;
+- **citation anchors** for stable article-, provision-, and annex-level references;
 - **validation scripts and CI checks** for metadata, Markdown hygiene, parity, official-text markers, citation anchors, and manifest consistency;
 - **GitHub collaboration workflows** for human and AI-assisted contributions.
 
@@ -122,7 +122,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Citations
 
-Citation anchors allow direct references to article-level sections such as `legi/lege-50-1991.md#art-7`. Citation artifacts live in [citations/](./citations/) where generated.
+Citation anchors allow direct references to article-level sections such as `legi/lege-50-1991.md#art-7` and technical provisions such as `#pct-1-1`. Citation artifacts live in [citations/](./citations/) where generated.
 
 ### Validation
 
