@@ -2,11 +2,11 @@
 /**
  * validate-citation-anchors.mjs
  *
- * Validates that all full-text imported acts have article anchors.
+ * Validates that all full-text imported acts have supported citation anchors.
  *
  * Checks:
- * - All full-text acts have at least 1 {#art-N} anchor
- * - Anchors follow the {#art-N} format
+ * - All full-text acts have at least 1 {#art-N}, {#pct-N}, or {#anexa-N} anchor
+ * - Anchors follow one of the supported repository formats
  * - No duplicate anchors within the same file
  * - citations/citation-index.json exists and contains at least 1 act
  *
@@ -26,7 +26,12 @@ const CITATION_INDEX = join(ROOT, 'citations', 'citation-index.json');
 
 const OFFICIAL_START = '<!-- OFFICIAL_TEXT_START -->';
 const OFFICIAL_END = '<!-- OFFICIAL_TEXT_END -->';
-const ANCHOR_RE = /\{#(art-[^}]+)\}/;
+const ANCHOR_RE = /\{#([^}\s]+)\}/g;
+const ANCHOR_FORMATS = [
+  /^art-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+  /^pct-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+  /^anexa-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/,
+];
 
 let failures = 0;
 
@@ -70,27 +75,25 @@ function validateFile(slug, filePath) {
 
   for (let i = startIdx + 1; i < endIdx; i++) {
     const line = lines[i];
-    const m = line.match(ANCHOR_RE);
-    if (!m) continue;
+    for (const m of line.matchAll(ANCHOR_RE)) {
+      const anchorId = m[1];
 
-    const anchorId = m[1];
+      if (!ANCHOR_FORMATS.some(format => format.test(anchorId))) {
+        fail(`${slug}:${i + 1} — malformed or unsupported anchor {#${anchorId}}`);
+        continue;
+      }
 
-    // Validate format: must be art- followed by digits/hyphens/letters
-    if (!/^art-[a-z0-9]([a-z0-9-]*[a-z0-9])?$/.test(anchorId)) {
-      fail(`${slug}:${i + 1} — malformed anchor {#${anchorId}}`);
+      if (seenAnchors.has(anchorId)) {
+        fail(`${slug}:${i + 1} — duplicate anchor {#${anchorId}}`);
+        hasDuplicate = true;
+      }
+      seenAnchors.add(anchorId);
+      anchorsFound.push(anchorId);
     }
-
-    // Check for duplicates
-    if (seenAnchors.has(anchorId)) {
-      fail(`${slug}:${i + 1} — duplicate anchor {#${anchorId}}`);
-      hasDuplicate = true;
-    }
-    seenAnchors.add(anchorId);
-    anchorsFound.push(anchorId);
   }
 
   if (anchorsFound.length === 0) {
-    fail(`${slug} — no {#art-N} anchors found within OFFICIAL_TEXT block`);
+    fail(`${slug} — no supported citation anchors found within OFFICIAL_TEXT block`);
     return;
   }
 
