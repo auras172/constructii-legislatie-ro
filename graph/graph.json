@@ -94,6 +94,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-1236-2012",
+      "label": "HG 1236/2012",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-1425-2006",
       "label": "HG 1425/2006",
       "type": "hotarare",
@@ -1500,6 +1508,20 @@
       "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275502",
       "evidence_path": "import-log/2026-08-06-ghid-rtc8-2022.md",
       "notes": "Structured annotation for the existing related_acts edge; no topic-only relationships are added."
+    },
+    {
+      "source": "hg-1236-2012",
+      "target": "hg-668-2017",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Art. 2 alin. (2) din HG 668/2017 citează explicit art. 2 din HG 1236/2012 privind stabilirea cadrului instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "source_article": "Art. 2 alin. (2) din HG 668/2017",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
+      "notes": "Relația related_to este utilizată ca relație repo-locală confirmată deoarece citarea explicită provine din actul ulterior; nu se afirmă că HG 1236/2012 modifică sau implementează HG 668/2017."
     },
     {
       "source": "hg-1425-2006",
@@ -4144,8 +4166,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 166,
-    "confirmed_edges": 280,
+    "total_nodes": 167,
+    "confirmed_edges": 281,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

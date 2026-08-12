@@ -778,7 +778,12 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [HG 668/2017](./hg-668-2017.md)
   - Domain: calitate · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 193282](https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282)
-  - Status: unknown · M.Of. nr. 752/20.09.2017 · Art. 1 alin. (1) references art. 5 alin. (1) from Legea 10/1995; Art. 36 derives effective date 19.11.2017 · 38 articles · 1 annex · EU references external · text unavailable in repo
+  - Status: unknown · M.Of. nr. 752/20.09.2017 · Art. 1 alin. (1) references art. 5 alin. (1) from Legea 10/1995; Art. 2 alin. (2) cites HG 1236/2012; Art. 36 derives effective date 19.11.2017 · 38 articles · 1 annex · EU references external · text unavailable in repo
+- [HG 1236/2012](./hg-1236-2012.md)
+  - Domain: calitate · metadata-only
+  - Official source checked: [Portal Legislativ, document 144030](https://legislatie.just.ro/Public/DetaliiDocumentAfis/144030)
+  - Status: unknown · M.Of. nr. 876/21.12.2012 · effective_date 20.01.2013, derivată din Art. 13 și regula de 30 de zile · 13 articles · 0 annexes · referințele UE și Constituția sunt externe; fără relații repo-locale explicite
+  - Import log: [import-log/2026-08-13-hg-1236-2012.md](../import-log/2026-08-13-hg-1236-2012.md)
 - [Ordin MDLPA 348/2026](./ordin-mdlpa-348-2026.md)
   - Domain: calitate · Implements: Legea 10/1995 · References: Legea 372/2005 · metadata-only
   - Official source checked: [Portal Legislativ, document 309526](https://legislatie.just.ro/Public/DetaliiDocument/309526)

@@ -1,0 +1,43 @@
+{
+  "title": "Hotărârea Guvernului nr. 1.236 din 12 decembrie 2012 privind stabilirea cadrului instituțional și a unor măsuri pentru aplicarea prevederilor Regulamentului (UE) nr. 305/2011 al Parlamentului European și al Consiliului din 9 martie 2011 privind stabilirea unor condiții armonizate pentru comercializarea produselor pentru construcții și de abrogare a Directivei 89/106/CEE a Consiliului",
+  "short_title": "HG 1236/2012",
+  "canonical_citation": "HG nr. 1236/2012",
+  "type": "hotarare",
+  "number": "1236",
+  "year": "2012",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["produse-pentru-constructii", "comercializare", "evaluarea-performantei", "reglementare-europeana"],
+  "status": "unknown",
+  "issue_date": "2012-12-12",
+  "publication_date": "2012-12-21",
+  "effective_date": "2013-01-20",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/144030",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 1236/2012; Monitorul Oficial al României, Partea I, nr. 876 din 21 decembrie 2012",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/144030",
+  "version_kind": "original",
+  "last_checked": "2026-08-13",
+  "version": "Forma oficială a hotărârii; 13 articole și fără anexă; textul integral nu este importat",
+  "article_count": 13,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "related_acts": ["hg-668-2017"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "hg-668-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 alin. (2) din HG 668/2017 citează explicit art. 2 din HG 1236/2012 privind stabilirea cadrului instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Art. 2 alin. (2) din HG 668/2017",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "notes": "Relația related_to este utilizată ca relație repo-locală confirmată deoarece citarea explicită provine din actul ulterior; nu se afirmă că HG 1236/2012 modifică sau implementează HG 668/2017."
+    }
+  ],
+  "rights_note": "Hotărârea stabilește cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011. Preambulul citează Regulamentul (UE) nr. 305/2011, Directiva 89/106/CEE, art. 108 din Constituția României și, în articole, Regulamentul (CE) nr. 765/2008. Textul propriu al HG 1236/2012 nu citează prin număr/an un act românesc local. Totuși, Art. 2 alin. (2) din HG 668/2017, act existent în repository, citează explicit art. 2 din HG 1236/2012; relația este modelată corect ca references pe HG 668 către acest act. Regulamentele UE și Constituția sunt referințe externe. Art. 13 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2013-01-20 este derivată mecanic din publicarea la 2012-12-21. Statusul curent nu este declarat și rămâne unknown. Textul integral nu este importat.",
+  "tags": ["constructii", "calitate", "produse-pentru-constructii", "comercializare", "reglementare-europeana"]
+}
