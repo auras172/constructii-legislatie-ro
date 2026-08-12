@@ -1222,6 +1222,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mtct-1430-2005",
+      "label": "Ordin MTCT 1430/2005",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mti-596-2026",
       "label": "Ordin MTI 596/2026",
       "type": "ordin",
@@ -3630,6 +3638,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
     },
     {
+      "source": "ordin-mdrl-119-2009",
+      "target": "ordin-mtct-1430-2005",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I modifică și completează explicit Normele metodologice aprobate prin Ordinul nr. 1.430/2005.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
+    },
+    {
       "source": "ordin-mdrt-1496-2011",
       "target": "hg-272-1994",
       "relationship": "implements",
@@ -3864,6 +3885,33 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228632"
     },
     {
+      "source": "ordin-mtct-1430-2005",
+      "target": "lege-50-1991",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții; preambulul invocă art. 4 din aceeași lege.",
+      "source_article": "Preambul; Art. 1",
+      "scope": "Normele metodologice aprobate prin anexă",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64939"
+    },
+    {
+      "source": "ordin-mtct-1430-2005",
+      "target": "ordin-mdrl-119-2009",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "portal_action",
+      "evidence": "Ordinul nr. 119/2009 modifică și completează explicit normele aprobate prin Ordinul nr. 1.430/2005.",
+      "source_article": "Ordin nr. 119/2009, Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
+    },
+    {
       "source": "ordin-mti-596-2026",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -4075,8 +4123,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 164,
-    "confirmed_edges": 276,
+    "total_nodes": 165,
+    "confirmed_edges": 279,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

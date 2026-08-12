@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-12T19:30:15.265Z",
+  "generated_at": "2026-08-12T19:55:21.030Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MTCT 1430/2005 metadata",
         "feat(metadata): add Ordin MDRL 119/2009 metadata",
         "feat(metadata): add Ordin MDRAP 374/2014 metadata",
         "feat(metadata): add Ordin MDRT 1867/2010 metadata",
@@ -114,6 +115,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #389 from auras172/codex/metadata-ordin-mdrl-119-2009",
         "Merge pull request #388 from auras172/codex/fulltext-hg-571-2016",
         "feat(fulltext): import HG 571/2016 official text",
         "Merge pull request #387 from auras172/codex/metadata-ordin-mdrap-374-2014",
@@ -603,6 +605,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 151
+    "infrastructure_changes": 152
   }
 }

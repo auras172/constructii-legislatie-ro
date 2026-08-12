@@ -35,7 +35,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-12"
+    },
+    {
+      "type": "amends",
+      "target": "ordin-mtct-1430-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I modifică și completează explicit Normele metodologice aprobate prin Ordinul nr. 1.430/2005.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
     }
   ],
+  "amends": ["ordin-mtct-1430-2005"],
   "tags": ["mdrl", "autorizatii", "norme-metodologice", "constructii", "ordin-ministerial"]
 }

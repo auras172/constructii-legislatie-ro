@@ -87,6 +87,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/103909)
   - Status: unknown · publicat în M.Of. nr. 193/27.03.2009 · effective_date omisă · 4 articole · 1 anexă
   - Import log: [import-log/2026-08-12-ordin-mdrl-119-2009.md](../import-log/2026-08-12-ordin-mdrl-119-2009.md)
+- [Ordin MTCT 1430/2005](./ordin-mtct-1430-2005.md)
+  - Domain: autorizatii · Implements: Legea 50/1991 · Amended by: Ordin MDRL 119/2009 · metadata-only
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/64939) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0UUK7VW1RMZXP077L5TIA96QJJ)
+  - Status: repealed · publicat în M.Of. nr. 825 și 825 bis/13.09.2005 · effective_date 13.09.2005 · 3 articole · 1 anexă
+  - Import log: [import-log/2026-08-12-ordin-mtct-1430-2005.md](../import-log/2026-08-12-ordin-mtct-1430-2005.md)
 - [Ordin MDRAP 839/2009](./ordin-839-2009.md)
   - Domain: autorizatii · Implements: Legea 50/1991
   - Official source checked: Portal Legislativ — ORDIN (A) [`/Public/DetaliiDocument/156617`](https://legislatie.just.ro/Public/DetaliiDocument/156617) + NORMA (A) [`/Public/DetaliiDocument/259096`](https://legislatie.just.ro/Public/DetaliiDocument/259096)
