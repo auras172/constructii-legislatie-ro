@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 1236/2012 construction products framework
 - feat(metadata): add HG 492/2018 state quality control regulation
 - feat(metadata): add Ordin MTCT 1430/2005 metadata
 - feat(metadata): add Ordin MDRL 119/2009 metadata
@@ -104,6 +105,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh repository status and anchor guidance
 - docs: refresh repository status after PR 374
 - docs: refresh housekeeping after PR 360
 - docs: refresh repository housekeeping status
@@ -119,6 +121,10 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #396 from auras172/codex/docs-housekeeping-20260813
+- Merge pull request #394 from auras172/codex/tooling-provision-anchors
+- Merge pull request #395 from auras172/codex/metadata-hg-1236-2012
+- feat(tooling): support technical provision citation anchors
 - Merge pull request #393 from auras172/codex/metadata-hg-492-2018
 - Merge pull request #392 from auras172/codex/fulltext-p118-1-2025-v2
 - feat(fulltext): import P 118/1-2025 official text
