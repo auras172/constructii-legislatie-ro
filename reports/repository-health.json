@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:56:06.747Z",
+  "generated_at": "2026-08-12T19:30:12.511Z",
   "summary": {
-    "total_metadata_entries": 163,
+    "total_metadata_entries": 164,
     "total_full_text_acts": 17,
-    "total_metadata_only_acts": 146,
-    "total_import_logs": 165,
-    "total_relationship_links": 324,
+    "total_metadata_only_acts": 147,
+    "total_import_logs": 166,
+    "total_relationship_links": 325,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -1307,6 +1307,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mdrl-119-2009",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mdrt-1496-2011",
       "full_text": false,
       "metadata": true,
@@ -1489,12 +1498,12 @@
       "isc": 6,
       "incendiu": 16,
       "anre": 20,
-      "autorizatii": 6,
+      "autorizatii": 7,
       "mediu": 3,
       "iscir": 16
     },
     "issuers": {
-      "minister": 90,
+      "minister": 91,
       "guvern": 33,
       "parlament": 18,
       "other": 3,
@@ -1516,7 +1525,7 @@
       "2006": 4,
       "2007": 2,
       "2008": 3,
-      "2009": 3,
+      "2009": 4,
       "2010": 16,
       "2011": 2,
       "2012": 1,
@@ -1536,7 +1545,7 @@
       "2026": 8
     },
     "import_methods": {
-      "metadata-only": 146,
+      "metadata-only": 147,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

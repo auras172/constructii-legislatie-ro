@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-12T18:56:06.747Z
+Generated: 2026-08-12T19:30:12.511Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 163 |
+| Total metadata entries | 164 |
 | Full-text acts | 17 |
-| Metadata-only acts | 146 |
-| Import log files | 165 |
-| Total relationship links | 324 |
+| Metadata-only acts | 147 |
+| Import log files | 166 |
+| Total relationship links | 325 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -162,6 +162,7 @@ Generated: 2026-08-12T18:56:06.747Z
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-233-2016 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdrap-374-2014 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mdrl-119-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 6 | ✓ |
 | ordin-mdrt-1867-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -194,8 +195,8 @@ Generated: 2026-08-12T18:56:06.747Z
 | iscir | 16 |
 | urbanism | 13 |
 | executie | 10 |
+| autorizatii | 7 |
 | isc | 6 |
-| autorizatii | 6 |
 | nzeb | 4 |
 | munca | 3 |
 | receptie | 3 |
@@ -205,7 +206,7 @@ Generated: 2026-08-12T18:56:06.747Z
 
 | Value | Count |
 | --- | --- |
-| minister | 90 |
+| minister | 91 |
 | guvern | 33 |
 | autoritate | 19 |
 | parlament | 18 |
@@ -227,11 +228,11 @@ Generated: 2026-08-12T18:56:06.747Z
 | 2018 | 5 |
 | 2021 | 5 |
 | 2006 | 4 |
+| 2009 | 4 |
 | 2016 | 4 |
 | 2019 | 4 |
 | 2002 | 3 |
 | 2008 | 3 |
-| 2009 | 3 |
 | 2015 | 3 |
 | 1994 | 2 |
 | 1995 | 2 |
@@ -253,7 +254,7 @@ Generated: 2026-08-12T18:56:06.747Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 146 |
+| metadata-only | 147 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |

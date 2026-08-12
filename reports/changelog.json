@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-12T18:56:13.291Z",
+  "generated_at": "2026-08-12T19:30:15.265Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRL 119/2009 metadata",
         "feat(metadata): add Ordin MDRAP 374/2014 metadata",
         "feat(metadata): add Ordin MDRT 1867/2010 metadata",
         "feat(metadata): add Ordin MLPDA 3454/2019 metadata",
@@ -113,6 +114,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #388 from auras172/codex/fulltext-hg-571-2016",
+        "feat(fulltext): import HG 571/2016 official text",
         "Merge pull request #387 from auras172/codex/metadata-ordin-mdrap-374-2014",
         "Merge pull request #386 from auras172/dependabot/npm_and_yarn/site/npm_and_yarn-7adef5cdcc",
         "build(deps): bump the npm_and_yarn group across 1 directory with 2 updates",
@@ -600,6 +603,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 150
+    "infrastructure_changes": 151
   }
 }
