@@ -1,0 +1,42 @@
+{
+  "title": "Hotărârea Guvernului nr. 492 din 5 iulie 2018 pentru aprobarea Regulamentului privind controlul de stat al calității în construcții",
+  "short_title": "HG 492/2018",
+  "canonical_citation": "HG nr. 492/2018",
+  "type": "hotarare",
+  "number": "492",
+  "year": "2018",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["calitate-constructii", "control-de-stat", "regulament-control"],
+  "status": "unknown",
+  "issue_date": "2018-07-05",
+  "publication_date": "2018-07-12",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202598",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 492/2018; Monitorul Oficial al României, Partea I, nr. 594 din 12 iulie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/202598",
+  "version_kind": "original",
+  "last_checked": "2026-08-12",
+  "version": "Forma oficială a hotărârii; patru articole și regulamentul într-o anexă; textul integral nu este importat",
+  "article_count": 4,
+  "annex_count": 1,
+  "effective_date": "2018-09-10",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă Regulamentul privind controlul de stat al calității în construcții, inclus într-o singură anexă. Art. 2 citează art. 6 alin. (2) din Legea nr. 10/1995, iar Art. 3 prevede intrarea în vigoare la 60 de zile de la publicare; data de 2018-09-10 este derivată mecanic din publicarea la 2018-07-12. Art. 4 abrogă HG nr. 272/1994 la intrarea în vigoare. Schema nu suportă relația juridică repeals/repealed_by, astfel că abrogarea este documentată ca SCHEMA_GAP și nu este remapată. Regulamentul anexat nu este modelat ca act separat și textul integral nu este importat. Statusul curent nu este declarat de sursă și rămâne unknown.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 prevede că regulamentul se aplică tuturor factorilor implicați în procesul de construire, în conformitate cu art. 6 alin. (2) din Legea nr. 10/1995; preambulul citează de asemenea art. 9 lit. k), art. 20, art. 33, art. 34 și art. 41 din aceeași lege.",
+      "source_article": "Preambul; Art. 2",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202598",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-12"
+    }
+  ],
+  "tags": ["calitate", "control-de-stat", "regulament", "hotarare-guvern"]
+}
