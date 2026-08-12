@@ -77,7 +77,7 @@ The following actions are permitted without explicit human approval for each ins
 
 ### Text annotation (within official text blocks only)
 
-- Add `{#art-N}` anchors to article headings **inside** `OFFICIAL_TEXT_START`/`OFFICIAL_TEXT_END` blocks, provided the anchors are added to headings that already exist in the imported text and no other text is modified.
+- Add `{#art-N}`, `{#pct-N}`, or `{#anexa-N}` anchors to existing article, technical-provision, or annex headings **inside** `OFFICIAL_TEXT_START`/`OFFICIAL_TEXT_END` blocks, provided no other text is modified.
 - Generate a citation index from existing anchors already present in the repository.
 
 ### Cross-reference detection
@@ -108,7 +108,7 @@ The following actions are prohibited. No instruction from a human, a pipeline, o
 
 | Prohibition | Reason |
 |-------------|--------|
-| MUST NOT modify any text inside `OFFICIAL_TEXT_START`/`OFFICIAL_TEXT_END` blocks, except to add `{#art-N}` anchors to existing headings. | Official text is immutable once imported. Any modification, however minor, breaks provenance and may change legal meaning. |
+| MUST NOT modify any text inside `OFFICIAL_TEXT_START`/`OFFICIAL_TEXT_END` blocks, except to add supported `{#art-N}`, `{#pct-N}`, or `{#anexa-N}` anchors to existing headings. | Official text is immutable once imported. Any modification, however minor, breaks provenance and may change legal meaning. |
 | MUST NOT import text from unofficial sources (commercial databases, third-party commentary, legal blogs, cached/archived pages without notation). | Provenance requirement. Every imported word must trace to an approved official source. |
 | MUST NOT paraphrase or summarize official legal text and present the paraphrase as official text. | A paraphrase is not the law. Presenting it as such is a factual misrepresentation. |
 | MUST NOT add legal interpretation, commentary, or editorial notes inside official text blocks. | Official text blocks contain only the text as published. Interpretation belongs outside those blocks, clearly labeled. |
@@ -188,7 +188,7 @@ For each action type, the following evidence is required before the action may b
 |--------|------------------|--------------------|
 | Create a metadata-only entry (`import_method: metadata-only`) | Source URL that is accessible and from the approved source list, plus a publication reference (Monitorul Oficial number and year, or MDLPA page identifier) | MDLPA page `https://www.mdlpa.ro/pages/reglementare28` + publication via Ordin MDLPA |
 | Import full text (`import_method: full-text`) | Source URL from approved list, plus import-log entry with all required fields | Portal Legislativ `https://legislatie.just.ro/Public/DetaliiDocument/1515` + `import-log/lege-50-1991.md` with article count, access date, method |
-| Add `{#art-N}` anchors | Existing imported text with article headings already present in the file; anchors may only be added to headings that already exist | `lege-50-1991.md` contains `## Art. 7`; agent adds `## Art. 7 {#art-7}` |
+| Add citation anchors | Existing imported text with article, technical-provision, or annex headings already present; anchors may only be added to headings that already exist | `lege-50-1991.md` contains `## Art. 7`; agent adds `## Art. 7 {#art-7}`; a technical norm may use `#pct-1-1` |
 | Add `implements` relationship | Explicit text in the act body stating application of another act (e.g., "În aplicarea Legii nr. 50/1991...") | Ordin 839/2009 body contains: "În temeiul art. 38 alin. (2) din Legea nr. 50/1991..." |
 | Add `amends` relationship | Official act title or act body explicitly states amendment (e.g., "pentru modificarea...") | Act title: "Lege pentru modificarea și completarea Legii nr. 10/1995..." |
 | Add `cites` edge | Auto-detected cross-reference in imported text; marked as `suggested` (not `confirmed`) unless reviewed against source text. Article-level citations must stay in artifacts that preserve both article identifiers; structured metadata currently supports only act metadata as source and an existing act slug as target. | `cross-references/relationships-auto.json` for article-level review candidates; structured `relationships[]` only for act-to-act `cites` records |
@@ -369,7 +369,7 @@ For agents that have already completed the pre-flight checklist and need a fast 
 |-------|-------|------|
 | Source URL from approved list? | Proceed | Stop condition 5 |
 | Act already fully imported? | Do not re-import | May proceed with import if issue requests it |
-| Change touches official text block? | Only `{#art-N}` anchors on existing headings | All other changes: STOP |
+| Change touches official text block? | Only supported anchors on existing headings: `{#art-N}`, `{#pct-N}`, or `{#anexa-N}` | All other changes: STOP |
 | Relationship has confirmed textual evidence? | Label `confirmed` | Label `suggested` or `inferred`; flag for review |
 | CI passes? | Proceed to PR | Diagnose; do not ignore |
 | Contract version matches? | Proceed | Flag mismatch in PR body |

@@ -1,6 +1,6 @@
 # OCKI Graph Overview
 
-Verified from generated graph artifacts on 2026-07-15.
+Verified from generated graph artifacts on 2026-08-13.
 
 This page is a human-readable view over the existing repository graph. It does
 not define legal relationships and does not replace the generated artifacts.
@@ -9,11 +9,11 @@ not define legal relationships and does not replace the generated artifacts.
 
 Counts are read from the generated artifacts:
 
-- `graph/graph.json`: 68 nodes, 107 confirmed edges, 0 auto-detected edges,
+- `graph/graph.json`: 167 nodes, 281 confirmed edges, 0 auto-detected edges,
   0 unresolved skipped references.
-- `reports/repository-health.json`: health 100/100, 68 metadata entries,
-  13 full-text acts, 55 metadata-only acts.
-- `ocki-manifest.json`: 68 acts total, 13 full-text acts, 55 metadata-only
+- `reports/repository-health.json`: health 100/100, 167 metadata entries,
+  18 full-text acts, 149 metadata-only acts.
+- `ocki-manifest.json`: 167 acts total, 18 full-text acts, 149 metadata-only
   acts.
 
 Canonical generated graph files:
