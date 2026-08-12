@@ -1,14 +1,14 @@
 # Repository Health Report
 
-Generated: 2026-08-12T19:55:12.904Z
+Generated: 2026-08-12T20:36:21.624Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 165 |
-| Full-text acts | 17 |
-| Metadata-only acts | 148 |
+| Full-text acts | 18 |
+| Metadata-only acts | 147 |
 | Import log files | 167 |
 | Total relationship links | 327 |
 | Unique domains | 12 |
@@ -95,7 +95,7 @@ Generated: 2026-08-12T19:55:12.904Z
 | normativ-ntpa002-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-p100-1-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-p100-3-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-p118-1-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
+| normativ-p118-1-2025 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | normativ-p118-2-2013 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-p118-3-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-p130-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -255,7 +255,7 @@ Generated: 2026-08-12T19:55:12.904Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 148 |
+| metadata-only | 147 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
@@ -266,6 +266,7 @@ Generated: 2026-08-12T19:55:12.904Z
 | Portal Legislativ forma printabilă consolidată 2026 → text extract via Python HTML parser → Markdown | 1 |
 | Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | printable HTML → Markdown | 1 |
+| Portal Legislativ forma printabilă → extracție HTML structurală mecanică → Markdown cu tabele HTML și referințe de imagini oficiale | 1 |
 | Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat | 1 |
 | Portal Legislativ forma consolidată (ORDIN + REGULAMENT) → browser-rendered HTML → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (ORD DE URGENTA A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
