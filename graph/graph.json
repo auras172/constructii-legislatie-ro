@@ -539,7 +539,7 @@
       "type": "normativ",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-np051-2012",
@@ -2458,7 +2458,7 @@
       "source_article": "Preambul; Art. 1",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-10",
-      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243147",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243148",
       "notes": "NP 022-1997 este documentat ca predecessor extern. Nu se adaugă relații către NP 011, Legea nr. 50/1991 sau alte normative pe similitudine tematică."
     },
     {
