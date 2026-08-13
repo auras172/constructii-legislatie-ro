@@ -122,6 +122,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #401 from auras172/codex/fulltext-p118-3-2015
+- feat(fulltext): import P 118/3-2015 official text
 - Merge pull request #400 from auras172/codex/fulltext-np022-2021-v2
 - chore: regenerate artifacts for NP 022 full-text
 - merge main into fulltext NP 022 replacement

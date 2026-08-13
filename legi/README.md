@@ -570,6 +570,12 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: unknown · M.Of. nr. 581/04.08.2014 și 581 bis · effective_date 03.09.2014, derivată din Art. 2 și regula de 30 de zile · 3 articles · 1 annex
   - Art. 3 abrogă Ordinul MTLP nr. 606/2003 și încetează aplicabilitatea C 37-88; acte externe, fără noduri repo-locale · text tehnic nedisponibil în repo
   - Import log: [import-log/2026-08-13-normativ-np069-2014.md](../import-log/2026-08-13-normativ-np069-2014.md)
+- [Normativ NP 112-2014](./normativ-np112-2014.md)
+  - Domain: calitate (fundații) · Implements: Legea 10/1995, HG 203/2003 · metadata-only
+  - Official source checked: [Portal Legislativ, document 164063](https://legislatie.just.ro/Public/DetaliiDocumentAfis/164063)
+  - Status: unknown · M.Of. nr. 935/22.12.2014 și 935 bis · effective_date 01.01.2015, explicită la Art. 4 · 5 articles · 1 annex
+  - Art. 5 abrogă Ordinul MTCT nr. 275/2005 pentru NP 112-2004; act extern, fără nod repo-local · textul tehnic al anexei nu este importat
+  - Import log: [import-log/2026-08-13-normativ-np112-2014.md](../import-log/2026-08-13-normativ-np112-2014.md)
   - Import log: [import-log/2026-08-05-normativ-np074-2022.md](../import-log/2026-08-05-normativ-np074-2022.md)
 - [Normativ NP 123-2022](./normativ-np123-2022.md)
   - Domain: calitate (geotehnic) · Related: Legea 10/1995
