@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:19:47.452Z",
+  "generated_at": "2026-08-13T18:27:31.598Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP 112/2014 metadata",
         "feat(metadata): add NP 069/2014 metadata",
         "feat(metadata): add HG 1236/2012 construction products framework",
         "feat(metadata): add HG 492/2018 state quality control regulation",
@@ -119,6 +120,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #403 from auras172/codex/metadata-normativ-np112-2014",
         "Merge pull request #401 from auras172/codex/fulltext-p118-3-2015",
         "feat(fulltext): import P 118/3-2015 official text",
         "Merge pull request #400 from auras172/codex/fulltext-np022-2021-v2",
@@ -624,6 +626,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 155
+    "infrastructure_changes": 156
   }
 }

@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add NP 112/2014 metadata
 - feat(metadata): add NP 069/2014 metadata
 - feat(metadata): add HG 1236/2012 construction products framework
 - feat(metadata): add HG 492/2018 state quality control regulation
@@ -122,6 +123,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #403 from auras172/codex/metadata-normativ-np112-2014
 - Merge pull request #401 from auras172/codex/fulltext-p118-3-2015
 - feat(fulltext): import P 118/3-2015 official text
 - Merge pull request #400 from auras172/codex/fulltext-np022-2021-v2
