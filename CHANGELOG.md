@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MTI 403/2025 metadata
 - feat(metadata): add Ordin comun RTC 15-2025 metadata
 - feat(metadata): add Ordin MTI 597/2026 metadata
 - feat(metadata): add NP 114/2014 metadata
@@ -127,6 +128,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #416: add Ordin MTI 403/2025 metadata
 - Merge PR #413: add Ordin comun RTC 15-2025 metadata
 - Merge pull request #411 from auras172/codex/fulltext-np011-2022
 - chore: regenerate repository artifacts
