@@ -23,5 +23,6 @@
   "import_method": "metadata-only",
   "rights_note": "MDLPA confirmă RTC 15-2025, titlul, publicarea în M.Of. nr. 148 și 148 bis din 26.02.2026 și intrarea în vigoare la 28.03.2026, la 30 de zile de la publicare. Ordinul comun are componente emise de MDLPA nr. 2061/23.12.2025, Ministerul Economiei nr. 171/05.02.2026 și ANCOM nr. 3344/12.02.2026. Documentul oficial citează explicit Legea nr. 10/1995 și Legea nr. 50/1991; citează și Legea nr. 159/2016, care nu este importată. I 7-2011 nu a fost identificat în textul verificat. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
   "related_acts": ["lege-10-1995", "lege-50-1991"],
+  "approved_by": ["ordin-comun-2061-171-3344-2026"],
   "tags": ["telecomunicatii", "instalatii", "infrastructura-fizica", "cladiri", "ghid-tehnic", "mdlpa", "ancom", "rtc15"]
 }
