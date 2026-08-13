@@ -523,7 +523,7 @@
       "type": "normativ",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-np015-2022",

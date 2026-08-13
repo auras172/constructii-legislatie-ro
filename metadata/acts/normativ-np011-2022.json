@@ -1,5 +1,5 @@
 {
-  "title": "Normativ privind cerințe de calitate specifice construcțiilor pentru grădinițe, indicativ NP 011-2022",
+  "title": "Normativ privind cerinţe de calitate specifice construcţiilor pentru grădiniţe de copii, indicativ NP 011-2022",
   "short_title": "NP 011-2022",
   "canonical_citation": "NP 011-2022",
   "type": "normativ",
@@ -8,23 +8,30 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["grădinițe", "construcții-educaționale", "clădiri-sociale", "normativ-tehnic"],
+  "topics": [
+    "grădinițe",
+    "construcții-educaționale",
+    "clădiri-sociale",
+    "normativ-tehnic"
+  ],
   "status": "unknown",
   "issue_date": "2022-09-20",
   "publication_date": "2022-09-29",
   "effective_date": "2022-10-29",
   "publication_medium": "monitorul-oficial",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259725",
-  "official_source": "Portal Legislativ — Ordinul nr. 2.487/20.09.2022; Monitorul Oficial al României, Partea I, nr. 950/29.09.2022",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/259725",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/259738",
+  "official_source": "Portal Legislativ — reglementarea tehnică ID 259738; Ordin nr. 2487/20.09.2022, ID 259725; MDLPA — Reglementări tehnice",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2DH8GJN1OOMGY08GRGRBKZTW2E",
   "version_kind": "original",
-  "last_checked": "2026-08-10",
-  "version": "Forma de bază afișată de Portal Legislativ; art. 2 prevede intrarea în vigoare la 30 de zile de la publicare",
-  "article_count": 4,
+  "last_checked": "2026-08-13",
+  "version": "normativ tehnic original; text integral Portal Legislativ importat mecanic",
+  "article_count": 31,
   "annex_count": 1,
-  "import_method": "metadata-only",
-  "rights_note": "Ordinul nr. 2.487/20.09.2022 aprobă reglementarea tehnică NP 011-2022 pentru construcții destinate grădinițelor. Art. 2 prevede publicarea și intrarea în vigoare la 30 de zile de la publicare; data de 2022-10-29 este derivată mecanic din publicarea la 29.09.2022. Art. 4 prevede încetarea aplicabilității NP 011-1997, care rămâne referință externă și nu este modelat ca nod. Textul tehnic integral nu este importat.",
-  "implements": ["lege-10-1995"],
+  "import_method": "full-text",
+  "rights_note": "Portal Legislativ confirmă titlul tehnic, indicativul NP 011-2022, aprobarea prin Ordinul nr. 2.487/20.09.2022, publicarea în Monitorul Oficial nr. 950 bis/29.09.2022 și intrarea în vigoare la 30 de zile de la publicare, calculată la 29.10.2022. Art. 4 prevede încetarea aplicabilității NP 011-1997, care rămâne referință externă și nu este modelat ca nod. Textul tehnic integral este importat mecanic din forma HTML oficială; sursa tehnică nu folosește blocuri S_PCT/S_ANX, astfel că 31 ancore pct-* reprezintă secțiunile h3 numerotate, iar Anexa A primește anexa-a. Forma importată este originală, nu consolidată.",
+  "implements": [
+    "lege-10-1995"
+  ],
   "relationships": [
     {
       "type": "implements",
@@ -39,5 +46,12 @@
       "notes": "NP 011-1997 este documentat ca predecessor extern. Nu se adaugă relații către NP 022, Legea nr. 50/1991 sau alte normative pe similitudine tematică."
     }
   ],
-  "tags": ["grădinițe", "construcții-educaționale", "clădiri-sociale", "normativ-tehnic", "mdlpa", "np011"]
+  "tags": [
+    "grădinițe",
+    "construcții-educaționale",
+    "clădiri-sociale",
+    "normativ-tehnic",
+    "mdlpa",
+    "np011"
+  ]
 }

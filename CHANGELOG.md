@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add NP 114/2014 metadata
 - feat(metadata): add NP 112/2014 metadata
 - feat(metadata): add NP 069/2014 metadata
 - feat(metadata): add HG 1236/2012 construction products framework
@@ -107,6 +108,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh repository status
 - docs: refresh repository status and anchor guidance
 - docs: refresh repository status after PR 374
 - docs: refresh housekeeping after PR 360
@@ -123,6 +125,11 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #408 from auras172/codex/docs-refresh-20260813
+- Merge pull request #407 from auras172/codex/fulltext-np074-2022-v2
+- chore: resolve NP 074 full-text merge conflicts
+- Merge pull request #405 from auras172/codex/metadata-normativ-np114-2014
+- feat(fulltext): import NP 074-2022 official text
 - Merge pull request #404 from auras172/codex/fulltext-p118-2-2013-v2
 - feat(fulltext): rebase P 118/2-2013 import
 - Merge pull request #403 from auras172/codex/metadata-normativ-np112-2014
