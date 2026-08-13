@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T22:41:57.252Z",
+  "generated_at": "2026-08-13T18:19:45.732Z",
   "summary": {
-    "total_metadata_entries": 168,
+    "total_metadata_entries": 169,
     "total_full_text_acts": 20,
-    "total_metadata_only_acts": 148,
-    "total_import_logs": 170,
-    "total_relationship_links": 331,
+    "total_metadata_only_acts": 149,
+    "total_import_logs": 171,
+    "total_relationship_links": 333,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -674,6 +674,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-np112-2014",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1527,7 +1536,7 @@
     "domains": {
       "urbanism": 13,
       "executie": 11,
-      "calitate": 65,
+      "calitate": 66,
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
@@ -1539,7 +1548,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 93,
+      "minister": 94,
       "guvern": 35,
       "parlament": 18,
       "other": 3,
@@ -1566,7 +1575,7 @@
       "2011": 2,
       "2012": 2,
       "2013": 7,
-      "2014": 2,
+      "2014": 3,
       "2015": 3,
       "2016": 4,
       "2017": 2,
@@ -1581,7 +1590,7 @@
       "2026": 8
     },
     "import_methods": {
-      "metadata-only": 148,
+      "metadata-only": 149,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
