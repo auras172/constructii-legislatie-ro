@@ -667,7 +667,7 @@
       "type": "normativ",
       "domain": "incendiu",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-p130-2025",

@@ -1,5 +1,5 @@
 {
-  "title": "Normativ privind securitatea la incendiu a construcțiilor, Partea a III-a - Instalații de detectare, semnalizare și avertizare incendiu, indicativ P 118/3-2015",
+  "title": "Normativ privind securitatea la incendiu a construcțiilor. Partea a III-a - Instalații de detectare, semnalizare și alarmare incendiu, indicativ P 118/3-2015",
   "short_title": "Normativ P 118/3-2015",
   "canonical_citation": "P 118/3-2015",
   "type": "normativ",
@@ -14,11 +14,13 @@
   "publication_date": "2015-04-09",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-01",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167079",
-  "official_detail_url": "https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XXVIII/28_16_P118_3_2015.pdf",
-  "import_method": "metadata-only",
-  "rights_note": "Normativ tehnic aprobat prin O.M.D.R.A.P. nr. 364/09.03.2015 și publicat în Monitorul Oficial al României, Partea I, nr. 243 bis din 09.04.2015. Portal Legislativ DetaliiDocument/167079 confirmă ordinul de aprobare, titlul și indicativul P118/3-2015. Pagina MDLPA notează modificarea prin O.M.D.R.A.P. nr. 6025/25.10.2018, publicată în M.Of. nr. 977/19.11.2018, și încetarea aplicabilității I 18/2-2002, precum și a oricăror dispoziții contrare. Tabelul MDLPA etichetează titlul ca Partea a II-a, dar PDF-ul oficial linkuit are pagina de titlu Partea a III-a; titlul canonic folosește PDF-ul oficial. PDF-ul oficial MDLPA a fost verificat HTTP 200 la 2026-07-01; metadata-only — textul integral nu este importat în acest repo. Nu a fost identificată în sursa MDLPA o dată explicită de intrare în vigoare; câmpul effective_date este omis.",
+  "last_checked": "2026-08-13",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/206832",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3PUT5XAFAOOX40218K8AZVXWOU",
+  "article_count": 446,
+  "annex_count": 1,
+  "import_method": "full-text",
+  "rights_note": "Normativ tehnic aprobat prin O.M.D.R.A.P. nr. 364/09.03.2015 și publicat în Monitorul Oficial al României, Partea I, nr. 243 bis din 09.04.2015. Ordinul Portal Legislativ este documentul de aprobare; reglementarea tehnică integrală este Portal Legislativ DetaliiDocumentAfis/206832, cu forma printabilă oficială indicată separat. Textul integral este importat mecanic din forma tehnică HTML, cu 446 prevederi S_PCT și o anexă S_ANX. Tabelele normative și toate cele 33 de imagini tehnice sunt păstrate. Modificarea prin O.M.D.R.A.P. nr. 6025/25.10.2018 rămâne documentată ca informație de proveniență; nu se consolidează textul în acest import original.",
   "tags": ["securitate-incendiu", "detectare-incendiu", "semnalizare-incendiu", "avertizare-incendiu", "constructii", "normativ-tehnic", "mdlpa", "p118"],
   "related_acts": ["lege-307-2006"]
 }
