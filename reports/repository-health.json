@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T20:19:48.550Z",
+  "generated_at": "2026-08-13T20:38:55.784Z",
   "summary": {
     "total_metadata_entries": 173,
-    "total_full_text_acts": 25,
-    "total_metadata_only_acts": 148,
+    "total_full_text_acts": 26,
+    "total_metadata_only_acts": 147,
     "total_import_logs": 175,
     "total_relationship_links": 339,
     "total_unique_domains": 12,
@@ -777,10 +777,10 @@
     },
     {
       "slug": "normativ-p130-2025",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 2,
       "provenance": true
     },
@@ -1626,7 +1626,7 @@
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 148,
+      "metadata-only": 147,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
@@ -1637,7 +1637,7 @@
       "Portal Legislativ forma printabilă consolidată 2026 → text extract via Python HTML parser → Markdown": 1,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "printable HTML → Markdown": 1,
-      "full-text": 8,
+      "full-text": 9,
       "Portal Legislativ forma printabilă → extracție HTML structurală mecanică → Markdown cu tabele HTML și referințe de imagini oficiale": 1,
       "Portal Legislativ forma printabila (ORDIN + NORMA separate) → text extract via curl → Markdown combinat": 1,
       "Portal Legislativ forma consolidată (ORDIN + REGULAMENT) → browser-rendered HTML → Markdown combinat": 1,

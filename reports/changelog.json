@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:19:53.208Z",
+  "generated_at": "2026-08-13T20:39:03.886Z",
   "months": [
     {
       "month": "2026-08",
@@ -125,6 +125,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge PR #418: import NP 007-2025 official text",
+        "feat(fulltext): import NP 007-2025 official text",
         "Merge PR #417: import NP 005-2022 official text",
         "feat(fulltext): import NP 005-2022 official text",
         "Merge PR #416: add Ordin MTI 403/2025 metadata",
@@ -447,7 +449,7 @@
           "slug": "normativ-p130-2025",
           "short_title": "Normativ P 130-2025",
           "domain": "calitate",
-          "import_method": "metadata-only"
+          "import_method": "full-text"
         },
         {
           "slug": "metodologie-mc001-2022",
@@ -645,8 +647,8 @@
   ],
   "totals": {
     "legislation_added": 20,
-    "full_text": 13,
-    "metadata_only": 7,
+    "full_text": 14,
+    "metadata_only": 6,
     "infrastructure_changes": 160
   }
 }
