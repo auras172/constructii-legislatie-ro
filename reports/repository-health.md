@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-13T18:39:32.128Z
+Generated: 2026-08-13T18:38:13.757Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 169 |
-| Full-text acts | 22 |
-| Metadata-only acts | 147 |
-| Import log files | 171 |
-| Total relationship links | 333 |
+| Total metadata entries | 170 |
+| Full-text acts | 21 |
+| Metadata-only acts | 149 |
+| Import log files | 172 |
+| Total relationship links | 335 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -89,10 +89,11 @@ Generated: 2026-08-13T18:39:32.128Z
 | normativ-np057-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np068-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np069-2014 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| normativ-np074-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
+| normativ-np074-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np084-03 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np086-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np112-2014 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| normativ-np114-2014 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np123-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np133-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | normativ-np24-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -194,7 +195,7 @@ Generated: 2026-08-13T18:39:32.128Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 66 |
+| calitate | 67 |
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
@@ -211,7 +212,7 @@ Generated: 2026-08-13T18:39:32.128Z
 
 | Value | Count |
 | --- | --- |
-| minister | 94 |
+| minister | 95 |
 | guvern | 35 |
 | autoritate | 19 |
 | parlament | 18 |
@@ -234,11 +235,11 @@ Generated: 2026-08-13T18:39:32.128Z
 | 2021 | 5 |
 | 2006 | 4 |
 | 2009 | 4 |
+| 2014 | 4 |
 | 2016 | 4 |
 | 2019 | 4 |
 | 2002 | 3 |
 | 2008 | 3 |
-| 2014 | 3 |
 | 2015 | 3 |
 | 1994 | 2 |
 | 1995 | 2 |
@@ -259,9 +260,9 @@ Generated: 2026-08-13T18:39:32.128Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 147 |
-| full-text | 5 |
+| metadata-only | 149 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
+| full-text | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

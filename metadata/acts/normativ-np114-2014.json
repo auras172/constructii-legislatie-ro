@@ -1,0 +1,53 @@
+{
+  "title": "Normativ privind proiectarea geotehnică a ancorajelor în teren, indicativ NP 114-2014",
+  "short_title": "NP 114-2014",
+  "canonical_citation": "NP 114-2014",
+  "type": "normativ",
+  "number": "114",
+  "year": "2014",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["geotehnic", "ancoraje", "fundatii", "constructii", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2014-08-07",
+  "publication_date": "2014-09-09",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148",
+  "official_source": "Portal Legislativ — Ordinul nr. 1.444/07.08.2014; Monitorul Oficial al României, Partea I, nr. 661 din 9 septembrie 2014 și nr. 661 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148",
+  "version_kind": "original",
+  "last_checked": "2026-08-13",
+  "version": "Reglementarea tehnică NP 114-2014 aprobată prin Ordinul nr. 1.444/2014; anexa este parte integrantă și textul tehnic nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "effective_date": "2014-10-09",
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 1.444/07.08.2014 aprobă NP 114-2014 ca anexă. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003; ambele relații repo-locale sunt modelate ca implements. Art. 2 stabilește intrarea în vigoare la 30 de zile de la publicare, derivată la 2014-10-09 din M.Of. 661/09.09.2014. Art. 3 abrogă Ordinul MTCT nr. 363/2005 pentru NP 114-04; acesta rămâne referință externă fără nod. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din Regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13"
+    }
+  ],
+  "tags": ["geotehnic", "ancoraje", "fundatii", "constructii", "reglementare-tehnica", "normativ"]
+}
