@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:45:49.144Z",
+  "generated_at": "2026-08-13T20:01:34.855Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin comun RTC 15-2025 metadata",
         "feat(metadata): add Ordin MTI 597/2026 metadata",
         "feat(metadata): add NP 114/2014 metadata",
         "feat(metadata): add NP 112/2014 metadata",
@@ -123,6 +124,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge PR #413: add Ordin comun RTC 15-2025 metadata",
         "Merge pull request #411 from auras172/codex/fulltext-np011-2022",
         "chore: regenerate repository artifacts",
         "Merge remote-tracking branch 'origin/main' into codex/fulltext-np011-2022",
@@ -641,6 +643,6 @@
     "legislation_added": 20,
     "full_text": 12,
     "metadata_only": 8,
-    "infrastructure_changes": 158
+    "infrastructure_changes": 159
   }
 }

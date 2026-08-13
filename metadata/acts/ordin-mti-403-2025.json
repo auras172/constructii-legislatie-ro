@@ -1,0 +1,58 @@
+{
+  "title": "Ordin nr. 403 din 5 mai 2025 pentru aprobarea reglementării tehnice «Ghid tehnic privind stabilirea unor soluții constructive pentru prevenirea căderilor accidentale în golul tehnologic al structurilor paralele (gemene)» - indicativ AND 620-2024",
+  "short_title": "Ordin MTI 403/2025",
+  "canonical_citation": "Ordinul nr. 403/2025",
+  "type": "ordin",
+  "number": "403",
+  "year": "2025",
+  "issuer": "Ministerul Transporturilor și Infrastructurii",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": [
+    "prevenirea-caderilor",
+    "structuri-paralele",
+    "infrastructura-rutiera",
+    "reglementare-tehnica",
+    "and620-2024"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-05-05",
+  "publication_date": "2025-06-19",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299160",
+  "official_source": "Portal Legislativ — Ordinul nr. 403/05.05.2025; Monitorul Oficial al României, Partea I, nr. 570 din 19.06.2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299160",
+  "version_kind": "original",
+  "last_checked": "2026-08-13",
+  "version": "Forma oficială verificată în Portal Legislativ la 13.08.2026; ghidul tehnic AND 620-2024 este anexă și nu este importat ca text sau nod separat",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2025-06-19",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică AND 620-2024 în anexa la ordin. Art. 2 prevede intrarea în vigoare la data publicării, 19.06.2025. Preambulul citează explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația repo-locală este modelată ca implements. OG nr. 43/1997 și HG nr. 370/2021 sunt referințe externe și nu sunt modelate ca relații repo-locale. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299160",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13"
+    }
+  ],
+  "tags": [
+    "mti",
+    "executie",
+    "prevenirea-caderilor",
+    "structuri-paralele",
+    "infrastructura-rutiera",
+    "and620-2024",
+    "reglementare-tehnica"
+  ]
+}
