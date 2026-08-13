@@ -1,0 +1,42 @@
+{
+  "title": "Ordin nr. 597 din 11 iunie 2026 privind aprobarea reglementării tehnice „Ghid tehnic privind modelul de analiză a riscurilor pentru tunelele rutiere” - indicativ AND 621-2025",
+  "short_title": "Ordin MTI 597/2026",
+  "canonical_citation": "Ordinul nr. 597/2026",
+  "type": "ordin",
+  "number": "597",
+  "year": "2026",
+  "issuer": "Ministerul Transporturilor și Infrastructurii",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["tunele-rutiere", "analiza-riscurilor", "infrastructura-rutiera", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2026-06-11",
+  "publication_date": "2026-06-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311895",
+  "official_source": "Portal Legislativ — Ordinul nr. 597/11.06.2026; Monitorul Oficial al României, Partea I, nr. 531 din 29 iunie 2026 și nr. 531 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/311895",
+  "version_kind": "original",
+  "last_checked": "2026-08-13",
+  "version": "Ghidul tehnic AND 621-2025 este anexă la Ordinul nr. 597/2026; textul tehnic nu este importat",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2026-06-29",
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 597/11.06.2026 aprobă ghidul tehnic AND 621-2025 ca anexă. Preambulul citează explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația repo-locală este modelată ca implements. Art. 2 stabilește explicit intrarea în vigoare la data publicării, 29.06.2026. OG nr. 43/1997 și HG nr. 370/2021 sunt temeiuri externe și nu sunt modelate ca relații repo-locale. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311895",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13"
+    }
+  ],
+  "tags": ["tunele-rutiere", "analiza-riscurilor", "infrastructura-rutiera", "reglementare-tehnica", "mti"]
+}
