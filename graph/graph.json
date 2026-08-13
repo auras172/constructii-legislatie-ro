@@ -1038,6 +1038,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-comun-2061-171-3344-2026",
+      "label": "Ordin comun RTC 15-2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-comun-2245-2069-2025",
       "label": "Ordin comun 2245/2069/2025",
       "type": "ordin",
@@ -3282,6 +3290,45 @@
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0491RT802OKY208JESAK9RFN8Y"
     },
     {
+      "source": "ordin-comun-2061-171-3344-2026",
+      "target": "ghid-rtc15-2025",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă reglementarea tehnică „Instalații de telecomunicații în clădiri. Proiectare, instalare și verificare, indicativ RTC 15-2025”, prevăzută în anexa care face parte integrantă din ordin.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/307582"
+    },
+    {
+      "source": "ordin-comun-2061-171-3344-2026",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 din regulamentul privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/307582"
+    },
+    {
+      "source": "ordin-comun-2061-171-3344-2026",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/307582"
+    },
+    {
       "source": "ordin-comun-2245-2069-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -4289,8 +4336,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 171,
-    "confirmed_edges": 288,
+    "total_nodes": 172,
+    "confirmed_edges": 291,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

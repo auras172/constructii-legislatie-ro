@@ -459,6 +459,12 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: unknown · metadata-only · aprobat prin Ordinul nr. 2223/13.10.2023 · publicat în M.Of. nr. 973 și 973 bis/26.10.2023 · intră în vigoare 25.11.2023
 - [RTC 15-2025](./ghid-rtc15-2025.md)
   - Domain: calitate · Related: Legea 10/1995, Legea 50/1991
+- [Ordin comun RTC 15-2025](./ordin-comun-2061-171-3344-2026.md)
+  - Domain: calitate · Approves: RTC 15-2025 · Implements: Legea 10/1995, HG 203/2003 · metadata-only
+  - Official source checked: [Portal Legislativ, document 307582](https://legislatie.just.ro/Public/DetaliiDocumentAfis/307582) și [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G1RH8N82NPYM5B2NRACTCVZC28)
+  - Status: unknown · M.Of. nr. 148/26.02.2026 și 148 bis · effective_date 28.03.2026, derivată din Art. 3 și regula de 30 de zile · 3 articles · 1 annex
+  - RTC 15-2025 este anexă și nu este importat ca text tehnic; actele externe citate sunt documentate fără noduri
+  - Import log: [import-log/2026-08-13-ordin-comun-2061-171-3344-2026.md](../import-log/2026-08-13-ordin-comun-2061-171-3344-2026.md)
 - [RTC 11-2022](./ghid-rtc11-2022.md)
   - Domain: executie · Related: Metodologie Mc 001-2022
   - Official source checked: MDLPA ([reglementare27](https://www.mdlpa.ro/pages/reglementare27)) — O.M.D.L.P.A. nr. 2819/02.11.2022
