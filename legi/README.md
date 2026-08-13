@@ -264,6 +264,12 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Status: unknown · M.Of. nr. 531/29.06.2026 și 531 bis · intră în vigoare la publicare · 2 articles · 1 annex · ghidul tehnic AND 621-2025 nu este importat
   - OG 43/1997 și HG 370/2021 sunt referințe externe, fără relații repo-locale
   - Import log: [import-log/2026-08-13-ordin-mti-597-2026.md](../import-log/2026-08-13-ordin-mti-597-2026.md)
+- [Ordin MTI 403/2025](./ordin-mti-403-2025.md)
+  - Domain: executie · Implements: Legea 10/1995 · metadata-only
+  - Official source checked: [Portal Legislativ, document 299160](https://legislatie.just.ro/Public/DetaliiDocumentAfis/299160)
+  - Status: unknown · M.Of. nr. 570/19.06.2025 · intră în vigoare la publicare · 2 articles · 1 annex · ghidul tehnic AND 620-2024 nu este importat
+  - OG 43/1997 și HG 370/2021 sunt referințe externe, fără relații repo-locale
+  - Import log: [import-log/2026-08-13-ordin-mti-403-2025.md](../import-log/2026-08-13-ordin-mti-403-2025.md)
 - [Prescripție Tehnică PT A 1-2010](./normativ-pt-a1-2010.md)
   - Domain: iscir · Related: Legea 10/1995
   - Official source checked: ISCIR ([Prescripții Tehnice](https://iscir.ro/prescriptii-iscir)) — O.M.E.C.M.A. nr. 1007/22.06.2010

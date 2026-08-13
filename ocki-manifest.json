@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-13T19:38:47.984Z",
+  "generated_at": "2026-08-13T19:54:53.169Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 171,
+    "acts_total": 172,
     "acts_full_text": 23,
-    "acts_metadata_only": 148,
+    "acts_metadata_only": 149,
     "article_anchors_total": 2288,
-    "import_logs_total": 173,
+    "import_logs_total": 174,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 288,
+    "confirmed_relationships": 289,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -2120,6 +2120,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mtct-1430-2005.md",
       "metadata_file": "metadata/acts/ordin-mtct-1430-2005.json"
+    },
+    {
+      "slug": "ordin-mti-403-2025",
+      "title": "Ordin nr. 403 din 5 mai 2025 pentru aprobarea reglementării tehnice «Ghid tehnic privind stabilirea unor soluții constructive pentru prevenirea căderilor accidentale în golul tehnologic al structurilor paralele (gemene)» - indicativ AND 620-2024",
+      "short_title": "Ordin MTI 403/2025",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/ordin-mti-403-2025.md",
+      "metadata_file": "metadata/acts/ordin-mti-403-2025.json"
     },
     {
       "slug": "ordin-mti-596-2026",
