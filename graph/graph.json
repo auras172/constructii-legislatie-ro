@@ -606,6 +606,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np114-2014",
+      "label": "NP 114-2014",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np123-2022",
       "label": "NP 123-2022",
       "type": "normativ",
@@ -2582,6 +2590,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/164063"
     },
     {
+      "source": "normativ-np114-2014",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din Regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148"
+    },
+    {
+      "source": "normativ-np114-2014",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-13",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148"
+    },
+    {
       "source": "normativ-np123-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -4234,8 +4268,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 169,
-    "confirmed_edges": 285,
+    "total_nodes": 170,
+    "confirmed_edges": 287,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
