@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MTI 597/2026 metadata
 - feat(metadata): add NP 114/2014 metadata
 - feat(metadata): add NP 112/2014 metadata
 - feat(metadata): add NP 069/2014 metadata
@@ -125,6 +126,9 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge remote-tracking branch 'origin/main' into codex/fulltext-np011-2022
+- feat(fulltext): import NP 011-2022 official text
+- Merge pull request #410 from auras172/codex/metadata-ordin-mti-597-2026
 - Merge pull request #408 from auras172/codex/docs-refresh-20260813
 - Merge pull request #407 from auras172/codex/fulltext-np074-2022-v2
 - chore: resolve NP 074 full-text merge conflicts
