@@ -128,6 +128,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #417: import NP 005-2022 official text
+- feat(fulltext): import NP 005-2022 official text
 - Merge PR #416: add Ordin MTI 403/2025 metadata
 - Merge PR #413: add Ordin comun RTC 15-2025 metadata
 - Merge pull request #411 from auras172/codex/fulltext-np011-2022
@@ -407,7 +409,7 @@ All notable changes to constructii-legislatie-ro.
 - 📋 Normativ P 100-3/2019 — calitate `[metadata-only]`
 - 📋 Normativ NP 133-2022 — calitate `[metadata-only]`
 - 📋 Normativ NP 133-2022 — calitate `[metadata-only]`
-- 📋 Normativ NP 007-2025 — calitate `[metadata-only]`
+- ✅ Normativ NP 007-2025 — calitate `[full-text]`
 - 📋 Normativ P 100-1/2013 — calitate `[metadata-only]`
 - 📋 Normativ P 130-2025 — calitate `[metadata-only]`
 - 📋 Mc 001-2022 — nzeb `[metadata-only]`

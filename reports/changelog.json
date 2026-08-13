@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:06:38.854Z",
+  "generated_at": "2026-08-13T20:19:53.208Z",
   "months": [
     {
       "month": "2026-08",
@@ -125,6 +125,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge PR #417: import NP 005-2022 official text",
+        "feat(fulltext): import NP 005-2022 official text",
         "Merge PR #416: add Ordin MTI 403/2025 metadata",
         "Merge PR #413: add Ordin comun RTC 15-2025 metadata",
         "Merge pull request #411 from auras172/codex/fulltext-np011-2022",
@@ -433,7 +435,7 @@
           "slug": "normativ-np007-2025",
           "short_title": "Normativ NP 007-2025",
           "domain": "calitate",
-          "import_method": "metadata-only"
+          "import_method": "full-text"
         },
         {
           "slug": "normativ-p100-1-2013",
@@ -643,8 +645,8 @@
   ],
   "totals": {
     "legislation_added": 20,
-    "full_text": 12,
-    "metadata_only": 8,
+    "full_text": 13,
+    "metadata_only": 7,
     "infrastructure_changes": 160
   }
 }
