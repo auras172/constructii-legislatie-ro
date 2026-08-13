@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:38:48.747Z",
+  "generated_at": "2026-08-13T19:56:32.133Z",
   "months": [
     {
       "month": "2026-08",
@@ -123,6 +123,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #411 from auras172/codex/fulltext-np011-2022",
+        "chore: regenerate repository artifacts",
         "Merge remote-tracking branch 'origin/main' into codex/fulltext-np011-2022",
         "feat(fulltext): import NP 011-2022 official text",
         "Merge pull request #410 from auras172/codex/metadata-ordin-mti-597-2026",

@@ -507,7 +507,7 @@
       "type": "normativ",
       "domain": "calitate",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-np007-2025",
