@@ -1198,6 +1198,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-952-2025",
+      "label": "Ordin MDLPA 952/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrap-1369-2014",
       "label": "Ordin MDRAP 1369/2014",
       "type": "ordin",
@@ -3917,6 +3925,19 @@
       "evidence": "metadata/acts/ordin-mdlpa-904-2023.json"
     },
     {
+      "source": "ordin-mdlpa-952-2025",
+      "target": "hg-1236-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 lit. d) din Hotărârea Guvernului nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299762"
+    },
+    {
       "source": "ordin-mdrap-1369-2014",
       "target": "hg-272-1994",
       "relationship": "references",
@@ -4562,8 +4583,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 176,
-    "confirmed_edges": 310,
+    "total_nodes": 177,
+    "confirmed_edges": 311,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
