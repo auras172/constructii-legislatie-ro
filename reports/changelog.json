@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-14T06:10:18.484Z",
+  "generated_at": "2026-08-14T14:02:43.676Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRAP 1369/2014 metadata",
         "feat(metadata): add Ordin MDLPA 4059/2024 metadata",
         "feat(metadata): add Ordin MTI 403/2025 metadata",
         "feat(metadata): add Ordin comun RTC 15-2025 metadata",
@@ -126,6 +127,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge PR #422: add Ordin MDRAP 1369/2014 metadata",
         "Merge PR #421: import I7-2011 official text",
         "feat(fulltext): import I 7-2011 official text",
         "Merge PR #420: add Ordin MDLPA 4059/2024 metadata",
@@ -655,6 +657,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 161
+    "infrastructure_changes": 162
   }
 }

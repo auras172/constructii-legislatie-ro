@@ -8,17 +8,36 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["instalatii-sanitare", "cladiri", "proiectare", "executie", "exploatare", "i9"],
+  "topics": [
+    "instalatii-sanitare",
+    "cladiri",
+    "proiectare",
+    "executie",
+    "exploatare",
+    "i9"
+  ],
   "status": "active",
   "issue_date": "2022-11-15",
   "publication_date": "2022-12-06",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-06-29",
-  "source_url": "https://www.mdlpa.ro/pages/reglementare13",
-  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare13",
-  "import_method": "metadata-only",
-  "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 2960/15.11.2022, publicat în Monitorul Oficial al României, Partea I, nr. 1167 și nr. 1167bis din 06.12.2022, intrat în vigoare la 06.01.2023. Pagina MDLPA reglementare13 listează explicit că Indicativ I9-2015 se abrogă la intrarea în vigoare. Metadata-only — textul integral nu este importat în acest repo; DOCX-ul oficial este linkuit de MDLPA.",
-  "tags": ["instalatii-sanitare", "sanitare", "cladiri", "normativ-tehnic", "mdlpa", "i9"],
-  "related_acts": ["lege-10-1995"]
+  "last_checked": "2026-08-14",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262281",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2AGKKD4S9K72D2NEE19U83RRVK",
+  "import_method": "full-text",
+  "rights_note": "Normativ tehnic aprobat prin Ordinul MDLPA nr. 2960/15.11.2022 și publicat în Monitorul Oficial, Partea I, nr. 1167 și 1167 bis/06.12.2022. Forma tehnică HTML integrală Portal Legislativ conține 696 provision-uri S_PCT și 25 anexe S_ANX, reprezentate cu ancore pct-* și anexa-*; inventarul sursei conține 45 tabele HTML și 43 imagini oficiale păstrate prin URL. I9-2015 este documentat ca act înlocuit/abrogat la intrarea în vigoare, fără modificarea relațiilor în acest import. official_text_sha256: 424956eea73fa5dee8d14569a232413bdb845cca3ac562383eabbf5850784e86.",
+  "tags": [
+    "instalatii-sanitare",
+    "sanitare",
+    "cladiri",
+    "normativ-tehnic",
+    "mdlpa",
+    "i9"
+  ],
+  "related_acts": [
+    "lege-10-1995"
+  ],
+  "article_count": 696,
+  "annex_count": 25,
+  "official_source": "Portal Legislativ — reglementarea tehnică I 9-2022, ID 262281; Ordinul MDLPA nr. 2960/15.11.2022; MDLPA — Domeniul XIII"
 }
