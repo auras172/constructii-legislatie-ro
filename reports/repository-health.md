@@ -1,14 +1,14 @@
 # Repository Health Report
 
-Generated: 2026-08-14T19:29:53.584Z
+Generated: 2026-08-14T19:53:36.665Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 176 |
-| Full-text acts | 28 |
-| Metadata-only acts | 148 |
+| Full-text acts | 29 |
+| Metadata-only acts | 147 |
 | Import log files | 178 |
 | Total relationship links | 352 |
 | Unique domains | 12 |
@@ -84,7 +84,7 @@ Generated: 2026-08-14T19:29:53.584Z
 | normativ-np005-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | normativ-np007-2025 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | normativ-np011-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
-| normativ-np015-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-np015-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | normativ-np022-2021 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | normativ-np051-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-np057-2002 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -266,8 +266,8 @@ Generated: 2026-08-14T19:29:53.584Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 148 |
-| full-text | 11 |
+| metadata-only | 147 |
+| full-text | 12 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
