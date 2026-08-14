@@ -1,0 +1,82 @@
+{
+  "title": "Ordin nr. 4.059 din 8 noiembrie 2024 pentru aprobarea instrucțiunilor privind aplicarea prevederilor legislative în vigoare în domeniul produselor pentru construcții",
+  "short_title": "Ordin MDLPA 4059/2024",
+  "canonical_citation": "Ordinul nr. 4059/2024",
+  "type": "ordin",
+  "number": "4059",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "produse-pentru-constructii",
+    "agrement-tehnic",
+    "evaluarea-performantei",
+    "calitate-constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-11-08",
+  "publication_date": "2024-11-15",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+  "official_source": "Portal Legislativ — Ordinul nr. 4.059/08.11.2024; Monitorul Oficial al României, Partea I, nr. 1144 din 15.11.2024; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+  "version_kind": "original",
+  "last_checked": "2026-08-14",
+  "version": "Forma oficială verificată în Portal Legislativ la 14.08.2026; ordinul conține 9 articole și nu are anexă distinctă",
+  "article_count": 9,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Preambulul citează art. 41 alin. (2) din Legea nr. 10/1995. Art. 1–2 și art. 5–8 aplică instrucțiunile în domeniul agrementelor tehnice și citează explicit HG nr. 668/2017; Art. 1 și Art. 2 citează, de asemenea, regulamentul privind agrementul tehnic din anexa nr. 5 la HG nr. 766/1997. Art. 9 prevede publicarea în Monitorul Oficial, fără o clauză distinctă de intrare în vigoare; effective_date este omisă. Statusul curent nu este declarat și rămâne unknown. Instrucțiunile nu sunt importate ca text sau nod separat.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "related_acts": [
+    "lege-10-1995",
+    "hg-668-2017",
+    "hg-766-1997"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14"
+    },
+    {
+      "type": "references",
+      "target": "hg-668-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 alin. (2)–(3) și art. 5 citează explicit HG nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Art. 2 alin. (2)–(3); Art. 5",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14"
+    },
+    {
+      "type": "references",
+      "target": "hg-766-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 și art. 2 alin. (1)–(2) citează explicit Regulamentul privind agrementul tehnic în construcții din anexa nr. 5 la HG nr. 766/1997.",
+      "source_article": "Art. 1; Art. 2 alin. (1)–(2)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "notes": "Relația este references; actul nu modifică HG 766/1997 și nu este modelată ca implements. Anexa nr. 5 rămâne parte a actului țintă existent, fără nod separat."
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "calitate",
+    "produse-pentru-constructii",
+    "agrement-tehnic",
+    "evaluarea-performantei"
+  ]
+}
