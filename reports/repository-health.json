@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:02:40.233Z",
+  "generated_at": "2026-08-14T19:29:53.584Z",
   "summary": {
-    "total_metadata_entries": 175,
+    "total_metadata_entries": 176,
     "total_full_text_acts": 28,
-    "total_metadata_only_acts": 147,
-    "total_import_logs": 177,
-    "total_relationship_links": 349,
+    "total_metadata_only_acts": 148,
+    "total_import_logs": 178,
+    "total_relationship_links": 352,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -125,6 +125,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-172-2024",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -1593,7 +1602,7 @@
       "calitate": 69,
       "nzeb": 4,
       "munca": 3,
-      "receptie": 3,
+      "receptie": 4,
       "isc": 7,
       "incendiu": 16,
       "anre": 20,
@@ -1603,7 +1612,7 @@
     },
     "issuers": {
       "minister": 100,
-      "guvern": 35,
+      "guvern": 36,
       "parlament": 18,
       "other": 3,
       "autoritate": 19
@@ -1639,12 +1648,12 @@
       "2021": 5,
       "2022": 21,
       "2023": 22,
-      "2024": 8,
+      "2024": 9,
       "2025": 14,
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 147,
+      "metadata-only": 148,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
