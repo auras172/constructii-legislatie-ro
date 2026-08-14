@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDRAP 1369/2014 metadata
 - feat(metadata): add Ordin MDLPA 4059/2024 metadata
 - feat(metadata): add Ordin MTI 403/2025 metadata
 - feat(metadata): add Ordin comun RTC 15-2025 metadata
@@ -129,6 +130,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #422: add Ordin MDRAP 1369/2014 metadata
 - Merge PR #421: import I7-2011 official text
 - feat(fulltext): import I 7-2011 official text
 - Merge PR #420: add Ordin MDLPA 4059/2024 metadata
