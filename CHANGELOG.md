@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 172/2024 metadata
 - feat(metadata): add Ordin MDRAP 1369/2014 metadata
 - feat(metadata): add Ordin MDLPA 4059/2024 metadata
 - feat(metadata): add Ordin MTI 403/2025 metadata
@@ -130,6 +131,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #424: add HG 172/2024 metadata
 - Merge PR #423: import I9-2022 official text
 - feat(fulltext): import I 9-2022 official text
 - Merge PR #422: add Ordin MDRAP 1369/2014 metadata
