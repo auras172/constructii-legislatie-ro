@@ -128,6 +128,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #418: import NP 007-2025 official text
+- feat(fulltext): import NP 007-2025 official text
 - Merge PR #417: import NP 005-2022 official text
 - feat(fulltext): import NP 005-2022 official text
 - Merge PR #416: add Ordin MTI 403/2025 metadata
@@ -411,7 +413,7 @@ All notable changes to constructii-legislatie-ro.
 - 📋 Normativ NP 133-2022 — calitate `[metadata-only]`
 - ✅ Normativ NP 007-2025 — calitate `[full-text]`
 - 📋 Normativ P 100-1/2013 — calitate `[metadata-only]`
-- 📋 Normativ P 130-2025 — calitate `[metadata-only]`
+- ✅ Normativ P 130-2025 — calitate `[full-text]`
 - 📋 Mc 001-2022 — nzeb `[metadata-only]`
 - ✅ Ordonanta 21/2004 — incendiu `[full-text]`
 - ✅ Legea 481/2004 — incendiu `[full-text]`

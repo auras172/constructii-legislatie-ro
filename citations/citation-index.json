@@ -29802,6 +29802,373 @@
       ],
       "annex_count": 1
     },
+    "normativ-p130-2025": {
+      "title": "Normativ privind urmărirea comportării în exploatare a construcțiilor, indicativ P 130-2025",
+      "slug": "normativ-p130-2025",
+      "file": "legi/normativ-p130-2025.md",
+      "articles": [],
+      "article_count": 0,
+      "provisions": [
+        {
+          "id": "pct-3-1",
+          "anchor": "#pct-3-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-3-1",
+          "line": 154
+        },
+        {
+          "id": "pct-3-2",
+          "anchor": "#pct-3-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-3-2",
+          "line": 628
+        },
+        {
+          "id": "pct-i",
+          "anchor": "#pct-i",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i",
+          "line": 966
+        },
+        {
+          "id": "pct-ii",
+          "anchor": "#pct-ii",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii",
+          "line": 968
+        },
+        {
+          "id": "pct-iii",
+          "anchor": "#pct-iii",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iii",
+          "line": 970
+        },
+        {
+          "id": "pct-iv",
+          "anchor": "#pct-iv",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iv",
+          "line": 972
+        },
+        {
+          "id": "pct-v",
+          "anchor": "#pct-v",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-v",
+          "line": 974
+        },
+        {
+          "id": "pct-vi",
+          "anchor": "#pct-vi",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-vi",
+          "line": 976
+        },
+        {
+          "id": "pct-vii",
+          "anchor": "#pct-vii",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-vii",
+          "line": 978
+        },
+        {
+          "id": "pct-i-a",
+          "anchor": "#pct-i-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i-a",
+          "line": 982
+        },
+        {
+          "id": "pct-ii-a",
+          "anchor": "#pct-ii-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii-a",
+          "line": 984
+        },
+        {
+          "id": "pct-i-b",
+          "anchor": "#pct-i-b",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i-b",
+          "line": 1076
+        },
+        {
+          "id": "pct-ii-b",
+          "anchor": "#pct-ii-b",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii-b",
+          "line": 1078
+        },
+        {
+          "id": "pct-iii-a",
+          "anchor": "#pct-iii-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iii-a",
+          "line": 1080
+        },
+        {
+          "id": "pct-iv-a",
+          "anchor": "#pct-iv-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iv-a",
+          "line": 1082
+        },
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-1",
+          "line": 1130
+        },
+        {
+          "id": "pct-1-1",
+          "anchor": "#pct-1-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-1-1",
+          "line": 1132
+        },
+        {
+          "id": "pct-1-2",
+          "anchor": "#pct-1-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-1-2",
+          "line": 1134
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-2",
+          "line": 1136
+        },
+        {
+          "id": "pct-2-1",
+          "anchor": "#pct-2-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-2-1",
+          "line": 1138
+        },
+        {
+          "id": "pct-2-2",
+          "anchor": "#pct-2-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-2-2",
+          "line": 1140
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-3",
+          "line": 1142
+        },
+        {
+          "id": "pct-3-1-a",
+          "anchor": "#pct-3-1-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-3-1-a",
+          "line": 1144
+        },
+        {
+          "id": "pct-3-2-a",
+          "anchor": "#pct-3-2-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-3-2-a",
+          "line": 1146
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-4",
+          "line": 1148
+        },
+        {
+          "id": "pct-4-1",
+          "anchor": "#pct-4-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-4-1",
+          "line": 1150
+        },
+        {
+          "id": "pct-4-2",
+          "anchor": "#pct-4-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-4-2",
+          "line": 1152
+        },
+        {
+          "id": "pct-4-3",
+          "anchor": "#pct-4-3",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-4-3",
+          "line": 1154
+        },
+        {
+          "id": "pct-5",
+          "anchor": "#pct-5",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-5",
+          "line": 1156
+        },
+        {
+          "id": "pct-5-1",
+          "anchor": "#pct-5-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-5-1",
+          "line": 1158
+        },
+        {
+          "id": "pct-5-2",
+          "anchor": "#pct-5-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-5-2",
+          "line": 1160
+        },
+        {
+          "id": "pct-5-3",
+          "anchor": "#pct-5-3",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-5-3",
+          "line": 1162
+        },
+        {
+          "id": "pct-6",
+          "anchor": "#pct-6",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-6",
+          "line": 1164
+        },
+        {
+          "id": "pct-6-1",
+          "anchor": "#pct-6-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-6-1",
+          "line": 1166
+        },
+        {
+          "id": "pct-6-2",
+          "anchor": "#pct-6-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-6-2",
+          "line": 1168
+        },
+        {
+          "id": "pct-6-3",
+          "anchor": "#pct-6-3",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-6-3",
+          "line": 1170
+        },
+        {
+          "id": "pct-7",
+          "anchor": "#pct-7",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-7",
+          "line": 1172
+        },
+        {
+          "id": "pct-7-1",
+          "anchor": "#pct-7-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-7-1",
+          "line": 1174
+        },
+        {
+          "id": "pct-7-2",
+          "anchor": "#pct-7-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-7-2",
+          "line": 1176
+        },
+        {
+          "id": "pct-8",
+          "anchor": "#pct-8",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-8",
+          "line": 1178
+        },
+        {
+          "id": "pct-8-1",
+          "anchor": "#pct-8-1",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-8-1",
+          "line": 1180
+        },
+        {
+          "id": "pct-8-2",
+          "anchor": "#pct-8-2",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-8-2",
+          "line": 1182
+        },
+        {
+          "id": "pct-9",
+          "anchor": "#pct-9",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-9",
+          "line": 1184
+        },
+        {
+          "id": "pct-10",
+          "anchor": "#pct-10",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-10",
+          "line": 1186
+        },
+        {
+          "id": "pct-i-c",
+          "anchor": "#pct-i-c",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i-c",
+          "line": 1300
+        },
+        {
+          "id": "pct-ii-c",
+          "anchor": "#pct-ii-c",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii-c",
+          "line": 1302
+        },
+        {
+          "id": "pct-iii-b",
+          "anchor": "#pct-iii-b",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iii-b",
+          "line": 1304
+        },
+        {
+          "id": "pct-i-d",
+          "anchor": "#pct-i-d",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i-d",
+          "line": 1332
+        },
+        {
+          "id": "pct-ii-d",
+          "anchor": "#pct-ii-d",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii-d",
+          "line": 1334
+        },
+        {
+          "id": "pct-iii-c",
+          "anchor": "#pct-iii-c",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iii-c",
+          "line": 1336
+        },
+        {
+          "id": "pct-iv-b",
+          "anchor": "#pct-iv-b",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iv-b",
+          "line": 1338
+        },
+        {
+          "id": "pct-i-e",
+          "anchor": "#pct-i-e",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-i-e",
+          "line": 1342
+        },
+        {
+          "id": "pct-ii-e",
+          "anchor": "#pct-ii-e",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-ii-e",
+          "line": 1344
+        },
+        {
+          "id": "pct-iii-d",
+          "anchor": "#pct-iii-d",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iii-d",
+          "line": 1346
+        },
+        {
+          "id": "pct-iv-c",
+          "anchor": "#pct-iv-c",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-iv-c",
+          "line": 1348
+        },
+        {
+          "id": "pct-v-a",
+          "anchor": "#pct-v-a",
+          "url_fragment": "legi/normativ-p130-2025.md#pct-v-a",
+          "line": 1350
+        }
+      ],
+      "provision_count": 56,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/normativ-p130-2025.md#anexa-1",
+          "line": 1118
+        },
+        {
+          "id": "anexa-2",
+          "anchor": "#anexa-2",
+          "url_fragment": "legi/normativ-p130-2025.md#anexa-2",
+          "line": 1204
+        },
+        {
+          "id": "anexa-3",
+          "anchor": "#anexa-3",
+          "url_fragment": "legi/normativ-p130-2025.md#anexa-3",
+          "line": 1284
+        }
+      ],
+      "annex_count": 3
+    },
     "ordin-839-2009": {
       "title": "Ordinul nr. 839 din 12 octombrie 2009 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
       "slug": "ordin-839-2009",
