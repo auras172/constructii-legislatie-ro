@@ -1,0 +1,52 @@
+{
+  "title": "Ordin nr. 952 din 8 iulie 2025 privind desemnarea organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială SRAC CERT - S.R.L., în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a produselor pentru construcții și de certificare a controlului producției în fabrică",
+  "short_title": "Ordin MDLPA 952/2025",
+  "canonical_citation": "Ordinul nr. 952/2025",
+  "type": "ordin",
+  "number": "952",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "produse-pentru-constructii",
+    "evaluarea-performantei",
+    "organism-notificat",
+    "controlul-productiei-in-fabrica",
+    "srac-cert"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-07-08",
+  "publication_date": "2025-07-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299762",
+  "official_source": "Portal Legislativ — Ordinul nr. 952 din 8 iulie 2025; Monitorul Oficial al României, Partea I, nr. 654 din 11 iulie 2025; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/299762",
+  "version_kind": "original",
+  "last_checked": "2026-08-14",
+  "version": "Forma oficială afișată de Portal Legislativ la verificarea din 14.08.2026; forma printabilă oficială: https://legislatie.just.ro/Public/FormaPrintabila/00000G0M0SYH55IB3TM2LH3D12OXFPWT",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Preambulul citează art. 3 lit. d) din HG nr. 1.236/2012, iar Art. 1 desemnează organismul SRAC CERT conform anexei. Art. 3 prevede publicarea în Monitorul Oficial, fără o dată calendaristică distinctă de intrare în vigoare; effective_date este omisă. Art. 4 abrogă explicit Ordinul MDRAP nr. 944/2021, act extern și absent din repository. Statusul curent este unknown. Anexa este documentată ca parte a ordinului, fără text integral sau nod separat.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-1236-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 lit. d) din Hotărârea Guvernului nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299762",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "produse-pentru-constructii",
+    "organism-notificat",
+    "srac-cert",
+    "ordin-ministerial"
+  ]
+}

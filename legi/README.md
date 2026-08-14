@@ -830,7 +830,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
 - [Ordin MDLPA 348/2026](./ordin-mdlpa-348-2026.md)
   - Domain: calitate · Implements: Legea 10/1995 · References: Legea 372/2005 · metadata-only
   - Official source checked: [Portal Legislativ, document 309526](https://legislatie.just.ro/Public/DetaliiDocument/309526)
-  - Status: unknown · M.Of. nr. 292/14.04.2026 · 8 articles · 1 annex · effective date omitted because the ordinance enters into force at publication while selected annex provisions have a 180-day delay; Ordinul MDRT 2237/2010 remains external · text unavailable in repo
+  - Status: unknown · M.Of. nr. 292/14.04.2026 · 8 articles · 1 annex · effective_date omisă pentru intrarea diferențiată a anexei
+- [Ordin MDLPA 952/2025](./ordin-mdlpa-952-2025.md)
+  - Domain: calitate · References: HG 1236/2012 · metadata-only
+  - Official source checked: [Portal Legislativ, document 299762](https://legislatie.just.ro/Public/DetaliiDocument/299762) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0M0SYH55IB3TM2LH3D12OXFPWT)
+  - Status: unknown · M.Of. nr. 654/11.07.2025 · 4 articles · 1 annex · effective_date omisă; Ordinul MDRAP 944/2021 este abrogat extern
 - [Ordin comun MTI/MDLPA 2245/2069/2025](./ordin-comun-2245-2069-2025.md)
   - Domain: executie · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 306476](https://legislatie.just.ro/Public/DetaliiDocument/306476?isFormaDeBaza=True&rep=True)
