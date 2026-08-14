@@ -1142,6 +1142,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-4059-2024",
+      "label": "Ordin MDLPA 4059/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-770-2025",
       "label": "Ordin MDLPA 770/2025",
       "type": "ordin",
@@ -3694,6 +3702,67 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309526"
     },
     {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 alin. (2)–(3) și art. 5 citează explicit HG nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Art. 2 alin. (2)–(3); Art. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975"
+    },
+    {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "hg-668-2017",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4059-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 și art. 2 alin. (1)–(2) citează explicit Regulamentul privind agrementul tehnic în construcții din anexa nr. 5 la HG nr. 766/1997.",
+      "source_article": "Art. 1; Art. 2 alin. (1)–(2)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975",
+      "notes": "Relația este references; actul nu modifică HG 766/1997 și nu este modelată ca implements. Anexa nr. 5 rămâne parte a actului țintă existent, fără nod separat."
+    },
+    {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "hg-766-1997",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4059-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290975"
+    },
+    {
+      "source": "ordin-mdlpa-4059-2024",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4059-2024.json"
+    },
+    {
       "source": "ordin-mdlpa-770-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -4357,8 +4426,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 173,
-    "confirmed_edges": 292,
+    "total_nodes": 174,
+    "confirmed_edges": 298,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

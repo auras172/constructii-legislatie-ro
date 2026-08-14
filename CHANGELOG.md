@@ -128,6 +128,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #419: import P 130-2025 official text
+- feat(fulltext): import P 130-2025 official text
 - Merge PR #418: import NP 007-2025 official text
 - feat(fulltext): import NP 007-2025 official text
 - Merge PR #417: import NP 005-2022 official text

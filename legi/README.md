@@ -254,6 +254,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: Portal Legislativ ([forma oficială](https://legislatie.just.ro/Public/DetaliiDocument/299154))
   - Status: unknown · metadata-only · publicat în M.Of. nr. 568/19.06.2025 · intrare în vigoare 19.07.2025, derivată din regula de 30 de zile · 6 articole și 1 anexă; aprobă P 130-2025 fără edge `approves` nesuportat de schema repo
   - Import log: [import-log/2026-08-10-ordin-mdlpa-770-2025.md](../import-log/2026-08-10-ordin-mdlpa-770-2025.md)
+- [Ordin MDLPA 4059/2024](./ordin-mdlpa-4059-2024.md)
+  - Domain: calitate · Implements: Legea 10/1995 · References: HG 668/2017, HG 766/1997 · metadata-only
+  - Official source checked: [Portal Legislativ, document 290975](https://legislatie.just.ro/Public/DetaliiDocument/290975)
+  - Status: unknown · M.Of. nr. 1144/15.11.2024 · 9 articles · no distinct annex · effective date omitted because Art. 9 only requires publication
+  - Import log: [import-log/2026-08-14-ordin-mdlpa-4059-2024.md](../import-log/2026-08-14-ordin-mdlpa-4059-2024.md)
 - [Ordin MTI 596/2026](./ordin-mti-596-2026.md)
   - Domain: executie · Implements: Legea 10/1995 · metadata-only
   - Official source checked: [Portal Legislativ, document 311546](https://legislatie.just.ro/Public/DetaliiDocument/311546)
