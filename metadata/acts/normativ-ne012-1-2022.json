@@ -8,18 +8,38 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice şi Administraţiei",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["beton", "beton-armat", "beton-precomprimat", "producerea-betonului", "executie"],
+  "topics": [
+    "beton",
+    "beton-armat",
+    "beton-precomprimat",
+    "producerea-betonului",
+    "executie"
+  ],
   "status": "active",
   "issue_date": "2023-01-11",
   "publication_date": "2023-01-19",
   "effective_date": "2023-04-20",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-02",
-  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264039",
-  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare4",
-  "import_method": "metadata-only",
-  "rights_note": "Aprobat prin Ordinul MDLPA nr. 30/11.01.2023, publicat în M.Of. nr. 53 şi 53 bis din 19 ianuarie 2023 (Portal Legislativ, DetaliiDocument/264039). Art. 4 abrogă, la data intrării în vigoare a prezentului ordin, Ordinul nr. 577/2008 (NE 012/1-2007). Art. 2 prevede intrarea în vigoare 'în 90 de zile de la data publicării'; calculul calendaristic din data publicării (19.01.2023) dă 19.04.2023, dar pagina oficială MDLPA reglementare4 (poziţia IV-39) declară explicit data de 20 aprilie 2023 ca dată a intrării în vigoare şi a abrogării NE 012/1-2007. effective_date preia data declarată explicit de MDLPA; diferenţa de o zi faţă de calculul literal al regulii de 90 de zile nu a fost investigată în această trecere (posibilă convenţie de numărare din Legea 24/2000, neverificată). Textul regulamentului anexat (DetaliiDocument/264439) nu este importat în acest repo — doar metadate şi provenienţă. Preambulul Ordinului nr. 30/2023 citează art. 10 din Legea nr. 10/1995 privind calitatea în construcţii, republicată.",
-  "tags": ["beton", "beton-armat", "beton-precomprimat", "producere-beton", "normativ-tehnic", "mdlpa", "ne012"],
-  "related_acts": ["normativ-ne012-1-2007", "lege-10-1995"]
+  "last_checked": "2026-08-15",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264439",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/264439",
+  "import_method": "full-text",
+  "rights_note": "Aprobat prin Ordinul MDLPA nr. 30/11.01.2023 și publicat în M.Of. nr. 53 și 53 bis din 19 ianuarie 2023. Portalul tehnic integral conține 88 de provisions tehnice efective după eliminarea cuprinsului repetat, 15 anexe, 41 tabele și 7 imagini în regiunea normativă exportată; markup-ul tabelelor și URL-urile oficiale ale imaginilor sunt păstrate. Art. 4 al ordinului abrogă NE 012/1-2007 la intrarea în vigoare; data efectivă declarată de MDLPA este 20.04.2023. official_text_sha256: fc863da905c1a2a7bad7fdf1233b9964739216a3dd943cccaa23c1db91d5beac.",
+  "tags": [
+    "beton",
+    "beton-armat",
+    "beton-precomprimat",
+    "producere-beton",
+    "normativ-tehnic",
+    "mdlpa",
+    "ne012"
+  ],
+  "related_acts": [
+    "normativ-ne012-1-2007",
+    "lege-10-1995"
+  ],
+  "version": "normativ tehnic original; forma HTML oficială integrală a Portalului Legislativ",
+  "article_count": 88,
+  "annex_count": 15
 }

@@ -23735,6 +23735,637 @@
       ],
       "annex_count": 25
     },
+    "normativ-ne012-1-2022": {
+      "title": "Normativ pentru producerea şi executarea lucrărilor din beton, beton armat şi beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2022",
+      "slug": "normativ-ne012-1-2022",
+      "file": "legi/normativ-ne012-1-2022.md",
+      "articles": [],
+      "article_count": 0,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-1",
+          "line": 40
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-2",
+          "line": 44
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3",
+          "line": 48
+        },
+        {
+          "id": "pct-3-1",
+          "anchor": "#pct-3-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-1",
+          "line": 50
+        },
+        {
+          "id": "pct-3-1-4",
+          "anchor": "#pct-3-1-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-1-4",
+          "line": 52
+        },
+        {
+          "id": "pct-3-1-4-5",
+          "anchor": "#pct-3-1-4-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-1-4-5",
+          "line": 54
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4",
+          "line": 58
+        },
+        {
+          "id": "pct-4-1",
+          "anchor": "#pct-4-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-1",
+          "line": 60
+        },
+        {
+          "id": "pct-4-1-1",
+          "anchor": "#pct-4-1-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-1-1",
+          "line": 62
+        },
+        {
+          "id": "pct-4-2",
+          "anchor": "#pct-4-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-2",
+          "line": 64
+        },
+        {
+          "id": "pct-4-3",
+          "anchor": "#pct-4-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-3",
+          "line": 66
+        },
+        {
+          "id": "pct-5",
+          "anchor": "#pct-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5",
+          "line": 70
+        },
+        {
+          "id": "pct-5-1",
+          "anchor": "#pct-5-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-1",
+          "line": 72
+        },
+        {
+          "id": "pct-5-1-1",
+          "anchor": "#pct-5-1-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-1-1",
+          "line": 74
+        },
+        {
+          "id": "pct-5-1-2",
+          "anchor": "#pct-5-1-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-1-2",
+          "line": 76
+        },
+        {
+          "id": "pct-5-2",
+          "anchor": "#pct-5-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2",
+          "line": 78
+        },
+        {
+          "id": "pct-5-2-1",
+          "anchor": "#pct-5-2-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-1",
+          "line": 80
+        },
+        {
+          "id": "pct-5-2-2",
+          "anchor": "#pct-5-2-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-2",
+          "line": 82
+        },
+        {
+          "id": "pct-5-2-3",
+          "anchor": "#pct-5-2-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-3",
+          "line": 84
+        },
+        {
+          "id": "pct-5-2-5",
+          "anchor": "#pct-5-2-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5",
+          "line": 86
+        },
+        {
+          "id": "pct-5-2-5-1",
+          "anchor": "#pct-5-2-5-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-1",
+          "line": 88
+        },
+        {
+          "id": "pct-5-2-5-2",
+          "anchor": "#pct-5-2-5-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-2",
+          "line": 90
+        },
+        {
+          "id": "pct-5-2-5-2-1",
+          "anchor": "#pct-5-2-5-2-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-2-1",
+          "line": 92
+        },
+        {
+          "id": "pct-5-2-5-2-2",
+          "anchor": "#pct-5-2-5-2-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-2-2",
+          "line": 94
+        },
+        {
+          "id": "pct-5-2-5-2-3",
+          "anchor": "#pct-5-2-5-2-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-2-3",
+          "line": 96
+        },
+        {
+          "id": "pct-5-2-5-2-4",
+          "anchor": "#pct-5-2-5-2-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-5-2-4",
+          "line": 98
+        },
+        {
+          "id": "pct-5-2-6",
+          "anchor": "#pct-5-2-6",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-6",
+          "line": 100
+        },
+        {
+          "id": "pct-5-2-8",
+          "anchor": "#pct-5-2-8",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-8",
+          "line": 102
+        },
+        {
+          "id": "pct-5-2-9",
+          "anchor": "#pct-5-2-9",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-2-9",
+          "line": 104
+        },
+        {
+          "id": "pct-5-3",
+          "anchor": "#pct-5-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-3",
+          "line": 106
+        },
+        {
+          "id": "pct-5-3-1",
+          "anchor": "#pct-5-3-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-3-1",
+          "line": 108
+        },
+        {
+          "id": "pct-5-3-2",
+          "anchor": "#pct-5-3-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-3-2",
+          "line": 110
+        },
+        {
+          "id": "pct-5-3-3",
+          "anchor": "#pct-5-3-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-3-3",
+          "line": 112
+        },
+        {
+          "id": "pct-5-3-4",
+          "anchor": "#pct-5-3-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-3-4",
+          "line": 114
+        },
+        {
+          "id": "pct-5-4",
+          "anchor": "#pct-5-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-4",
+          "line": 116
+        },
+        {
+          "id": "pct-5-4-3",
+          "anchor": "#pct-5-4-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-4-3",
+          "line": 118
+        },
+        {
+          "id": "pct-5-5",
+          "anchor": "#pct-5-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5",
+          "line": 120
+        },
+        {
+          "id": "pct-5-5-1",
+          "anchor": "#pct-5-5-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5-1",
+          "line": 122
+        },
+        {
+          "id": "pct-5-5-1-1",
+          "anchor": "#pct-5-5-1-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5-1-1",
+          "line": 124
+        },
+        {
+          "id": "pct-5-5-1-2",
+          "anchor": "#pct-5-5-1-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5-1-2",
+          "line": 126
+        },
+        {
+          "id": "pct-5-5-3",
+          "anchor": "#pct-5-5-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5-3",
+          "line": 128
+        },
+        {
+          "id": "pct-5-5-5",
+          "anchor": "#pct-5-5-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-5-5",
+          "line": 130
+        },
+        {
+          "id": "pct-6",
+          "anchor": "#pct-6",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-6",
+          "line": 134
+        },
+        {
+          "id": "pct-7",
+          "anchor": "#pct-7",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7",
+          "line": 138
+        },
+        {
+          "id": "pct-7-1",
+          "anchor": "#pct-7-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-1",
+          "line": 140
+        },
+        {
+          "id": "pct-7-2",
+          "anchor": "#pct-7-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-2",
+          "line": 142
+        },
+        {
+          "id": "pct-7-3",
+          "anchor": "#pct-7-3",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-3",
+          "line": 144
+        },
+        {
+          "id": "pct-1-a",
+          "anchor": "#pct-1-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-1-a",
+          "line": 146
+        },
+        {
+          "id": "pct-2-a",
+          "anchor": "#pct-2-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-2-a",
+          "line": 148
+        },
+        {
+          "id": "pct-3-a",
+          "anchor": "#pct-3-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-a",
+          "line": 150
+        },
+        {
+          "id": "pct-4-a",
+          "anchor": "#pct-4-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-a",
+          "line": 152
+        },
+        {
+          "id": "pct-5-a",
+          "anchor": "#pct-5-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-a",
+          "line": 154
+        },
+        {
+          "id": "pct-6-a",
+          "anchor": "#pct-6-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-6-a",
+          "line": 156
+        },
+        {
+          "id": "pct-7-a",
+          "anchor": "#pct-7-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-a",
+          "line": 158
+        },
+        {
+          "id": "pct-8",
+          "anchor": "#pct-8",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-8",
+          "line": 160
+        },
+        {
+          "id": "pct-9",
+          "anchor": "#pct-9",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-9",
+          "line": 162
+        },
+        {
+          "id": "pct-10",
+          "anchor": "#pct-10",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-10",
+          "line": 164
+        },
+        {
+          "id": "pct-11",
+          "anchor": "#pct-11",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-11",
+          "line": 166
+        },
+        {
+          "id": "pct-1-b",
+          "anchor": "#pct-1-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-1-b",
+          "line": 168
+        },
+        {
+          "id": "pct-2-b",
+          "anchor": "#pct-2-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-2-b",
+          "line": 170
+        },
+        {
+          "id": "pct-3-b",
+          "anchor": "#pct-3-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-b",
+          "line": 172
+        },
+        {
+          "id": "pct-4-b",
+          "anchor": "#pct-4-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-b",
+          "line": 174
+        },
+        {
+          "id": "pct-7-4",
+          "anchor": "#pct-7-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-4",
+          "line": 176
+        },
+        {
+          "id": "pct-7-5",
+          "anchor": "#pct-7-5",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-7-5",
+          "line": 178
+        },
+        {
+          "id": "pct-8-a",
+          "anchor": "#pct-8-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-8-a",
+          "line": 182
+        },
+        {
+          "id": "pct-8-2",
+          "anchor": "#pct-8-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-8-2",
+          "line": 184
+        },
+        {
+          "id": "pct-8-2-1-2",
+          "anchor": "#pct-8-2-1-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-8-2-1-2",
+          "line": 186
+        },
+        {
+          "id": "pct-8-4",
+          "anchor": "#pct-8-4",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-8-4",
+          "line": 188
+        },
+        {
+          "id": "pct-9-a",
+          "anchor": "#pct-9-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-9-a",
+          "line": 192
+        },
+        {
+          "id": "pct-9-6",
+          "anchor": "#pct-9-6",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-9-6",
+          "line": 194
+        },
+        {
+          "id": "pct-9-6-1",
+          "anchor": "#pct-9-6-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-9-6-1",
+          "line": 196
+        },
+        {
+          "id": "pct-9-9",
+          "anchor": "#pct-9-9",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-9-9",
+          "line": 198
+        },
+        {
+          "id": "pct-10-a",
+          "anchor": "#pct-10-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-10-a",
+          "line": 202
+        },
+        {
+          "id": "pct-10-1",
+          "anchor": "#pct-10-1",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-10-1",
+          "line": 204
+        },
+        {
+          "id": "pct-10-2",
+          "anchor": "#pct-10-2",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-10-2",
+          "line": 206
+        },
+        {
+          "id": "pct-11-a",
+          "anchor": "#pct-11-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-11-a",
+          "line": 210
+        },
+        {
+          "id": "pct-1-c",
+          "anchor": "#pct-1-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-1-c",
+          "line": 272
+        },
+        {
+          "id": "pct-2-c",
+          "anchor": "#pct-2-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-2-c",
+          "line": 274
+        },
+        {
+          "id": "pct-3-c",
+          "anchor": "#pct-3-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-c",
+          "line": 276
+        },
+        {
+          "id": "pct-4-c",
+          "anchor": "#pct-4-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-c",
+          "line": 278
+        },
+        {
+          "id": "pct-5-b",
+          "anchor": "#pct-5-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-b",
+          "line": 280
+        },
+        {
+          "id": "pct-6-b",
+          "anchor": "#pct-6-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-6-b",
+          "line": 282
+        },
+        {
+          "id": "pct-1-d",
+          "anchor": "#pct-1-d",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-1-d",
+          "line": 284
+        },
+        {
+          "id": "pct-2-d",
+          "anchor": "#pct-2-d",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-2-d",
+          "line": 286
+        },
+        {
+          "id": "pct-3-d",
+          "anchor": "#pct-3-d",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-3-d",
+          "line": 288
+        },
+        {
+          "id": "pct-4-d",
+          "anchor": "#pct-4-d",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-4-d",
+          "line": 290
+        },
+        {
+          "id": "pct-5-c",
+          "anchor": "#pct-5-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-5-c",
+          "line": 292
+        },
+        {
+          "id": "pct-6-c",
+          "anchor": "#pct-6-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#pct-6-c",
+          "line": 294
+        }
+      ],
+      "provision_count": 88,
+      "annexes": [
+        {
+          "id": "anexa-a",
+          "anchor": "#anexa-a",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-a",
+          "line": 214
+        },
+        {
+          "id": "anexa-b",
+          "anchor": "#anexa-b",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-b",
+          "line": 220
+        },
+        {
+          "id": "anexa-c",
+          "anchor": "#anexa-c",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-c",
+          "line": 226
+        },
+        {
+          "id": "anexa-d",
+          "anchor": "#anexa-d",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-d",
+          "line": 232
+        },
+        {
+          "id": "anexa-e",
+          "anchor": "#anexa-e",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-e",
+          "line": 238
+        },
+        {
+          "id": "anexa-f",
+          "anchor": "#anexa-f",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-f",
+          "line": 244
+        },
+        {
+          "id": "anexa-g",
+          "anchor": "#anexa-g",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-g",
+          "line": 250
+        },
+        {
+          "id": "anexa-h",
+          "anchor": "#anexa-h",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-h",
+          "line": 256
+        },
+        {
+          "id": "anexa-i",
+          "anchor": "#anexa-i",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-i",
+          "line": 262
+        },
+        {
+          "id": "anexa-j",
+          "anchor": "#anexa-j",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-j",
+          "line": 268
+        },
+        {
+          "id": "anexa-k",
+          "anchor": "#anexa-k",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-k",
+          "line": 298
+        },
+        {
+          "id": "anexa-l",
+          "anchor": "#anexa-l",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-l",
+          "line": 304
+        },
+        {
+          "id": "anexa-m",
+          "anchor": "#anexa-m",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-m",
+          "line": 310
+        },
+        {
+          "id": "anexa-n",
+          "anchor": "#anexa-n",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-n",
+          "line": 316
+        },
+        {
+          "id": "anexa-o",
+          "anchor": "#anexa-o",
+          "url_fragment": "legi/normativ-ne012-1-2022.md#anexa-o",
+          "line": 322
+        }
+      ],
+      "annex_count": 15
+    },
     "normativ-np005-2022": {
       "title": "Normativ privind proiectarea și verificarea construcțiilor din lemn, Indicativ NP 005-2022",
       "slug": "normativ-np005-2022",
