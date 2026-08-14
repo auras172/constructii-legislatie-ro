@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T05:38:26.499Z",
+  "generated_at": "2026-08-14T06:10:10.609Z",
   "summary": {
-    "total_metadata_entries": 174,
+    "total_metadata_entries": 175,
     "total_full_text_acts": 27,
-    "total_metadata_only_acts": 147,
-    "total_import_logs": 176,
-    "total_relationship_links": 343,
+    "total_metadata_only_acts": 148,
+    "total_import_logs": 177,
+    "total_relationship_links": 349,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -1343,6 +1343,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mdrap-1369-2014",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 6,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mdrap-2264-2018",
       "full_text": false,
       "metadata": true,
@@ -1585,7 +1594,7 @@
       "nzeb": 4,
       "munca": 3,
       "receptie": 3,
-      "isc": 6,
+      "isc": 7,
       "incendiu": 16,
       "anre": 20,
       "autorizatii": 8,
@@ -1593,7 +1602,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 99,
+      "minister": 100,
       "guvern": 35,
       "parlament": 18,
       "other": 3,
@@ -1620,7 +1629,7 @@
       "2011": 2,
       "2012": 2,
       "2013": 7,
-      "2014": 4,
+      "2014": 5,
       "2015": 3,
       "2016": 4,
       "2017": 2,
@@ -1635,7 +1644,7 @@
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 147,
+      "metadata-only": 148,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

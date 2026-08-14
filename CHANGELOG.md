@@ -129,6 +129,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #421: import I7-2011 official text
+- feat(fulltext): import I 7-2011 official text
 - Merge PR #420: add Ordin MDLPA 4059/2024 metadata
 - Merge PR #419: import P 130-2025 official text
 - feat(fulltext): import P 130-2025 official text

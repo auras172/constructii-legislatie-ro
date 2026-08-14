@@ -778,6 +778,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Domain: isc · Amends: Ordin MDRT 1496/2011 · Implements: Legea 10/1995, OG 63/2001 · metadata-only
   - Official source checked: [Portal Legislativ, document 153772](https://legislatie.just.ro/Public/DetaliiDocument/153772)
   - Status: unknown · M.Of. nr. 799/18.12.2013 · intră în vigoare 18.12.2013 · 3 articles · 2 annexes · modifică anexele 3 și 4 ale procedurii; HG 272/1994 și HG 525/2013 sunt referințe externe
+- [Ordin MDRAP 1369/2014](./ordin-mdrap-1369-2014.md)
+  - Domain: isc · Implements: Legea 10/1995, OG 63/2001 · References: HG 525/2013, HG 272/1994 · metadata-only
+  - Official source checked: [Portal Legislativ, document 160375](https://legislatie.just.ro/Public/DetaliiDocument/160375) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G269YYQ1L2A3PK1SJSVWJULLMFP)
+  - Status: unknown · M.Of. nr. 576/01.08.2014 · 2 articles · 1 annex · effective_date omisă; procedura PCE 001 anexată nu este importată
 - [Ordin ISC 4093/2024](./ordin-isc-4093-2024.md)
   - Domain: isc · Implements: OG 63/2001 · metadata-only
   - Official source checked: [Portal Legislativ, document 291757](https://legislatie.just.ro/Public/DetaliiDocument/291757) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G0FM0W8F3CR6UO1DNDMXLKLSOLS)
