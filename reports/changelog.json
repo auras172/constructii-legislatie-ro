@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-14T05:18:11.315Z",
+  "generated_at": "2026-08-14T05:38:27.884Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 4059/2024 metadata",
         "feat(metadata): add Ordin MTI 403/2025 metadata",
         "feat(metadata): add Ordin comun RTC 15-2025 metadata",
         "feat(metadata): add Ordin MTI 597/2026 metadata",
@@ -125,6 +126,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge PR #420: add Ordin MDLPA 4059/2024 metadata",
         "Merge PR #419: import P 130-2025 official text",
         "feat(fulltext): import P 130-2025 official text",
         "Merge PR #418: import NP 007-2025 official text",
@@ -415,7 +417,7 @@
           "slug": "normativ-i7-2011",
           "short_title": "Normativ I 7-2011",
           "domain": "calitate",
-          "import_method": "metadata-only"
+          "import_method": "full-text"
         },
         {
           "slug": "normativ-p100-3-2019",
@@ -649,8 +651,8 @@
   ],
   "totals": {
     "legislation_added": 20,
-    "full_text": 14,
-    "metadata_only": 6,
-    "infrastructure_changes": 160
+    "full_text": 15,
+    "metadata_only": 5,
+    "infrastructure_changes": 161
   }
 }

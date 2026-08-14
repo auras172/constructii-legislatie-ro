@@ -8,17 +8,38 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["instalatii-electrice", "cladiri", "proiectare", "executie", "exploatare"],
+  "topics": [
+    "instalatii-electrice",
+    "cladiri",
+    "proiectare",
+    "executie",
+    "exploatare"
+  ],
   "status": "active",
   "issue_date": "2011-10-01",
   "publication_date": "2011-11-14",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-06-29",
-  "source_url": "https://www.mdlpa.ro/pages/reglementare12",
-  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare12",
-  "import_method": "metadata-only",
-  "rights_note": "Normativ tehnic aprobat prin O.M.D.R.T. nr. 2.741/01.10.2011 (emis de Ministerul Dezvoltării Regionale și Turismului — MDRT, denumire actualizată ulterior la MDLPA), publicat în Monitorul Oficial al României, Partea I, nr. 802 bis din 14 noiembrie 2011. Completare aprobată prin O.M.D.L.P.A. nr. 959/18.05.2023, publicată în M.Of., Partea I, nr. 512 din 12 iunie 2023, intrată în vigoare la 11 iulie 2023 (30 de zile de la publicare). Nu există versiune consolidată oficială unică; textul original și completarea din 2023 sunt documente separate listate pe MDLPA (Domeniul XII, rândul XII-6). PDF disponibil pe MDLPA: https://www.mdlpa.ro/userfiles/reglementari/Domeniul_XII/12_6_I_7_2011.pdf. Metadata-only — textul integral nu este importat în acest repo.",
-  "tags": ["instalatii-electrice", "electrice", "cladiri", "proiectare", "executie", "exploatare", "normativ-tehnic", "mdlpa", "i7"],
-  "related_acts": ["lege-10-1995"]
+  "last_checked": "2026-08-14",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/132892",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G10MW5T4RY169V2WV71OFS9E4W0",
+  "import_method": "full-text",
+  "rights_note": "Normativ tehnic aprobat prin Ordinul nr. 2.741/01.11.2011 și publicat în Monitorul Oficial nr. 802 bis/14.11.2011. Forma tehnică originală integrală este importată mecanic din forma oficială Portal Legislativ. Inventarul Portalului original conține 2.010 provision-uri S_PCT, 48 anexe S_ANX, 182 tabele HTML și 101 imagini tehnice în zona tehnică importată; acestea sunt reprezentate cu ancore pct-* și anexa-* și imagini prin URL-uri oficiale, fără binare locale. Completarea prin Ordinul nr. 959/18.05.2023 este document separat și nu este amestecată în această versiune originală; nu există o formă consolidată oficială unică. Relația existentă către lege-10-1995 rămâne neschimbată. official_text_sha256: 3f0543e59aa7d0f2bf3b15c9474e56dccc7ac531c57780a2dd976b51ba7bdb29.",
+  "tags": [
+    "instalatii-electrice",
+    "electrice",
+    "cladiri",
+    "proiectare",
+    "executie",
+    "exploatare",
+    "normativ-tehnic",
+    "mdlpa",
+    "i7"
+  ],
+  "related_acts": [
+    "lege-10-1995"
+  ],
+  "article_count": 2010,
+  "annex_count": 48,
+  "official_source": "Portal Legislativ — Ordin nr. 2741/01.11.2011, ID 132892; reglementarea tehnică I 7-2011; MDLPA — Domeniul XII"
 }
