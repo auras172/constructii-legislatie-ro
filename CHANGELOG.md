@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDLPA 4059/2024 metadata
 - feat(metadata): add Ordin MTI 403/2025 metadata
 - feat(metadata): add Ordin comun RTC 15-2025 metadata
 - feat(metadata): add Ordin MTI 597/2026 metadata
@@ -128,6 +129,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge PR #420: add Ordin MDLPA 4059/2024 metadata
 - Merge PR #419: import P 130-2025 official text
 - feat(fulltext): import P 130-2025 official text
 - Merge PR #418: import NP 007-2025 official text
@@ -409,7 +411,7 @@ All notable changes to constructii-legislatie-ro.
 ## June 2026
 
 ### Legislation
-- 📋 Normativ I 7-2011 — calitate `[metadata-only]`
+- ✅ Normativ I 7-2011 — calitate `[full-text]`
 - 📋 Normativ P 100-3/2019 — calitate `[metadata-only]`
 - 📋 Normativ NP 133-2022 — calitate `[metadata-only]`
 - 📋 Normativ NP 133-2022 — calitate `[metadata-only]`

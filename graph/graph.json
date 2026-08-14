@@ -451,7 +451,7 @@
       "type": "normativ",
       "domain": "calitate",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-i9-2022",
