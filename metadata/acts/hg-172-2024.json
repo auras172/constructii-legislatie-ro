@@ -1,0 +1,69 @@
+{
+  "title": "Hotărârea Guvernului nr. 172 din 28 februarie 2024 privind modificarea Hotărârii Guvernului nr. 845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național",
+  "short_title": "HG 172/2024",
+  "canonical_citation": "HG nr. 172/2024",
+  "type": "hotarare",
+  "number": "172",
+  "year": "2024",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "receptie",
+  "topics": [
+    "receptie",
+    "infrastructura-rutiera",
+    "infrastructura-feroviara",
+    "infrastructura-nationala",
+    "metrorex"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-02-28",
+  "publication_date": "2024-03-05",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 172 din 28 februarie 2024; Monitorul Oficial al României, Partea I, nr. 177 din 5 martie 2024; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594",
+  "version_kind": "original",
+  "last_checked": "2026-08-14",
+  "version": "Forma oficială afișată de Portal Legislativ la verificarea din 14.08.2026; forma printabilă oficială: https://legislatie.just.ro/Public/FormaPrintabila/00000G1OEIJUD9LB7V11R94KN62CPU0T",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Preambulul citează art. 41 alin. (1^1) din Legea nr. 10/1995. Art. I modifică explicit HG nr. 845/2018, act absent din repository, iar Art. II citează HG nr. 273/1994 ca referință repo-locală pentru anumite contracte. Hotărârea nu are anexă proprie în forma Portalului; modifică articole și anexe ale regulamentului aprobat prin HG 845/2018. Nu este identificată o clauză generală cu dată calendaristică distinctă de intrare în vigoare, iar statusul curent este unknown. Textul integral și regulamentul modificat nu sunt importate.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "related_acts": [
+    "lege-10-1995",
+    "hg-273-1994"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14"
+    },
+    {
+      "type": "references",
+      "target": "hg-273-1994",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II citează Hotărârea Guvernului nr. 273/1994 pentru aprobarea Regulamentului privind recepția construcțiilor, cu modificările și completările ulterioare.",
+      "source_article": "Art. II",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14"
+    }
+  ],
+  "tags": [
+    "receptie",
+    "infrastructura-rutiera",
+    "infrastructura-feroviara",
+    "hotarare-guvern"
+  ]
+}

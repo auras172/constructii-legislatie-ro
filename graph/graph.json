@@ -110,6 +110,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-172-2024",
+      "label": "HG 172/2024",
+      "type": "hotarare",
+      "domain": "receptie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-203-2003",
       "label": "HG 203/2003",
       "type": "hotarare",
@@ -1599,6 +1607,46 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-02",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134138"
+    },
+    {
+      "source": "hg-172-2024",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. II citează Hotărârea Guvernului nr. 273/1994 pentru aprobarea Regulamentului privind recepția construcțiilor, cu modificările și completările ulterioare.",
+      "source_article": "Art. II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594"
+    },
+    {
+      "source": "hg-172-2024",
+      "target": "hg-273-1994",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-172-2024.json"
+    },
+    {
+      "source": "hg-172-2024",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 41 alin. (1^1) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-14",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594"
+    },
+    {
+      "source": "hg-172-2024",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/hg-172-2024.json"
     },
     {
       "source": "hg-203-2003",
@@ -4514,8 +4562,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 175,
-    "confirmed_edges": 306,
+    "total_nodes": 176,
+    "confirmed_edges": 310,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }
