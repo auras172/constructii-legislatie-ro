@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T13:03:03.056Z",
+  "generated_at": "2026-08-15T14:28:28.801Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 189,
-    "acts_full_text": 33,
-    "acts_metadata_only": 156,
-    "article_anchors_total": 2347,
-    "import_logs_total": 195,
+    "acts_full_text": 34,
+    "acts_metadata_only": 155,
+    "article_anchors_total": 2365,
+    "import_logs_total": 196,
     "domains": [
       "anre",
       "autorizatii",
@@ -322,9 +322,9 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 4,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 18,
+      "anchor_count": 18,
       "file": "legi/hg-492-2018.md",
       "metadata_file": "metadata/acts/hg-492-2018.json"
     },

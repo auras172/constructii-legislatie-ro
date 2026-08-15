@@ -1110,6 +1110,272 @@
       ],
       "article_count": 44
     },
+    "hg-492-2018": {
+      "title": "Hotărârea Guvernului nr. 492 din 5 iulie 2018 pentru aprobarea Regulamentului privind controlul de stat al calității în construcții",
+      "slug": "hg-492-2018",
+      "file": "legi/hg-492-2018.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-492-2018.md#art-1",
+          "line": 43
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-492-2018.md#art-2",
+          "line": 47
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-492-2018.md#art-3",
+          "line": 51
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-492-2018.md#art-4",
+          "line": 55
+        },
+        {
+          "id": "art-1-b",
+          "anchor": "#art-1-b",
+          "url_fragment": "legi/hg-492-2018.md#art-1-b",
+          "line": 87
+        },
+        {
+          "id": "art-2-b",
+          "anchor": "#art-2-b",
+          "url_fragment": "legi/hg-492-2018.md#art-2-b",
+          "line": 91
+        },
+        {
+          "id": "art-3-b",
+          "anchor": "#art-3-b",
+          "url_fragment": "legi/hg-492-2018.md#art-3-b",
+          "line": 95
+        },
+        {
+          "id": "art-4-b",
+          "anchor": "#art-4-b",
+          "url_fragment": "legi/hg-492-2018.md#art-4-b",
+          "line": 99
+        },
+        {
+          "id": "art-5-b",
+          "anchor": "#art-5-b",
+          "url_fragment": "legi/hg-492-2018.md#art-5-b",
+          "line": 103
+        },
+        {
+          "id": "art-6-b",
+          "anchor": "#art-6-b",
+          "url_fragment": "legi/hg-492-2018.md#art-6-b",
+          "line": 157
+        },
+        {
+          "id": "art-7-b",
+          "anchor": "#art-7-b",
+          "url_fragment": "legi/hg-492-2018.md#art-7-b",
+          "line": 161
+        },
+        {
+          "id": "art-8-b",
+          "anchor": "#art-8-b",
+          "url_fragment": "legi/hg-492-2018.md#art-8-b",
+          "line": 177
+        },
+        {
+          "id": "art-9-b",
+          "anchor": "#art-9-b",
+          "url_fragment": "legi/hg-492-2018.md#art-9-b",
+          "line": 221
+        },
+        {
+          "id": "art-10-b",
+          "anchor": "#art-10-b",
+          "url_fragment": "legi/hg-492-2018.md#art-10-b",
+          "line": 225
+        },
+        {
+          "id": "art-11-b",
+          "anchor": "#art-11-b",
+          "url_fragment": "legi/hg-492-2018.md#art-11-b",
+          "line": 237
+        },
+        {
+          "id": "art-12-b",
+          "anchor": "#art-12-b",
+          "url_fragment": "legi/hg-492-2018.md#art-12-b",
+          "line": 241
+        },
+        {
+          "id": "art-13-b",
+          "anchor": "#art-13-b",
+          "url_fragment": "legi/hg-492-2018.md#art-13-b",
+          "line": 245
+        },
+        {
+          "id": "art-14-b",
+          "anchor": "#art-14-b",
+          "url_fragment": "legi/hg-492-2018.md#art-14-b",
+          "line": 263
+        }
+      ],
+      "article_count": 18,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/hg-492-2018.md#pct-1",
+          "line": 109
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/hg-492-2018.md#pct-2",
+          "line": 111
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/hg-492-2018.md#pct-3",
+          "line": 113
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/hg-492-2018.md#pct-4",
+          "line": 115
+        },
+        {
+          "id": "pct-5",
+          "anchor": "#pct-5",
+          "url_fragment": "legi/hg-492-2018.md#pct-5",
+          "line": 117
+        },
+        {
+          "id": "pct-6",
+          "anchor": "#pct-6",
+          "url_fragment": "legi/hg-492-2018.md#pct-6",
+          "line": 119
+        },
+        {
+          "id": "pct-7",
+          "anchor": "#pct-7",
+          "url_fragment": "legi/hg-492-2018.md#pct-7",
+          "line": 121
+        },
+        {
+          "id": "pct-8",
+          "anchor": "#pct-8",
+          "url_fragment": "legi/hg-492-2018.md#pct-8",
+          "line": 125
+        },
+        {
+          "id": "pct-9",
+          "anchor": "#pct-9",
+          "url_fragment": "legi/hg-492-2018.md#pct-9",
+          "line": 127
+        },
+        {
+          "id": "pct-10",
+          "anchor": "#pct-10",
+          "url_fragment": "legi/hg-492-2018.md#pct-10",
+          "line": 129
+        },
+        {
+          "id": "pct-11",
+          "anchor": "#pct-11",
+          "url_fragment": "legi/hg-492-2018.md#pct-11",
+          "line": 131
+        },
+        {
+          "id": "pct-12",
+          "anchor": "#pct-12",
+          "url_fragment": "legi/hg-492-2018.md#pct-12",
+          "line": 133
+        },
+        {
+          "id": "pct-13",
+          "anchor": "#pct-13",
+          "url_fragment": "legi/hg-492-2018.md#pct-13",
+          "line": 135
+        },
+        {
+          "id": "pct-14",
+          "anchor": "#pct-14",
+          "url_fragment": "legi/hg-492-2018.md#pct-14",
+          "line": 137
+        },
+        {
+          "id": "pct-15",
+          "anchor": "#pct-15",
+          "url_fragment": "legi/hg-492-2018.md#pct-15",
+          "line": 139
+        },
+        {
+          "id": "pct-16",
+          "anchor": "#pct-16",
+          "url_fragment": "legi/hg-492-2018.md#pct-16",
+          "line": 141
+        },
+        {
+          "id": "pct-17",
+          "anchor": "#pct-17",
+          "url_fragment": "legi/hg-492-2018.md#pct-17",
+          "line": 143
+        },
+        {
+          "id": "pct-18",
+          "anchor": "#pct-18",
+          "url_fragment": "legi/hg-492-2018.md#pct-18",
+          "line": 145
+        },
+        {
+          "id": "pct-19",
+          "anchor": "#pct-19",
+          "url_fragment": "legi/hg-492-2018.md#pct-19",
+          "line": 147
+        },
+        {
+          "id": "pct-20",
+          "anchor": "#pct-20",
+          "url_fragment": "legi/hg-492-2018.md#pct-20",
+          "line": 149
+        },
+        {
+          "id": "pct-21",
+          "anchor": "#pct-21",
+          "url_fragment": "legi/hg-492-2018.md#pct-21",
+          "line": 151
+        },
+        {
+          "id": "pct-22",
+          "anchor": "#pct-22",
+          "url_fragment": "legi/hg-492-2018.md#pct-22",
+          "line": 203
+        },
+        {
+          "id": "pct-23",
+          "anchor": "#pct-23",
+          "url_fragment": "legi/hg-492-2018.md#pct-23",
+          "line": 205
+        }
+      ],
+      "provision_count": 23,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/hg-492-2018.md#anexa-1",
+          "line": 79
+        }
+      ],
+      "annex_count": 1
+    },
     "hg-537-2007": {
       "title": "Hotărârea Guvernului nr. 537 din 6 iunie 2007 privind stabilirea şi sancţionarea contravenţiilor la normele de prevenire şi stingere a incendiilor",
       "slug": "hg-537-2007",
