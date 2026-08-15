@@ -406,6 +406,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-426-2023",
+      "label": "Legea 426/2023",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-481-2004",
       "label": "Legea 481/2004",
       "type": "lege",
@@ -2815,6 +2823,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "source": "lege-426-2023",
+      "target": "lege-212-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277871",
+      "notes": "Art. II conține reguli tranzitorii, iar Art. III stabilește că art. I pct. 21 intră în vigoare la 30 de zile de la publicare; nu este modelată o effective_date globală."
     },
     {
       "source": "lege-481-2004",
@@ -6064,8 +6086,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 205,
-    "confirmed_edges": 387,
+    "total_nodes": 206,
+    "confirmed_edges": 388,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
