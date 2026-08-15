@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T16:05:56.472Z",
+  "generated_at": "2026-08-15T16:10:49.933Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 196,
-    "acts_full_text": 37,
-    "acts_metadata_only": 159,
-    "article_anchors_total": 2515,
-    "import_logs_total": 205,
+    "acts_full_text": 38,
+    "acts_metadata_only": 158,
+    "article_anchors_total": 2525,
+    "import_logs_total": 206,
     "domains": [
       "anre",
       "autorizatii",
@@ -257,9 +257,9 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 5,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 10,
+      "anchor_count": 10,
       "file": "legi/hg-203-2003.md",
       "metadata_file": "metadata/acts/hg-203-2003.json"
     },

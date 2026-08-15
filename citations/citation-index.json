@@ -21,6 +21,89 @@
       ],
       "article_count": 2
     },
+    "hg-203-2003": {
+      "title": "Hotărârea Guvernului nr. 203 din 20 februarie 2003 pentru aprobarea Regulamentului privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente",
+      "slug": "hg-203-2003",
+      "file": "legi/hg-203-2003.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-203-2003.md#art-1",
+          "line": 34
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-203-2003.md#art-2",
+          "line": 40
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-203-2003.md#art-3",
+          "line": 46
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-203-2003.md#art-4",
+          "line": 52
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-203-2003.md#art-5",
+          "line": 58
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/hg-203-2003.md#art-6",
+          "line": 75
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/hg-203-2003.md#art-7",
+          "line": 77
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/hg-203-2003.md#art-8",
+          "line": 79
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/hg-203-2003.md#art-9",
+          "line": 81
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/hg-203-2003.md#art-10",
+          "line": 83
+        }
+      ],
+      "article_count": 10,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/hg-203-2003.md#anexa-1",
+          "line": 60
+        },
+        {
+          "id": "anexa-2",
+          "anchor": "#anexa-2",
+          "url_fragment": "legi/hg-203-2003.md#anexa-2",
+          "line": 66
+        }
+      ],
+      "annex_count": 2
+    },
     "hg-273-1994": {
       "title": "Hotărârea Guvernului nr. 273 din 14 iunie 1994 privind aprobarea Regulamentului de recepție a lucrărilor de construcții și instalații aferente acestora",
       "slug": "hg-273-1994",
