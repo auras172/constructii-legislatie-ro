@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:11:53.124Z",
+  "generated_at": "2026-08-15T17:14:48.911Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 41,
-    "acts_metadata_only": 158,
-    "article_anchors_total": 2606,
-    "import_logs_total": 212,
+    "acts_full_text": 42,
+    "acts_metadata_only": 157,
+    "article_anchors_total": 2609,
+    "import_logs_total": 213,
     "domains": [
       "anre",
       "autorizatii",
@@ -478,9 +478,9 @@
       "type": "hotarare",
       "domain": "incendiu",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 3,
-      "anchor_count": 0,
+      "anchor_count": 3,
       "file": "legi/hg-862-2016.md",
       "metadata_file": "metadata/acts/hg-862-2016.json"
     },

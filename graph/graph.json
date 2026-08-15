@@ -259,7 +259,7 @@
       "type": "hotarare",
       "domain": "incendiu",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-90-2008",
