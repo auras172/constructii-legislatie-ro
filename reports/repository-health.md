@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T20:37:10.356Z
+Generated: 2026-08-15T20:55:36.277Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 206 |
+| Total metadata entries | 207 |
 | Full-text acts | 50 |
-| Metadata-only acts | 156 |
-| Import log files | 228 |
-| Total relationship links | 412 |
+| Metadata-only acts | 157 |
+| Import log files | 229 |
+| Total relationship links | 414 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -175,7 +175,7 @@ Generated: 2026-08-15T20:37:10.356Z
 | ordin-mdlpa-27-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-2719-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-2837-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-mdlpa-2853-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mdlpa-2853-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-310-2022 | ✗ | ✓ | ✓ | — | 8 | ✓ |
 | ordin-mdlpa-348-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-4059-2024 | ✗ | ✓ | ✓ | — | 4 | ✓ |
@@ -189,6 +189,7 @@ Generated: 2026-08-15T20:37:10.356Z
 | ordin-mdlpa-881-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-894-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdlpa-921-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-952-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrap-1369-2014 | ✗ | ✓ | ✓ | — | 6 | ✓ |
 | ordin-mdrap-2264-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -231,7 +232,7 @@ Generated: 2026-08-15T20:37:10.356Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 86 |
+| calitate | 87 |
 | executie | 24 |
 | anre | 20 |
 | incendiu | 16 |
@@ -248,7 +249,7 @@ Generated: 2026-08-15T20:37:10.356Z
 
 | Value | Count |
 | --- | --- |
-| minister | 117 |
+| minister | 118 |
 | guvern | 41 |
 | parlament | 21 |
 | autoritate | 19 |
@@ -262,8 +263,8 @@ Generated: 2026-08-15T20:37:10.356Z
 | 2022 | 24 |
 | 2010 | 18 |
 | 2025 | 18 |
+| 2024 | 12 |
 | 2026 | 12 |
-| 2024 | 11 |
 | 2020 | 8 |
 | 2021 | 8 |
 | 2013 | 7 |
@@ -296,7 +297,7 @@ Generated: 2026-08-15T20:37:10.356Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 156 |
+| metadata-only | 157 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

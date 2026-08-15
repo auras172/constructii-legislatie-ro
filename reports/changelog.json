@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T20:37:11.459Z",
+  "generated_at": "2026-08-15T20:55:37.449Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 426/2023 seismic risk amendment",
         "feat(metadata): add Legea 243/2023 seismic risk amendment approval",
         "feat(metadata): add OG 6/2023 seismic risk law amendment",
         "feat(metadata): add Ordin MDLPA 2853/2022 seismic risk methodology",
@@ -162,6 +163,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #501 from auras172/codex/metadata-lege-426-2023",
         "Merge pull request #500 from auras172/codex/metadata-lege-243-2023",
         "Merge pull request #499 from auras172/codex/metadata-og-6-2023",
         "Merge pull request #498 from auras172/codex/metadata-ordin-mdlpa-2853-2022",
@@ -775,6 +777,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 192
+    "infrastructure_changes": 193
   }
 }

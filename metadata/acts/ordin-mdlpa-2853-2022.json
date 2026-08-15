@@ -33,6 +33,7 @@
   "implements": [
     "lege-212-2022"
   ],
+  "amended_by": ["ordin-mdlpa-921-2024"],
   "relationships": [
     {
       "type": "implements",
@@ -53,6 +54,17 @@
       "evidence": "Preambulul invocă art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
       "source_article": "Preambul",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-mdlpa-921-2024",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 921/2024 prevede expres că Normele metodologice aprobate prin Ordinul nr. 2.853/2022 se modifică și se completează.",
+      "source_article": "Articolul I al Ordinului nr. 921/2024",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/279684",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15"
     }
