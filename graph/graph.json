@@ -187,7 +187,7 @@
       "type": "hotarare",
       "domain": "urbanism",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-525-2013",

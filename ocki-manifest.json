@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T16:18:00.470Z",
+  "generated_at": "2026-08-15T16:24:41.118Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 197,
-    "acts_full_text": 38,
-    "acts_metadata_only": 159,
-    "article_anchors_total": 2525,
-    "import_logs_total": 207,
+    "acts_full_text": 39,
+    "acts_metadata_only": 158,
+    "article_anchors_total": 2570,
+    "import_logs_total": 208,
     "domains": [
       "anre",
       "autorizatii",
@@ -361,9 +361,9 @@
       "type": "hotarare",
       "domain": "urbanism",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 45,
+      "anchor_count": 45,
       "file": "legi/hg-525-1996.md",
       "metadata_file": "metadata/acts/hg-525-1996.json"
     },
