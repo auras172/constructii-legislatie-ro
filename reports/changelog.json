@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:50:16.350Z",
+  "generated_at": "2026-08-15T17:55:23.250Z",
   "months": [
     {
       "month": "2026-08",
@@ -153,6 +153,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #484 from auras172/codex/fulltext-rtc11-2022",
+        "feat(fulltext): import RTC 11-2022 official text",
         "Merge pull request #483 from auras172/codex/fulltext-gm-010-2000",
         "feat(fulltext): import GM 010-2000 official text",
         "Merge pull request #482 from auras172/codex/fulltext-hg-172-2024",
