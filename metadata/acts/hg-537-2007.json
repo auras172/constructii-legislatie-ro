@@ -25,12 +25,12 @@
   "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 395 din 12 iunie 2007",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/82739",
   "version_kind": "original",
-  "last_checked": "2026-08-09",
+  "last_checked": "2026-08-15",
   "version": "Forma de bază afișată de Portal Legislativ",
   "article_count": 6,
   "annex_count": 0,
-  "import_method": "metadata-only",
-  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii şi publicarea în M.Of. nr. 395/12.06.2007. Preambulul citează explicit art. 45 alin. (3) din Legea nr. 307/2006 privind apărarea împotriva incendiilor, iar Art. 5 prevede intrarea în vigoare la 60 de zile de la publicare; effective_date 2007-08-11 este o derivare calendaristică documentată. Art. 6 abrogă HG 678/1998, act extern neimportat. Statusul juridic curent nu este declarat explicit şi rămâne unknown. Textul legal nu este importat.",
+  "import_method": "full-text",
+  "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 395/12.06.2007. Preambulul citează explicit art. 45 alin. (3) din Legea nr. 307/2006 privind apărarea împotriva incendiilor, iar art. 5 prevede intrarea în vigoare la 60 de zile de la publicare; effective_date 2007-08-11 este o derivare calendaristică documentată. Art. 6 abrogă HG 678/1998, act extern neimportat. Textul oficial este importat mecanic din forma Portalului Legislativ.",
   "implements": [
     "lege-307-2006"
   ],
