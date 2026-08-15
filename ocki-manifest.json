@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T11:06:26.430Z",
+  "generated_at": "2026-08-15T11:44:45.396Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 185,
+    "acts_total": 186,
     "acts_full_text": 31,
-    "acts_metadata_only": 154,
+    "acts_metadata_only": 155,
     "article_anchors_total": 2288,
-    "import_logs_total": 189,
+    "import_logs_total": 190,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 331,
+    "confirmed_relationships": 336,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2017,6 +2017,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-4059-2024.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-4059-2024.json"
+    },
+    {
+      "slug": "ordin-mdlpa-430-2021",
+      "title": "Ordin nr. 430 din 31 martie 2021 privind modificarea anexei la Ordinul ministrului lucrărilor publice, dezvoltării și administrației nr. 3.363/2020 pentru aprobarea Metodologiei privind inițierea, programarea, achiziția, elaborarea, avizarea, aprobarea și valorificarea reglementărilor tehnice și a rezultatelor activităților specifice în construcții, precum și pentru aprobarea cuantumului indemnizației de participare a membrilor în comitetele tehnice de specialitate și în comitetul tehnic de coordonare generală",
+      "short_title": "Ordin MDLPA 430/2021",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-430-2021.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-430-2021.json"
     },
     {
       "slug": "ordin-mdlpa-627-2025",

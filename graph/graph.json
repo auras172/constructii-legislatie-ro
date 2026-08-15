@@ -1206,6 +1206,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-430-2021",
+      "label": "Ordin MDLPA 430/2021",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-627-2025",
       "label": "Ordin MDLPA 627/2025",
       "type": "ordin",
@@ -2609,6 +2617,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872"
+    },
+    {
+      "source": "metodologie-reglementare-2020",
+      "target": "ordin-mdlpa-430-2021",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 430/2021 prevede că anexa la Ordinul nr. 3.363/2020 pentru aprobarea metodologiei se modifică după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240714"
     },
     {
       "source": "normativ-and616-2022",
@@ -4435,6 +4456,52 @@
       "evidence": "metadata/acts/ordin-mdlpa-4059-2024.json"
     },
     {
+      "source": "ordin-mdlpa-430-2021",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 2 și art. 4 alin. (1) și (2) din Regulamentul privind activitatea de reglementare în construcții, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240714"
+    },
+    {
+      "source": "ordin-mdlpa-430-2021",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240714"
+    },
+    {
+      "source": "ordin-mdlpa-430-2021",
+      "target": "metodologie-reglementare-2020",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că anexa la Ordinul nr. 3.363/2020 pentru aprobarea Metodologiei privind reglementările tehnice în construcții se modifică după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240714"
+    },
+    {
+      "source": "ordin-mdlpa-430-2021",
+      "target": "metodologie-reglementare-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-430-2021.json"
+    },
+    {
       "source": "ordin-mdlpa-627-2025",
       "target": "hg-1236-2012",
       "relationship": "references",
@@ -5243,8 +5310,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 185,
-    "confirmed_edges": 331,
+    "total_nodes": 186,
+    "confirmed_edges": 336,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add 2020 construction regulations methodology
 - feat(metadata): add Ordin MDLPA 172/2023 metadata
 - feat(metadata): add Ordin MDLPA 27/2023 metadata
 - feat(metadata): add Ordin MDLPA 171/2023 metadata
@@ -140,6 +141,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #439 from auras172/codex/metadata-metodologie-reglementare-2020
 - Merge pull request #438 from auras172/codex/metadata-ordin-mdlpa-172-2023
 - Merge pull request #437 from auras172/codex/metadata-ordin-mdlpa-27-2023
 - Merge pull request #436 from auras172/codex/metadata-ordin-mdlpa-171-2023
