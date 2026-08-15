@@ -8,21 +8,30 @@
   "issuer": "Ministerul Lucrărilor Publice și Amenajării Teritoriului",
   "issuing_body_kind": "minister",
   "domain": "urbanism",
-  "topics": ["puz", "plan-urbanistic-zonal", "urbanism", "amenajarea-teritoriului", "ghid-tehnic"],
+  "topics": [
+    "puz",
+    "plan-urbanistic-zonal",
+    "urbanism",
+    "amenajarea-teritoriului",
+    "ghid-tehnic"
+  ],
   "status": "unknown",
   "issue_date": "2000-08-16",
   "publication_date": "2000-08-25",
   "effective_date": "2000-08-25",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-08-04",
+  "last_checked": "2026-08-15",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23921",
   "official_source": "Portal Legislativ — Ordin nr. 176/N/16.08.2000 și REGLEMENTARE TEHNICĂ din 16.08.2000; MDLPA — Reglementări tehnice în domeniul urbanismului, poziția XXIX-3",
-  "official_detail_url": "https://www.mdlpa.ro/pages/reglementare29",
-  "version": "ordin original; ghidul tehnic este publicat în broșură și aprobat prin Ordinul nr. 176/N/16.08.2000",
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă titlul, indicativul GM-010-2000, emitentul, Ordinul nr. 176/N din 16.08.2000, publicarea în M.Of. nr. 399 din 25.08.2000 și intrarea în vigoare la data publicării prin Art. 4. Conținutul oficial al ghidului citează explicit Legea nr. 50/1991 și HG nr. 525/1996 în cadrul legal și în condițiile de construire. La data publicării încetează valabilitatea capitolului III/C din Formularele, procedura de autorizare și conținutul documentațiilor, aprobate prin Ordinul nr. 91/1991; acel act nu este importat. Legea nr. 350/2001 nu a fost identificată ca citare explicită în sursele verificate. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
-  "related_acts": ["lege-50-1991", "hg-525-1996"],
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/206182",
+  "version": "Ordinul nr. 176/N/16.08.2000 și reglementarea tehnică GM-010-2000 în forma oficială originală; ghidul este publicat în broșură și aprobat prin ordin.",
+  "import_method": "printable HTML → Markdown",
+  "rights_note": "Portalul Legislativ confirmă ordinul, reglementarea tehnică GM-010-2000, emitentul, publicarea ordinului în Monitorul Oficial nr. 399 din 25 august 2000 și intrarea în vigoare la data publicării. Textul importat combină mecanic recordul oficial al ordinului și recordul oficial separat al reglementării tehnice, legate explicit de Portal. Ordinul are 5 articole, iar reglementarea are 111 prevederi tehnice numerotate. Nu se adaugă anexe sau relații juridice; Ordinul nr. 91/1991 rămâne doar referință externă. official_text_sha256: 7e60251baf87fbd5324c13554bd844b2ff216c4c2167634ffd276a3899b02531.",
+  "related_acts": [
+    "lege-50-1991",
+    "hg-525-1996"
+  ],
   "relationships": [
     {
       "type": "related_to",
@@ -47,5 +56,15 @@
       "reviewed_at": "2026-08-04"
     }
   ],
-  "tags": ["puz", "plan-urbanistic-zonal", "urbanism", "amenajarea-teritoriului", "ghid-tehnic", "mdlpa", "gm010"]
+  "tags": [
+    "puz",
+    "plan-urbanistic-zonal",
+    "urbanism",
+    "amenajarea-teritoriului",
+    "ghid-tehnic",
+    "mdlpa",
+    "gm010"
+  ],
+  "article_count": 5,
+  "annex_count": 0
 }
