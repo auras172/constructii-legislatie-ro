@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T17:02:32.678Z
+Generated: 2026-08-15T17:08:21.160Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 198 |
+| Total metadata entries | 199 |
 | Full-text acts | 40 |
-| Metadata-only acts | 158 |
-| Import log files | 210 |
-| Total relationship links | 398 |
+| Metadata-only acts | 159 |
+| Import log files | 211 |
+| Total relationship links | 400 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -203,8 +203,9 @@ Generated: 2026-08-15T17:02:32.678Z
 | ordin-mti-596-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-597-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-mai-66-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mti-mdlpa-1405-1610-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-mdlpa-285-412-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-mti-mdlpa-6970-1779-2017 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mti-mdlpa-6970-1779-2017 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mti-mdlpa-970-873-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -224,7 +225,7 @@ Generated: 2026-08-15T17:02:32.678Z
 | Value | Count |
 | --- | --- |
 | calitate | 80 |
-| executie | 22 |
+| executie | 23 |
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
@@ -244,13 +245,13 @@ Generated: 2026-08-15T17:02:32.678Z
 | guvern | 40 |
 | autoritate | 19 |
 | parlament | 18 |
-| other | 7 |
+| other | 8 |
 
 ### Publication Years
 
 | Value | Count |
 | --- | --- |
-| 2023 | 27 |
+| 2023 | 28 |
 | 2022 | 22 |
 | 2025 | 18 |
 | 2010 | 17 |
@@ -288,7 +289,7 @@ Generated: 2026-08-15T17:02:32.678Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 158 |
+| metadata-only | 159 |
 | full-text | 20 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |

@@ -1486,6 +1486,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mti-mdlpa-1405-1610-2023",
+      "label": "Ordin MTI/MDLPA 1405/1610/2023",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mti-mdlpa-285-412-2026",
       "label": "Ordin comun MTI/MDLPA 285/412/2026",
       "type": "ordin",
@@ -5546,6 +5554,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283221"
     },
     {
+      "source": "ordin-mti-mdlpa-1405-1610-2023",
+      "target": "ordin-mti-mdlpa-6970-1779-2017",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că art. 4 din Ordinul nr. 6.970/1.779/2017 pentru aprobarea reglementării tehnice AND 605-2016 se modifică și va avea următorul cuprins.",
+      "source_article": "Art. I",
+      "scope": "Art. 4 din actul de aprobare; aplicare la contractele de proiectare și execuție prevăzute de text",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450"
+    },
+    {
       "source": "ordin-mti-mdlpa-285-412-2026",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -5583,6 +5605,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575"
+    },
+    {
+      "source": "ordin-mti-mdlpa-6970-1779-2017",
+      "target": "ordin-mti-mdlpa-1405-1610-2023",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 1.405/1.610/2023 prevede că art. 4 din Ordinul nr. 6.970/1.779/2017 se modifică și va avea următorul cuprins.",
+      "source_article": "Art. I",
+      "scope": "Art. 4 din actul de aprobare",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450"
     },
     {
       "source": "ordin-mti-mdlpa-970-873-2023",
@@ -5822,8 +5858,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 198,
-    "confirmed_edges": 372,
+    "total_nodes": 199,
+    "confirmed_edges": 374,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

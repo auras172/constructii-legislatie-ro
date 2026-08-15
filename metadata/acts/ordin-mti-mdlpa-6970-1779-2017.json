@@ -18,13 +18,14 @@
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
   "version_kind": "original",
   "last_checked": "2026-08-15",
-  "version": "Ordinul aprobă reglementarea tehnică AND 605-2016 ca anexă; textul tehnic nu este importat. Forma Portal curentă include modificarea ulterioară a art. 4 prin Ordinul nr. 1.405/1.610/2023, act care nu este prezent în acest branch.",
+  "version": "Ordinul aprobă reglementarea tehnică AND 605-2016 ca anexă; textul tehnic nu este importat. Forma Portal curentă include modificarea ulterioară a art. 4 prin Ordinul nr. 1.405/1.610/2023.",
   "article_count": 4,
   "annex_count": 1,
   "effective_date": "2018-04-10",
   "import_method": "metadata-only",
-  "rights_note": "Art. 1 aprobă reglementarea tehnică AND 605-2016 ca anexă. Art. 2 prevede publicarea în Monitorul Oficial și intrarea în vigoare la 60 de zile de la publicare; 2018-04-10 este derivată mecanic din publicarea la 09.02.2018. Preambulul citează explicit art. 10 din Legea nr. 10/1995 și art. 2 alin. (2) și (4) din regulamentul aprobat prin HG nr. 203/2003, iar relațiile repo-locale sunt modelate ca implements. Art. 3 încetează aplicabilitatea unor decizii CNADNR externe. Forma Portal curentă arată că art. 4 a fost modificat ulterior prin Ordinul nr. 1.405/1.610/2023; actul modificator și ținta sa nu sunt importate aici. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică AND 605-2016 ca anexă. Art. 2 prevede publicarea în Monitorul Oficial și intrarea în vigoare la 60 de zile de la publicare; 2018-04-10 este derivată mecanic din publicarea la 09.02.2018. Preambulul citează explicit art. 10 din Legea nr. 10/1995 și art. 2 alin. (2) și (4) din regulamentul aprobat prin HG nr. 203/2003, iar relațiile repo-locale sunt modelate ca implements. Art. 3 încetează aplicabilitatea unor decizii CNADNR externe. Art. 4 a fost modificat ulterior prin Ordinul nr. 1.405/1.610/2023, iar relația este modelată ca amended_by. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
   "implements": ["lege-10-1995", "hg-203-2003"],
+  "amended_by": ["ordin-mti-mdlpa-1405-1610-2023"],
   "relationships": [
     {
       "type": "implements",
@@ -45,6 +46,18 @@
       "evidence": "Preambulul invocă explicit art. 2 alin. (2) și (4) din Regulamentul privind tipurile de reglementări tehnice, aprobat prin Hotărârea Guvernului nr. 203/2003.",
       "source_article": "Preambul",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-mti-mdlpa-1405-1610-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 1.405/1.610/2023 prevede că art. 4 din Ordinul nr. 6.970/1.779/2017 se modifică și va avea următorul cuprins.",
+      "source_article": "Art. I",
+      "scope": "Art. 4 din actul de aprobare",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15"
     }
