@@ -1,0 +1,42 @@
+{
+  "title": "Ordin nr. 595 din 11 iunie 2026 privind aprobarea reglementării tehnice «Ghid tehnic privind iluminatul tunelurilor rutiere», indicativ AND 625-2025",
+  "short_title": "Ordin MTI 595/2026",
+  "canonical_citation": "Ordinul MTI nr. 595/2026",
+  "type": "ordin",
+  "number": "595",
+  "year": "2026",
+  "issuer": "Ministerul Transporturilor și Infrastructurii",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["tuneluri-rutiere", "iluminat", "construcții", "and625-2025", "ghid-tehnic"],
+  "status": "unknown",
+  "issue_date": "2026-06-11",
+  "publication_date": "2026-06-24",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311545",
+  "official_source": "Portal Legislativ — Ordinul nr. 595/11.06.2026; Monitorul Oficial al României, Partea I, nr. 518 din 24.06.2026 și nr. 518 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/311545",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma afișată de Portal Legislativ la verificarea din 15.08.2026; ghidul tehnic AND 625-2025 este anexă și nu este importat ca text sau nod separat",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2026-06-24",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă ghidul tehnic AND 625-2025 ca anexă. Art. 2 prevede că ordinul intră în vigoare la data publicării. Preambulul citează explicit art. 10 alin. (2) din Legea nr. 10/1995. OG 43/1997 și HG 370/2021 sunt temeiuri externe și nu sunt modelate ca noduri sau relații locale; textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului și aprobarea reglementării tehnice.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311545",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mti", "executie", "tuneluri-rutiere", "iluminat", "and625-2025", "ghid-tehnic"]
+}
