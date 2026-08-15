@@ -22,8 +22,9 @@
   "article_count": 2,
   "annex_count": 0,
   "import_method": "metadata-only",
-  "rights_note": "Textul integral nu este importat. Art. I modifică și completează Legea nr. 212/2022, iar art. II stabilește că art. I pct. 2 intră în vigoare la 01.08.2023; nu este setată o singură effective_date globală. Legea nr. 243/2023, care aprobă și modifică ulterior OG nr. 6/2023, este documentată ca act extern absent.",
+  "rights_note": "Textul integral nu este importat. Art. I modifică și completează Legea nr. 212/2022, iar art. II stabilește că art. I pct. 2 intră în vigoare la 01.08.2023; nu este setată o singură effective_date globală. Legea nr. 243/2023 aprobă ulterior OG nr. 6/2023 și este documentată în repository ca act distinct.",
   "amends": ["lege-212-2022"],
+  "approved_by": ["lege-243-2023"],
   "relationships": [
     {
       "type": "amends",

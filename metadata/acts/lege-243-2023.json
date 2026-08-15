@@ -1,0 +1,53 @@
+{
+  "title": "Legea nr. 243 din 20 iulie 2023 privind aprobarea Ordonanței Guvernului nr. 6/2023 pentru modificarea Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor",
+  "short_title": "Legea 243/2023",
+  "canonical_citation": "Legea nr. 243/2023",
+  "type": "lege",
+  "number": "243",
+  "year": "2023",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": ["risc-seismic", "consolidare", "cladiri-existente", "modificare-legislativa"],
+  "status": "unknown",
+  "issue_date": "2023-07-20",
+  "publication_date": "2023-07-21",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3N0UWAWZ2IL121PMCWZXDH0B2K",
+  "official_source": "Portal Legislativ — Legea nr. 243 din 20 iulie 2023; Monitorul Oficial al României, Partea I, nr. 675 din 21 iulie 2023",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială publicată în M.Of. nr. 675/21.07.2023; forma printabilă oficială este identificată de Portalul Legislativ din pagina actului",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Textul integral nu este importat. Articolul unic aprobă OG nr. 6/2023 pentru modificarea Legii nr. 212/2022. Sursa oficială nu stabilește expres o dată distinctă de intrare în vigoare, astfel că effective_date este omisă. Statusul curent nu este declarat și rămâne unknown.",
+  "approves": ["og-6-2023"],
+  "amends": ["lege-212-2022"],
+  "relationships": [
+    {
+      "type": "approves",
+      "target": "og-6-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic aprobă Ordonanța Guvernului nr. 6 din 18 ianuarie 2023 pentru modificarea Legii nr. 212/2022.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "amends",
+      "target": "lege-212-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic aprobă OG nr. 6/2023 pentru modificarea Legii nr. 212/2022 și reproduce modificările și completările aprobate prin această lege.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["lege", "risc-seismic", "consolidare", "cladiri-existente", "modificare-legislativa"]
+}

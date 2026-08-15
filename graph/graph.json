@@ -358,6 +358,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-243-2023",
+      "label": "Legea 243/2023",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -2646,6 +2654,19 @@
     },
     {
       "source": "lege-212-2022",
+      "target": "lege-243-2023",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic al Legii nr. 243/2023 aprobă OG nr. 6/2023 pentru modificarea și completarea Legii nr. 212/2022.",
+      "source_article": "Articolul unic al Legii nr. 243/2023",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355"
+    },
+    {
+      "source": "lege-212-2022",
       "target": "normativ-p100-3-2019",
       "relationship": "references",
       "review_status": "confirmed",
@@ -2663,6 +2684,32 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-212-2022.json"
+    },
+    {
+      "source": "lege-243-2023",
+      "target": "lege-212-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic aprobă OG nr. 6/2023 pentru modificarea Legii nr. 212/2022 și reproduce modificările și completările aprobate prin această lege.",
+      "source_article": "Articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355"
+    },
+    {
+      "source": "lege-243-2023",
+      "target": "og-6-2023",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic aprobă Ordonanța Guvernului nr. 6 din 18 ianuarie 2023 pentru modificarea Legii nr. 212/2022.",
+      "source_article": "Articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355"
     },
     {
       "source": "lege-292-2018",
@@ -6017,8 +6064,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 204,
-    "confirmed_edges": 384,
+    "total_nodes": 205,
+    "confirmed_edges": 387,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
