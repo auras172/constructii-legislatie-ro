@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDLPA 2719/2024 metadata
 - feat(metadata): add Ordin MTI MDLPA 1405/1610/2023 metadata
 - feat(metadata): add Ordin MTI 595/2026 metadata
 - feat(metadata): add Ordin MDLPA 881/2025 metadata
@@ -137,6 +138,9 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: regenerate numbered legislation index
+- docs: regenerate numbered legislation index
+- docs: refresh repository snapshot at 200 acts
 - docs: refresh known repository gaps
 - docs: refresh README status after PR 430
 - docs: refresh repository status
@@ -156,6 +160,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #488 from auras172/codex/docs-refresh-200-50
+- Merge pull request #487 from auras172/codex/metadata-ordin-mdlpa-2719-2024
 - Merge pull request #486 from auras172/codex/fulltext-rtc7-2022
 - feat(fulltext): import RTC 7-2022 official text
 - Merge pull request #485 from auras172/codex/fulltext-rtc6-2022
