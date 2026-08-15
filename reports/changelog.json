@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T11:53:59.628Z",
+  "generated_at": "2026-08-15T12:25:06.938Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 845/2018 metadata",
         "feat(metadata): add Ordin MDLPA 430/2021 metadata",
         "feat(metadata): add 2020 construction regulations methodology",
         "feat(metadata): add Ordin MDLPA 172/2023 metadata",
@@ -140,6 +141,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #442 from auras172/codex/metadata-hg-845-2018",
         "Merge pull request #440 from auras172/codex/update-known-gaps-2026-08-15",
         "Merge pull request #441 from auras172/codex/metadata-ordin-mdlpa-430-2021",
         "Merge pull request #439 from auras172/codex/metadata-metodologie-reglementare-2020",
@@ -693,6 +695,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 173
+    "infrastructure_changes": 174
   }
 }
