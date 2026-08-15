@@ -25,7 +25,7 @@
   "import_method": "metadata-only",
   "rights_note": "Textul integral nu este importat. Sursa oficială rămâne Portalul Legislativ. Art. 38 stabilește intrarea în vigoare la 15 zile de la publicare; effective_date este derivată mecanic ca 2022-07-29.",
   "related_acts": ["lege-10-1995", "normativ-p100-3-2019"],
-  "amended_by": ["og-6-2023"],
+  "amended_by": ["og-6-2023", "lege-243-2023"],
   "relationships": [
     {
       "type": "references",
@@ -46,6 +46,17 @@
       "evidence": "Forma oficială citează Codul de proiectare seismică — Partea a III-a — Prevederi pentru evaluarea seismică a clădirilor existente, indicativ P 100-3, iar ținta repository este normativ-p100-3-2019.",
       "source_article": "Art. 5 alin. (1)",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "amended_by",
+      "target": "lege-243-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic al Legii nr. 243/2023 aprobă OG nr. 6/2023 pentru modificarea și completarea Legii nr. 212/2022.",
+      "source_article": "Articolul unic al Legii nr. 243/2023",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15"
     }
