@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T14:51:49.870Z",
+  "generated_at": "2026-08-15T15:07:13.405Z",
   "summary": {
-    "total_metadata_entries": 191,
+    "total_metadata_entries": 192,
     "total_full_text_acts": 34,
-    "total_metadata_only_acts": 157,
-    "total_import_logs": 198,
-    "total_relationship_links": 380,
+    "total_metadata_only_acts": 158,
+    "total_import_logs": 199,
+    "total_relationship_links": 381,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -1001,6 +1001,15 @@
       "provenance": true
     },
     {
+      "slug": "og-43-1997",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "og-63-2001",
       "full_text": false,
       "metadata": true,
@@ -1733,7 +1742,7 @@
   "statistics": {
     "domains": {
       "urbanism": 13,
-      "executie": 18,
+      "executie": 19,
       "calitate": 78,
       "nzeb": 4,
       "munca": 3,
@@ -1747,7 +1756,7 @@
     },
     "issuers": {
       "minister": 111,
-      "guvern": 37,
+      "guvern": 38,
       "parlament": 18,
       "other": 6,
       "autoritate": 19
@@ -1757,7 +1766,7 @@
       "1994": 2,
       "1995": 2,
       "1996": 1,
-      "1997": 1,
+      "1997": 2,
       "1999": 1,
       "2000": 2,
       "2001": 2,
@@ -1788,7 +1797,7 @@
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 157,
+      "metadata-only": 158,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 2,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
