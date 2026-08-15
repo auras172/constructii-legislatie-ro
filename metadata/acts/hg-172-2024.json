@@ -23,12 +23,12 @@
   "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 172 din 28 februarie 2024; Monitorul Oficial al României, Partea I, nr. 177 din 5 martie 2024; forma printabilă oficială verificată separat",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/279594",
   "version_kind": "original",
-  "last_checked": "2026-08-14",
-  "version": "Forma oficială afișată de Portal Legislativ la verificarea din 14.08.2026; forma printabilă oficială: https://legislatie.just.ro/Public/FormaPrintabila/00000G1OEIJUD9LB7V11R94KN62CPU0T",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială originală afișată de Portal Legislativ; act de modificare a HG nr. 845/2018, fără consolidarea regulamentului modificat.",
   "article_count": 2,
   "annex_count": 0,
-  "import_method": "metadata-only",
-  "rights_note": "Preambulul citează art. 41 alin. (1^1) din Legea nr. 10/1995. Art. I modifică explicit HG nr. 845/2018, act absent din repository, iar Art. II citează HG nr. 273/1994 ca referință repo-locală pentru anumite contracte. Hotărârea nu are anexă proprie în forma Portalului; modifică articole și anexe ale regulamentului aprobat prin HG 845/2018. Nu este identificată o clauză generală cu dată calendaristică distinctă de intrare în vigoare, iar statusul curent este unknown. Textul integral și regulamentul modificat nu sunt importate.",
+  "import_method": "printable HTML → Markdown",
+  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul și publicarea în Monitorul Oficial nr. 177 din 5 martie 2024. Textul importat este forma oficială originală a HG nr. 172/2024 și cuprinde cele două articole ale hotărârii și cele 16 puncte de modificare din art. I. Regulamentul modificat prin HG nr. 845/2018 nu este importat ca act separat; articolele redate în cuprinsul punctelor de modificare rămân parte din textul oficial al HG 172/2024. Nu se atribuie dată globală de intrare în vigoare și nu se adaugă relații noi. official_text_sha256: 9e8a5f1bcf95252a91a52fa829a85116283b7544405c54bfc541a249a4c0f9f4.",
   "implements": [
     "lege-10-1995"
   ],

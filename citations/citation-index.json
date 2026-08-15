@@ -107,6 +107,125 @@
       ],
       "article_count": 13
     },
+    "hg-172-2024": {
+      "title": "Hotărârea Guvernului nr. 172 din 28 februarie 2024 privind modificarea Hotărârii Guvernului nr. 845/2018 pentru aprobarea Regulamentului privind recepția construcțiilor din domeniul infrastructurii rutiere și feroviare de interes național",
+      "slug": "hg-172-2024",
+      "file": "legi/hg-172-2024.md",
+      "articles": [
+        {
+          "id": "art-i",
+          "anchor": "#art-i",
+          "url_fragment": "legi/hg-172-2024.md#art-i",
+          "line": 37
+        },
+        {
+          "id": "art-ii",
+          "anchor": "#art-ii",
+          "url_fragment": "legi/hg-172-2024.md#art-ii",
+          "line": 87
+        }
+      ],
+      "article_count": 2,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/hg-172-2024.md#pct-1",
+          "line": 41
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/hg-172-2024.md#pct-2",
+          "line": 43
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/hg-172-2024.md#pct-3",
+          "line": 47
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/hg-172-2024.md#pct-4",
+          "line": 49
+        },
+        {
+          "id": "pct-5",
+          "anchor": "#pct-5",
+          "url_fragment": "legi/hg-172-2024.md#pct-5",
+          "line": 53
+        },
+        {
+          "id": "pct-6",
+          "anchor": "#pct-6",
+          "url_fragment": "legi/hg-172-2024.md#pct-6",
+          "line": 57
+        },
+        {
+          "id": "pct-7",
+          "anchor": "#pct-7",
+          "url_fragment": "legi/hg-172-2024.md#pct-7",
+          "line": 61
+        },
+        {
+          "id": "pct-8",
+          "anchor": "#pct-8",
+          "url_fragment": "legi/hg-172-2024.md#pct-8",
+          "line": 63
+        },
+        {
+          "id": "pct-9",
+          "anchor": "#pct-9",
+          "url_fragment": "legi/hg-172-2024.md#pct-9",
+          "line": 67
+        },
+        {
+          "id": "pct-10",
+          "anchor": "#pct-10",
+          "url_fragment": "legi/hg-172-2024.md#pct-10",
+          "line": 69
+        },
+        {
+          "id": "pct-11",
+          "anchor": "#pct-11",
+          "url_fragment": "legi/hg-172-2024.md#pct-11",
+          "line": 71
+        },
+        {
+          "id": "pct-12",
+          "anchor": "#pct-12",
+          "url_fragment": "legi/hg-172-2024.md#pct-12",
+          "line": 73
+        },
+        {
+          "id": "pct-13",
+          "anchor": "#pct-13",
+          "url_fragment": "legi/hg-172-2024.md#pct-13",
+          "line": 77
+        },
+        {
+          "id": "pct-14",
+          "anchor": "#pct-14",
+          "url_fragment": "legi/hg-172-2024.md#pct-14",
+          "line": 81
+        },
+        {
+          "id": "pct-15",
+          "anchor": "#pct-15",
+          "url_fragment": "legi/hg-172-2024.md#pct-15",
+          "line": 83
+        },
+        {
+          "id": "pct-16",
+          "anchor": "#pct-16",
+          "url_fragment": "legi/hg-172-2024.md#pct-16",
+          "line": 85
+        }
+      ],
+      "provision_count": 16
+    },
     "hg-203-2003": {
       "title": "Hotărârea Guvernului nr. 203 din 20 februarie 2003 pentru aprobarea Regulamentului privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente",
       "slug": "hg-203-2003",
