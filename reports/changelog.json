@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T21:22:22.788Z",
+  "generated_at": "2026-08-15T21:56:00.204Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MDLPA 576/2025 methodology amendment",
         "feat(metadata): add Ordinul MDLPA 921/2024 methodology amendment",
         "feat(metadata): add Legea 426/2023 seismic risk amendment",
         "feat(metadata): add Legea 243/2023 seismic risk amendment approval",
@@ -142,6 +143,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh project README",
         "docs: regenerate numbered legislation index",
         "docs: regenerate numbered legislation index",
         "docs: refresh repository snapshot at 200 acts",
@@ -164,6 +166,10 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #505 from auras172/codex/fix-health-empty-relationships",
+        "fix(validation): allow valid acts without confirmed relationships",
+        "Merge pull request #504 from auras172/codex/docs-readme-refresh",
+        "Merge pull request #503 from auras172/codex/metadata-ordin-mdlpa-576-2025",
         "Merge pull request #502 from auras172/codex/metadata-ordin-mdlpa-921-2024",
         "Merge pull request #501 from auras172/codex/metadata-lege-426-2023",
         "Merge pull request #500 from auras172/codex/metadata-lege-243-2023",
@@ -779,6 +785,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 194
+    "infrastructure_changes": 195
   }
 }

@@ -438,6 +438,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-7-1996",
+      "label": "Legea 7/1996",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-7-2020",
       "label": "Legea 7/2020",
       "type": "lege",
@@ -6141,7 +6149,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 208,
+    "total_nodes": 209,
     "confirmed_edges": 391,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
