@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T15:22:06.070Z",
+  "generated_at": "2026-08-15T15:26:00.189Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 370/2021 transport ministry metadata",
         "feat(metadata): add OG 43/1997 road regime metadata",
         "feat(metadata): add Ordin MTI/MDLPA 970/873/2023 metadata",
         "feat(metadata): add Ordin MTI/MDLPA 6970/1779/2017 metadata",
@@ -146,6 +147,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #458 from auras172/codex/metadata-hg-370-2021",
         "Merge pull request #457 from auras172/codex/metadata-og-43-1997-v2",
         "Merge pull request #455 from auras172/codex/fulltext-hg-845-2018-v4",
         "feat(fulltext): import HG 845/2018 official text",
@@ -713,6 +715,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 179
+    "infrastructure_changes": 180
   }
 }

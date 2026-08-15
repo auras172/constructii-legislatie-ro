@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T15:22:05.406Z",
+  "generated_at": "2026-08-15T15:25:59.634Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 193,
-    "acts_full_text": 35,
-    "acts_metadata_only": 158,
-    "article_anchors_total": 2409,
-    "import_logs_total": 200,
+    "acts_full_text": 36,
+    "acts_metadata_only": 157,
+    "article_anchors_total": 2413,
+    "import_logs_total": 201,
     "domains": [
       "anre",
       "autorizatii",
@@ -920,9 +920,9 @@
       "type": "normativ",
       "domain": "calitate",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 4,
+      "anchor_count": 4,
       "file": "legi/normativ-ne012-2-2022.md",
       "metadata_file": "metadata/acts/normativ-ne012-2-2022.json"
     },
