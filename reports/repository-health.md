@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T20:55:36.277Z
+Generated: 2026-08-15T21:22:20.218Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 207 |
+| Total metadata entries | 208 |
 | Full-text acts | 50 |
-| Metadata-only acts | 157 |
-| Import log files | 229 |
-| Total relationship links | 414 |
+| Metadata-only acts | 158 |
+| Import log files | 230 |
+| Total relationship links | 416 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -175,11 +175,12 @@ Generated: 2026-08-15T20:55:36.277Z
 | ordin-mdlpa-27-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-2719-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-2837-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| ordin-mdlpa-2853-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdlpa-2853-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-310-2022 | ✗ | ✓ | ✓ | — | 8 | ✓ |
 | ordin-mdlpa-348-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-4059-2024 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-430-2021 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-mdlpa-576-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-627-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-710-2026 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-749-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -232,7 +233,7 @@ Generated: 2026-08-15T20:55:36.277Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 87 |
+| calitate | 88 |
 | executie | 24 |
 | anre | 20 |
 | incendiu | 16 |
@@ -249,7 +250,7 @@ Generated: 2026-08-15T20:55:36.277Z
 
 | Value | Count |
 | --- | --- |
-| minister | 118 |
+| minister | 119 |
 | guvern | 41 |
 | parlament | 21 |
 | autoritate | 19 |
@@ -261,8 +262,8 @@ Generated: 2026-08-15T20:55:36.277Z
 | --- | --- |
 | 2023 | 31 |
 | 2022 | 24 |
+| 2025 | 19 |
 | 2010 | 18 |
-| 2025 | 18 |
 | 2024 | 12 |
 | 2026 | 12 |
 | 2020 | 8 |
@@ -297,7 +298,7 @@ Generated: 2026-08-15T20:55:36.277Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 157 |
+| metadata-only | 158 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

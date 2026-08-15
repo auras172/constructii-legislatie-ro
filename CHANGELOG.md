@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordinul MDLPA 921/2024 methodology amendment
 - feat(metadata): add Legea 426/2023 seismic risk amendment
 - feat(metadata): add Legea 243/2023 seismic risk amendment approval
 - feat(metadata): add OG 6/2023 seismic risk law amendment
@@ -166,6 +167,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #502 from auras172/codex/metadata-ordin-mdlpa-921-2024
 - Merge pull request #501 from auras172/codex/metadata-lege-426-2023
 - Merge pull request #500 from auras172/codex/metadata-lege-243-2023
 - Merge pull request #499 from auras172/codex/metadata-og-6-2023

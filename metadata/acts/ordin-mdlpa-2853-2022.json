@@ -33,7 +33,7 @@
   "implements": [
     "lege-212-2022"
   ],
-  "amended_by": ["ordin-mdlpa-921-2024"],
+  "amended_by": ["ordin-mdlpa-921-2024", "ordin-mdlpa-576-2025"],
   "relationships": [
     {
       "type": "implements",
