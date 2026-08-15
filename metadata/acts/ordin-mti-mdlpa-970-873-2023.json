@@ -22,7 +22,7 @@
   "article_count": 2,
   "annex_count": 0,
   "import_method": "metadata-only",
-  "rights_note": "Art. 1 abrogă Ordinul MTCT nr. 605/2003 și reglementarea tehnică CD 16-2000, acte externe absente din repository. Art. 2 dispune publicarea în Monitorul Oficial fără o clauză explicită privind o singură dată de intrare în vigoare; effective_date este omisă. Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația repo-locală este modelată ca implements. Preambulul citează explicit art. 57 lit. h) din OG nr. 43/1997, iar relația references este adăugată după importul țintei locale. HG nr. 370/2021 și HG nr. 477/2020 rămân referințe externe. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al actului abrogat nu este importat.",
+  "rights_note": "Art. 1 abrogă Ordinul MTCT nr. 605/2003 și reglementarea tehnică CD 16-2000, acte externe absente din repository. Art. 2 dispune publicarea în Monitorul Oficial fără o clauză explicită privind o singură dată de intrare în vigoare; effective_date este omisă. Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația repo-locală este modelată ca implements. Preambulul citează explicit art. 57 lit. h) din OG nr. 43/1997 și art. 9 alin. (4) din HG nr. 370/2021; relațiile references sunt adăugate după importul țintelor locale. HG nr. 477/2020 rămâne referință externă. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al actului abrogat nu este importat.",
   "implements": ["lege-10-1995"],
   "relationships": [
     {
@@ -42,6 +42,17 @@
       "confidence": "confirmed",
       "evidence_type": "explicit_text",
       "evidence": "Preambulul citează explicit art. 57 lit. h) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "hg-370-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii.",
       "source_article": "Preambul",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "reviewed_by": "codex",
