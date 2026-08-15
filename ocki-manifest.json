@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:28:01.283Z",
+  "generated_at": "2026-08-15T17:38:10.813Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 45,
-    "acts_metadata_only": 154,
-    "article_anchors_total": 2709,
-    "import_logs_total": 216,
+    "acts_full_text": 46,
+    "acts_metadata_only": 153,
+    "article_anchors_total": 2711,
+    "import_logs_total": 217,
     "domains": [
       "anre",
       "autorizatii",
@@ -244,9 +244,9 @@
       "type": "hotarare",
       "domain": "receptie",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 2,
-      "anchor_count": 0,
+      "anchor_count": 2,
       "file": "legi/hg-172-2024.md",
       "metadata_file": "metadata/acts/hg-172-2024.json"
     },

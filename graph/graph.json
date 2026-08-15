@@ -115,7 +115,7 @@
       "type": "hotarare",
       "domain": "receptie",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-203-2003",
