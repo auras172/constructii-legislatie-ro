@@ -21,7 +21,7 @@
   "version": "Pagina Portalului este forma consolidată a ordonanței republicate; metadata păstrează identitatea actului inițial și datele publicării inițiale",
   "import_method": "metadata-only",
   "rights_note": "Portalul indică republicarea în temeiul Legii nr. 82/1998 și publicarea inițială a Ordonanței nr. 43/1997 în M.Of. nr. 221/29.08.1997. Forma consolidată conține modificări ulterioare; textul integral nu este importat. Statusul curent nu este declarat și rămâne unknown.",
-  "related_acts": ["ordin-mti-mdlpa-970-873-2023"],
+  "related_acts": ["ordin-mti-mdlpa-970-873-2023", "ordin-comun-2146-2010-2025"],
   "relationships": [
     {
       "type": "related_to",
@@ -34,6 +34,18 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată; este un index related_to source-backed al citării explicite din actul local existent."
+    },
+    {
+      "type": "related_to",
+      "target": "ordin-comun-2146-2010-2025",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "evidence": "Ordinul comun nr. 2.146/2.010/2025 citează explicit art. 57 lit. h), j) și k) din OG nr. 43/1997 în preambul; legătura este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "source_article": "Preambulul Ordinului comun nr. 2.146/2.010/2025",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
     }
   ],
   "tags": ["drumuri", "infrastructura-rutiera", "regim-drumuri", "ordonanta"]

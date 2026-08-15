@@ -1,0 +1,63 @@
+{
+  "title": "Ordin nr. 2.146/2.010/2025 privind aprobarea Instrucțiunilor pentru efectuarea înregistrării circulației rutiere pe drumurile publice în anul 2026 - indicativ AND 557-2025",
+  "short_title": "Ordin comun 2146/2010/2025",
+  "canonical_citation": "Ordinul comun MTI nr. 2.146/2025 și MDLPA nr. 2.010/2025",
+  "type": "ordin",
+  "number": "2146/2010",
+  "year": "2025",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["drumuri", "infrastructura-rutiera", "circulatie-rutiera", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2025-12-10",
+  "publication_date": "2025-12-24",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+  "official_source": "Portal Legislativ — Ministerul Transporturilor și Infrastructurii nr. 2.146 din 26 noiembrie 2025 și Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 2.010 din 10 decembrie 2025; Monitorul Oficial al României, Partea I, nr. 1198 din 24 decembrie 2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială a ordinului; instrucțiunile AND 557-2025 din anexă nu sunt importate ca text tehnic integral",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Actul are două date de emitere: MTI nr. 2.146 din 26 noiembrie 2025 și MDLPA nr. 2.010 din 10 decembrie 2025; issue_date stochează ultima dată oficială. Art. 2 stabilește că Ordinul nr. 145/359/2022 privind AND 557-2022 își încetează aplicabilitatea începând cu data intrării în vigoare a prezentului ordin, dar nu fixează o singură dată calendaristică; effective_date este omisă. Preambulul citează explicit OG nr. 43/1997, HG nr. 370/2021 și HG nr. 477/2020, iar relațiile locale sunt modelate ca references. Ordinul nr. 145/359/2022 și AND 557-2022 rămân referințe externe; textul instrucțiunilor din anexă nu este importat.",
+  "related_acts": ["og-43-1997", "hg-370-2021", "hg-477-2020"],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "og-43-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 57 lit. h), j) și k) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "hg-370-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mti", "mdlpa", "executie", "drumuri", "infrastructura-rutiera", "circulatie-rutiera", "ordin-comun"]
+}

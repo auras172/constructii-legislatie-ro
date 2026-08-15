@@ -23,7 +23,7 @@
   "annex_count": 3,
   "import_method": "metadata-only",
   "rights_note": "Hotărârea stabilește organizarea și funcționarea Ministerului Transporturilor și Infrastructurii. Forma Portal este consolidată și include modificări ulterioare; textul integral și anexele nu sunt importate. Statusul curent nu este declarat și rămâne unknown.",
-  "related_acts": ["ordin-mti-mdlpa-970-873-2023"],
+  "related_acts": ["ordin-mti-mdlpa-970-873-2023", "ordin-comun-2146-2010-2025"],
   "relationships": [
     {
       "type": "related_to",
@@ -33,6 +33,18 @@
       "evidence": "Ordinul nr. 970/873/2023 citează explicit art. 9 alin. (4) din HG nr. 370/2021 în preambul; legătura este indexată reciproc pentru navigare și health, iar relația juridică exactă rămâne references pe actul citator.",
       "source_article": "Preambulul Ordinului nr. 970/873/2023",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "type": "related_to",
+      "target": "ordin-comun-2146-2010-2025",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "evidence": "Ordinul comun nr. 2.146/2.010/2025 citează explicit art. 9 alin. (4) din HG nr. 370/2021 în preambul; legătura este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "source_article": "Preambulul Ordinului comun nr. 2.146/2.010/2025",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."

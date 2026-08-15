@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 477/2020 ministry organization metadata
 - feat(metadata): add HG 370/2021 transport ministry metadata
 - feat(metadata): add OG 43/1997 road regime metadata
 - feat(metadata): add Ordin MTI/MDLPA 970/873/2023 metadata
@@ -150,6 +151,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #462 from auras172/codex/metadata-hg-477-2020-v2
 - Merge pull request #460 from auras172/codex/fulltext-ne012-2-2022-v2
 - feat(fulltext): import NE 012/2-2022 official text
 - Merge pull request #458 from auras172/codex/metadata-hg-370-2021
