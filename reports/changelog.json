@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T08:53:27.280Z",
+  "generated_at": "2026-08-15T09:14:24.807Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP 124/2010 metadata",
         "feat(metadata): add Ordin MDLPA 627/2025 metadata",
         "feat(metadata): add Ordin MDLPA 952/2025 metadata",
         "feat(metadata): add HG 172/2024 metadata",
@@ -131,6 +132,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #432 from auras172/codex/metadata-normativ-np124-2010",
         "Merge pull request #431 from auras172/codex/docs-refresh-20260815",
         "Merge pull request #430 from auras172/codex/metadata-ordin-mdlpa-627-2025-v2",
         "Merge pull request #429 from auras172/codex/fulltext-ne012-1-2022",
@@ -673,6 +675,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 165
+    "infrastructure_changes": 166
   }
 }
