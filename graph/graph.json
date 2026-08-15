@@ -1110,6 +1110,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-171-2023",
+      "label": "Ordin MDLPA 171/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-205-2023",
       "label": "Ordin MDLPA 205/2023",
       "type": "ordin",
@@ -3600,6 +3608,45 @@
       "evidence": "metadata/acts/ordin-mdlpa-1129-2022.json"
     },
     {
+      "source": "ordin-mdlpa-171-2023",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 din regulamentul privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3DL8NY1O2RTKB0AHHJPEVV3YOV"
+    },
+    {
+      "source": "ordin-mdlpa-171-2023",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3DL8NY1O2RTKB0AHHJPEVV3YOV"
+    },
+    {
+      "source": "ordin-mdlpa-171-2023",
+      "target": "normativ-cr2-1-1-1-2022",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă reglementarea tehnică „Cod de proiectare a construcțiilor cu pereți structurali de beton armat, indicativ CR 2-1-1.1/2022“, prevăzută în anexa care face parte integrantă din ordin.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3DL8NY1O2RTKB0AHHJPEVV3YOV"
+    },
+    {
       "source": "ordin-mdlpa-205-2023",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -4732,8 +4779,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 181,
-    "confirmed_edges": 320,
+    "total_nodes": 182,
+    "confirmed_edges": 323,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

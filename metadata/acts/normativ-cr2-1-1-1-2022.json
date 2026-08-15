@@ -21,5 +21,6 @@
   "import_method": "metadata-only",
   "rights_note": "Normativ tehnic aprobat prin O.M.D.L.P.A. nr. 171/01.02.2023, publicat în Monitorul Oficial al României, Partea I, nr. 104 și 104 bis din 07.02.2023. Completare aprobată prin O.M.D.L.P.A. nr. 425/17.03.2023, publicată în M.Of., Partea I, nr. 249/17.03.2023. Intrat în vigoare 09 martie 2023. Abrogă CR 2-1-1.1/2013. Domeniul I, intrarea I-21 pe pagina MDLPA reglementare1. Versiunea CR 2-1-1.1/2013 (abrogată) nu este importată în acest PR. Metadata-only — textul integral nu este importat în acest repo.",
   "tags": ["beton", "beton-armat", "beton-precomprimat", "structuri", "proiectare", "pereti-structurali", "normativ-tehnic", "mdlpa", "cr2"],
-  "related_acts": ["lege-10-1995"]
+  "related_acts": ["lege-10-1995"],
+  "approved_by": ["ordin-mdlpa-171-2023"]
 }

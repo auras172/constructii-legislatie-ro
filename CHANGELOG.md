@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDLPA 749/2021 metadata
 - feat(metadata): add Ordin MDLPA 2487/2022 metadata
 - feat(metadata): add NP 124/2010 metadata
 - feat(metadata): add Ordin MDLPA 627/2025 metadata
@@ -136,6 +137,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #435 from auras172/codex/metadata-ordin-mdlpa-749-2021
 - Merge pull request #434 from auras172/codex/metadata-ordin-mdlpa-2487-2022
 - Merge pull request #433 from auras172/codex/security-postcss-8-5-23
 - fix(security): update postcss to 8.5.23
