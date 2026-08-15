@@ -1214,6 +1214,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-2719-2024",
+      "label": "Ordin MDLPA 2719/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-2837-2022",
       "label": "Ordin MDLPA 2837/2022",
       "type": "ordin",
@@ -4559,6 +4567,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264051"
     },
     {
+      "source": "ordin-mdlpa-2719-2024",
+      "target": "hg-1236-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 și art. 3 lit. d) din Hotărârea Guvernului nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285943"
+    },
+    {
       "source": "ordin-mdlpa-2837-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -5858,8 +5879,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 199,
-    "confirmed_edges": 374,
+    "total_nodes": 200,
+    "confirmed_edges": 375,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

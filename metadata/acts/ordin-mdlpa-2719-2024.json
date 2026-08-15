@@ -1,0 +1,40 @@
+{
+  "title": "Ordin nr. 2.719 din 17 iulie 2024 privind desemnarea organismului de evaluare și verificare a constanței performanței produselor pentru construcții Institutul Național de Cercetare-Dezvoltare în Construcții, Urbanism și Dezvoltare Teritorială Durabilă «URBAN-INCERC» în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de laborator de încercări ale produselor pentru construcții",
+  "short_title": "Ordin MDLPA 2719/2024",
+  "canonical_citation": "Ordinul nr. 2.719/2024",
+  "type": "ordin",
+  "number": "2719",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["produse-pentru-constructii", "evaluarea-performantei", "organism-notificat", "laborator-de-incercari", "urban-incerc"],
+  "status": "unknown",
+  "issue_date": "2024-07-17",
+  "publication_date": "2024-07-25",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285943",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.719 din 17.07.2024; Monitorul Oficial al României, Partea I, nr. 727 din 25.07.2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/285943",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma afișată de Portal Legislativ la verificarea din 15.08.2026; organismul URBAN-INCERC și anexa de desemnare sunt documentate, fără importul textului tehnic ca act separat",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 desemnează organismul URBAN-INCERC conform anexei. Preambulul citează explicit art. 2 și art. 3 lit. d) din HG nr. 1.236/2012, relația repo-locală fiind modelată ca references. Art. 3 dispune publicarea în Monitorul Oficial, fără o dată calendaristică distinctă de intrare în vigoare; effective_date este omisă. Art. 4 abrogă explicit Ordinul nr. 5.539/2018, act extern și absent din repository. HG 668/2017 este o relație respinsă deoarece nu este citat în acest ordin. Statusul curent nu este declarat și rămâne unknown. Anexa este documentată ca parte a ordinului, fără nod separat sau text integral.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-1236-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 și art. 3 lit. d) din Hotărârea Guvernului nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285943",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mdlpa", "calitate", "produse-pentru-constructii", "evaluarea-performantei", "organism-notificat", "laborator-de-incercari", "urban-incerc"]
+}
