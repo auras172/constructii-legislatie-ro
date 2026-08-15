@@ -8,7 +8,12 @@
   "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Afacerilor Interne; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "executie",
-  "topics": ["marcaje-rutiere", "drumuri", "infrastructura-rutiera", "normativ-tehnic"],
+  "topics": [
+    "marcaje-rutiere",
+    "drumuri",
+    "infrastructura-rutiera",
+    "normativ-tehnic"
+  ],
   "status": "unknown",
   "issue_date": "2023-08-18",
   "publication_date": "2024-07-10",
@@ -16,15 +21,17 @@
   "publication_medium": "monitorul-oficial",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
   "official_source": "Portal Legislativ — Ordinul comun nr. 1.553/2023, nr. 12/2023 și nr. 1.400/2024; Monitorul Oficial al României, Partea I, nr. 656 și 656 bis/10.07.2024",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/285240",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/285319",
   "version_kind": "original",
-  "last_checked": "2026-08-10",
+  "last_checked": "2026-08-15",
   "version": "Ordin comun în forma afișată de Portal Legislativ; art. 2 prevede intrarea în vigoare la 60 de zile de la publicare",
-  "article_count": 2,
-  "annex_count": 1,
-  "import_method": "metadata-only",
-  "rights_note": "Ordinul comun aprobă reglementarea tehnică „Instrucțiuni tehnice pentru marcaje rutiere”, indicativ AND 616-2022. Art. 2 prevede intrarea în vigoare în 60 de zile de la publicare; data de 2024-09-08 este derivată mecanic din publicarea la 10.07.2024. Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. OG nr. 43/1997, HG nr. 370/2021, OUG nr. 30/2007, Legea nr. 15/2008 și HG nr. 477/2020 sunt referințe externe sau temeiuri legale și nu sunt modelate ca noduri. Textul tehnic integral nu este importat.",
-  "related_acts": ["lege-10-1995"],
+  "article_count": 102,
+  "annex_count": 21,
+  "import_method": "full-text",
+  "rights_note": "Ordinul comun aprobă reglementarea tehnică „Instrucțiuni tehnice pentru marcaje rutiere”, indicativ AND 616-2022. Art. 2 prevede intrarea în vigoare în 60 de zile de la publicare; data de 2024-09-08 este derivată mecanic din publicarea la 10.07.2024. Preambulul citează art. 10 alin. (2) din Legea nr. 10/1995. OG nr. 43/1997, HG nr. 370/2021, OUG nr. 30/2007, Legea nr. 15/2008 și HG nr. 477/2020 sunt referințe externe sau temeiuri legale și nu sunt modelate ca noduri. Textul tehnic integral este importat din formele HTML Portal oficiale. official_text_sha256: e665e0258e0382f10b7985d968fb4a635d893fee52d6cc9e9317c51f42da7de9.",
+  "related_acts": [
+    "lege-10-1995"
+  ],
   "relationships": [
     {
       "type": "related_to",
@@ -39,5 +46,14 @@
       "notes": "Nu se adaugă relații către OG nr. 43/1997, Legea nr. 50/1991, acte rutiere sau normative surori; acestea sunt referințe externe/contextuale în sursa oficială."
     }
   ],
-  "tags": ["marcaje-rutiere", "drumuri", "infrastructura-rutiera", "normativ-tehnic", "mt", "mai", "mdlpa", "and616"]
+  "tags": [
+    "marcaje-rutiere",
+    "drumuri",
+    "infrastructura-rutiera",
+    "normativ-tehnic",
+    "mt",
+    "mai",
+    "mdlpa",
+    "and616"
+  ]
 }

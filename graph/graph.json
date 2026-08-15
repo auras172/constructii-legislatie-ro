@@ -443,7 +443,7 @@
       "type": "normativ",
       "domain": "executie",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "normativ-and619-2024",
