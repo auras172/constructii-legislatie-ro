@@ -1,0 +1,68 @@
+{
+  "title": "Ordin nr. 2.853 din 7 noiembrie 2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor, privind derularea Programului național de consolidare a clădirilor cu risc seismic ridicat",
+  "short_title": "Ordin MDLPA 2853/2022",
+  "canonical_citation": "Ordinul MDLPA nr. 2.853/2022",
+  "type": "ordin",
+  "number": "2853",
+  "year": "2022",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "risc-seismic",
+    "consolidare",
+    "cladiri-cu-risc-seismic",
+    "program-national-consolidare",
+    "norme-metodologice"
+  ],
+  "status": "unknown",
+  "issue_date": "2022-11-07",
+  "publication_date": "2022-11-10",
+  "effective_date": "2023-01-01",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723",
+  "official_source": "Portal Legislativ — Ordin nr. 2.853/07.11.2022; forma printabilă oficială; Normele metodologice publicate separat în Portal Legislativ, ID 261290; Monitorul Oficial al României, Partea I, nr. 1085 din 10.11.2022",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială originală a ordinului; normele metodologice sunt anexă a ordinului și nu sunt act separat în repository.",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă Normele metodologice pentru derularea Programului național de consolidare a clădirilor cu risc seismic ridicat, iar alin. (2) le leagă de cap. III din Legea nr. 212/2022. Preambulul invocă art. 34 din Legea nr. 212/2022 și art. 12 alin. (6) din HG nr. 477/2020. Art. 3 stabilește expres intrarea în vigoare la 1 ianuarie 2023; effective_date este bazată pe această dispoziție explicită. Normele sunt anexă a ordinului, nu nod separat și nu sunt importate integral. Statusul curent este păstrat unknown. Sursa anexei: https://legislatie.just.ro/Public/DetaliiDocumentAfis/261290.",
+  "implements": [
+    "lege-212-2022"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-212-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice pentru derularea Programului național de consolidare a clădirilor cu risc seismic ridicat, iar art. 1 alin. (2) le leagă de cap. III din Legea nr. 212/2022; preambulul invocă art. 34 din aceeași lege.",
+      "source_article": "Art. 1 și preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "risc-seismic",
+    "consolidare",
+    "cladiri-cu-risc-seismic",
+    "program-national-consolidare",
+    "norme-metodologice"
+  ]
+}
