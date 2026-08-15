@@ -857,3 +857,7 @@ legi/lege-50-1991.md
 legi/lege-10-1995.md
 legi/lege-350-2001.md
 ```
+- [NP 124:2010](./normativ-np124-2010.md)
+  - Domain: executie · Implements: Legea 10/1995, HG 203/2003 · metadata-only
+  - Official source checked: [Portal Legislativ, document 126559](https://legislatie.just.ro/Public/DetaliiDocument/126559)
+  - Status: unknown · M.Of. nr. 158/04.03.2011 și 158 bis · 3 articles · 1 annex · effective_date 03.04.2011, derivată din Art. 2 și regula de 30 de zile

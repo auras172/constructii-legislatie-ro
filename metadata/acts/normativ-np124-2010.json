@@ -1,0 +1,53 @@
+{
+  "title": "Normativ privind proiectarea geotehnică a lucrărilor de susținere, indicativ NP 124:2010",
+  "short_title": "NP 124:2010",
+  "canonical_citation": "NP 124:2010",
+  "type": "normativ",
+  "number": "124",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["geotehnica", "lucrari-de-sustinere", "fundatii", "reglementare-tehnica", "normativ"],
+  "status": "unknown",
+  "issue_date": "2010-12-29",
+  "publication_date": "2011-03-04",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126559",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.689 din 29 decembrie 2010; Monitorul Oficial al României, Partea I, nr. 158 din 4 martie 2011 și nr. 158 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/126559",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Reglementarea tehnică NP 124:2010 aprobată prin Ordinul nr. 2.689/2010; anexa este parte integrantă și textul tehnic nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "effective_date": "2011-04-03",
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 2.689/29.12.2010 aprobă NP 124:2010 ca anexă. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003; ambele relații repo-locale sunt modelate ca implements. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare, iar 2011-04-03 este derivată mecanic din M.Of. 158/04.03.2011. Art. 3 abrogă capitolele 1-3 din NP 113-2004, aprobat prin Ordinul nr. 279/2005; aceste acte rămân referințe externe și nu sunt modelate ca noduri. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126559",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din Regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126559",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["geotehnica", "lucrari-de-sustinere", "fundatii", "reglementare-tehnica", "normativ"]
+}
