@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 7/1996 cadastral legislation
 - feat(metadata): add Ordinul MDLPA 576/2025 methodology amendment
 - feat(metadata): add Ordinul MDLPA 921/2024 methodology amendment
 - feat(metadata): add Legea 426/2023 seismic risk amendment
@@ -169,6 +170,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #506 from auras172/codex/metadata-lege-7-1996
 - Merge pull request #505 from auras172/codex/fix-health-empty-relationships
 - fix(validation): allow valid acts without confirmed relationships
 - Merge pull request #504 from auras172/codex/docs-readme-refresh
