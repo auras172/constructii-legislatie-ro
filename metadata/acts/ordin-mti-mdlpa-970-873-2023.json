@@ -1,0 +1,41 @@
+{
+  "title": "Ordin nr. 970/873/2023 privind abrogarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 605/2003 pentru aprobarea reglementării tehnice \"Normativ privind condițiile de proiectare și tehnologia de execuție a lucrărilor de îmbrăcăminți asfaltice\" (revizuire CD 16-1978), indicativ CD 16-2000",
+  "short_title": "Ordin MTI/MDLPA 970/873/2023",
+  "canonical_citation": "Ordinul nr. 970/873/2023",
+  "type": "ordin",
+  "number": "970/873",
+  "year": "2023",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["drumuri", "infrastructura-rutiera", "mixturi-asfaltice", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2023-05-11",
+  "publication_date": "2023-05-22",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+  "official_source": "Portal Legislativ — Ministerul Transporturilor și Infrastructurii nr. 970 din 24 aprilie 2023 și Ministerul Dezvoltării, Lucrărilor Publice și Administrației nr. 873 din 11 mai 2023; Monitorul Oficial al României, Partea I, nr. 441 din 22 mai 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială a ordinului de abrogare; Ordinul MTCT nr. 605/2003 și reglementarea CD 16-2000 rămân acte externe și nu sunt importate ca noduri",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 abrogă Ordinul MTCT nr. 605/2003 și reglementarea tehnică CD 16-2000, acte externe absente din repository. Art. 2 dispune publicarea în Monitorul Oficial fără o clauză explicită privind o singură dată de intrare în vigoare; effective_date este omisă. Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația repo-locală este modelată ca implements. HG nr. 370/2021, HG nr. 477/2020 și OG nr. 43/1997 sunt referințe externe. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al actului abrogat nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["drumuri", "infrastructura-rutiera", "mixturi-asfaltice", "reglementare-tehnica", "mti", "mdlpa"]
+}

@@ -1446,6 +1446,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mti-mdlpa-970-873-2023",
+      "label": "Ordin MTI/MDLPA 970/873/2023",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-148-2024",
       "label": "OUG 148/2024",
       "type": "ordonanta",
@@ -5242,6 +5250,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575"
     },
     {
+      "source": "ordin-mti-mdlpa-970-873-2023",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561"
+    },
+    {
       "source": "oug-148-2024",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -5427,8 +5448,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 190,
-    "confirmed_edges": 343,
+    "total_nodes": 191,
+    "confirmed_edges": 344,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
