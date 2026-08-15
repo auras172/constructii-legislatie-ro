@@ -1454,6 +1454,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mti-595-2026",
+      "label": "Ordin MTI 595/2026",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mti-596-2026",
       "label": "Ordin MTI 596/2026",
       "type": "ordin",
@@ -5486,6 +5494,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299160"
     },
     {
+      "source": "ordin-mti-595-2026",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului și aprobarea reglementării tehnice.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311545"
+    },
+    {
       "source": "ordin-mti-596-2026",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -5801,8 +5822,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 197,
-    "confirmed_edges": 371,
+    "total_nodes": 198,
+    "confirmed_edges": 372,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
