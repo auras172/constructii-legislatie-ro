@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T15:54:35.014Z
+Generated: 2026-08-15T16:05:56.379Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 195 |
+| Total metadata entries | 196 |
 | Full-text acts | 37 |
-| Metadata-only acts | 158 |
-| Import log files | 204 |
-| Total relationship links | 389 |
+| Metadata-only acts | 159 |
+| Import log files | 205 |
+| Total relationship links | 395 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -38,7 +38,7 @@ Generated: 2026-08-15T15:54:35.014Z
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | hg-370-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| hg-477-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| hg-477-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | hg-492-2018 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-525-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -52,7 +52,7 @@ Generated: 2026-08-15T15:54:35.014Z
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 14 | ✓ |
+| lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 15 | ✓ |
 | lege-141-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-163-2016 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | lege-169-2026 | ✓ | ✓ | ✓ | ✓ | 5 | ✓ |
@@ -70,7 +70,7 @@ Generated: 2026-08-15T15:54:35.014Z
 | lege-50-1991 | ✓ | ✓ | ✓ | ✓ | 7 | ✓ |
 | lege-64-2008 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | lege-7-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | metodologie-reglementare-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | normativ-and616-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | normativ-and619-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -175,6 +175,7 @@ Generated: 2026-08-15T15:54:35.014Z
 | ordin-mdlpa-4059-2024 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-430-2021 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-627-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mdlpa-710-2026 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-749-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-770-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-817-2021 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -220,7 +221,7 @@ Generated: 2026-08-15T15:54:35.014Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 78 |
+| calitate | 79 |
 | executie | 21 |
 | anre | 20 |
 | incendiu | 16 |
@@ -237,7 +238,7 @@ Generated: 2026-08-15T15:54:35.014Z
 
 | Value | Count |
 | --- | --- |
-| minister | 111 |
+| minister | 112 |
 | guvern | 40 |
 | autoritate | 19 |
 | parlament | 18 |
@@ -251,8 +252,8 @@ Generated: 2026-08-15T15:54:35.014Z
 | 2022 | 22 |
 | 2010 | 17 |
 | 2025 | 17 |
+| 2026 | 11 |
 | 2024 | 10 |
-| 2026 | 10 |
 | 2020 | 8 |
 | 2021 | 8 |
 | 2013 | 7 |
@@ -285,7 +286,7 @@ Generated: 2026-08-15T15:54:35.014Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 158 |
+| metadata-only | 159 |
 | full-text | 17 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |

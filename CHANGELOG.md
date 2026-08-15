@@ -152,6 +152,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #465 from auras172/codex/fulltext-and616-2022-v2
+- feat(fulltext): import AND 616-2022 official text
 - Merge pull request #464 from auras172/codex/pipeline-docx-ocr-fulltext
 - Merge pull request #463 from auras172/codex/metadata-ordin-comun-2146-2010-2025
 - feat(tooling): add DOCX and OCR full-text staging pipeline

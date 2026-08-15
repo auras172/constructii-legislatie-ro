@@ -158,6 +158,7 @@ graph LR
   ordin-mdlpa-4059-2024["Ordin MDLPA 4059/2024\n[ordin · calitate]"]
   ordin-mdlpa-430-2021["Ordin MDLPA 430/2021\n[ordin · calitate]"]
   ordin-mdlpa-627-2025["Ordin MDLPA 627/2025\n[ordin · calitate]"]
+  ordin-mdlpa-710-2026["Ordin MDLPA 710/2026\n[ordin · calitate]"]
   ordin-mdlpa-749-2021["Ordin MDLPA 749/2021\n[ordin · calitate]"]
   ordin-mdlpa-770-2025["Ordin MDLPA 770/2025\n[ordin · calitate]"]
   ordin-mdlpa-817-2021["Ordin MDLPA 817/2021\n[ordin · calitate]"]
@@ -234,6 +235,7 @@ graph LR
   hg-370-2021 -->|related| ordin-comun-2146-2010-2025
   hg-370-2021 -->|related| ordin-mti-mdlpa-970-873-2023
   hg-477-2020 -->|related| ordin-comun-2146-2010-2025
+  hg-477-2020 -->|related| ordin-mdlpa-710-2026
   hg-477-2020 -->|related| ordin-mti-mdlpa-970-873-2023
   hg-492-2018 -->|implements| lege-10-1995
   hg-525-1996 -->|related| lege-50-1991
@@ -253,6 +255,7 @@ graph LR
   hg-925-1995 -->|amended_by| hg-742-2018
   lege-10-1995 -->|related| hg-525-2013
   lege-10-1995 -->|related| lege-50-1991
+  lege-10-1995 -->|related| ordin-mdlpa-710-2026
   lege-10-1995 -->|related| oug-148-2024
   lege-141-2026 -->|related| lege-10-1995
   lege-141-2026 -->|related| lege-307-2006
@@ -303,6 +306,7 @@ graph LR
   lege-7-2020 -->|amends| lege-50-1991
   metodologie-mc001-2022 -->|related| lege-10-1995
   metodologie-mc001-2022 -->|related| lege-372-2005
+  metodologie-mc001-2022 -->|related| ordin-mdlpa-710-2026
   metodologie-reglementare-2020 -->|implements| hg-203-2003
   metodologie-reglementare-2020 -->|implements| lege-10-1995
   metodologie-reglementare-2020 -->|amended_by| ordin-mdlpa-430-2021
@@ -483,6 +487,12 @@ graph LR
   ordin-mdlpa-430-2021 -->|implements| lege-10-1995
   ordin-mdlpa-430-2021 -->|amends| metodologie-reglementare-2020
   ordin-mdlpa-627-2025 -->|references| hg-1236-2012
+  ordin-mdlpa-710-2026 -->|related| hg-477-2020
+  ordin-mdlpa-710-2026 -->|related| lege-10-1995
+  ordin-mdlpa-710-2026 -->|related| metodologie-mc001-2022
+  ordin-mdlpa-710-2026 -->|references| hg-477-2020
+  ordin-mdlpa-710-2026 -->|references| lege-10-1995
+  ordin-mdlpa-710-2026 -->|references| metodologie-mc001-2022
   ordin-mdlpa-749-2021 -->|implements| hg-203-2003
   ordin-mdlpa-749-2021 -->|implements| lege-10-1995
   ordin-mdlpa-749-2021 -->|approves| normativ-np022-2021
