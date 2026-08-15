@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T14:51:49.955Z",
+  "generated_at": "2026-08-15T15:00:06.471Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 191,
-    "acts_full_text": 34,
-    "acts_metadata_only": 157,
-    "article_anchors_total": 2365,
+    "acts_full_text": 35,
+    "acts_metadata_only": 156,
+    "article_anchors_total": 2409,
     "import_logs_total": 198,
     "domains": [
       "anre",
@@ -439,9 +439,9 @@
       "type": "hotarare",
       "domain": "receptie",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 2,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 44,
+      "anchor_count": 44,
       "file": "legi/hg-845-2018.md",
       "metadata_file": "metadata/acts/hg-845-2018.json"
     },
