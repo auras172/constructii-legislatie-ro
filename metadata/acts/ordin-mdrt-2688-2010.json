@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 2.688 din 29 decembrie 2010 pentru aprobarea Reglementării tehnice «Normativ privind fundarea construcțiilor pe pământuri sensibile la umezire, indicativ NP 125: 2010»",
+  "short_title": "Ordin MDRT 2688/2010",
+  "canonical_citation": "Ordinul nr. 2.688/2010",
+  "type": "ordin",
+  "number": "2688",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["fundatii", "pamanturi-sensibile-la-umezire", "np125-2010", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2010-12-29",
+  "publication_date": "2011-03-04",
+  "effective_date": "2011-04-03",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126558",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.688 din 29.12.2010; Monitorul Oficial al României, Partea I, nr. 158 din 04.03.2011 și nr. 158 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/126558",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma afișată de Portal Legislativ la verificarea din 15.08.2026; NP 125: 2010 este anexă tehnică și nu este importat ca text sau nod separat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă NP 125: 2010 ca anexă, publicată în M.Of. nr. 158 bis. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; 2011-04-03 este derivată mecanic din publicarea la 04.03.2011. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003. Art. 3 încetează aplicabilitatea P 7:2000, act tehnic extern. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126558",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 2 alin. (3) și (4) din Regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare în construcții, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126558",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mdrt", "executie", "fundatii", "pamanturi-sensibile-la-umezire", "np125-2010", "reglementare-tehnica"]
+}

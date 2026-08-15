@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T18:05:54.257Z",
+  "generated_at": "2026-08-15T19:37:43.866Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 2719/2024 metadata",
         "feat(metadata): add Ordin MTI MDLPA 1405/1610/2023 metadata",
         "feat(metadata): add Ordin MTI 595/2026 metadata",
         "feat(metadata): add Ordin MDLPA 881/2025 metadata",
@@ -134,6 +135,9 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: regenerate numbered legislation index",
+        "docs: regenerate numbered legislation index",
+        "docs: refresh repository snapshot at 200 acts",
         "docs: refresh known repository gaps",
         "docs: refresh README status after PR 430",
         "docs: refresh repository status",
@@ -153,6 +157,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #488 from auras172/codex/docs-refresh-200-50",
+        "Merge pull request #487 from auras172/codex/metadata-ordin-mdlpa-2719-2024",
         "Merge pull request #486 from auras172/codex/fulltext-rtc7-2022",
         "feat(fulltext): import RTC 7-2022 official text",
         "Merge pull request #485 from auras172/codex/fulltext-rtc6-2022",
@@ -759,6 +765,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 186
+    "infrastructure_changes": 187
   }
 }
