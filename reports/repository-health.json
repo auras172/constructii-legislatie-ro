@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T19:37:42.678Z",
+  "generated_at": "2026-08-15T19:49:08.684Z",
   "summary": {
-    "total_metadata_entries": 201,
+    "total_metadata_entries": 202,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 151,
-    "total_import_logs": 223,
-    "total_relationship_links": 403,
+    "total_metadata_only_acts": 152,
+    "total_import_logs": 224,
+    "total_relationship_links": 405,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -395,6 +395,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-212-2022",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1824,7 +1833,7 @@
     "domains": {
       "urbanism": 14,
       "executie": 24,
-      "calitate": 81,
+      "calitate": 82,
       "nzeb": 4,
       "munca": 3,
       "receptie": 5,
@@ -1838,7 +1847,7 @@
     "issuers": {
       "minister": 116,
       "guvern": 40,
-      "parlament": 18,
+      "parlament": 19,
       "other": 8,
       "autoritate": 19
     },
@@ -1871,7 +1880,7 @@
       "2019": 4,
       "2020": 8,
       "2021": 8,
-      "2022": 22,
+      "2022": 23,
       "2023": 28,
       "2024": 11,
       "2025": 18,
@@ -1879,7 +1888,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 151,
+      "metadata-only": 152,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

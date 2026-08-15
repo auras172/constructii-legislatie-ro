@@ -350,6 +350,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-212-2022",
+      "label": "Legea 212/2022 privind reducerea riscului seismic",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -2599,6 +2607,46 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305018",
       "notes": "Art. II privește Legea nr. 7/1996, absentă din repo, și este documentat ca referință externă fără edge."
+    },
+    {
+      "source": "lege-212-2022",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma oficială citează explicit Legea nr. 10/1995 privind calitatea în construcții în dispozițiile privind cerințele fundamentale aplicabile clădirilor.",
+      "source_article": "Art. 5 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526"
+    },
+    {
+      "source": "lege-212-2022",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-212-2022.json"
+    },
+    {
+      "source": "lege-212-2022",
+      "target": "normativ-p100-3-2019",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma oficială citează Codul de proiectare seismică — Partea a III-a — Prevederi pentru evaluarea seismică a clădirilor existente, indicativ P 100-3, iar ținta repository este normativ-p100-3-2019.",
+      "source_article": "Art. 5 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526"
+    },
+    {
+      "source": "lege-212-2022",
+      "target": "normativ-p100-3-2019",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-212-2022.json"
     },
     {
       "source": "lege-292-2018",
@@ -5913,8 +5961,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 201,
-    "confirmed_edges": 377,
+    "total_nodes": 202,
+    "confirmed_edges": 381,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
