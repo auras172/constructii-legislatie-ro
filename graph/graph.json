@@ -139,7 +139,7 @@
       "type": "hotarare",
       "domain": "receptie",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-300-2006",
