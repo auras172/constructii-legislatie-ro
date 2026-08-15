@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 845/2018 metadata
 - feat(metadata): add Ordin MDLPA 430/2021 metadata
 - feat(metadata): add 2020 construction regulations methodology
 - feat(metadata): add Ordin MDLPA 172/2023 metadata
@@ -143,6 +144,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #442 from auras172/codex/metadata-hg-845-2018
 - Merge pull request #440 from auras172/codex/update-known-gaps-2026-08-15
 - Merge pull request #441 from auras172/codex/metadata-ordin-mdlpa-430-2021
 - Merge pull request #439 from auras172/codex/metadata-metodologie-reglementare-2020
