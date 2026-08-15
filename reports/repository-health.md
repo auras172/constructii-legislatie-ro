@@ -1,14 +1,14 @@
 # Repository Health Report
 
-Generated: 2026-08-15T14:28:28.715Z
+Generated: 2026-08-15T14:52:26.130Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 189 |
-| Full-text acts | 34 |
-| Metadata-only acts | 155 |
+| Full-text acts | 35 |
+| Metadata-only acts | 154 |
 | Import log files | 196 |
 | Total relationship links | 377 |
 | Unique domains | 12 |
@@ -46,7 +46,7 @@ Generated: 2026-08-15T14:28:28.715Z
 | hg-742-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-766-1997 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-808-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| hg-845-2018 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| hg-845-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | hg-862-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -279,10 +279,10 @@ Generated: 2026-08-15T14:28:28.715Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 155 |
+| metadata-only | 154 |
 | full-text | 15 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
-| Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 2 |
+| Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |
