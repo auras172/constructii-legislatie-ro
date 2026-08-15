@@ -57,6 +57,17 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
     }
   ],
   "tags": ["drumuri", "infrastructura-rutiera", "mixturi-asfaltice", "reglementare-tehnica", "mti", "mdlpa"]

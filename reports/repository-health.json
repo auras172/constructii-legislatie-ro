@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T15:25:59.549Z",
+  "generated_at": "2026-08-15T15:32:54.227Z",
   "summary": {
-    "total_metadata_entries": 193,
+    "total_metadata_entries": 194,
     "total_full_text_acts": 36,
-    "total_metadata_only_acts": 157,
-    "total_import_logs": 201,
-    "total_relationship_links": 382,
+    "total_metadata_only_acts": 158,
+    "total_import_logs": 202,
+    "total_relationship_links": 383,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -183,6 +183,15 @@
     },
     {
       "slug": "hg-370-2021",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-477-2020",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -1750,7 +1759,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 13,
+      "urbanism": 14,
       "executie": 20,
       "calitate": 78,
       "nzeb": 4,
@@ -1765,7 +1774,7 @@
     },
     "issuers": {
       "minister": 111,
-      "guvern": 39,
+      "guvern": 40,
       "parlament": 18,
       "other": 6,
       "autoritate": 19
@@ -1797,7 +1806,7 @@
       "2017": 3,
       "2018": 7,
       "2019": 4,
-      "2020": 7,
+      "2020": 8,
       "2021": 8,
       "2022": 22,
       "2023": 27,
@@ -1806,7 +1815,7 @@
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 157,
+      "metadata-only": 158,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
