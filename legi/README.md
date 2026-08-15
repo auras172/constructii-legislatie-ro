@@ -556,6 +556,11 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ — Ordinul nr. 749/02.06.2021](https://legislatie.just.ro/Public/DetaliiDocument/243147)
   - Status: unknown · metadata-only · publicat în M.Of. nr. 582/09.06.2021 · intrat în vigoare 19.06.2021, derivat din regula de 10 zile · încetează aplicabilitatea NP 022-1997
   - Import log: [import-log/2026-08-10-normativ-np022-2021.md](../import-log/2026-08-10-normativ-np022-2021.md)
+- [Ordin MDLPA 749/2021](./ordin-mdlpa-749-2021.md)
+  - Domain: calitate · Implements: Legea 10/1995, HG 203/2003 · Approves: NP 022-2021 · metadata-only
+  - Official source checked: [Portal Legislativ, document 243147](https://legislatie.just.ro/Public/DetaliiDocument/243147)
+  - Status: unknown · M.Of. nr. 582 și 582 bis/09.06.2021 · 3 articles · 1 annex · effective_date 19.06.2021, derivată din Art. 2 și regula de 10 zile
+  - Import log: [import-log/2026-08-15-ordin-mdlpa-749-2021.md](../import-log/2026-08-15-ordin-mdlpa-749-2021.md)
 - [Ordin MDLPA 894/2023](./ordin-mdlpa-894-2023.md)
   - Domain: calitate (modificare NP 022-2021) · Related: NP 022-2021, Legea 10/1995
   - Official source checked: [Portal Legislativ — Ordinul nr. 894/15.05.2023](https://legislatie.just.ro/Public/DetaliiDocument/270613)
