@@ -8,7 +8,12 @@
   "issuer": "Guvernul României",
   "issuing_body_kind": "guvern",
   "domain": "calitate",
-  "topics": ["constructii", "calitate-constructii", "laboratoare-constructii", "autorizare"],
+  "topics": [
+    "constructii",
+    "calitate-constructii",
+    "laboratoare-constructii",
+    "autorizare"
+  ],
   "status": "unknown",
   "issue_date": "2005-07-14",
   "publication_date": "2005-08-12",
@@ -17,13 +22,15 @@
   "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 735 din 12 august 2005",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/64136",
   "version_kind": "original",
-  "last_checked": "2026-08-09",
+  "last_checked": "2026-08-15",
   "version": "Forma afișată de Portal Legislativ; regulamentul aprobat este inclus ca anexă și nu este modelat ca act separat",
-  "article_count": 3,
+  "article_count": 23,
   "annex_count": 1,
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 735/12.08.2005. Preambulul citează explicit art. 38 alin. (1) din Legea nr. 10/1995, iar Anexa, art. 1, descrie autorizarea laboratoarelor ca parte a sistemului calității în construcții instituit de aceeași lege. Relația este modelată ca implements către Legea 10/1995. Portalul nu declară explicit un status juridic curent și nu afișează o clauză distinctă de intrare în vigoare; effective_date este omisă. Regulamentul aprobat prin anexă nu este creat ca nod separat. Textul legal integral nu este importat.",
-  "implements": ["lege-10-1995"],
+  "import_method": "full-text",
+  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 735/12.08.2005. Preambulul citează explicit art. 38 alin. (1) din Legea nr. 10/1995, iar Anexa, art. 1, descrie autorizarea laboratoarelor ca parte a sistemului calității în construcții instituit de aceeași lege. Relația este modelată ca implements către Legea 10/1995. Portalul nu declară explicit un status juridic curent și nu afișează o clauză distinctă de intrare în vigoare; effective_date este omisă. Regulamentul aprobat prin anexă nu este creat ca nod separat. Textul legal integral nu este importat. official_text_sha256: ef1c68dbf7b4a99fea1afe12e03646f664b470a35ee24d69b159bad32c9e5c17.",
+  "implements": [
+    "lege-10-1995"
+  ],
   "relationships": [
     {
       "type": "implements",
@@ -38,5 +45,10 @@
       "notes": "Regulamentul aprobat este tratat ca anexă a HG și nu este modelat ca nod separat."
     }
   ],
-  "tags": ["calitate-constructii", "laboratoare-constructii", "autorizare", "hotarare-guvern"]
+  "tags": [
+    "calitate-constructii",
+    "laboratoare-constructii",
+    "autorizare",
+    "hotarare-guvern"
+  ]
 }
