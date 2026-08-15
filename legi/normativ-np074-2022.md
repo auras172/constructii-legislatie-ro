@@ -23,6 +23,8 @@ tags:
   - np074
 related_acts:
   - lege-10-1995
+approved_by:
+  - ordin-mdlpa-27-2023
 import_method: full-text
 ---
 

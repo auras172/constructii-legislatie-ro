@@ -1150,6 +1150,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-27-2023",
+      "label": "Ordin MDLPA 27/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-2837-2022",
       "label": "Ordin MDLPA 2837/2022",
       "type": "ordin",
@@ -3751,6 +3759,45 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/295242"
     },
     {
+      "source": "ordin-mdlpa-27-2023",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 din regulamentul privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264051"
+    },
+    {
+      "source": "ordin-mdlpa-27-2023",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264051"
+    },
+    {
+      "source": "ordin-mdlpa-27-2023",
+      "target": "normativ-np074-2022",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă reglementarea tehnică „Normativ privind documentațiile geotehnice pentru construcții“, indicativ NP 074-2022, prevăzută în anexa care face parte integrantă din ordin.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264051"
+    },
+    {
       "source": "ordin-mdlpa-2837-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -4779,8 +4826,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 182,
-    "confirmed_edges": 323,
+    "total_nodes": 183,
+    "confirmed_edges": 326,
     "auto_detected_edges": 0,
     "unresolved_skipped": 0
   }

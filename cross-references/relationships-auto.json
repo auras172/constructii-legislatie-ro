@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-16T22:19:02.411Z",
+  "generated_at": "2026-08-15T09:49:07.292Z",
   "note": "Auto-detected suggestions only. Human review required before merging into metadata.",
   "suggested_relationships": {
+    "ghid-rtc13-2024": {
+      "references_in_text": [
+        "hg-203-2003",
+        "lege-10-1995"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 477/2020"
+      ],
+      "article_level_refs": [
+        {
+          "target": "hg-203-2003",
+          "article": "art-5",
+          "source_line": 11
+        }
+      ]
+    },
     "hg-300-2006": {
       "references_in_text": [
         "lege-319-2006"
@@ -13,36 +29,112 @@
     },
     "hg-343-2017": {
       "references_in_text": [
+        "hg-273-1994",
+        "hg-766-1997",
         "lege-10-1995",
+        "lege-177-2015",
+        "lege-307-2006",
+        "lege-50-1991"
+      ],
+      "unresolved_references": [],
+      "article_level_refs": []
+    },
+    "hg-571-2016": {
+      "references_in_text": [
         "lege-307-2006",
         "lege-50-1991"
       ],
       "unresolved_references": [
-        "Hotărârea Guvernului nr. 273/1994",
-        "Hotărârea Guvernului nr. 766/1997",
-        "Legea nr. 177/2015"
+        "Hotărârea Guvernului nr. 867/2015",
+        "Ordonanța Guvernului nr. 129/2000"
       ],
       "article_level_refs": []
     },
     "lege-10-1995": {
       "references_in_text": [
+        "hg-203-2003",
+        "hg-273-1994",
         "hg-525-2013",
+        "hg-766-1997",
+        "hg-925-1995",
+        "lege-177-2015",
         "lege-50-1991"
       ],
       "unresolved_references": [
-        "Hotărârea Guvernului nr. 203/2003",
-        "Hotărârea Guvernului nr. 273/1994",
         "Hotărârea Guvernului nr. 28/2008",
         "Hotărârea Guvernului nr. 498/2001",
         "Hotărârea Guvernului nr. 622/2004",
-        "Hotărârea Guvernului nr. 766/1997",
-        "Hotărârea Guvernului nr. 925/1995",
         "Legea nr. 123/2007",
-        "Legea nr. 177/2015",
         "Legea nr. 180/2002",
         "Legea nr. 187/2012",
         "Legea nr. 587/2002",
         "Legea nr. 8/1977"
+      ],
+      "article_level_refs": []
+    },
+    "lege-169-2026": {
+      "references_in_text": [
+        "hg-273-1994",
+        "hg-492-2018",
+        "hg-766-1997",
+        "hg-925-1995",
+        "lege-10-1995",
+        "lege-292-2018",
+        "lege-307-2006",
+        "lege-350-2001",
+        "lege-372-2005",
+        "lege-50-1991"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 111/2020",
+        "Hotărârea Guvernului nr. 930/2005",
+        "Hotărârea Guvernului nr. 985/2020",
+        "Legea nr. 10/2001",
+        "Legea nr. 107/1996",
+        "Legea nr. 15/2003",
+        "Legea nr. 161/2003",
+        "Legea nr. 17/2023",
+        "Legea nr. 18/1991",
+        "Legea nr. 180/2002",
+        "Legea nr. 184/2001",
+        "Legea nr. 198/2022",
+        "Legea nr. 21/2020",
+        "Legea nr. 227/2015",
+        "Legea nr. 24/2007",
+        "Legea nr. 242/2022",
+        "Legea nr. 246/2005",
+        "Legea nr. 246/2022",
+        "Legea nr. 255/2020",
+        "Legea nr. 273/2006",
+        "Legea nr. 280/2003",
+        "Legea nr. 286/2009",
+        "Legea nr. 287/2009",
+        "Legea nr. 292/2011",
+        "Legea nr. 333/2003",
+        "Legea nr. 35/1994",
+        "Legea nr. 422/2001",
+        "Legea nr. 448/2006",
+        "Legea nr. 451/2002",
+        "Legea nr. 486/2009",
+        "Legea nr. 49/2011",
+        "Legea nr. 5/2000",
+        "Legea nr. 500/2002",
+        "Legea nr. 528/2002",
+        "Legea nr. 55/2002",
+        "Legea nr. 554/2004",
+        "Legea nr. 59/2016",
+        "Legea nr. 8/1996",
+        "Legea nr. 82/1998",
+        "Legea nr. 89/1999",
+        "Ordonanța Guvernului nr. 22/1999",
+        "Ordonanța Guvernului nr. 26/2000",
+        "Ordonanța Guvernului nr. 4/2010",
+        "Ordonanța Guvernului nr. 43/1997",
+        "Ordonanța Guvernului nr. 79/2000",
+        "Ordonanța de urgență a Guvernului nr. 12/1998",
+        "Ordonanța de urgență a Guvernului nr. 57/2019",
+        "Ordonanța de urgență a Guvernului nr. 89/2022",
+        "Ordonanța de urgență a Guvernului nr. 92/2021"
       ],
       "article_level_refs": []
     },
@@ -73,13 +165,13 @@
     },
     "lege-307-2006": {
       "references_in_text": [
+        "hg-537-2007",
         "lege-50-1991",
         "oug-21-2004"
       ],
       "unresolved_references": [
         "Hotărârea Guvernului nr. 160/2007",
         "Hotărârea Guvernului nr. 416/2007",
-        "Hotărârea Guvernului nr. 537/2007",
         "Legea nr. 13/2011",
         "Legea nr. 146/2017",
         "Legea nr. 15/2005",
@@ -116,10 +208,11 @@
     },
     "lege-350-2001": {
       "references_in_text": [
-        "lege-50-1991"
+        "hg-525-1996",
+        "lege-50-1991",
+        "oug-31-2025"
       ],
       "unresolved_references": [
-        "Hotărârea Guvernului nr. 525/1996",
         "Hotărârea Guvernului nr. 932/2007",
         "Legea nr. 161/2003",
         "Legea nr. 180/2002",
@@ -128,7 +221,6 @@
         "Legea nr. 289/2006",
         "Legea nr. 554/2004",
         "Ordonanța Guvernului nr. 4/2010",
-        "Ordonanța de urgență a Guvernului nr. 31/2025",
         "Ordonanța de urgență a Guvernului nr. 57/2019",
         "Ordonanța de urgență a Guvernului nr. 85/2012"
       ],
@@ -151,13 +243,13 @@
     },
     "lege-481-2004": {
       "references_in_text": [
+        "hg-862-2016",
         "oug-21-2004"
       ],
       "unresolved_references": [
         "Hotărârea Guvernului nr. 501/2005",
         "Hotărârea Guvernului nr. 630/2005",
         "Hotărârea Guvernului nr. 642/2005",
-        "Hotărârea Guvernului nr. 862/2016",
         "Legea nr. 124/1995",
         "Legea nr. 15/2005",
         "Legea nr. 180/2002",
@@ -175,7 +267,8 @@
     "lege-50-1991": {
       "references_in_text": [
         "lege-292-2018",
-        "lege-350-2001"
+        "lege-350-2001",
+        "oug-31-2025"
       ],
       "unresolved_references": [
         "Legea nr. 10/2001",
@@ -200,13 +293,165 @@
         "Ordonanța Guvernului nr. 5/2002",
         "Ordonanța de urgență a Guvernului nr. 109/2022",
         "Ordonanța de urgență a Guvernului nr. 231/2000",
-        "Ordonanța de urgență a Guvernului nr. 295/2000",
-        "Ordonanța de urgență a Guvernului nr. 31/2025"
+        "Ordonanța de urgență a Guvernului nr. 295/2000"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-i7-2011": {
+      "references_in_text": [
+        "hg-300-2006",
+        "hg-90-2008",
+        "lege-10-1995",
+        "lege-307-2006",
+        "lege-319-2006",
+        "lege-50-1991"
+      ],
+      "unresolved_references": [
+        "HG nr. 1091/2006",
+        "HG nr. 1146/2006",
+        "HG nr. 457/2003",
+        "Hotărârea Guvernului nr. 1091/2006",
+        "Hotărârea Guvernului nr. 1146/2006",
+        "Hotărârea Guvernului nr. 457/2003",
+        "Hotărârea Guvernului nr. 622/2004",
+        "Hotărârea Guvernului nr. 971/2006"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-i9-2022": {
+      "references_in_text": [
+        "lege-10-1995",
+        "lege-372-2005"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 100/2002",
+        "Hotărârea Guvernului nr. 714/2022",
+        "Hotărârea Guvernului nr. 930/2005",
+        "Legea nr. 107/1996",
+        "Legea nr. 301/2015",
+        "Legea nr. 458/2002",
+        "Ordinul nr. 275/2012"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-ne012-1-2022": {
+      "references_in_text": [
+        "hg-668-2017",
+        "hg-766-1997",
+        "lege-10-1995"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 750/2017"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-np007-2025": {
+      "references_in_text": [
+        "lege-10-1995"
+      ],
+      "unresolved_references": [],
+      "article_level_refs": []
+    },
+    "normativ-np011-2022": {
+      "references_in_text": [
+        "hg-525-1996",
+        "hg-766-1997",
+        "lege-10-1995",
+        "lege-372-2005"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 301/2012",
+        "Legea nr. 333/2003",
+        "Legea nr. 458/2002"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-np015-2022": {
+      "references_in_text": [
+        "hg-525-1996",
+        "hg-925-1995",
+        "lege-10-1995",
+        "lege-372-2005"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 301/2012",
+        "Hotărârea Guvernului nr. 907/2016",
+        "Legea nr. 333/2003",
+        "Legea nr. 458/2002",
+        "Legea nr. 95/2006",
+        "Ordonanța Guvernului nr. 11/2003"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-np022-2021": {
+      "references_in_text": [
+        "hg-925-1995"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 188/2002"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-np074-2022": {
+      "references_in_text": [
+        "hg-766-1997",
+        "hg-925-1995"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 907/2016",
+        "Legea nr. 575/2001"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-np24-2022": {
+      "references_in_text": [
+        "lege-10-1995",
+        "lege-372-2005"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 188/2002",
+        "Hotărârea Guvernului nr. 301/2012",
+        "Legea nr. 458/2002"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-p118-1-2025": {
+      "references_in_text": [
+        "hg-925-1995",
+        "lege-10-1995"
+      ],
+      "unresolved_references": [
+        "Hotărârea Guvernului nr. 245/2016",
+        "Legea nr. 448/2006",
+        "Legea nr. 59/2016"
+      ],
+      "article_level_refs": []
+    },
+    "normativ-p118-3-2015": {
+      "references_in_text": [
+        "hg-273-1994"
+      ],
+      "unresolved_references": [],
+      "article_level_refs": []
+    },
+    "normativ-p130-2025": {
+      "references_in_text": [
+        "hg-273-1994",
+        "hg-492-2018",
+        "hg-668-2017",
+        "hg-766-1997",
+        "lege-10-1995",
+        "lege-50-1991"
+      ],
+      "unresolved_references": [
+        "Legea nr. 114/1996",
+        "Legea nr. 153/2011"
       ],
       "article_level_refs": []
     },
     "ordin-839-2009": {
       "references_in_text": [
+        "hg-525-1996",
         "lege-10-1995",
         "lege-350-2001",
         "lege-50-1991"
@@ -215,7 +460,6 @@
         "Hotărârea Guvernului nr. 28/2008",
         "Hotărârea Guvernului nr. 33/2009",
         "Hotărârea Guvernului nr. 44/2004",
-        "Hotărârea Guvernului nr. 525/1996",
         "Legea nr. 176/2022",
         "Legea nr. 180/2002",
         "Legea nr. 227/2015",
@@ -223,6 +467,15 @@
         "Legea nr. 571/2003",
         "Ordonanța Guvernului nr. 2/2001",
         "Ordonanța de urgență a Guvernului nr. 6/2017"
+      ],
+      "article_level_refs": []
+    },
+    "ordin-anre-59-2013": {
+      "references_in_text": [],
+      "unresolved_references": [
+        "Legea nr. 160/2012",
+        "Legea nr. 74/2023",
+        "Ordonanța de urgență a Guvernului nr. 33/2007"
       ],
       "article_level_refs": []
     },

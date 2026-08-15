@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-07-16T22:19:02.403Z",
+  "generated_at": "2026-08-15T09:49:07.281Z",
   "summary": {
-    "total_references_found": 293,
-    "resolved_to_known_acts": 46,
-    "unresolved": 247,
-    "source_acts_scanned": 13
+    "total_references_found": 523,
+    "resolved_to_known_acts": 155,
+    "unresolved": 368,
+    "source_acts_scanned": 29
   },
   "references": [
+    {
+      "source_slug": "ghid-rtc13-2024",
+      "source_line": 11,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "ghid-rtc13-2024",
+      "source_line": 11,
+      "matched_text": "Hotărârea Guvernului nr. 203/2003",
+      "act_type": "hotarare",
+      "number": "203",
+      "year": "2003",
+      "article_ref": "art-5",
+      "suggested_target_slug": "hg-203-2003",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "ghid-rtc13-2024",
+      "source_line": 11,
+      "matched_text": "Hotărârea Guvernului nr. 477/2020",
+      "act_type": "hotarare",
+      "number": "477",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "ghid-rtc13-2024",
+      "source_line": 15,
+      "matched_text": "Hotărârea Guvernului nr. 477/2020",
+      "act_type": "hotarare",
+      "number": "477",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
     {
       "source_slug": "hg-300-2006",
       "source_line": 354,
@@ -81,8 +125,8 @@
       "number": "177",
       "year": "2015",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "lege-177-2015",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -103,8 +147,8 @@
       "number": "273",
       "year": "1994",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -114,8 +158,8 @@
       "number": "273",
       "year": "1994",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -125,8 +169,8 @@
       "number": "273",
       "year": "1994",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -136,8 +180,8 @@
       "number": "273",
       "year": "1994",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -158,8 +202,8 @@
       "number": "766",
       "year": "1997",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -169,8 +213,8 @@
       "number": "766",
       "year": "1997",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -191,8 +235,8 @@
       "number": "766",
       "year": "1997",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
     },
     {
       "source_slug": "hg-343-2017",
@@ -228,6 +272,83 @@
       "status": "resolved"
     },
     {
+      "source_slug": "hg-571-2016",
+      "source_line": 4,
+      "matched_text": "Legea nr. 307/2006",
+      "act_type": "lege",
+      "number": "307",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-307-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 4,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 60,
+      "matched_text": "Ordonanța Guvernului nr. 129/2000",
+      "act_type": "ordonanta",
+      "number": "129",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 63,
+      "matched_text": "Hotărârea Guvernului nr. 867/2015",
+      "act_type": "hotarare",
+      "number": "867",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 66,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 73,
+      "matched_text": "Legea nr. 307/2006",
+      "act_type": "lege",
+      "number": "307",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-307-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "hg-571-2016",
+      "source_line": 212,
+      "matched_text": "Hotărârea Guvernului nr. 867/2015",
+      "act_type": "hotarare",
+      "number": "867",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
       "source_slug": "lege-10-1995",
       "source_line": 14,
       "matched_text": "Legea nr. 177/2015",
@@ -235,8 +356,8 @@
       "number": "177",
       "year": "2015",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "lege-177-2015",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -323,8 +444,8 @@
       "number": "177",
       "year": "2015",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "lege-177-2015",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -334,8 +455,8 @@
       "number": "177",
       "year": "2015",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "lege-177-2015",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -345,8 +466,8 @@
       "number": "273",
       "year": "1994",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -356,8 +477,8 @@
       "number": "925",
       "year": "1995",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -367,8 +488,8 @@
       "number": "766",
       "year": "1997",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -378,8 +499,8 @@
       "number": "203",
       "year": "2003",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-203-2003",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-10-1995",
@@ -413,6 +534,1051 @@
       "article_ref": null,
       "suggested_target_slug": "hg-525-2013",
       "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 507,
+      "matched_text": "Ordonanța Guvernului nr. 4/2010",
+      "act_type": "ordonanta",
+      "number": "4",
+      "year": "2010",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 1035,
+      "matched_text": "Hotărârea Guvernului nr. 985/2020",
+      "act_type": "hotarare",
+      "number": "985",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 1067,
+      "matched_text": "Legea nr. 49/2011",
+      "act_type": "lege",
+      "number": "49",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 1071,
+      "matched_text": "Legea nr. 280/2003",
+      "act_type": "lege",
+      "number": "280",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 1085,
+      "matched_text": "Hotărârea Guvernului nr. 930/2005",
+      "act_type": "hotarare",
+      "number": "930",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 1432,
+      "matched_text": "Legea nr. 59/2016",
+      "act_type": "lege",
+      "number": "59",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 2044,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 2713,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 2718,
+      "matched_text": "Legea nr. 287/2009",
+      "act_type": "lege",
+      "number": "287",
+      "year": "2009",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 2726,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 2935,
+      "matched_text": "Ordonanța Guvernului nr. 43/1997",
+      "act_type": "ordonanta",
+      "number": "43",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 3229,
+      "matched_text": "Legea nr. 21/2020",
+      "act_type": "lege",
+      "number": "21",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 3859,
+      "matched_text": "Legea nr. 273/2006",
+      "act_type": "lege",
+      "number": "273",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 4621,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 4842,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 4878,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 4887,
+      "matched_text": "Legea nr. 161/2003",
+      "act_type": "lege",
+      "number": "161",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 5490,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 89/2022",
+      "act_type": "ordonanta",
+      "number": "89",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 5499,
+      "matched_text": "Legea nr. 242/2022",
+      "act_type": "lege",
+      "number": "242",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 5660,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 89/2022",
+      "act_type": "ordonanta",
+      "number": "89",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 5666,
+      "matched_text": "Legea nr. 242/2022",
+      "act_type": "lege",
+      "number": "242",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 5728,
+      "matched_text": "Legea nr. 242/2022",
+      "act_type": "lege",
+      "number": "242",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 6039,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 6110,
+      "matched_text": "Legea nr. 180/2002",
+      "act_type": "lege",
+      "number": "180",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 6378,
+      "matched_text": "Legea nr. 292/2011",
+      "act_type": "lege",
+      "number": "292",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 6474,
+      "matched_text": "Legea nr. 18/1991",
+      "act_type": "lege",
+      "number": "18",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7130,
+      "matched_text": "Legea nr. 21/2020",
+      "act_type": "lege",
+      "number": "21",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7211,
+      "matched_text": "Legea nr. 5/2000",
+      "act_type": "lege",
+      "number": "5",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7217,
+      "matched_text": "Legea nr. 5/2000",
+      "act_type": "lege",
+      "number": "5",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7372,
+      "matched_text": "Legea nr. 451/2002",
+      "act_type": "lege",
+      "number": "451",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7589,
+      "matched_text": "Hotărârea Guvernului nr. 111/2020",
+      "act_type": "hotarare",
+      "number": "111",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7626,
+      "matched_text": "Legea nr. 107/1996",
+      "act_type": "lege",
+      "number": "107",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7644,
+      "matched_text": "Legea nr. 107/1996",
+      "act_type": "lege",
+      "number": "107",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 7863,
+      "matched_text": "Legea nr. 287/2009",
+      "act_type": "lege",
+      "number": "287",
+      "year": "2009",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 8845,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9210,
+      "matched_text": "Legea nr. 198/2022",
+      "act_type": "lege",
+      "number": "198",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9724,
+      "matched_text": "Ordonanța Guvernului nr. 43/1997",
+      "act_type": "ordonanta",
+      "number": "43",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9725,
+      "matched_text": "Legea nr. 82/1998",
+      "act_type": "lege",
+      "number": "82",
+      "year": "1998",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9736,
+      "matched_text": "Legea nr. 292/2018",
+      "act_type": "lege",
+      "number": "292",
+      "year": "2018",
+      "article_ref": null,
+      "suggested_target_slug": "lege-292-2018",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9801,
+      "matched_text": "Legea nr. 246/2022",
+      "act_type": "lege",
+      "number": "246",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9921,
+      "matched_text": "Legea nr. 255/2020",
+      "act_type": "lege",
+      "number": "255",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 9987,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 10975,
+      "matched_text": "Legea nr. 448/2006",
+      "act_type": "lege",
+      "number": "448",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11251,
+      "matched_text": "Legea nr. 24/2007",
+      "act_type": "lege",
+      "number": "24",
+      "year": "2007",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11286,
+      "matched_text": "Legea nr. 333/2003",
+      "act_type": "lege",
+      "number": "333",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11420,
+      "matched_text": "Legea nr. 49/2011",
+      "act_type": "lege",
+      "number": "49",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11445,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11616,
+      "matched_text": "Legea nr. 255/2020",
+      "act_type": "lege",
+      "number": "255",
+      "year": "2020",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11815,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11817,
+      "matched_text": "Legea nr. 35/1994",
+      "act_type": "lege",
+      "number": "35",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 11833,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12120,
+      "matched_text": "Legea nr. 10/2001",
+      "act_type": "lege",
+      "number": "10",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12126,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 57/2019",
+      "act_type": "ordonanta",
+      "number": "57",
+      "year": "2019",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12255,
+      "matched_text": "Legea nr. 15/2003",
+      "act_type": "lege",
+      "number": "15",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12598,
+      "matched_text": "Legea nr. 500/2002",
+      "act_type": "lege",
+      "number": "500",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12652,
+      "matched_text": "Legea nr. 486/2009",
+      "act_type": "lege",
+      "number": "486",
+      "year": "2009",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 12945,
+      "matched_text": "Legea nr. 198/2022",
+      "act_type": "lege",
+      "number": "198",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 13347,
+      "matched_text": "Legea nr. 286/2009",
+      "act_type": "lege",
+      "number": "286",
+      "year": "2009",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 13822,
+      "matched_text": "Legea nr. 554/2004",
+      "act_type": "lege",
+      "number": "554",
+      "year": "2004",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14628,
+      "matched_text": "Legea nr. 246/2005",
+      "act_type": "lege",
+      "number": "246",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14640,
+      "matched_text": "Ordonanța Guvernului nr. 26/2000",
+      "act_type": "ordonanta",
+      "number": "26",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14641,
+      "matched_text": "Legea nr. 246/2005",
+      "act_type": "lege",
+      "number": "246",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14675,
+      "matched_text": "Ordonanța Guvernului nr. 26/2000",
+      "act_type": "ordonanta",
+      "number": "26",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14676,
+      "matched_text": "Legea nr. 246/2005",
+      "act_type": "lege",
+      "number": "246",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14945,
+      "matched_text": "Legea nr. 17/2023",
+      "act_type": "lege",
+      "number": "17",
+      "year": "2023",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14959,
+      "matched_text": "Legea nr. 17/2023",
+      "act_type": "lege",
+      "number": "17",
+      "year": "2023",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14970,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 92/2021",
+      "act_type": "ordonanta",
+      "number": "92",
+      "year": "2021",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 14971,
+      "matched_text": "Legea nr. 17/2023",
+      "act_type": "lege",
+      "number": "17",
+      "year": "2023",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 15143,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 16020,
+      "matched_text": "Legea nr. 184/2001",
+      "act_type": "lege",
+      "number": "184",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 16022,
+      "matched_text": "Legea nr. 8/1996",
+      "act_type": "lege",
+      "number": "8",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 16161,
+      "matched_text": "Legea nr. 422/2001",
+      "act_type": "lege",
+      "number": "422",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 17566,
+      "matched_text": "Legea nr. 307/2006",
+      "act_type": "lege",
+      "number": "307",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-307-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 18302,
+      "matched_text": "Legea nr. 500/2002",
+      "act_type": "lege",
+      "number": "500",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 18303,
+      "matched_text": "Legea nr. 273/2006",
+      "act_type": "lege",
+      "number": "273",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 18312,
+      "matched_text": "Legea nr. 500/2002",
+      "act_type": "lege",
+      "number": "500",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 18942,
+      "matched_text": "Legea nr. 227/2015",
+      "act_type": "lege",
+      "number": "227",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20837,
+      "matched_text": "Legea nr. 350/2001",
+      "act_type": "lege",
+      "number": "350",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": "lege-350-2001",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20839,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20906,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20925,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20932,
+      "matched_text": "Hotărârea Guvernului nr. 273/1994",
+      "act_type": "hotarare",
+      "number": "273",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 20940,
+      "matched_text": "Hotărârea Guvernului nr. 492/2018",
+      "act_type": "hotarare",
+      "number": "492",
+      "year": "2018",
+      "article_ref": null,
+      "suggested_target_slug": "hg-492-2018",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21082,
+      "matched_text": "Legea nr. 350/2001",
+      "act_type": "lege",
+      "number": "350",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": "lege-350-2001",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21083,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21947,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 12/1998",
+      "act_type": "ordonanta",
+      "number": "12",
+      "year": "1998",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21948,
+      "matched_text": "Legea nr. 89/1999",
+      "act_type": "lege",
+      "number": "89",
+      "year": "1999",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21952,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 12/1998",
+      "act_type": "ordonanta",
+      "number": "12",
+      "year": "1998",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21953,
+      "matched_text": "Legea nr. 89/1999",
+      "act_type": "lege",
+      "number": "89",
+      "year": "1999",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21958,
+      "matched_text": "Ordonanța Guvernului nr. 22/1999",
+      "act_type": "ordonanta",
+      "number": "22",
+      "year": "1999",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21959,
+      "matched_text": "Legea nr. 528/2002",
+      "act_type": "lege",
+      "number": "528",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21962,
+      "matched_text": "Ordonanța Guvernului nr. 79/2000",
+      "act_type": "ordonanta",
+      "number": "79",
+      "year": "2000",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21963,
+      "matched_text": "Legea nr. 55/2002",
+      "act_type": "lege",
+      "number": "55",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21966,
+      "matched_text": "Ordonanța Guvernului nr. 43/1997",
+      "act_type": "ordonanta",
+      "number": "43",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "lege-169-2026",
+      "source_line": 21966,
+      "matched_text": "Legea nr. 82/1998",
+      "act_type": "lege",
+      "number": "82",
+      "year": "1998",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
     },
     {
       "source_slug": "lege-292-2018",
@@ -1016,8 +2182,8 @@
       "number": "537",
       "year": "2007",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-537-2007",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-307-2006",
@@ -1269,8 +2435,8 @@
       "number": "31",
       "year": "2025",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "oug-31-2025",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-350-2001",
@@ -1291,8 +2457,8 @@
       "number": "31",
       "year": "2025",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "oug-31-2025",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-350-2001",
@@ -1357,8 +2523,8 @@
       "number": "525",
       "year": "1996",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-350-2001",
@@ -1621,8 +2787,8 @@
       "number": "862",
       "year": "2016",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-862-2016",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-481-2004",
@@ -1830,8 +2996,8 @@
       "number": "31",
       "year": "2025",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "oug-31-2025",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-50-1991",
@@ -1852,8 +3018,8 @@
       "number": "31",
       "year": "2025",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "oug-31-2025",
+      "status": "resolved"
     },
     {
       "source_slug": "lege-50-1991",
@@ -2307,6 +3473,1337 @@
       "status": "unknown"
     },
     {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 221,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 3153,
+      "matched_text": "Legea nr. 319/2006",
+      "act_type": "lege",
+      "number": "319",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-319-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 3405,
+      "matched_text": "HG nr. 1146/2006",
+      "act_type": "hotarare",
+      "number": "1146",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7137,
+      "matched_text": "HG nr. 457/2003",
+      "act_type": "hotarare",
+      "number": "457",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7209,
+      "matched_text": "Legea nr. 319/2006",
+      "act_type": "lege",
+      "number": "319",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-319-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7209,
+      "matched_text": "HG nr. 1146/2006",
+      "act_type": "hotarare",
+      "number": "1146",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7209,
+      "matched_text": "HG nr. 1091/2006",
+      "act_type": "hotarare",
+      "number": "1091",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7209,
+      "matched_text": "HG nr. 300/2006",
+      "act_type": "hotarare",
+      "number": "300",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "hg-300-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 7209,
+      "matched_text": "HG nr. 457/2003",
+      "act_type": "hotarare",
+      "number": "457",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 90/2008",
+      "act_type": "hotarare",
+      "number": "90",
+      "year": "2008",
+      "article_ref": null,
+      "suggested_target_slug": "hg-90-2008",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 300/2006",
+      "act_type": "hotarare",
+      "number": "300",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "hg-300-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Legea nr. 307/2006",
+      "act_type": "lege",
+      "number": "307",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-307-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Legea nr. 319/2006",
+      "act_type": "lege",
+      "number": "319",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": "lege-319-2006",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 1146/2006",
+      "act_type": "hotarare",
+      "number": "1146",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 457/2003",
+      "act_type": "hotarare",
+      "number": "457",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 622/2004",
+      "act_type": "hotarare",
+      "number": "622",
+      "year": "2004",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 971/2006",
+      "act_type": "hotarare",
+      "number": "971",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i7-2011",
+      "source_line": 9293,
+      "matched_text": "Hotărârea Guvernului nr. 1091/2006",
+      "act_type": "hotarare",
+      "number": "1091",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 17,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 17,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 53,
+      "matched_text": "Hotărârea Guvernului nr. 100/2002",
+      "act_type": "hotarare",
+      "number": "100",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 61,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 61,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 61,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 61,
+      "matched_text": "Hotărârea Guvernului nr. 930/2005",
+      "act_type": "hotarare",
+      "number": "930",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 61,
+      "matched_text": "Legea nr. 301/2015",
+      "act_type": "lege",
+      "number": "301",
+      "year": "2015",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 97,
+      "matched_text": "Legea nr. 107/1996",
+      "act_type": "lege",
+      "number": "107",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 173,
+      "matched_text": "Ordinul nr. 275/2012",
+      "act_type": "ordin",
+      "number": "275",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 497,
+      "matched_text": "Hotărârea Guvernului nr. 930/2005",
+      "act_type": "hotarare",
+      "number": "930",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-i9-2022",
+      "source_line": 1349,
+      "matched_text": "Hotărârea Guvernului nr. 714/2022",
+      "act_type": "hotarare",
+      "number": "714",
+      "year": "2022",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-ne012-1-2022",
+      "source_line": 12,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-ne012-1-2022",
+      "source_line": 12,
+      "matched_text": "Hotărârea Guvernului nr. 668/2017",
+      "act_type": "hotarare",
+      "number": "668",
+      "year": "2017",
+      "article_ref": null,
+      "suggested_target_slug": "hg-668-2017",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-ne012-1-2022",
+      "source_line": 12,
+      "matched_text": "Hotărârea Guvernului nr. 750/2017",
+      "act_type": "hotarare",
+      "number": "750",
+      "year": "2017",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-ne012-1-2022",
+      "source_line": 12,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np007-2025",
+      "source_line": 13,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 145,
+      "matched_text": "Hotărârea Guvernului nr. 525/1996",
+      "act_type": "hotarare",
+      "number": "525",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 145,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 155,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 155,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 155,
+      "matched_text": "Legea nr. 333/2003",
+      "act_type": "lege",
+      "number": "333",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 157,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 603,
+      "matched_text": "Hotărârea Guvernului nr. 301/2012",
+      "act_type": "hotarare",
+      "number": "301",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np011-2022",
+      "source_line": 857,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 95/2006",
+      "act_type": "lege",
+      "number": "95",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea  Guvernului  nr.  925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea Guvernului nr. 525/1996",
+      "act_type": "hotarare",
+      "number": "525",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea Guvernului nr. 907/2016",
+      "act_type": "hotarare",
+      "number": "907",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 95/2006",
+      "act_type": "lege",
+      "number": "95",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 333/2003",
+      "act_type": "lege",
+      "number": "333",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea Guvernului nr. 301/2012",
+      "act_type": "hotarare",
+      "number": "301",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Ordonanța Guvernului nr. 11/2003",
+      "act_type": "ordonanta",
+      "number": "11",
+      "year": "2003",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea Guvernului nr. 907/2016",
+      "act_type": "hotarare",
+      "number": "907",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Hotărârea Guvernului nr. 525/1996",
+      "act_type": "hotarare",
+      "number": "525",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 3,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np015-2022",
+      "source_line": 4,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np022-2021",
+      "source_line": 33,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np022-2021",
+      "source_line": 667,
+      "matched_text": "Hotărârea Guvernului nr. 188/2002",
+      "act_type": "hotarare",
+      "number": "188",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 23,
+      "matched_text": "Hotărârea Guvernului nr. 907/2016",
+      "act_type": "hotarare",
+      "number": "907",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 25,
+      "matched_text": "Hotărârea Guvernului nr. 907/2016",
+      "act_type": "hotarare",
+      "number": "907",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 55,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 55,
+      "matched_text": "Hotărârea Guvernului nr. 907/2016",
+      "act_type": "hotarare",
+      "number": "907",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 55,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 301,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np074-2022",
+      "source_line": 349,
+      "matched_text": "Legea nr. 575/2001",
+      "act_type": "lege",
+      "number": "575",
+      "year": "2001",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 4,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 24,
+      "matched_text": "Hotărârea Guvernului nr. 188/2002",
+      "act_type": "hotarare",
+      "number": "188",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 24,
+      "matched_text": "Hotărârea Guvernului nr. 188/2002",
+      "act_type": "hotarare",
+      "number": "188",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 42,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 52,
+      "matched_text": "Legea nr. 458/2002",
+      "act_type": "lege",
+      "number": "458",
+      "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 84,
+      "matched_text": "Hotărârea Guvernului nr. 301/2012",
+      "act_type": "hotarare",
+      "number": "301",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-np24-2022",
+      "source_line": 88,
+      "matched_text": "Legea nr. 372/2005",
+      "act_type": "lege",
+      "number": "372",
+      "year": "2005",
+      "article_ref": null,
+      "suggested_target_slug": "lege-372-2005",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 21,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 538,
+      "matched_text": "Hotărârea Guvernului nr. 245/2016",
+      "act_type": "hotarare",
+      "number": "245",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 8453,
+      "matched_text": "Legea nr. 448/2006",
+      "act_type": "lege",
+      "number": "448",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 8456,
+      "matched_text": "Legea nr. 448/2006",
+      "act_type": "lege",
+      "number": "448",
+      "year": "2006",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 9159,
+      "matched_text": "Legea nr. 59/2016",
+      "act_type": "lege",
+      "number": "59",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 9215,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 9215,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 9229,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 9229,
+      "matched_text": "Hotărârea Guvernului nr. 925/1995",
+      "act_type": "hotarare",
+      "number": "925",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "hg-925-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 10859,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p118-1-2025",
+      "source_line": 11010,
+      "matched_text": "Legea nr. 59/2016",
+      "act_type": "lege",
+      "number": "59",
+      "year": "2016",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p118-3-2015",
+      "source_line": 1319,
+      "matched_text": "Hotărârea Guvernului nr. 273/1994",
+      "act_type": "hotarare",
+      "number": "273",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 13,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 13,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 15,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 23,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Legea nr. 114/1996",
+      "act_type": "lege",
+      "number": "114",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Legea nr. 153/2011",
+      "act_type": "lege",
+      "number": "153",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Hotărârea Guvernului nr. 668/2017",
+      "act_type": "hotarare",
+      "number": "668",
+      "year": "2017",
+      "article_ref": null,
+      "suggested_target_slug": "hg-668-2017",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Hotărârea Guvernului nr. 492/2018",
+      "act_type": "hotarare",
+      "number": "492",
+      "year": "2018",
+      "article_ref": null,
+      "suggested_target_slug": "hg-492-2018",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 123,
+      "matched_text": "Hotărârea Guvernului nr. 273/1994",
+      "act_type": "hotarare",
+      "number": "273",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 125,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 129,
+      "matched_text": "Legea nr. 10/1995",
+      "act_type": "lege",
+      "number": "10",
+      "year": "1995",
+      "article_ref": null,
+      "suggested_target_slug": "lege-10-1995",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 133,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 137,
+      "matched_text": "Legea nr. 50/1991",
+      "act_type": "lege",
+      "number": "50",
+      "year": "1991",
+      "article_ref": null,
+      "suggested_target_slug": "lege-50-1991",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 141,
+      "matched_text": "Legea nr. 114/1996",
+      "act_type": "lege",
+      "number": "114",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 145,
+      "matched_text": "Legea nr. 114/1996",
+      "act_type": "lege",
+      "number": "114",
+      "year": "1996",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 149,
+      "matched_text": "Legea nr. 153/2011",
+      "act_type": "lege",
+      "number": "153",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 153,
+      "matched_text": "Legea nr. 153/2011",
+      "act_type": "lege",
+      "number": "153",
+      "year": "2011",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 157,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 161,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 165,
+      "matched_text": "Hotărârea Guvernului nr. 668/2017",
+      "act_type": "hotarare",
+      "number": "668",
+      "year": "2017",
+      "article_ref": null,
+      "suggested_target_slug": "hg-668-2017",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 169,
+      "matched_text": "Hotărârea Guvernului nr. 668/2017",
+      "act_type": "hotarare",
+      "number": "668",
+      "year": "2017",
+      "article_ref": null,
+      "suggested_target_slug": "hg-668-2017",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 173,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 177,
+      "matched_text": "Hotărârea Guvernului nr. 766/1997",
+      "act_type": "hotarare",
+      "number": "766",
+      "year": "1997",
+      "article_ref": null,
+      "suggested_target_slug": "hg-766-1997",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 181,
+      "matched_text": "Hotărârea Guvernului nr. 492/2018",
+      "act_type": "hotarare",
+      "number": "492",
+      "year": "2018",
+      "article_ref": null,
+      "suggested_target_slug": "hg-492-2018",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 185,
+      "matched_text": "Hotărârea Guvernului nr. 492/2018",
+      "act_type": "hotarare",
+      "number": "492",
+      "year": "2018",
+      "article_ref": null,
+      "suggested_target_slug": "hg-492-2018",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 189,
+      "matched_text": "Hotărârea Guvernului nr. 273/1994",
+      "act_type": "hotarare",
+      "number": "273",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
+    },
+    {
+      "source_slug": "normativ-p130-2025",
+      "source_line": 193,
+      "matched_text": "Hotărârea Guvernului nr. 273/1994",
+      "act_type": "hotarare",
+      "number": "273",
+      "year": "1994",
+      "article_ref": null,
+      "suggested_target_slug": "hg-273-1994",
+      "status": "resolved"
+    },
+    {
       "source_slug": "ordin-839-2009",
       "source_line": 3,
       "matched_text": "Legea nr. 261/2009",
@@ -2391,8 +4888,8 @@
       "number": "525",
       "year": "1996",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
     },
     {
       "source_slug": "ordin-839-2009",
@@ -2644,8 +5141,8 @@
       "number": "525",
       "year": "1996",
       "article_ref": null,
-      "suggested_target_slug": null,
-      "status": "unknown"
+      "suggested_target_slug": "hg-525-1996",
+      "status": "resolved"
     },
     {
       "source_slug": "ordin-839-2009",
@@ -2797,6 +5294,39 @@
       "act_type": "lege",
       "number": "180",
       "year": "2002",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "ordin-anre-59-2013",
+      "source_line": 8,
+      "matched_text": "Ordonanța de urgență a Guvernului nr. 33/2007",
+      "act_type": "ordonanta",
+      "number": "33",
+      "year": "2007",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "ordin-anre-59-2013",
+      "source_line": 8,
+      "matched_text": "Legea nr. 160/2012",
+      "act_type": "lege",
+      "number": "160",
+      "year": "2012",
+      "article_ref": null,
+      "suggested_target_slug": null,
+      "status": "unknown"
+    },
+    {
+      "source_slug": "ordin-anre-59-2013",
+      "source_line": 751,
+      "matched_text": "Legea nr. 74/2023",
+      "act_type": "lege",
+      "number": "74",
+      "year": "2023",
       "article_ref": null,
       "suggested_target_slug": null,
       "status": "unknown"
