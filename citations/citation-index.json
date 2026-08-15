@@ -1782,6 +1782,134 @@
       ],
       "annex_count": 7
     },
+    "hg-525-2013": {
+      "title": "Hotărârea Guvernului nr. 525 din 24 iulie 2013 pentru aprobarea atribuțiilor generale şi specifice, a structurii organizatorice şi a numărului maxim de posturi, precum şi a normării parcului auto ale Inspectoratului de Stat în Construcţii - I.S.C.",
+      "slug": "hg-525-2013",
+      "file": "legi/hg-525-2013.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-525-2013.md#art-1",
+          "line": 41
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-525-2013.md#art-2",
+          "line": 43
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-525-2013.md#art-3",
+          "line": 49
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-525-2013.md#art-4",
+          "line": 51
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-525-2013.md#art-5",
+          "line": 57
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/hg-525-2013.md#art-6",
+          "line": 59
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/hg-525-2013.md#art-7",
+          "line": 63
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/hg-525-2013.md#art-8",
+          "line": 77
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/hg-525-2013.md#art-9",
+          "line": 79
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/hg-525-2013.md#art-10",
+          "line": 105
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/hg-525-2013.md#art-11",
+          "line": 127
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/hg-525-2013.md#art-12",
+          "line": 129
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/hg-525-2013.md#art-13",
+          "line": 131
+        }
+      ],
+      "article_count": 13,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/hg-525-2013.md#pct-1",
+          "line": 81
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/hg-525-2013.md#pct-2",
+          "line": 83
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/hg-525-2013.md#pct-3",
+          "line": 97
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/hg-525-2013.md#pct-4",
+          "line": 99
+        }
+      ],
+      "provision_count": 4,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/hg-525-2013.md#anexa-1",
+          "line": 61
+        },
+        {
+          "id": "anexa-2",
+          "anchor": "#anexa-2",
+          "url_fragment": "legi/hg-525-2013.md#anexa-2",
+          "line": 133
+        }
+      ],
+      "annex_count": 2
+    },
     "hg-537-2007": {
       "title": "Hotărârea Guvernului nr. 537 din 6 iunie 2007 privind stabilirea şi sancţionarea contravenţiilor la normele de prevenire şi stingere a incendiilor",
       "slug": "hg-537-2007",

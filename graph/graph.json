@@ -195,7 +195,7 @@
       "type": "hotarare",
       "domain": "isc",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-537-2007",
