@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T22:18:01.861Z",
+  "generated_at": "2026-08-15T22:37:58.011Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 211,
+    "acts_total": 212,
     "acts_full_text": 50,
-    "acts_metadata_only": 161,
+    "acts_metadata_only": 162,
     "article_anchors_total": 2727,
-    "import_logs_total": 233,
+    "import_logs_total": 234,
     "domains": [
       "anre",
       "autorizatii",
@@ -821,6 +821,19 @@
       "anchor_count": 0,
       "file": "legi/lege-7-2020.md",
       "metadata_file": "metadata/acts/lege-7-2020.json"
+    },
+    {
+      "slug": "lege-98-2016",
+      "title": "Legea nr. 98 din 19 mai 2016 (actualizată) privind achizițiile publice",
+      "short_title": "Legea 98/2016 privind achizițiile publice",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 240,
+      "anchor_count": 0,
+      "file": "legi/lege-98-2016.md",
+      "metadata_file": "metadata/acts/lege-98-2016.json"
     },
     {
       "slug": "metodologie-mc001-2022",
