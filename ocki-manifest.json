@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:08:21.244Z",
+  "generated_at": "2026-08-15T17:11:53.124Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 40,
-    "acts_metadata_only": 159,
-    "article_anchors_total": 2583,
-    "import_logs_total": 211,
+    "acts_full_text": 41,
+    "acts_metadata_only": 158,
+    "article_anchors_total": 2606,
+    "import_logs_total": 212,
     "domains": [
       "anre",
       "autorizatii",
@@ -452,9 +452,9 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 3,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 23,
+      "anchor_count": 23,
       "file": "legi/hg-808-2005.md",
       "metadata_file": "metadata/acts/hg-808-2005.json"
     },
