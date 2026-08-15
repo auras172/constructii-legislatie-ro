@@ -2,6 +2,18 @@
 
 Validation scripts for local use and CI. Run from the repository root with Node 20+.
 
+## import-fulltext-scan.py
+
+```sh
+python3 scripts/import-fulltext-scan.py --help
+```
+
+Builds a staging-only review bundle from an official local DOCX or PDF. DOCX
+files are extracted with Python's standard library. Text PDFs use `pdftotext`;
+scanned PDFs require an explicit `--allow-ocr` plus `ocrmypdf` and Tesseract.
+The command never writes canonical repository files. OCR bundles are marked
+`NEEDS_HUMAN_REVIEW`; see [`docs/fulltext-scan-pipeline.md`](../docs/fulltext-scan-pipeline.md).
+
 ## validate-metadata.mjs
 
 ```sh
