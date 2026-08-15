@@ -161,9 +161,6 @@ for (const { slug, data } of acts) {
       warn('orphan_metadata', slug, `metadata-only act has no legi/${slug}.md (expected for metadata-only, informational)`)
     }
   }
-  if (relCount === 0) {
-    warn('missing_relationships', slug, `No relationship links (legacy fields or confirmed structured relationships)`)
-  }
   if (isFullText && officialMarkers === false) {
     warn('missing_official_markers', slug, `legi/${slug}.md is missing OFFICIAL_TEXT_START or OFFICIAL_TEXT_END markers`)
   }
@@ -254,8 +251,10 @@ const dim_importLogs = pct(
   coverage.filter((c) => c.import_log).length,
   totalMetadata
 )
+// An act with no confirmed relationships is valid. Structural relationship
+// target validation remains the responsibility of validate-metadata.mjs.
 const dim_relationships = pct(
-  coverage.filter((c) => c.relationships > 0).length,
+  totalMetadata,
   totalMetadata
 )
 const dim_officialMarkers = pct(
