@@ -131,7 +131,7 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "repealed",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-273-1994",
