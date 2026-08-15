@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T19:37:43.866Z",
+  "generated_at": "2026-08-15T19:49:09.736Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRT 2688/2010 metadata",
         "feat(metadata): add Ordin MDLPA 2719/2024 metadata",
         "feat(metadata): add Ordin MTI MDLPA 1405/1610/2023 metadata",
         "feat(metadata): add Ordin MTI 595/2026 metadata",
@@ -157,6 +158,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #496 from auras172/codex/metadata-ordin-mdrt-2688-2010",
         "Merge pull request #488 from auras172/codex/docs-refresh-200-50",
         "Merge pull request #487 from auras172/codex/metadata-ordin-mdlpa-2719-2024",
         "Merge pull request #486 from auras172/codex/fulltext-rtc7-2022",
@@ -765,6 +767,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 187
+    "infrastructure_changes": 188
   }
 }

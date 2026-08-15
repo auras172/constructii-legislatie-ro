@@ -1,0 +1,53 @@
+{
+  "title": "Legea nr. 212 din 12 iulie 2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor",
+  "short_title": "Legea 212/2022 privind reducerea riscului seismic",
+  "canonical_citation": "Legea nr. 212/2022",
+  "type": "lege",
+  "number": "212",
+  "year": "2022",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": ["risc-seismic", "consolidare", "cladiri-existente", "evaluare-seismica"],
+  "status": "unknown",
+  "issue_date": "2022-07-12",
+  "publication_date": "2022-07-14",
+  "effective_date": "2022-07-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+  "official_source": "Portal Legislativ — forma publicată și formele consolidate/printabile ale Legii nr. 212/2022",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma publicată în M.Of. nr. 708 din 14 iulie 2022; Portalul oferă și forme ulterioare consolidate.",
+  "article_count": 38,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Textul integral nu este importat. Sursa oficială rămâne Portalul Legislativ. Art. 38 stabilește intrarea în vigoare la 15 zile de la publicare; effective_date este derivată mecanic ca 2022-07-29.",
+  "related_acts": ["lege-10-1995", "normativ-p100-3-2019"],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma oficială citează explicit Legea nr. 10/1995 privind calitatea în construcții în dispozițiile privind cerințele fundamentale aplicabile clădirilor.",
+      "source_article": "Art. 5 alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "references",
+      "target": "normativ-p100-3-2019",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma oficială citează Codul de proiectare seismică — Partea a III-a — Prevederi pentru evaluarea seismică a clădirilor existente, indicativ P 100-3, iar ținta repository este normativ-p100-3-2019.",
+      "source_article": "Art. 5 alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257526",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["lege", "risc-seismic", "consolidare", "cladiri-existente", "evaluare-seismica", "calitate-constructii"]
+}
