@@ -75,7 +75,7 @@
       "type": "ghid",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ghid-rtc7-2022",

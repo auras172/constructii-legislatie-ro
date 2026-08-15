@@ -8,23 +8,31 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["radon", "clădiri-existente", "remediere", "securitate-sănătate", "ghid"],
+  "topics": [
+    "radon",
+    "clădiri-existente",
+    "remediere",
+    "securitate-sănătate",
+    "ghid"
+  ],
   "status": "unknown",
   "issue_date": "2023-10-13",
   "publication_date": "2023-10-25",
   "effective_date": "2023-11-24",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-15",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275652",
-  "official_source": "Portal Legislativ — Ordinul nr. 2.219/13.10.2023, publicat în M.Of. nr. 967 și 967 bis/25.10.2023; MDLPA — reglementare19",
+  "official_source": "Portal Legislativ — Ordin nr. 2.219/13.10.2023, ID 275652 și reglementarea tehnică RTC 6-2022, ID 275744; forma printabilă oficială verificată.",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275744",
-  "version": "ghid tehnic original; textul integral nu este importat",
-  "article_count": 3,
-  "annex_count": 1,
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă titlul, indicativul RTC 6-2022, emitentul, Ordinul nr. 2.219/13.10.2023 și publicarea în M.Of. nr. 967/25.10.2023, cu anexa tehnică în nr. 967 bis. Art. 2 prevede intrarea în vigoare în 30 de zile de la data publicării; effective_date este derivată mecanic ca 24.11.2023. Preambulul citează explicit art. 10 din Legea nr. 10/1995. Art. 3 menționează Ordinul CNCAN nr. 153/2023 ca act extern. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
-  "related_acts": ["lege-10-1995"],
+  "version": "Ordinul nr. 2.219/13.10.2023 și reglementarea tehnică RTC 6-2022 în forma oficială originală; reglementarea este publicată în M.Of. nr. 967 bis/25.10.2023.",
+  "article_count": 5,
+  "annex_count": 11,
+  "import_method": "printable HTML → Markdown",
+  "rights_note": "Portalul Legislativ confirmă ordinul de aprobare, reglementarea tehnică RTC 6-2022 și publicarea în Monitorul Oficial nr. 967 și 967 bis din 25 octombrie 2023. Textul importat combină mecanic recordul oficial al ordinului și recordul oficial separat al reglementării tehnice. Ordinul are 5 articole și 1 anexă de aprobare; reglementarea are 125 de prevederi tehnice și 10 anexe. Cele 53 de imagini normative din HTML sunt păstrate ca URL-uri oficiale externe; nu sunt copiate în repository. Statusul și relația juridică existentă sunt păstrate. official_text_sha256: 04486535f1ad618275abecaa0ad6917f8f6229962e9c7e55f16525e4c2a7ba40.",
+  "related_acts": [
+    "lege-10-1995"
+  ],
   "relationships": [
     {
       "type": "related_to",
@@ -38,5 +46,13 @@
       "reviewed_at": "2026-08-08"
     }
   ],
-  "tags": ["radon", "clădiri-existente", "remediere", "securitate-sănătate", "ghid-tehnic", "mdlpa", "rtc6"]
+  "tags": [
+    "radon",
+    "clădiri-existente",
+    "remediere",
+    "securitate-sănătate",
+    "ghid-tehnic",
+    "mdlpa",
+    "rtc6"
+  ]
 }
