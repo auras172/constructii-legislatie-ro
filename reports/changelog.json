@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:03:03.972Z",
+  "generated_at": "2026-08-15T14:28:29.384Z",
   "months": [
     {
       "month": "2026-08",
@@ -143,6 +143,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #448 from auras172/codex/fulltext-hg-273-1994-v4",
+        "feat(fulltext): import HG 273/1994 official text",
         "Merge pull request #446 from auras172/codex/metadata-ordin-mti-mai-66-2024",
         "Merge pull request #444 from auras172/codex/fulltext-hg-537-2007-v3",
         "feat(fulltext): import HG 537/2007 official text",
