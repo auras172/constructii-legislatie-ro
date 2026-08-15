@@ -166,6 +166,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-477-2020",
+      "label": "HG 477/2020",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-492-2018",
       "label": "HG 492/2018",
       "type": "hotarare",
@@ -1929,6 +1937,20 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-477-2020",
+      "target": "ordin-mti-mdlpa-970-873-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul nr. 970/873/2023 citează explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației în preambul.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului nr. 970/873/2023",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "notes": "Index reciproc pentru navigare și health; relația juridică exactă este references pe actul citator și nu este inversată ca references."
     },
     {
       "source": "hg-492-2018",
@@ -5308,6 +5330,19 @@
     },
     {
       "source": "ordin-mti-mdlpa-970-873-2023",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561"
+    },
+    {
+      "source": "ordin-mti-mdlpa-970-873-2023",
       "target": "lege-10-1995",
       "relationship": "implements",
       "review_status": "confirmed",
@@ -5518,8 +5553,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 193,
-    "confirmed_edges": 348,
+    "total_nodes": 194,
+    "confirmed_edges": 350,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
