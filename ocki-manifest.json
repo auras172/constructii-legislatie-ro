@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T08:53:26.739Z",
+  "generated_at": "2026-08-15T12:35:45.486Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 179,
-    "acts_full_text": 31,
-    "acts_metadata_only": 148,
-    "article_anchors_total": 2288,
-    "import_logs_total": 183,
+    "acts_full_text": 32,
+    "acts_metadata_only": 147,
+    "article_anchors_total": 2294,
+    "import_logs_total": 184,
     "domains": [
       "anre",
       "autorizatii",
@@ -360,9 +360,9 @@
       "type": "hotarare",
       "domain": "incendiu",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 6,
-      "anchor_count": 0,
+      "anchor_count": 6,
       "file": "legi/hg-537-2007.md",
       "metadata_file": "metadata/acts/hg-537-2007.json"
     },

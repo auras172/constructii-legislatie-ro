@@ -739,6 +739,50 @@
       ],
       "article_count": 44
     },
+    "hg-537-2007": {
+      "title": "Hotărârea Guvernului nr. 537 din 6 iunie 2007 privind stabilirea şi sancţionarea contravenţiilor la normele de prevenire şi stingere a incendiilor",
+      "slug": "hg-537-2007",
+      "file": "legi/hg-537-2007.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-537-2007.md#art-1",
+          "line": 46
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-537-2007.md#art-2",
+          "line": 111
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-537-2007.md#art-3",
+          "line": 115
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/hg-537-2007.md#art-4",
+          "line": 119
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/hg-537-2007.md#art-5",
+          "line": 122
+        },
+        {
+          "id": "art-6",
+          "anchor": "#art-6",
+          "url_fragment": "legi/hg-537-2007.md#art-6",
+          "line": 125
+        }
+      ],
+      "article_count": 6
+    },
     "hg-571-2016": {
       "title": "Hotărârea Guvernului nr. 571 din 10 august 2016 pentru aprobarea categoriilor de construcții și amenajări care se supun avizării și/sau autorizării privind securitatea la incendiu",
       "slug": "hg-571-2016",
