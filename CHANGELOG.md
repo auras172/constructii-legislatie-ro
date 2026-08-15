@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 255/2010 expropriation framework
 - feat(metadata): add Legea 422/2001 historic monuments protection
 - feat(metadata): add Legea 7/1996 cadastral legislation
 - feat(metadata): add Ordinul MDLPA 576/2025 methodology amendment
@@ -171,6 +172,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #508 from auras172/codex/metadata-lege-255-2010
 - Merge pull request #507 from auras172/codex/metadata-lege-422-2001
 - Merge pull request #506 from auras172/codex/metadata-lege-7-1996
 - Merge pull request #505 from auras172/codex/fix-health-empty-relationships
