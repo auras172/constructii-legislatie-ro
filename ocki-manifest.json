@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T16:57:56.621Z",
+  "generated_at": "2026-08-15T17:02:32.763Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 198,
-    "acts_full_text": 39,
-    "acts_metadata_only": 159,
-    "article_anchors_total": 2570,
-    "import_logs_total": 209,
+    "acts_full_text": 40,
+    "acts_metadata_only": 158,
+    "article_anchors_total": 2583,
+    "import_logs_total": 210,
     "domains": [
       "anre",
       "autorizatii",
@@ -374,9 +374,9 @@
       "type": "hotarare",
       "domain": "isc",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 13,
+      "anchor_count": 13,
       "file": "legi/hg-525-2013.md",
       "metadata_file": "metadata/acts/hg-525-2013.json"
     },

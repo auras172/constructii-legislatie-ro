@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T16:57:57.233Z",
+  "generated_at": "2026-08-15T17:02:33.330Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MTI 595/2026 metadata",
         "feat(metadata): add Ordin MDLPA 881/2025 metadata",
         "feat(metadata): add Ordin MDLPA 710/2026 metadata",
         "feat(metadata): add Ordin comun 2146/2010/2025 metadata",
@@ -151,6 +152,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #473 from auras172/codex/metadata-ordin-mti-595-2026-v2",
         "Merge pull request #471 from auras172/codex/fulltext-hg-525-1996",
         "feat(fulltext): import HG 525/1996 official text",
         "Merge pull request #470 from auras172/codex/metadata-ordin-mdlpa-881-2025-v2",
@@ -733,6 +735,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 184
+    "infrastructure_changes": 185
   }
 }
