@@ -406,6 +406,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-422-2001",
+      "label": "Legea 422/2001 privind protejarea monumentelor istorice",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-426-2023",
       "label": "Legea 426/2023",
       "type": "lege",
@@ -6149,7 +6157,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 209,
+    "total_nodes": 210,
     "confirmed_edges": 391,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
