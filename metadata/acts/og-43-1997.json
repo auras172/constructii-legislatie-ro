@@ -1,0 +1,40 @@
+{
+  "title": "Ordonanță nr. 43 din 28 august 1997 privind regimul drumurilor",
+  "short_title": "OG 43/1997",
+  "canonical_citation": "Ordonanța Guvernului nr. 43/1997",
+  "type": "ordonanta",
+  "number": "43",
+  "year": "1997",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "executie",
+  "topics": ["drumuri", "infrastructura-rutiera", "regim-drumuri"],
+  "status": "unknown",
+  "issue_date": "1997-08-28",
+  "publication_date": "1997-08-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291514",
+  "official_source": "Portal Legislativ — Ordonanța nr. 43 din 28 august 1997 privind regimul drumurilor; publicarea inițială în M.Of. nr. 221/29.08.1997 și republicarea în M.Of. nr. 237/29.06.1998",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/291514",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-15",
+  "version": "Pagina Portalului este forma consolidată a ordonanței republicate; metadata păstrează identitatea actului inițial și datele publicării inițiale",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul indică republicarea în temeiul Legii nr. 82/1998 și publicarea inițială a Ordonanței nr. 43/1997 în M.Of. nr. 221/29.08.1997. Forma consolidată conține modificări ulterioare; textul integral nu este importat. Statusul curent nu este declarat și rămâne unknown.",
+  "related_acts": ["ordin-mti-mdlpa-970-873-2023"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "ordin-mti-mdlpa-970-873-2023",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "evidence": "Ordinul nr. 970/873/2023 citează explicit art. 57 lit. h) din OG nr. 43/1997; această legătură este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "source_article": "Preambulul Ordinului nr. 970/873/2023",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată; este un index related_to source-backed al citării explicite din actul local existent."
+    }
+  ],
+  "tags": ["drumuri", "infrastructura-rutiera", "regim-drumuri", "ordonanta"]
+}
