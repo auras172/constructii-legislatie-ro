@@ -122,6 +122,10 @@ Each act starts as a metadata-only entry. Official text is imported only after s
   - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G3KEP332SQHYM22ZBWYTMISCV0O) + [document 74081](https://legislatie.just.ro/Public/DetaliiDocument/74081)
   - Status: unknown · M.Of. nr. 193/28.07.1994 · formă actualizată la 28.07.2006 · 3 articles · 1 annex · effective_date omisă
   - Import log: [import-log/2026-08-09-hg-273-1994.md](../import-log/2026-08-09-hg-273-1994.md)
+- [HG 845/2018](./hg-845-2018.md)
+  - Domain: receptie · Implements: Legea 10/1995 · References: HG 273/1994 · metadata-only
+  - Official source checked: [Portal Legislativ, document 279235](https://legislatie.just.ro/Public/DetaliiDocument/279235) + [forma de bază](https://legislatie.just.ro/Public/DetaliiDocument/279235?isFormaDeBaza=True&rep=True) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G1U22Y7DS4XSGO1HB6061F19PVU)
+  - Status: unknown · M.Of. nr. 934/06.11.2018 · 2 articles · 1 annex · effective_date omisă; regulamentul anexat nu este importat; forma consolidată indică modificarea ulterioară prin HG 172/2024
 - [HG 172/2024](./hg-172-2024.md)
   - Domain: receptie · Implements: Legea 10/1995 · References: HG 273/1994 · metadata-only
   - Official source checked: [Portal Legislativ, document 279594](https://legislatie.just.ro/Public/DetaliiDocument/279594) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G1OEIJUD9LB7V11R94KN62CPU0T)

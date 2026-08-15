@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T11:44:46.582Z",
+  "generated_at": "2026-08-15T11:53:59.628Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 430/2021 metadata",
         "feat(metadata): add 2020 construction regulations methodology",
         "feat(metadata): add Ordin MDLPA 172/2023 metadata",
         "feat(metadata): add Ordin MDLPA 27/2023 metadata",
@@ -120,6 +121,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh known repository gaps",
         "docs: refresh README status after PR 430",
         "docs: refresh repository status",
         "docs: refresh repository status and anchor guidance",
@@ -138,6 +140,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #440 from auras172/codex/update-known-gaps-2026-08-15",
+        "Merge pull request #441 from auras172/codex/metadata-ordin-mdlpa-430-2021",
         "Merge pull request #439 from auras172/codex/metadata-metodologie-reglementare-2020",
         "Merge pull request #438 from auras172/codex/metadata-ordin-mdlpa-172-2023",
         "Merge pull request #437 from auras172/codex/metadata-ordin-mdlpa-27-2023",
@@ -689,6 +693,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 172
+    "infrastructure_changes": 173
   }
 }
