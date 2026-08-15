@@ -1,12 +1,24 @@
 # Cross-Reference Suggestions
 
-Generated: 2026-07-16T22:19:02.412Z
+Generated: 2026-08-15T09:49:07.292Z
 
 > Auto-detected only. Review and manually update `metadata/acts/*.json` if confirmed.
 
 ## README
 
 *(no cross-references detected in official text)*
+
+## ghid-rtc13-2024
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-203-2003 — line 11: "Hotărârea Guvernului nr. 203/2003"
+- lege-10-1995 — line 11: "Legea nr. 10/1995"
+
+### In related_acts but NOT detected in text
+- normativ-ne012-1-2022
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 477/2020
 
 ## hg-300-2006
 
@@ -27,10 +39,22 @@ Generated: 2026-07-16T22:19:02.412Z
 - lege-307-2006 ✓
 - lege-50-1991 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-273-1994 — line 14: "Hotărârea Guvernului nr. 273/1994"
+- hg-766-1997 — line 145: "Hotărârea Guvernului nr. 766/1997"
+- lege-177-2015 — line 6: "Legea nr. 177/2015"
+
+## hg-571-2016
+
+### Already in related_acts
+- lege-50-1991 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- lege-307-2006 — line 4: "Legea nr. 307/2006"
+
 ### References detected but not matched to any known act (unresolved)
-- Hotărârea Guvernului nr. 273/1994
-- Hotărârea Guvernului nr. 766/1997
-- Legea nr. 177/2015
+- Hotărârea Guvernului nr. 867/2015
+- Ordonanța Guvernului nr. 129/2000
 
 ## lege-10-1995
 
@@ -38,20 +62,96 @@ Generated: 2026-07-16T22:19:02.412Z
 - hg-525-2013 ✓
 - lege-50-1991 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-203-2003 — line 544: "Hotărârea Guvernului nr. 203/2003"
+- hg-273-1994 — line 538: "Hotărârea Guvernului nr. 273/1994"
+- hg-766-1997 — line 542: "Hotărârea Guvernului nr. 766/1997"
+- hg-925-1995 — line 540: "Hotărârea Guvernului nr. 925/1995"
+- lege-177-2015 — line 14: "Legea nr. 177/2015"
+
+### In related_acts but NOT detected in text
+- oug-148-2024
+
 ### References detected but not matched to any known act (unresolved)
-- Hotărârea Guvernului nr. 203/2003
-- Hotărârea Guvernului nr. 273/1994
 - Hotărârea Guvernului nr. 28/2008
 - Hotărârea Guvernului nr. 498/2001
 - Hotărârea Guvernului nr. 622/2004
-- Hotărârea Guvernului nr. 766/1997
-- Hotărârea Guvernului nr. 925/1995
 - Legea nr. 123/2007
-- Legea nr. 177/2015
 - Legea nr. 180/2002
 - Legea nr. 187/2012
 - Legea nr. 587/2002
 - Legea nr. 8/1977
+
+## lege-169-2026
+
+### Already in related_acts
+- lege-10-1995 ✓
+- lege-350-2001 ✓
+- lege-50-1991 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-273-1994 — line 20932: "Hotărârea Guvernului nr. 273/1994"
+- hg-492-2018 — line 20940: "Hotărârea Guvernului nr. 492/2018"
+- hg-766-1997 — line 20906: "Hotărârea Guvernului nr. 766/1997"
+- hg-925-1995 — line 20925: "Hotărârea Guvernului nr. 925/1995"
+- lege-292-2018 — line 9736: "Legea nr. 292/2018"
+- lege-307-2006 — line 17566: "Legea nr. 307/2006"
+- lege-372-2005 — line 15143: "Legea nr. 372/2005"
+
+### In related_acts but NOT detected in text
+- ordin-839-2009
+- ordin-mdrap-233-2016
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 111/2020
+- Hotărârea Guvernului nr. 930/2005
+- Hotărârea Guvernului nr. 985/2020
+- Legea nr. 10/2001
+- Legea nr. 107/1996
+- Legea nr. 15/2003
+- Legea nr. 161/2003
+- Legea nr. 17/2023
+- Legea nr. 18/1991
+- Legea nr. 180/2002
+- Legea nr. 184/2001
+- Legea nr. 198/2022
+- Legea nr. 21/2020
+- Legea nr. 227/2015
+- Legea nr. 24/2007
+- Legea nr. 242/2022
+- Legea nr. 246/2005
+- Legea nr. 246/2022
+- Legea nr. 255/2020
+- Legea nr. 273/2006
+- Legea nr. 280/2003
+- Legea nr. 286/2009
+- Legea nr. 287/2009
+- Legea nr. 292/2011
+- Legea nr. 333/2003
+- Legea nr. 35/1994
+- Legea nr. 422/2001
+- Legea nr. 448/2006
+- Legea nr. 451/2002
+- Legea nr. 486/2009
+- Legea nr. 49/2011
+- Legea nr. 5/2000
+- Legea nr. 500/2002
+- Legea nr. 528/2002
+- Legea nr. 55/2002
+- Legea nr. 554/2004
+- Legea nr. 59/2016
+- Legea nr. 8/1996
+- Legea nr. 82/1998
+- Legea nr. 89/1999
+- Ordonanța Guvernului nr. 22/1999
+- Ordonanța Guvernului nr. 26/2000
+- Ordonanța Guvernului nr. 4/2010
+- Ordonanța Guvernului nr. 43/1997
+- Ordonanța Guvernului nr. 79/2000
+- Ordonanța de urgență a Guvernului nr. 12/1998
+- Ordonanța de urgență a Guvernului nr. 57/2019
+- Ordonanța de urgență a Guvernului nr. 89/2022
+- Ordonanța de urgență a Guvernului nr. 92/2021
 
 ## lege-292-2018
 
@@ -83,6 +183,9 @@ Generated: 2026-07-16T22:19:02.412Z
 - lege-50-1991 ✓
 - oug-21-2004 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-537-2007 — line 1385: "Hotărârea Guvernului nr. 537/2007"
+
 ### In related_acts but NOT detected in text
 - lege-10-1995
 - normativ-p118-1-2025
@@ -91,7 +194,6 @@ Generated: 2026-07-16T22:19:02.412Z
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 160/2007
 - Hotărârea Guvernului nr. 416/2007
-- Hotărârea Guvernului nr. 537/2007
 - Legea nr. 13/2011
 - Legea nr. 146/2017
 - Legea nr. 15/2005
@@ -131,8 +233,11 @@ Generated: 2026-07-16T22:19:02.412Z
 ### Already in related_acts
 - lege-50-1991 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-525-1996 — line 227: "Hotărârea Guvernului nr. 525/1996"
+- oug-31-2025 — line 185: "Ordonanța de urgență a Guvernului nr. 31/2025"
+
 ### References detected but not matched to any known act (unresolved)
-- Hotărârea Guvernului nr. 525/1996
 - Hotărârea Guvernului nr. 932/2007
 - Legea nr. 161/2003
 - Legea nr. 180/2002
@@ -141,7 +246,6 @@ Generated: 2026-07-16T22:19:02.412Z
 - Legea nr. 289/2006
 - Legea nr. 554/2004
 - Ordonanța Guvernului nr. 4/2010
-- Ordonanța de urgență a Guvernului nr. 31/2025
 - Ordonanța de urgență a Guvernului nr. 57/2019
 - Ordonanța de urgență a Guvernului nr. 85/2012
 
@@ -164,6 +268,9 @@ Generated: 2026-07-16T22:19:02.412Z
 ### Already in related_acts
 - oug-21-2004 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-862-2016 — line 371: "Hotărârea Guvernului nr. 862/2016"
+
 ### In related_acts but NOT detected in text
 - lege-307-2006
 
@@ -171,7 +278,6 @@ Generated: 2026-07-16T22:19:02.412Z
 - Hotărârea Guvernului nr. 501/2005
 - Hotărârea Guvernului nr. 630/2005
 - Hotărârea Guvernului nr. 642/2005
-- Hotărârea Guvernului nr. 862/2016
 - Legea nr. 124/1995
 - Legea nr. 15/2005
 - Legea nr. 180/2002
@@ -189,6 +295,9 @@ Generated: 2026-07-16T22:19:02.412Z
 ### Already in related_acts
 - lege-292-2018 ✓
 - lege-350-2001 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- oug-31-2025 — line 472: "Ordonanța de urgență a Guvernului nr. 31/2025"
 
 ### In related_acts but NOT detected in text
 - hg-343-2017
@@ -218,7 +327,183 @@ Generated: 2026-07-16T22:19:02.412Z
 - Ordonanța de urgență a Guvernului nr. 109/2022
 - Ordonanța de urgență a Guvernului nr. 231/2000
 - Ordonanța de urgență a Guvernului nr. 295/2000
-- Ordonanța de urgență a Guvernului nr. 31/2025
+
+## normativ-i7-2011
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-300-2006 — line 7209: "HG nr. 300/2006"
+- hg-90-2008 — line 9293: "Hotărârea Guvernului nr. 90/2008"
+- lege-307-2006 — line 9293: "Legea nr. 307/2006"
+- lege-319-2006 — line 3153: "Legea nr. 319/2006"
+- lege-50-1991 — line 221: "Legea nr. 50/1991"
+
+### References detected but not matched to any known act (unresolved)
+- HG nr. 1091/2006
+- HG nr. 1146/2006
+- HG nr. 457/2003
+- Hotărârea Guvernului nr. 1091/2006
+- Hotărârea Guvernului nr. 1146/2006
+- Hotărârea Guvernului nr. 457/2003
+- Hotărârea Guvernului nr. 622/2004
+- Hotărârea Guvernului nr. 971/2006
+
+## normativ-i9-2022
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- lege-372-2005 — line 17: "Legea nr. 372/2005"
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 100/2002
+- Hotărârea Guvernului nr. 714/2022
+- Hotărârea Guvernului nr. 930/2005
+- Legea nr. 107/1996
+- Legea nr. 301/2015
+- Legea nr. 458/2002
+- Ordinul nr. 275/2012
+
+## normativ-ne012-1-2022
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-668-2017 — line 12: "Hotărârea Guvernului nr. 668/2017"
+- hg-766-1997 — line 12: "Hotărârea Guvernului nr. 766/1997"
+
+### In related_acts but NOT detected in text
+- normativ-ne012-1-2007
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 750/2017
+
+## normativ-np005-2022
+
+### In related_acts but NOT detected in text
+- lege-10-1995
+
+## normativ-np007-2025
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### In related_acts but NOT detected in text
+- normativ-p100-1-2013
+
+## normativ-np011-2022
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-525-1996 — line 145: "Hotărârea Guvernului nr. 525/1996"
+- hg-766-1997 — line 145: "Hotărârea Guvernului nr. 766/1997"
+- lege-10-1995 — line 155: "Legea nr. 10/1995"
+- lege-372-2005 — line 155: "Legea nr. 372/2005"
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 301/2012
+- Legea nr. 333/2003
+- Legea nr. 458/2002
+
+## normativ-np015-2022
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-525-1996 — line 3: "Hotărârea Guvernului nr. 525/1996"
+- hg-925-1995 — line 3: "Hotărârea  Guvernului  nr.  925/1995"
+- lege-372-2005 — line 3: "Legea nr. 372/2005"
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 301/2012
+- Hotărârea Guvernului nr. 907/2016
+- Legea nr. 333/2003
+- Legea nr. 458/2002
+- Legea nr. 95/2006
+- Ordonanța Guvernului nr. 11/2003
+
+## normativ-np022-2021
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-925-1995 — line 33: "Hotărârea Guvernului nr. 925/1995"
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 188/2002
+
+## normativ-np074-2022
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-766-1997 — line 55: "Hotărârea Guvernului nr. 766/1997"
+- hg-925-1995 — line 55: "Hotărârea Guvernului nr. 925/1995"
+
+### In related_acts but NOT detected in text
+- lege-10-1995
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 907/2016
+- Legea nr. 575/2001
+
+## normativ-np24-2022
+
+### Already in related_acts
+- lege-10-1995 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- lege-372-2005 — line 88: "Legea nr. 372/2005"
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 188/2002
+- Hotărârea Guvernului nr. 301/2012
+- Legea nr. 458/2002
+
+## normativ-p118-1-2025
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-925-1995 — line 9215: "Hotărârea Guvernului nr. 925/1995"
+- lege-10-1995 — line 21: "Legea nr. 10/1995"
+
+### In related_acts but NOT detected in text
+- lege-307-2006
+- lege-481-2004
+- oug-21-2004
+
+### References detected but not matched to any known act (unresolved)
+- Hotărârea Guvernului nr. 245/2016
+- Legea nr. 448/2006
+- Legea nr. 59/2016
+
+## normativ-p118-2-2013
+
+### In related_acts but NOT detected in text
+- normativ-np086-2005
+
+## normativ-p118-3-2015
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-273-1994 — line 1319: "Hotărârea Guvernului nr. 273/1994"
+
+### In related_acts but NOT detected in text
+- lege-307-2006
+
+## normativ-p130-2025
+
+### Already in related_acts
+- lege-10-1995 ✓
+- lege-50-1991 ✓
+
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-273-1994 — line 123: "Hotărârea Guvernului nr. 273/1994"
+- hg-492-2018 — line 123: "Hotărârea Guvernului nr. 492/2018"
+- hg-668-2017 — line 123: "Hotărârea Guvernului nr. 668/2017"
+- hg-766-1997 — line 13: "Hotărârea Guvernului nr. 766/1997"
+
+### References detected but not matched to any known act (unresolved)
+- Legea nr. 114/1996
+- Legea nr. 153/2011
 
 ## ordin-839-2009
 
@@ -227,11 +512,13 @@ Generated: 2026-07-16T22:19:02.412Z
 - lege-350-2001 ✓
 - lege-50-1991 ✓
 
+### Detected in text but NOT in related_acts (suggested additions)
+- hg-525-1996 — line 519: "Hotărârea Guvernului nr. 525/1996"
+
 ### References detected but not matched to any known act (unresolved)
 - Hotărârea Guvernului nr. 28/2008
 - Hotărârea Guvernului nr. 33/2009
 - Hotărârea Guvernului nr. 44/2004
-- Hotărârea Guvernului nr. 525/1996
 - Legea nr. 176/2022
 - Legea nr. 180/2002
 - Legea nr. 227/2015
@@ -239,6 +526,17 @@ Generated: 2026-07-16T22:19:02.412Z
 - Legea nr. 571/2003
 - Ordonanța Guvernului nr. 2/2001
 - Ordonanța de urgență a Guvernului nr. 6/2017
+
+## ordin-anre-59-2013
+
+### In related_acts but NOT detected in text
+- hg-90-2008
+- normativ-i7-2011
+
+### References detected but not matched to any known act (unresolved)
+- Legea nr. 160/2012
+- Legea nr. 74/2023
+- Ordonanța de urgență a Guvernului nr. 33/2007
 
 ## oug-195-2005
 

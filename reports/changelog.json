@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T09:32:56.932Z",
+  "generated_at": "2026-08-15T09:49:08.572Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 171/2023 metadata",
         "feat(metadata): add Ordin MDLPA 749/2021 metadata",
         "feat(metadata): add Ordin MDLPA 2487/2022 metadata",
         "feat(metadata): add NP 124/2010 metadata",
@@ -134,6 +135,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #436 from auras172/codex/metadata-ordin-mdlpa-171-2023",
         "Merge pull request #435 from auras172/codex/metadata-ordin-mdlpa-749-2021",
         "Merge pull request #434 from auras172/codex/metadata-ordin-mdlpa-2487-2022",
         "Merge pull request #433 from auras172/codex/security-postcss-8-5-23",
@@ -681,6 +683,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 168
+    "infrastructure_changes": 169
   }
 }
