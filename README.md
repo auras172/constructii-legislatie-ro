@@ -1,6 +1,12 @@
-# constructii-legislatie-ro
+# Legislație Construcții România
 
-**Open-source, versioned construction legislation for Romania — structured for humans, Git, search, and AI.**
+**O bază de cunoștințe open-source pentru legislația și reglementările tehnice din construcții, construită pentru oameni, Git, căutare și AI.**
+
+[![Validate](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/validate.yml/badge.svg)](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/validate.yml)
+[![Site build](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/site-build.yml/badge.svg)](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/site-build.yml)
+[![License](https://img.shields.io/badge/license-MIT-2ea44f.svg)](./LICENSE)
+
+[Index legislație](./INDEX.md) · [Manifest OCKI](./ocki-manifest.json) · [Roadmap](./ROADMAP.md) · [Contribuie](./CONTRIBUTING.md) · [Issues](https://github.com/auras172/constructii-legislatie-ro/issues)
 
 `constructii-legislatie-ro` is a provenance-first knowledge repository for Romanian construction-related legislation, technical norms, metadata, relationships, citations, and validation artifacts. It is designed to be readable by humans, reviewable through Git, and usable by search systems, RAG pipelines, and AI agents without treating generated output as legal authority.
 
@@ -9,7 +15,36 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix. Internatio
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [200](./INDEX.md) | 50 | 150 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
+| [207](./INDEX.md) | 50 | 157 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
+
+> Snapshot generated from the repository health report. Counts change as reviewed imports are merged.
+
+## Why this project
+
+Romanian construction legislation is spread across laws, government decisions, ministerial orders, technical norms, methodologies, authority publications and the Monitorul Oficial. The hard part is not only finding a document: it is knowing which source was checked, how an act relates to another act, and whether a text is official, generated or still awaiting review.
+
+This project turns that scattered material into a **reviewable, source-backed and machine-readable corpus**. Every meaningful addition should be traceable to an official source and inspectable in Git.
+
+## See what is inside
+
+| Need | Start here |
+|------|------------|
+| Browse the current corpus | [INDEX.md](./INDEX.md) |
+| Read an act | [legi/](./legi/) |
+| Query structured metadata | [metadata/acts/](./metadata/acts/) |
+| Follow relationships | [graph/graph.json](./graph/graph.json) |
+| Cite articles and provisions | [citations/](./citations/) and [anchor convention](./docs/anchor-convention.md) |
+| Understand provenance | [import-log/](./import-log/) |
+| Consume the machine contract | [ocki-manifest.json](./ocki-manifest.json) |
+
+## Quick start
+
+```bash
+git clone https://github.com/auras172/constructii-legislatie-ro.git
+cd constructii-legislatie-ro
+```
+
+Then open [INDEX.md](./INDEX.md) for the corpus overview, or inspect `ocki-manifest.json` first when consuming the repository programmatically. The [static site](./site/) is a browsing layer over the same repository artifacts; it is not a second source of truth.
 
 ## The Problem
 
@@ -114,7 +149,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Knowledge graph
 
-- `graph/graph.json` — node/edge graph (200 acts, 375 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
+- `graph/graph.json` — node/edge graph (207 acts, 390 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
 - `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
 - Regenerate: `node scripts/generate-graph.mjs`
 - Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)
