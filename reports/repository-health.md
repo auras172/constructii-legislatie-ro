@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T15:32:54.227Z
+Generated: 2026-08-15T15:44:22.586Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 194 |
+| Total metadata entries | 195 |
 | Full-text acts | 36 |
-| Metadata-only acts | 158 |
-| Import log files | 202 |
-| Total relationship links | 383 |
+| Metadata-only acts | 159 |
+| Import log files | 203 |
+| Total relationship links | 389 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -37,8 +37,8 @@ Generated: 2026-08-15T15:32:54.227Z
 | hg-273-1994 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
-| hg-370-2021 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| hg-477-2020 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-370-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| hg-477-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-492-2018 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-525-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -130,7 +130,7 @@ Generated: 2026-08-15T15:32:54.227Z
 | og-18-2019 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-31-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-33-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| og-43-1997 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| og-43-1997 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | og-63-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | og-7-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-2371-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -155,6 +155,7 @@ Generated: 2026-08-15T15:32:54.227Z
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-89-2018 | ✗ | ✓ | ✓ | — | 9 | ✓ |
 | ordin-comun-2061-171-3344-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-comun-2146-2010-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-comun-2245-2069-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-isc-4093-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mai-163-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -220,7 +221,7 @@ Generated: 2026-08-15T15:32:54.227Z
 | Value | Count |
 | --- | --- |
 | calitate | 78 |
-| executie | 20 |
+| executie | 21 |
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
@@ -240,7 +241,7 @@ Generated: 2026-08-15T15:32:54.227Z
 | guvern | 40 |
 | autoritate | 19 |
 | parlament | 18 |
-| other | 6 |
+| other | 7 |
 
 ### Publication Years
 
@@ -249,7 +250,7 @@ Generated: 2026-08-15T15:32:54.227Z
 | 2023 | 27 |
 | 2022 | 22 |
 | 2010 | 17 |
-| 2025 | 16 |
+| 2025 | 17 |
 | 2024 | 10 |
 | 2026 | 10 |
 | 2020 | 8 |
@@ -284,7 +285,7 @@ Generated: 2026-08-15T15:32:54.227Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 158 |
+| metadata-only | 159 |
 | full-text | 16 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |

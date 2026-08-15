@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T15:32:54.227Z",
+  "generated_at": "2026-08-15T15:44:22.586Z",
   "summary": {
-    "total_metadata_entries": 194,
+    "total_metadata_entries": 195,
     "total_full_text_acts": 36,
-    "total_metadata_only_acts": 158,
-    "total_import_logs": 202,
-    "total_relationship_links": 383,
+    "total_metadata_only_acts": 159,
+    "total_import_logs": 203,
+    "total_relationship_links": 389,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -187,7 +187,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 1,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -196,7 +196,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 1,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1024,7 +1024,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 1,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -1241,6 +1241,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-comun-2146-2010-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -1760,7 +1769,7 @@
   "statistics": {
     "domains": {
       "urbanism": 14,
-      "executie": 20,
+      "executie": 21,
       "calitate": 78,
       "nzeb": 4,
       "munca": 3,
@@ -1776,7 +1785,7 @@
       "minister": 111,
       "guvern": 40,
       "parlament": 18,
-      "other": 6,
+      "other": 7,
       "autoritate": 19
     },
     "publication_years": {
@@ -1811,11 +1820,11 @@
       "2022": 22,
       "2023": 27,
       "2024": 10,
-      "2025": 16,
+      "2025": 17,
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 158,
+      "metadata-only": 159,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,

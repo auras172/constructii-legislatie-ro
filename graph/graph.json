@@ -1102,6 +1102,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-comun-2146-2010-2025",
+      "label": "Ordin comun 2146/2010/2025",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-comun-2245-2069-2025",
       "label": "Ordin comun 2245/2069/2025",
       "type": "ordin",
@@ -1926,6 +1934,20 @@
     },
     {
       "source": "hg-370-2021",
+      "target": "ordin-comun-2146-2010-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul comun nr. 2.146/2.010/2025 citează explicit art. 9 alin. (4) din HG nr. 370/2021 în preambul; legătura este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului comun nr. 2.146/2.010/2025",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-370-2021",
       "target": "ordin-mti-mdlpa-970-873-2023",
       "relationship": "related",
       "review_status": "confirmed",
@@ -1937,6 +1959,20 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-477-2020",
+      "target": "ordin-comun-2146-2010-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul comun nr. 2.146/2.010/2025 citează explicit art. 12 alin. (6) din HG nr. 477/2020 în preambul; legătura este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului comun nr. 2.146/2.010/2025",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "notes": "Index reciproc pentru navigare și health; relația juridică exactă este references pe actul citator."
     },
     {
       "source": "hg-477-2020",
@@ -3625,6 +3661,20 @@
     },
     {
       "source": "og-43-1997",
+      "target": "ordin-comun-2146-2010-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul comun nr. 2.146/2.010/2025 citează explicit art. 57 lit. h), j) și k) din OG nr. 43/1997 în preambul; legătura este indexată reciproc pentru health și navigare, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului comun nr. 2.146/2.010/2025",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "og-43-1997",
       "target": "ordin-mti-mdlpa-970-873-2023",
       "relationship": "related",
       "review_status": "confirmed",
@@ -4019,6 +4069,66 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-13",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/307582"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "hg-370-2021",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "hg-370-2021",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-comun-2146-2010-2025.json"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-comun-2146-2010-2025.json"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "og-43-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 57 lit. h), j) și k) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305778"
+    },
+    {
+      "source": "ordin-comun-2146-2010-2025",
+      "target": "og-43-1997",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-comun-2146-2010-2025.json"
     },
     {
       "source": "ordin-comun-2245-2069-2025",
@@ -5553,8 +5663,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 194,
-    "confirmed_edges": 350,
+    "total_nodes": 195,
+    "confirmed_edges": 359,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
