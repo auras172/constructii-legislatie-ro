@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T19:57:43.555Z",
+  "generated_at": "2026-08-15T20:17:22.786Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 2853/2022 seismic risk methodology",
         "feat(metadata): add Legea 212/2022 seismic risk reduction measures",
         "feat(metadata): add Ordin MDRT 2688/2010 metadata",
         "feat(metadata): add Ordin MDLPA 2719/2024 metadata",
@@ -159,6 +160,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #498 from auras172/codex/metadata-ordin-mdlpa-2853-2022",
         "Merge pull request #497 from auras172/codex/metadata-lege-212-2022",
         "Merge pull request #496 from auras172/codex/metadata-ordin-mdrt-2688-2010",
         "Merge pull request #488 from auras172/codex/docs-refresh-200-50",
@@ -769,6 +771,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 189
+    "infrastructure_changes": 190
   }
 }

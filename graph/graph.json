@@ -918,6 +918,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "og-6-2023",
+      "label": "OG 6/2023",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "og-63-2001",
       "label": "OG 63/2001",
       "type": "ordonanta",
@@ -3834,6 +3842,20 @@
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată; este un index related_to source-backed al citării explicite din actul local existent."
     },
     {
+      "source": "og-6-2023",
+      "target": "lege-212-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I modifică și completează explicit Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264045",
+      "notes": "Art. II prevede că art. I pct. 2 intră în vigoare la 01.08.2023; nu este modelată o effective_date globală."
+    },
+    {
       "source": "og-63-2001",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -5995,8 +6017,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 203,
-    "confirmed_edges": 383,
+    "total_nodes": 204,
+    "confirmed_edges": 384,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
