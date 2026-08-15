@@ -2617,6 +2617,47 @@
       ],
       "annex_count": 4
     },
+    "hg-862-2016": {
+      "title": "Hotărârea Guvernului nr. 862 din 16 noiembrie 2016 pentru aprobarea categoriilor de construcții la care este obligatorie realizarea adăposturilor de protecție civilă, precum și a celor la care se amenajează puncte de comandă de protecție civilă",
+      "slug": "hg-862-2016",
+      "file": "legi/hg-862-2016.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/hg-862-2016.md#art-1",
+          "line": 36
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/hg-862-2016.md#art-2",
+          "line": 38
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/hg-862-2016.md#art-3",
+          "line": 40
+        }
+      ],
+      "article_count": 3,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/hg-862-2016.md#anexa-1",
+          "line": 42
+        },
+        {
+          "id": "anexa-2",
+          "anchor": "#anexa-2",
+          "url_fragment": "legi/hg-862-2016.md#anexa-2",
+          "line": 44
+        }
+      ],
+      "annex_count": 2
+    },
     "lege-10-1995": {
       "title": "Legea nr. 10 din 18 ianuarie 1995 privind calitatea în construcții",
       "slug": "lege-10-1995",

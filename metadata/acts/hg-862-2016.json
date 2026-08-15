@@ -25,9 +25,9 @@
   "version": "Forma originală a actului; art. 2 abrogă HG 560/2005 la data intrării în vigoare",
   "article_count": 3,
   "annex_count": 2,
-  "last_checked": "2026-08-05",
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, data emiterii și publicarea în Monitorul Oficial nr. 955/25.11.2016. Art. 1 aprobă categoriile de construcții pentru care sunt obligatorii adăposturile și punctele de comandă de protecție civilă, prevăzute în anexele nr. 1 și nr. 2. Preambulul citează art. 45 alin. (4) din Legea nr. 481/2004. Art. 2 abrogă HG 560/2005, act extern neimportat. Data intrării în vigoare nu este explicită și este omisă. Textul legal și anexele nu sunt importate în repository.",
+  "last_checked": "2026-08-15",
+  "import_method": "full-text",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, data emiterii și publicarea în Monitorul Oficial nr. 955/25.11.2016. Art. 1 aprobă categoriile de construcții pentru care sunt obligatorii adăposturile și punctele de comandă de protecție civilă, prevăzute în anexele nr. 1 și nr. 2. Preambulul citează art. 45 alin. (4) din Legea nr. 481/2004. Art. 2 abrogă HG 560/2005, act extern neimportat. Data intrării în vigoare nu este explicită și este omisă. Textul legal și anexele nu sunt importate în repository. official_text_sha256: a66c984ebd99a8ef6553afbac37644d4cb753590d5b8256ef8de9f5881a066cb.",
   "related_acts": [
     "lege-481-2004"
   ],
