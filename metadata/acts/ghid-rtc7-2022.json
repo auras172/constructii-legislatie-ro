@@ -8,21 +8,29 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "calitate",
-  "topics": ["radon", "clădiri-noi", "securitate-sănătate", "ghid", "rtc7"],
+  "topics": [
+    "radon",
+    "clădiri-noi",
+    "securitate-sănătate",
+    "ghid",
+    "rtc7"
+  ],
   "status": "unknown",
   "issue_date": "2023-10-13",
   "publication_date": "2023-10-26",
   "effective_date": "2023-11-25",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-08-05",
-  "source_url": "https://legislatie.just.ro/public/DetaliiDocument/275721",
-  "official_source": "Portal Legislativ — Ordinul nr. 2.223/13.10.2023, publicat în M.Of. nr. 973 și 973 bis/26.10.2023",
+  "last_checked": "2026-08-15",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275721",
+  "official_source": "Portal Legislativ — Ordin nr. 2.223/13.10.2023, ID 275721 și reglementarea tehnică RTC 7-2022, ID 275792; forma printabilă oficială verificată.",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/275792",
-  "version": "ghid tehnic original; textul integral nu este importat",
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă titlul, indicativul, emitentul, aprobarea și publicarea. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; data de 2023-11-25 este derivată din această regulă. Art. 3 aplică măsurile de protecție la radon la proiectarea și execuția clădirilor noi. Preambulul citează explicit art. 10 din Legea nr. 10/1995. Ordinul CNCAN nr. 153/2023 este documentat ca referință externă, absentă din repository. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
-  "related_acts": ["lege-10-1995"],
+  "version": "Ordinul nr. 2.223/13.10.2023 și reglementarea tehnică RTC 7-2022 în forma oficială originală; reglementarea este publicată în M.Of. nr. 973 bis/26.10.2023.",
+  "import_method": "printable HTML → Markdown",
+  "rights_note": "Portalul Legislativ confirmă ordinul de aprobare, reglementarea tehnică RTC 7-2022 și publicarea în Monitorul Oficial nr. 973 și 973 bis din 26 octombrie 2023. Textul importat combină mecanic recordul oficial al ordinului și recordul oficial separat al reglementării tehnice. Ordinul are 4 articole și 1 anexă de aprobare; reglementarea are 46 de prevederi tehnice și 5 anexe. Cele 12 imagini normative din HTML sunt păstrate ca URL-uri oficiale externe; nu sunt copiate în repository. Statusul și relația juridică existentă sunt păstrate. official_text_sha256: 62513a455af79134968ab49e4e81a3adedfe7a9881b5dcf442224b87aec793fa.",
+  "related_acts": [
+    "lege-10-1995"
+  ],
   "relationships": [
     {
       "type": "related_to",
@@ -36,5 +44,14 @@
       "notes": "Structured annotation for the existing related_acts edge; no topic-only relationships are added."
     }
   ],
-  "tags": ["radon", "clădiri-noi", "securitate-sănătate", "ghid-tehnic", "mdlpa", "rtc7"]
+  "tags": [
+    "radon",
+    "clădiri-noi",
+    "securitate-sănătate",
+    "ghid-tehnic",
+    "mdlpa",
+    "rtc7"
+  ],
+  "article_count": 4,
+  "annex_count": 6
 }

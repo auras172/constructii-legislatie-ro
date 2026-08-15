@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-15T17:55:22.565Z
+Generated: 2026-08-15T18:00:09.336Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 199 |
-| Full-text acts | 49 |
-| Metadata-only acts | 150 |
-| Import log files | 220 |
+| Full-text acts | 50 |
+| Metadata-only acts | 149 |
+| Import log files | 221 |
 | Total relationship links | 400 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -27,7 +27,7 @@ Generated: 2026-08-15T17:55:22.565Z
 | ghid-rtc3-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ghid-rtc4-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ghid-rtc6-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
-| ghid-rtc7-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ghid-rtc7-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | ghid-rtc8-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-1236-2012 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-1425-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -289,9 +289,9 @@ Generated: 2026-08-15T17:55:22.565Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 150 |
+| metadata-only | 149 |
 | full-text | 25 |
-| printable HTML → Markdown | 5 |
+| printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |

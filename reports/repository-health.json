@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T17:55:22.565Z",
+  "generated_at": "2026-08-15T18:00:09.336Z",
   "summary": {
     "total_metadata_entries": 199,
-    "total_full_text_acts": 49,
-    "total_metadata_only_acts": 150,
-    "total_import_logs": 220,
+    "total_full_text_acts": 50,
+    "total_metadata_only_acts": 149,
+    "total_import_logs": 221,
     "total_relationship_links": 400,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -93,10 +93,10 @@
     },
     {
       "slug": "ghid-rtc7-2022",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 1,
       "provenance": true
     },
@@ -1860,8 +1860,8 @@
       "2026": 12
     },
     "import_methods": {
-      "printable HTML → Markdown": 5,
-      "metadata-only": 150,
+      "printable HTML → Markdown": 6,
+      "metadata-only": 149,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
