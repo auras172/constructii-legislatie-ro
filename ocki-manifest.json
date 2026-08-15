@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:14:48.911Z",
+  "generated_at": "2026-08-15T17:18:38.808Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 42,
-    "acts_metadata_only": 157,
-    "article_anchors_total": 2609,
-    "import_logs_total": 213,
+    "acts_full_text": 43,
+    "acts_metadata_only": 156,
+    "article_anchors_total": 2673,
+    "import_logs_total": 214,
     "domains": [
       "anre",
       "autorizatii",
@@ -491,9 +491,9 @@
       "type": "hotarare",
       "domain": "anre",
       "status": "repealed",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 64,
+      "anchor_count": 64,
       "file": "legi/hg-90-2008.md",
       "metadata_file": "metadata/acts/hg-90-2008.json"
     },

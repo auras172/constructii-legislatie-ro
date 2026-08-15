@@ -267,7 +267,7 @@
       "type": "hotarare",
       "domain": "anre",
       "status": "repealed",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "hg-925-1995",
