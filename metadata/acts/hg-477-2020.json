@@ -23,7 +23,7 @@
   "annex_count": 2,
   "import_method": "metadata-only",
   "rights_note": "Forma afișată de Portal este consolidată și include modificări ulterioare; statusul curent nu este declarat și rămâne unknown. Preambulul nu oferă o citare repo-locală care să susțină implements sau amends. Ordinul nr. 970/873/2023 citează explicit art. 12 alin. (6) din HG nr. 477/2020; pentru health, această citare este indexată reciproc ca related_to pe prezentul act, iar relația juridică exactă rămâne references pe actul citator. HG nr. 358/2020 și actele ulterioare de modificare rămân referințe externe. Textul administrativ și anexele nu sunt importate.",
-  "related_acts": ["ordin-mti-mdlpa-970-873-2023", "ordin-comun-2146-2010-2025"],
+  "related_acts": ["ordin-mti-mdlpa-970-873-2023", "ordin-comun-2146-2010-2025", "ordin-mdlpa-710-2026"],
   "relationships": [
     {
       "type": "related_to",
@@ -48,6 +48,18 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "notes": "Index reciproc pentru navigare și health; relația juridică exactă este references pe actul citator."
+    },
+    {
+      "type": "related_to",
+      "target": "ordin-mdlpa-710-2026",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "evidence": "Ordinul MDLPA nr. 710/2026 citează explicit art. 12 alin. (6) din HG nr. 477/2020 în preambul; legătura este indexată reciproc, iar relația juridică exactă rămâne references pe actul citator.",
+      "source_article": "Preambulul Ordinului MDLPA nr. 710/2026",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
     }
   ],
   "tags": ["constructii", "urbanism", "organizare-institutionala", "hotarare"]
