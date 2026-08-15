@@ -871,3 +871,8 @@ legi/lege-350-2001.md
   - Domain: executie · Implements: Legea 10/1995, HG 203/2003 · metadata-only
   - Official source checked: [Portal Legislativ, document 126559](https://legislatie.just.ro/Public/DetaliiDocument/126559)
   - Status: unknown · M.Of. nr. 158/04.03.2011 și 158 bis · 3 articles · 1 annex · effective_date 03.04.2011, derivată din Art. 2 și regula de 30 de zile
+- [Ordin MDLPA 171/2023](./ordin-mdlpa-171-2023.md)
+  - Domain: calitate · Implements: Legea 10/1995, HG 203/2003 · Approves: CR 2-1-1.1/2022 · metadata-only
+  - Official source checked: [Portal Legislativ, forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G3DL8NY1O2RTKB0AHHJPEVV3YOV)
+  - Status: unknown · M.Of. nr. 104 și 104 bis/07.02.2023 · 4 articles · 1 annex · effective_date 09.03.2023, derivată din Art. 2 și regula de 30 de zile
+  - Import log: [import-log/2026-08-15-ordin-mdlpa-171-2023.md](../import-log/2026-08-15-ordin-mdlpa-171-2023.md)
