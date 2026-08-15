@@ -1302,6 +1302,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-881-2025",
+      "label": "Ordin MDLPA 881/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-894-2023",
       "label": "Ordin MDLPA 894/2023",
       "type": "ordin",
@@ -1994,6 +2002,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-477-2020",
+      "target": "ordin-mdlpa-881-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul MDLPA nr. 881/2025 citează explicit art. 12 alin. (6) din HG nr. 477/2020 în preambul; legătura este indexată reciproc, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului MDLPA nr. 881/2025",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G046G8K2XRHLYC2RUCPGWQ1FHPB",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
     },
     {
@@ -4951,6 +4973,26 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299628"
     },
     {
+      "source": "ordin-mdlpa-881-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G046G8K2XRHLYC2RUCPGWQ1FHPB"
+    },
+    {
+      "source": "ordin-mdlpa-881-2025",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-881-2025.json"
+    },
+    {
       "source": "ordin-mdlpa-894-2023",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -5759,8 +5801,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 196,
-    "confirmed_edges": 368,
+    "total_nodes": 197,
+    "confirmed_edges": 371,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

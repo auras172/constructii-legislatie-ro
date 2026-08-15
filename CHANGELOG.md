@@ -153,6 +153,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #468 from auras172/codex/fulltext-hg-203-2003
+- feat(fulltext): import HG 203/2003 official text
 - Merge pull request #467 from auras172/codex/metadata-ordin-mdlpa-710-2026-v2
 - Merge pull request #465 from auras172/codex/fulltext-and616-2022-v2
 - feat(fulltext): import AND 616-2022 official text
