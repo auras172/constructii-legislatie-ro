@@ -1,0 +1,42 @@
+{
+  "title": "Ordonanță nr. 6 din 18 ianuarie 2023 pentru modificarea Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor",
+  "short_title": "OG 6/2023",
+  "canonical_citation": "OG nr. 6/2023",
+  "type": "ordonanta",
+  "number": "6",
+  "year": "2023",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["risc-seismic", "consolidare", "cladiri-existente", "modificare-legislativa"],
+  "status": "unknown",
+  "issue_date": "2023-01-18",
+  "publication_date": "2023-01-19",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264045",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264045",
+  "official_source": "Portal Legislativ — forma publicată și forma consolidată a OG nr. 6/2023; Monitorul Oficial al României, Partea I, nr. 55 din 19 ianuarie 2023",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma publicată în M.Of. nr. 55/19.01.2023; forma consolidată consultată prin documentul Portal 268301. Art. II stabilește intrarea în vigoare diferențiată pentru art. I pct. 2.",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Textul integral nu este importat. Art. I modifică și completează Legea nr. 212/2022, iar art. II stabilește că art. I pct. 2 intră în vigoare la 01.08.2023; nu este setată o singură effective_date globală. Legea nr. 243/2023, care aprobă și modifică ulterior OG nr. 6/2023, este documentată ca act extern absent.",
+  "amends": ["lege-212-2022"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-212-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I modifică și completează explicit Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264045",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Art. II prevede că art. I pct. 2 intră în vigoare la 01.08.2023; nu este modelată o effective_date globală."
+    }
+  ],
+  "tags": ["ordonanta", "risc-seismic", "consolidare", "cladiri-existente", "modificare-legislativa"]
+}
