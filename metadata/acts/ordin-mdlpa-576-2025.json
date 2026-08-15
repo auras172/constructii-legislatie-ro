@@ -1,0 +1,41 @@
+{
+  "title": "Ordin nr. 576 din 23 aprilie 2025 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor, privind derularea Programului național de consolidare a clădirilor cu risc seismic ridicat, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022",
+  "short_title": "Ordin MDLPA 576/2025",
+  "canonical_citation": "Ordinul MDLPA nr. 576/2025",
+  "type": "ordin",
+  "number": "576",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["risc-seismic", "consolidare", "cladiri-cu-risc-seismic", "norme-metodologice", "modificare-legislativa"],
+  "status": "unknown",
+  "issue_date": "2025-04-23",
+  "publication_date": "2025-05-07",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297390",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297390",
+  "official_source": "Portal Legislativ — forma publicată și forma printabilă; Monitorul Oficial al României, Partea I, nr. 404 din 7 mai 2025",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Forma oficială originală a ordinului; normele metodologice și anexa nr. 9 rămân parte a lanțului ordinului și nu sunt importate integral.",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. I modifică și completează normele metodologice aprobate prin Ordinul nr. 2.853/2022, iar Art. II dispune publicarea în Monitorul Oficial. Anexa nr. 9 este parte integrantă a ordinului, fără nod separat și fără text tehnic importat. Portalul nu declară o dată calendaristică distinctă de intrare în vigoare; effective_date este omisă. Statusul curent este păstrat unknown.",
+  "amends": ["ordin-mdlpa-2853-2022"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdlpa-2853-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022 se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297390",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "tags": ["mdlpa", "risc-seismic", "consolidare", "cladiri-cu-risc-seismic", "norme-metodologice", "modificare-legislativa"]
+}

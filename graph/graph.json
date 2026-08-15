@@ -1302,6 +1302,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-576-2025",
+      "label": "Ordin MDLPA 576/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-627-2025",
       "label": "Ordin MDLPA 627/2025",
       "type": "ordin",
@@ -5048,6 +5056,19 @@
       "evidence": "metadata/acts/ordin-mdlpa-430-2021.json"
     },
     {
+      "source": "ordin-mdlpa-576-2025",
+      "target": "ordin-mdlpa-2853-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022 se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297390"
+    },
+    {
       "source": "ordin-mdlpa-627-2025",
       "target": "hg-1236-2012",
       "relationship": "references",
@@ -6120,8 +6141,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 207,
-    "confirmed_edges": 390,
+    "total_nodes": 208,
+    "confirmed_edges": 391,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
