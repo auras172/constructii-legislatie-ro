@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T15:22:05.304Z",
+  "generated_at": "2026-08-15T15:25:59.549Z",
   "summary": {
     "total_metadata_entries": 193,
-    "total_full_text_acts": 35,
-    "total_metadata_only_acts": 158,
-    "total_import_logs": 200,
+    "total_full_text_acts": 36,
+    "total_metadata_only_acts": 157,
+    "total_import_logs": 201,
     "total_relationship_links": 382,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -597,10 +597,10 @@
     },
     {
       "slug": "normativ-ne012-2-2022",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 3,
       "provenance": true
     },
@@ -1806,12 +1806,12 @@
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 158,
+      "metadata-only": 157,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,
-      "full-text": 15,
+      "full-text": 16,
       "Portal Legislativ forma printabilă consolidată → extracție HTML structurală mecanică → Markdown cu headings și ancore stabile": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
       "Monitorul Oficial nr. 661/10.08.2026 → PDF text extraction → Markdown with stable article anchors": 1,
