@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 6.970/1.779/2017 pentru aprobarea reglementării tehnice \"Normativ privind mixturile asfaltice executate la cald. Condiții tehnice de proiectare, preparare și punere în operă a mixturilor asfaltice\". Indicativ AND 605-2016",
+  "short_title": "Ordin MTI/MDLPA 6970/1779/2017",
+  "canonical_citation": "Ordinul nr. 6.970/1.779/2017",
+  "type": "ordin",
+  "number": "6970/1779",
+  "year": "2017",
+  "issuer": "Ministerul Dezvoltării Regionale, Administrației Publice și Fondurilor Europene; Ministerul Transporturilor",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["mixturi-asfaltice", "drumuri", "infrastructura-rutiera", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2017-12-12",
+  "publication_date": "2018-02-09",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
+  "official_source": "Portal Legislativ — Ordinul nr. 6.970 din 29 noiembrie 2017 și nr. 1.779 din 12 decembrie 2017; Monitorul Oficial al României, Partea I, nr. 126 din 9 februarie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Ordinul aprobă reglementarea tehnică AND 605-2016 ca anexă; textul tehnic nu este importat. Forma Portal curentă include modificarea ulterioară a art. 4 prin Ordinul nr. 1.405/1.610/2023, act care nu este prezent în acest branch.",
+  "article_count": 4,
+  "annex_count": 1,
+  "effective_date": "2018-04-10",
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică AND 605-2016 ca anexă. Art. 2 prevede publicarea în Monitorul Oficial și intrarea în vigoare la 60 de zile de la publicare; 2018-04-10 este derivată mecanic din publicarea la 09.02.2018. Preambulul citează explicit art. 10 din Legea nr. 10/1995 și art. 2 alin. (2) și (4) din regulamentul aprobat prin HG nr. 203/2003, iar relațiile repo-locale sunt modelate ca implements. Art. 3 încetează aplicabilitatea unor decizii CNADNR externe. Forma Portal curentă arată că art. 4 a fost modificat ulterior prin Ordinul nr. 1.405/1.610/2023; actul modificator și ținta sa nu sunt importate aici. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (2) și (4) din Regulamentul privind tipurile de reglementări tehnice, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mixturi-asfaltice", "drumuri", "infrastructura-rutiera", "reglementare-tehnica", "mti", "mdlpa"]
+}
