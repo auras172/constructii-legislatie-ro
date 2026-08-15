@@ -881,3 +881,8 @@ legi/lege-350-2001.md
   - Official source checked: [Portal Legislativ, document 264051](https://legislatie.just.ro/Public/DetaliiDocument/264051)
   - Status: unknown · M.Of. nr. 56 și 56 bis/20.01.2023 · 4 articles · 1 annex · effective_date 19.02.2023, derivată din Art. 2 și regula de 30 de zile; Ordinul 1330/2014 abrogat extern
   - Import log: [import-log/2026-08-15-ordin-mdlpa-27-2023.md](../import-log/2026-08-15-ordin-mdlpa-27-2023.md)
+- [Ordin MDLPA 172/2023](./ordin-mdlpa-172-2023.md)
+  - Domain: calitate · Implements: Legea 10/1995, HG 203/2003 · Approves: NP 24-2022 · metadata-only
+  - Official source checked: [Portal Legislativ, document 264676](https://legislatie.just.ro/Public/DetaliiDocument/264676)
+  - Status: unknown · M.Of. nr. 110 și 110 bis/08.02.2023 · 5 articles · 1 annex · effective_date 10.03.2023, derivată din Art. 2 și regula de 30 de zile; Ordinul 141/N/1997 și Ordinul 10/N/1993 externe
+  - Import log: [import-log/2026-08-15-ordin-mdlpa-172-2023.md](../import-log/2026-08-15-ordin-mdlpa-172-2023.md)
