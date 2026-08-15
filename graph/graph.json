@@ -11,7 +11,7 @@
       "type": "ghid",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ghid-gp038-1999",

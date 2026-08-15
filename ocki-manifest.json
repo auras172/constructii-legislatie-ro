@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:38:10.813Z",
+  "generated_at": "2026-08-15T17:43:39.761Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 46,
-    "acts_metadata_only": 153,
-    "article_anchors_total": 2711,
-    "import_logs_total": 217,
+    "acts_full_text": 47,
+    "acts_metadata_only": 152,
+    "article_anchors_total": 2716,
+    "import_logs_total": 218,
     "domains": [
       "anre",
       "autorizatii",
@@ -75,9 +75,9 @@
       "type": "ghid",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 5,
+      "anchor_count": 5,
       "file": "legi/ghid-gm010-2000.md",
       "metadata_file": "metadata/acts/ghid-gm010-2000.json"
     },

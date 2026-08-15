@@ -1,6 +1,713 @@
 {
   "generated_at": "2026-08-12T20:35:28.280Z",
   "acts": {
+    "ghid-gm010-2000": {
+      "title": "Ordin nr. 176/N din 16 august 2000 pentru aprobarea reglementării tehnice Ghid privind metodologia de elaborare și conținutul-cadru al planului urbanistic zonal, indicativ GM-010-2000",
+      "slug": "ghid-gm010-2000",
+      "file": "legi/ghid-gm010-2000.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#art-1",
+          "line": 40
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#art-2",
+          "line": 44
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#art-3",
+          "line": 48
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/ghid-gm010-2000.md#art-4",
+          "line": 52
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/ghid-gm010-2000.md#art-5",
+          "line": 56
+        }
+      ],
+      "article_count": 5,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1",
+          "line": 68
+        },
+        {
+          "id": "pct-1-1",
+          "anchor": "#pct-1-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-1",
+          "line": 70
+        },
+        {
+          "id": "pct-1-2",
+          "anchor": "#pct-1-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-2",
+          "line": 72
+        },
+        {
+          "id": "pct-1-3",
+          "anchor": "#pct-1-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-3",
+          "line": 74
+        },
+        {
+          "id": "pct-1-4",
+          "anchor": "#pct-1-4",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-4",
+          "line": 76
+        },
+        {
+          "id": "pct-1-5",
+          "anchor": "#pct-1-5",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-5",
+          "line": 78
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2",
+          "line": 80
+        },
+        {
+          "id": "pct-2-1",
+          "anchor": "#pct-2-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-1",
+          "line": 82
+        },
+        {
+          "id": "pct-2-2",
+          "anchor": "#pct-2-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-2",
+          "line": 84
+        },
+        {
+          "id": "pct-2-3",
+          "anchor": "#pct-2-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-3",
+          "line": 86
+        },
+        {
+          "id": "pct-2-4",
+          "anchor": "#pct-2-4",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-4",
+          "line": 88
+        },
+        {
+          "id": "pct-2-5",
+          "anchor": "#pct-2-5",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-5",
+          "line": 90
+        },
+        {
+          "id": "pct-2-6",
+          "anchor": "#pct-2-6",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-6",
+          "line": 92
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3",
+          "line": 94
+        },
+        {
+          "id": "pct-3-1",
+          "anchor": "#pct-3-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1",
+          "line": 96
+        },
+        {
+          "id": "pct-3-2",
+          "anchor": "#pct-3-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-2",
+          "line": 98
+        },
+        {
+          "id": "pct-3-3",
+          "anchor": "#pct-3-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-3",
+          "line": 100
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4",
+          "line": 102
+        },
+        {
+          "id": "pct-4-1",
+          "anchor": "#pct-4-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-1",
+          "line": 104
+        },
+        {
+          "id": "pct-4-2",
+          "anchor": "#pct-4-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-2",
+          "line": 106
+        },
+        {
+          "id": "pct-5",
+          "anchor": "#pct-5",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-5",
+          "line": 108
+        },
+        {
+          "id": "pct-1-b",
+          "anchor": "#pct-1-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-b",
+          "line": 110
+        },
+        {
+          "id": "pct-1-1-b",
+          "anchor": "#pct-1-1-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-1-b",
+          "line": 112
+        },
+        {
+          "id": "pct-1-2-b",
+          "anchor": "#pct-1-2-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-2-b",
+          "line": 114
+        },
+        {
+          "id": "pct-1-3-b",
+          "anchor": "#pct-1-3-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-3-b",
+          "line": 116
+        },
+        {
+          "id": "pct-1-4-b",
+          "anchor": "#pct-1-4-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-4-b",
+          "line": 118
+        },
+        {
+          "id": "pct-1-5-b",
+          "anchor": "#pct-1-5-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-5-b",
+          "line": 120
+        },
+        {
+          "id": "pct-2-b",
+          "anchor": "#pct-2-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-b",
+          "line": 122
+        },
+        {
+          "id": "pct-2-1-b",
+          "anchor": "#pct-2-1-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-1-b",
+          "line": 124
+        },
+        {
+          "id": "pct-2-2-b",
+          "anchor": "#pct-2-2-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-2-b",
+          "line": 126
+        },
+        {
+          "id": "pct-1-c",
+          "anchor": "#pct-1-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-c",
+          "line": 128
+        },
+        {
+          "id": "pct-2-c",
+          "anchor": "#pct-2-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-c",
+          "line": 130
+        },
+        {
+          "id": "pct-2-3-b",
+          "anchor": "#pct-2-3-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-3-b",
+          "line": 132
+        },
+        {
+          "id": "pct-2-4-b",
+          "anchor": "#pct-2-4-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-4-b",
+          "line": 134
+        },
+        {
+          "id": "pct-2-5-b",
+          "anchor": "#pct-2-5-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-5-b",
+          "line": 136
+        },
+        {
+          "id": "pct-2-6-b",
+          "anchor": "#pct-2-6-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-6-b",
+          "line": 138
+        },
+        {
+          "id": "pct-3-b",
+          "anchor": "#pct-3-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-b",
+          "line": 140
+        },
+        {
+          "id": "pct-3-1-b",
+          "anchor": "#pct-3-1-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-b",
+          "line": 142
+        },
+        {
+          "id": "pct-3-1-1",
+          "anchor": "#pct-3-1-1",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-1",
+          "line": 144
+        },
+        {
+          "id": "pct-3-1-2",
+          "anchor": "#pct-3-1-2",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-2",
+          "line": 146
+        },
+        {
+          "id": "pct-3-1-3",
+          "anchor": "#pct-3-1-3",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-3",
+          "line": 148
+        },
+        {
+          "id": "pct-3-2-b",
+          "anchor": "#pct-3-2-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-2-b",
+          "line": 150
+        },
+        {
+          "id": "pct-1-d",
+          "anchor": "#pct-1-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-d",
+          "line": 152
+        },
+        {
+          "id": "pct-1-1-c",
+          "anchor": "#pct-1-1-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-1-c",
+          "line": 154
+        },
+        {
+          "id": "pct-1-2-c",
+          "anchor": "#pct-1-2-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-2-c",
+          "line": 156
+        },
+        {
+          "id": "pct-1-3-c",
+          "anchor": "#pct-1-3-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-3-c",
+          "line": 158
+        },
+        {
+          "id": "pct-2-d",
+          "anchor": "#pct-2-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-d",
+          "line": 160
+        },
+        {
+          "id": "pct-2-1-c",
+          "anchor": "#pct-2-1-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-1-c",
+          "line": 162
+        },
+        {
+          "id": "pct-2-2-c",
+          "anchor": "#pct-2-2-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-2-c",
+          "line": 164
+        },
+        {
+          "id": "pct-2-3-c",
+          "anchor": "#pct-2-3-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-3-c",
+          "line": 166
+        },
+        {
+          "id": "pct-2-4-c",
+          "anchor": "#pct-2-4-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-4-c",
+          "line": 168
+        },
+        {
+          "id": "pct-2-5-c",
+          "anchor": "#pct-2-5-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-5-c",
+          "line": 170
+        },
+        {
+          "id": "pct-2-6-c",
+          "anchor": "#pct-2-6-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-6-c",
+          "line": 172
+        },
+        {
+          "id": "pct-2-7",
+          "anchor": "#pct-2-7",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-7",
+          "line": 174
+        },
+        {
+          "id": "pct-2-8",
+          "anchor": "#pct-2-8",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-8",
+          "line": 176
+        },
+        {
+          "id": "pct-3-c",
+          "anchor": "#pct-3-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-c",
+          "line": 178
+        },
+        {
+          "id": "pct-3-1-c",
+          "anchor": "#pct-3-1-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-c",
+          "line": 180
+        },
+        {
+          "id": "pct-3-2-c",
+          "anchor": "#pct-3-2-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-2-c",
+          "line": 182
+        },
+        {
+          "id": "pct-3-3-b",
+          "anchor": "#pct-3-3-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-3-b",
+          "line": 184
+        },
+        {
+          "id": "pct-3-4",
+          "anchor": "#pct-3-4",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-4",
+          "line": 186
+        },
+        {
+          "id": "pct-3-5",
+          "anchor": "#pct-3-5",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-5",
+          "line": 188
+        },
+        {
+          "id": "pct-3-6",
+          "anchor": "#pct-3-6",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-6",
+          "line": 190
+        },
+        {
+          "id": "pct-3-7",
+          "anchor": "#pct-3-7",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-7",
+          "line": 192
+        },
+        {
+          "id": "pct-3-8",
+          "anchor": "#pct-3-8",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-8",
+          "line": 194
+        },
+        {
+          "id": "pct-4-b",
+          "anchor": "#pct-4-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-b",
+          "line": 196
+        },
+        {
+          "id": "pct-5-b",
+          "anchor": "#pct-5-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-5-b",
+          "line": 198
+        },
+        {
+          "id": "pct-1-e",
+          "anchor": "#pct-1-e",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-e",
+          "line": 202
+        },
+        {
+          "id": "pct-1-1-d",
+          "anchor": "#pct-1-1-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-1-d",
+          "line": 204
+        },
+        {
+          "id": "pct-1-2-d",
+          "anchor": "#pct-1-2-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-2-d",
+          "line": 206
+        },
+        {
+          "id": "pct-1-3-d",
+          "anchor": "#pct-1-3-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-3-d",
+          "line": 208
+        },
+        {
+          "id": "pct-2-e",
+          "anchor": "#pct-2-e",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-e",
+          "line": 210
+        },
+        {
+          "id": "pct-2-1-d",
+          "anchor": "#pct-2-1-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-1-d",
+          "line": 212
+        },
+        {
+          "id": "pct-2-2-d",
+          "anchor": "#pct-2-2-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-2-d",
+          "line": 214
+        },
+        {
+          "id": "pct-2-3-d",
+          "anchor": "#pct-2-3-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-3-d",
+          "line": 216
+        },
+        {
+          "id": "pct-2-4-d",
+          "anchor": "#pct-2-4-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-4-d",
+          "line": 218
+        },
+        {
+          "id": "pct-2-5-d",
+          "anchor": "#pct-2-5-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-5-d",
+          "line": 220
+        },
+        {
+          "id": "pct-2-6-d",
+          "anchor": "#pct-2-6-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-6-d",
+          "line": 222
+        },
+        {
+          "id": "pct-2-7-b",
+          "anchor": "#pct-2-7-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-7-b",
+          "line": 224
+        },
+        {
+          "id": "pct-2-8-b",
+          "anchor": "#pct-2-8-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-8-b",
+          "line": 226
+        },
+        {
+          "id": "pct-3-d",
+          "anchor": "#pct-3-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-d",
+          "line": 228
+        },
+        {
+          "id": "pct-3-1-d",
+          "anchor": "#pct-3-1-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-1-d",
+          "line": 230
+        },
+        {
+          "id": "pct-3-2-d",
+          "anchor": "#pct-3-2-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-2-d",
+          "line": 232
+        },
+        {
+          "id": "pct-3-3-c",
+          "anchor": "#pct-3-3-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-3-c",
+          "line": 234
+        },
+        {
+          "id": "pct-3-4-b",
+          "anchor": "#pct-3-4-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-4-b",
+          "line": 236
+        },
+        {
+          "id": "pct-3-5-b",
+          "anchor": "#pct-3-5-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-5-b",
+          "line": 238
+        },
+        {
+          "id": "pct-3-6-b",
+          "anchor": "#pct-3-6-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-6-b",
+          "line": 240
+        },
+        {
+          "id": "pct-3-7-b",
+          "anchor": "#pct-3-7-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-7-b",
+          "line": 242
+        },
+        {
+          "id": "pct-3-8-b",
+          "anchor": "#pct-3-8-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-8-b",
+          "line": 244
+        },
+        {
+          "id": "pct-4-c",
+          "anchor": "#pct-4-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-c",
+          "line": 246
+        },
+        {
+          "id": "pct-5-c",
+          "anchor": "#pct-5-c",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-5-c",
+          "line": 248
+        },
+        {
+          "id": "pct-i",
+          "anchor": "#pct-i",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-i",
+          "line": 252
+        },
+        {
+          "id": "pct-1-f",
+          "anchor": "#pct-1-f",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-1-f",
+          "line": 254
+        },
+        {
+          "id": "pct-2-f",
+          "anchor": "#pct-2-f",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-2-f",
+          "line": 256
+        },
+        {
+          "id": "pct-3-e",
+          "anchor": "#pct-3-e",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-e",
+          "line": 258
+        },
+        {
+          "id": "pct-ii",
+          "anchor": "#pct-ii",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-ii",
+          "line": 260
+        },
+        {
+          "id": "pct-4-d",
+          "anchor": "#pct-4-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-d",
+          "line": 262
+        },
+        {
+          "id": "pct-5-d",
+          "anchor": "#pct-5-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-5-d",
+          "line": 264
+        },
+        {
+          "id": "pct-6",
+          "anchor": "#pct-6",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-6",
+          "line": 266
+        },
+        {
+          "id": "pct-7",
+          "anchor": "#pct-7",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-7",
+          "line": 268
+        },
+        {
+          "id": "pct-8",
+          "anchor": "#pct-8",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-8",
+          "line": 270
+        },
+        {
+          "id": "pct-9",
+          "anchor": "#pct-9",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-9",
+          "line": 272
+        },
+        {
+          "id": "pct-10",
+          "anchor": "#pct-10",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-10",
+          "line": 274
+        },
+        {
+          "id": "pct-iii",
+          "anchor": "#pct-iii",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-iii",
+          "line": 276
+        },
+        {
+          "id": "pct-11",
+          "anchor": "#pct-11",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-11",
+          "line": 278
+        },
+        {
+          "id": "pct-iv",
+          "anchor": "#pct-iv",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-iv",
+          "line": 280
+        },
+        {
+          "id": "pct-v",
+          "anchor": "#pct-v",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-v",
+          "line": 282
+        },
+        {
+          "id": "pct-3-3-d",
+          "anchor": "#pct-3-3-d",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-3-3-d",
+          "line": 284
+        },
+        {
+          "id": "pct-4-e",
+          "anchor": "#pct-4-e",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-e",
+          "line": 286
+        },
+        {
+          "id": "pct-4-1-b",
+          "anchor": "#pct-4-1-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-1-b",
+          "line": 288
+        },
+        {
+          "id": "pct-4-2-b",
+          "anchor": "#pct-4-2-b",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-4-2-b",
+          "line": 290
+        },
+        {
+          "id": "pct-5-e",
+          "anchor": "#pct-5-e",
+          "url_fragment": "legi/ghid-gm010-2000.md#pct-5-e",
+          "line": 292
+        }
+      ],
+      "provision_count": 111
+    },
     "ghid-rtc13-2024": {
       "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
       "slug": "ghid-rtc13-2024",
