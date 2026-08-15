@@ -23,6 +23,7 @@
   "import_method": "metadata-only",
   "rights_note": "Portalul publică metodologia din 1 iulie 2020 și indică aprobarea sa prin Ordinul nr. 3.363 din 1 iulie 2020, publicat în M.Of. nr. 624/16.07.2020. Art. 1 prevede desfășurarea activității potrivit Legii nr. 10/1995 și Regulamentului aprobat prin HG nr. 203/2003; relațiile repo-locale sunt modelate ca implements. Metodologia are 32 de articole și 13 anexe structurale în HTML-ul oficial. Nu este declarată o clauză calendaristică distinctă de intrare în vigoare, astfel că effective_date este omisă. Ordinul nr. 3.363/2020 este documentat ca act extern de aprobare, deoarece nu există în repository. Statusul curent rămâne unknown.",
   "implements": ["lege-10-1995", "hg-203-2003"],
+  "amended_by": ["ordin-mdlpa-430-2021"],
   "relationships": [
     {
       "type": "implements",
@@ -43,6 +44,17 @@
       "evidence": "Art. 1 prevede că activitatea de reglementare în construcții se desfășoară potrivit Regulamentului aprobat prin Hotărârea Guvernului nr. 203/2003.",
       "source_article": "Art. 1",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-mdlpa-430-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 430/2021 prevede că anexa la Ordinul nr. 3.363/2020 pentru aprobarea metodologiei se modifică după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240714",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15"
     }

@@ -886,6 +886,11 @@ legi/lege-350-2001.md
   - Official source checked: [Portal Legislativ, document 227872](https://legislatie.just.ro/Public/DetaliiDocument/227872)
   - Status: unknown · M.Of. nr. 624/16.07.2020 · 32 articles · 13 annexes · effective_date omisă; aprobată prin Ordinul 3363/2020 extern
   - Import log: [import-log/2026-08-15-metodologie-reglementare-2020.md](../import-log/2026-08-15-metodologie-reglementare-2020.md)
+- [Ordin MDLPA 430/2021](./ordin-mdlpa-430-2021.md)
+  - Domain: calitate · Amends: Metodologia reglementărilor tehnice în construcții (2020) · Implements: Legea 10/1995, HG 203/2003 · metadata-only
+  - Official source checked: [Portal Legislativ, document 240714](https://legislatie.just.ro/Public/DetaliiDocument/240714) + [forma printabilă](https://legislatie.just.ro/Public/FormaPrintabila/00000G2MJIW6G5LR5QD2WYFZRPJYWIED)
+  - Status: unknown · M.Of. nr. 349/06.04.2021 · 4 articles · 3 annexes · effective_date 06.04.2021; Ordinul 3363/2020 rămâne referință externă
+  - Import log: [import-log/2026-08-15-ordin-mdlpa-430-2021.md](../import-log/2026-08-15-ordin-mdlpa-430-2021.md)
 - [Ordin MDLPA 172/2023](./ordin-mdlpa-172-2023.md)
   - Domain: calitate · Implements: Legea 10/1995, HG 203/2003 · Approves: NP 24-2022 · metadata-only
   - Official source checked: [Portal Legislativ, document 264676](https://legislatie.just.ro/Public/DetaliiDocument/264676)
