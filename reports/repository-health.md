@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-15T16:05:56.379Z
+Generated: 2026-08-15T16:16:42.057Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 196 |
+| Total metadata entries | 197 |
 | Full-text acts | 37 |
-| Metadata-only acts | 159 |
-| Import log files | 205 |
-| Total relationship links | 395 |
+| Metadata-only acts | 160 |
+| Import log files | 206 |
+| Total relationship links | 397 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -38,7 +38,7 @@ Generated: 2026-08-15T16:05:56.379Z
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | hg-370-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| hg-477-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
+| hg-477-2020 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | hg-492-2018 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-525-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -180,6 +180,7 @@ Generated: 2026-08-15T16:05:56.379Z
 | ordin-mdlpa-770-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-817-2021 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdlpa-880-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mdlpa-881-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-894-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-904-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-952-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -221,7 +222,7 @@ Generated: 2026-08-15T16:05:56.379Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 79 |
+| calitate | 80 |
 | executie | 21 |
 | anre | 20 |
 | incendiu | 16 |
@@ -238,7 +239,7 @@ Generated: 2026-08-15T16:05:56.379Z
 
 | Value | Count |
 | --- | --- |
-| minister | 112 |
+| minister | 113 |
 | guvern | 40 |
 | autoritate | 19 |
 | parlament | 18 |
@@ -250,8 +251,8 @@ Generated: 2026-08-15T16:05:56.379Z
 | --- | --- |
 | 2023 | 27 |
 | 2022 | 22 |
+| 2025 | 18 |
 | 2010 | 17 |
-| 2025 | 17 |
 | 2026 | 11 |
 | 2024 | 10 |
 | 2020 | 8 |
@@ -286,7 +287,7 @@ Generated: 2026-08-15T16:05:56.379Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 159 |
+| metadata-only | 160 |
 | full-text | 17 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
