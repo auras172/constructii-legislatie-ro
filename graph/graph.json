@@ -35,7 +35,7 @@
       "type": "ghid",
       "domain": "executie",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ghid-rtc13-2024",
