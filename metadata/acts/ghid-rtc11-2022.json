@@ -8,20 +8,39 @@
   "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
   "issuing_body_kind": "minister",
   "domain": "executie",
-  "topics": ["inundatii", "adaptare-climatica", "cladiri", "constructii", "ghid-tehnic", "rtc11"],
+  "topics": [
+    "inundatii",
+    "adaptare-climatica",
+    "cladiri",
+    "constructii",
+    "ghid-tehnic",
+    "rtc11"
+  ],
   "status": "unknown",
   "issue_date": "2023-10-13",
   "publication_date": "2023-10-20",
   "effective_date": "2023-11-19",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-08-03",
-  "source_url": "https://www.mdlpa.ro/pages/reglementare19",
-  "official_source": "MDLPA — Reglementări tehnice în domeniul construcțiilor, poziția XIX-26; Portal Legislativ — Ordin nr. 2.222/13.10.2023, ID 275496 și reglementarea tehnică ID 275559",
-  "official_detail_url": "https://www.mdlpa.ro/uploads/articole/attachments/654a002f8456f024781137.docx",
-  "version": "ghid tehnic original; textul integral nu este importat",
-  "import_method": "metadata-only",
-  "rights_note": "MDLPA confirmă indicativul RTC 11-2022, titlul, aprobarea prin O.M.D.L.P.A. nr. 2222/13.10.2023, publicarea în M.Of. nr. 949 și 949 bis din 20.10.2023 și intrarea în vigoare la 19.11.2023. Documentul oficial citează explicit metodologia Mc 001-2022. RTC 12-2022 este menționat ca ghid complementar, dar nu este importat în acest PR. Statusul juridic actual nu este declarat explicit și este păstrat unknown. Textul tehnic integral nu este importat.",
-  "related_acts": ["metodologie-mc001-2022"],
-  "tags": ["inundatii", "adaptare-climatica", "cladiri", "constructii", "ghid-tehnic", "mdlpa", "rtc11"]
+  "last_checked": "2026-08-15",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275496",
+  "official_source": "Portal Legislativ — Ordin nr. 2.222/13.10.2023, ID 275496 și reglementarea tehnică RTC 11-2022, ID 275559; MDLPA DOCX oficial folosit pentru verificarea secundară.",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/275559",
+  "version": "Ordinul nr. 2.222/13.10.2023 și reglementarea tehnică RTC 11-2022 în forma oficială originală; textul tehnic este publicat în M.Of. nr. 949 bis/20.10.2023.",
+  "import_method": "printable HTML → Markdown",
+  "rights_note": "Portalul Legislativ confirmă ordinul de aprobare, reglementarea tehnică RTC 11-2022 și publicarea în Monitorul Oficial nr. 949 și 949 bis din 20 octombrie 2023. Textul importat combină mecanic recordul oficial al ordinului și recordul oficial separat al reglementării tehnice. Ordinul are 2 articole și 1 anexă de aprobare; reglementarea are 62 de prevederi tehnice și anexa A. Cele 39 de imagini normative din HTML sunt păstrate ca URL-uri oficiale externe; nu sunt copiate în repository. Statusul și relațiile juridice existente sunt păstrate. official_text_sha256: 56c76491978333a2c5f9b7700ff9f7ff3c94fb8816e1fd014bef07ff7379eee3.",
+  "related_acts": [
+    "metodologie-mc001-2022"
+  ],
+  "tags": [
+    "inundatii",
+    "adaptare-climatica",
+    "cladiri",
+    "constructii",
+    "ghid-tehnic",
+    "mdlpa",
+    "rtc11"
+  ],
+  "article_count": 2,
+  "annex_count": 2
 }

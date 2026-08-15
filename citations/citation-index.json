@@ -708,6 +708,416 @@
       ],
       "provision_count": 111
     },
+    "ghid-rtc11-2022": {
+      "title": "Ghid de bune practici privind măsuri de adaptare aplicabile clădirilor existente și clădirilor noi, situate în zone inundabile, indicativ RTC 11-2022",
+      "slug": "ghid-rtc11-2022",
+      "file": "legi/ghid-rtc11-2022.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#art-1",
+          "line": 39
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#art-2",
+          "line": 43
+        }
+      ],
+      "article_count": 2,
+      "provisions": [
+        {
+          "id": "pct-1",
+          "anchor": "#pct-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1",
+          "line": 59
+        },
+        {
+          "id": "pct-1-1",
+          "anchor": "#pct-1-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-1",
+          "line": 61
+        },
+        {
+          "id": "pct-1-2",
+          "anchor": "#pct-1-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-2",
+          "line": 63
+        },
+        {
+          "id": "pct-1-3",
+          "anchor": "#pct-1-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3",
+          "line": 65
+        },
+        {
+          "id": "pct-1-3-1",
+          "anchor": "#pct-1-3-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-1",
+          "line": 67
+        },
+        {
+          "id": "pct-1-3-2",
+          "anchor": "#pct-1-3-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-2",
+          "line": 69
+        },
+        {
+          "id": "pct-1-3-3",
+          "anchor": "#pct-1-3-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-3",
+          "line": 71
+        },
+        {
+          "id": "pct-1-4",
+          "anchor": "#pct-1-4",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4",
+          "line": 73
+        },
+        {
+          "id": "pct-1-4-1",
+          "anchor": "#pct-1-4-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4-1",
+          "line": 75
+        },
+        {
+          "id": "pct-1-4-2",
+          "anchor": "#pct-1-4-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4-2",
+          "line": 77
+        },
+        {
+          "id": "pct-1-5",
+          "anchor": "#pct-1-5",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-5",
+          "line": 79
+        },
+        {
+          "id": "pct-1-6",
+          "anchor": "#pct-1-6",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-6",
+          "line": 81
+        },
+        {
+          "id": "pct-2",
+          "anchor": "#pct-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2",
+          "line": 83
+        },
+        {
+          "id": "pct-2-1",
+          "anchor": "#pct-2-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2-1",
+          "line": 85
+        },
+        {
+          "id": "pct-2-2",
+          "anchor": "#pct-2-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2-2",
+          "line": 87
+        },
+        {
+          "id": "pct-3",
+          "anchor": "#pct-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-3",
+          "line": 89
+        },
+        {
+          "id": "pct-4",
+          "anchor": "#pct-4",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4",
+          "line": 91
+        },
+        {
+          "id": "pct-4-1",
+          "anchor": "#pct-4-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-1",
+          "line": 93
+        },
+        {
+          "id": "pct-4-2",
+          "anchor": "#pct-4-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-2",
+          "line": 95
+        },
+        {
+          "id": "pct-4-3",
+          "anchor": "#pct-4-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-3",
+          "line": 97
+        },
+        {
+          "id": "pct-4-4",
+          "anchor": "#pct-4-4",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4",
+          "line": 99
+        },
+        {
+          "id": "pct-4-4-1",
+          "anchor": "#pct-4-4-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-1",
+          "line": 101
+        },
+        {
+          "id": "pct-4-4-2",
+          "anchor": "#pct-4-4-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-2",
+          "line": 103
+        },
+        {
+          "id": "pct-4-4-3",
+          "anchor": "#pct-4-4-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-3",
+          "line": 105
+        },
+        {
+          "id": "pct-4-4-4",
+          "anchor": "#pct-4-4-4",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4",
+          "line": 107
+        },
+        {
+          "id": "pct-4-4-5",
+          "anchor": "#pct-4-4-5",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-5",
+          "line": 109
+        },
+        {
+          "id": "pct-4-4-6",
+          "anchor": "#pct-4-4-6",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-6",
+          "line": 111
+        },
+        {
+          "id": "pct-1-b",
+          "anchor": "#pct-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-b",
+          "line": 113
+        },
+        {
+          "id": "pct-1-1-b",
+          "anchor": "#pct-1-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-1-b",
+          "line": 115
+        },
+        {
+          "id": "pct-1-2-b",
+          "anchor": "#pct-1-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-2-b",
+          "line": 117
+        },
+        {
+          "id": "pct-1-3-b",
+          "anchor": "#pct-1-3-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-b",
+          "line": 119
+        },
+        {
+          "id": "pct-1-3-1-b",
+          "anchor": "#pct-1-3-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-1-b",
+          "line": 121
+        },
+        {
+          "id": "pct-1-3-2-b",
+          "anchor": "#pct-1-3-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-2-b",
+          "line": 123
+        },
+        {
+          "id": "pct-1-3-3-b",
+          "anchor": "#pct-1-3-3-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-3-3-b",
+          "line": 125
+        },
+        {
+          "id": "pct-1-4-b",
+          "anchor": "#pct-1-4-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4-b",
+          "line": 127
+        },
+        {
+          "id": "pct-1-4-1-b",
+          "anchor": "#pct-1-4-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4-1-b",
+          "line": 129
+        },
+        {
+          "id": "pct-1-4-2-b",
+          "anchor": "#pct-1-4-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-4-2-b",
+          "line": 131
+        },
+        {
+          "id": "pct-1-5-b",
+          "anchor": "#pct-1-5-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-5-b",
+          "line": 133
+        },
+        {
+          "id": "pct-1-6-b",
+          "anchor": "#pct-1-6-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-1-6-b",
+          "line": 135
+        },
+        {
+          "id": "pct-2-b",
+          "anchor": "#pct-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2-b",
+          "line": 137
+        },
+        {
+          "id": "pct-2-1-b",
+          "anchor": "#pct-2-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2-1-b",
+          "line": 139
+        },
+        {
+          "id": "pct-2-2-b",
+          "anchor": "#pct-2-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-2-2-b",
+          "line": 141
+        },
+        {
+          "id": "pct-3-b",
+          "anchor": "#pct-3-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-3-b",
+          "line": 143
+        },
+        {
+          "id": "pct-4-b",
+          "anchor": "#pct-4-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-b",
+          "line": 145
+        },
+        {
+          "id": "pct-4-1-b",
+          "anchor": "#pct-4-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-1-b",
+          "line": 147
+        },
+        {
+          "id": "pct-4-2-b",
+          "anchor": "#pct-4-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-2-b",
+          "line": 149
+        },
+        {
+          "id": "pct-4-3-b",
+          "anchor": "#pct-4-3-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-3-b",
+          "line": 151
+        },
+        {
+          "id": "pct-4-4-b",
+          "anchor": "#pct-4-4-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-b",
+          "line": 153
+        },
+        {
+          "id": "pct-4-4-1-b",
+          "anchor": "#pct-4-4-1-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-1-b",
+          "line": 155
+        },
+        {
+          "id": "pct-4-4-2-b",
+          "anchor": "#pct-4-4-2-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-2-b",
+          "line": 157
+        },
+        {
+          "id": "pct-4-4-3-b",
+          "anchor": "#pct-4-4-3-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-3-b",
+          "line": 159
+        },
+        {
+          "id": "pct-4-4-3-1",
+          "anchor": "#pct-4-4-3-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-3-1",
+          "line": 161
+        },
+        {
+          "id": "pct-4-4-3-2",
+          "anchor": "#pct-4-4-3-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-3-2",
+          "line": 163
+        },
+        {
+          "id": "pct-4-4-3-3",
+          "anchor": "#pct-4-4-3-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-3-3",
+          "line": 165
+        },
+        {
+          "id": "pct-4-4-4-b",
+          "anchor": "#pct-4-4-4-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-b",
+          "line": 167
+        },
+        {
+          "id": "pct-4-4-4-1",
+          "anchor": "#pct-4-4-4-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-1",
+          "line": 169
+        },
+        {
+          "id": "pct-4-4-4-2",
+          "anchor": "#pct-4-4-4-2",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-2",
+          "line": 171
+        },
+        {
+          "id": "pct-4-4-4-3",
+          "anchor": "#pct-4-4-4-3",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-3",
+          "line": 173
+        },
+        {
+          "id": "pct-4-4-4-4",
+          "anchor": "#pct-4-4-4-4",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-4",
+          "line": 175
+        },
+        {
+          "id": "pct-4-4-4-5",
+          "anchor": "#pct-4-4-4-5",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-4-5",
+          "line": 177
+        },
+        {
+          "id": "pct-4-4-5-b",
+          "anchor": "#pct-4-4-5-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-5-b",
+          "line": 179
+        },
+        {
+          "id": "pct-4-4-6-b",
+          "anchor": "#pct-4-4-6-b",
+          "url_fragment": "legi/ghid-rtc11-2022.md#pct-4-4-6-b",
+          "line": 181
+        }
+      ],
+      "provision_count": 62,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/ghid-rtc11-2022.md#anexa-1",
+          "line": 47
+        },
+        {
+          "id": "anexa-a",
+          "anchor": "#anexa-a",
+          "url_fragment": "legi/ghid-rtc11-2022.md#anexa-a",
+          "line": 183
+        }
+      ],
+      "annex_count": 2
+    },
     "ghid-rtc13-2024": {
       "title": "Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024",
       "slug": "ghid-rtc13-2024",
