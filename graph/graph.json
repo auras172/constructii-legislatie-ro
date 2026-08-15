@@ -1238,6 +1238,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-2853-2022",
+      "label": "Ordin MDLPA 2853/2022",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-310-2022",
       "label": "Ordin MDLPA 310/2022",
       "type": "ordin",
@@ -4649,6 +4657,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261593"
     },
     {
+      "source": "ordin-mdlpa-2853-2022",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723"
+    },
+    {
+      "source": "ordin-mdlpa-2853-2022",
+      "target": "lege-212-2022",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice pentru derularea Programului național de consolidare a clădirilor cu risc seismic ridicat, iar art. 1 alin. (2) le leagă de cap. III din Legea nr. 212/2022; preambulul invocă art. 34 din aceeași lege.",
+      "source_article": "Art. 1 și preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723"
+    },
+    {
       "source": "ordin-mdlpa-310-2022",
       "target": "hg-525-2013",
       "relationship": "references",
@@ -5961,8 +5995,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 202,
-    "confirmed_edges": 381,
+    "total_nodes": 203,
+    "confirmed_edges": 383,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

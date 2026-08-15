@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 212/2022 seismic risk reduction measures
 - feat(metadata): add Ordin MDRT 2688/2010 metadata
 - feat(metadata): add Ordin MDLPA 2719/2024 metadata
 - feat(metadata): add Ordin MTI MDLPA 1405/1610/2023 metadata
@@ -161,6 +162,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #497 from auras172/codex/metadata-lege-212-2022
 - Merge pull request #496 from auras172/codex/metadata-ordin-mdrt-2688-2010
 - Merge pull request #488 from auras172/codex/docs-refresh-200-50
 - Merge pull request #487 from auras172/codex/metadata-ordin-mdlpa-2719-2024

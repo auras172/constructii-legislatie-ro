@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T19:49:08.830Z",
+  "generated_at": "2026-08-15T19:57:42.624Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 202,
+    "acts_total": 203,
     "acts_full_text": 50,
-    "acts_metadata_only": 152,
+    "acts_metadata_only": 153,
     "article_anchors_total": 2727,
-    "import_logs_total": 224,
+    "import_logs_total": 225,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 381,
+    "confirmed_relationships": 383,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2069,6 +2069,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-2837-2022.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-2837-2022.json"
+    },
+    {
+      "slug": "ordin-mdlpa-2853-2022",
+      "title": "Ordin nr. 2.853 din 7 noiembrie 2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor, privind derularea Programului național de consolidare a clădirilor cu risc seismic ridicat",
+      "short_title": "Ordin MDLPA 2853/2022",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-2853-2022.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-2853-2022.json"
     },
     {
       "slug": "ordin-mdlpa-310-2022",
