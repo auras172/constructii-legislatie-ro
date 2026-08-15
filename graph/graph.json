@@ -158,6 +158,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-370-2021",
+      "label": "HG 370/2021",
+      "type": "hotarare",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-492-2018",
       "label": "HG 492/2018",
       "type": "hotarare",
@@ -1907,6 +1915,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "hg-370-2021",
+      "target": "ordin-mti-mdlpa-970-873-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul nr. 970/873/2023 citează explicit art. 9 alin. (4) din HG nr. 370/2021 în preambul; legătura este indexată reciproc pentru navigare și health, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului nr. 970/873/2023",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
     },
     {
       "source": "hg-492-2018",
@@ -5273,6 +5295,19 @@
     },
     {
       "source": "ordin-mti-mdlpa-970-873-2023",
+      "target": "hg-370-2021",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561"
+    },
+    {
+      "source": "ordin-mti-mdlpa-970-873-2023",
       "target": "lege-10-1995",
       "relationship": "implements",
       "review_status": "confirmed",
@@ -5483,8 +5518,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 192,
-    "confirmed_edges": 346,
+    "total_nodes": 193,
+    "confirmed_edges": 348,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

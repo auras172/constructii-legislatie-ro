@@ -1,0 +1,42 @@
+{
+  "title": "Hotărârea Guvernului nr. 370 din 29 martie 2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii",
+  "short_title": "HG 370/2021",
+  "canonical_citation": "HG nr. 370/2021",
+  "type": "hotarare",
+  "number": "370",
+  "year": "2021",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "executie",
+  "topics": ["transporturi", "infrastructura-rutiera", "organizare-institutionala"],
+  "status": "unknown",
+  "issue_date": "2021-03-29",
+  "publication_date": "2021-04-01",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240344",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 370 din 29 martie 2021; Monitorul Oficial al României, Partea I, nr. 333 din 1 aprilie 2021",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/240344",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-15",
+  "version": "Forma consolidată afișată de Portal; textul integral și anexele nu sunt importate",
+  "article_count": 21,
+  "annex_count": 3,
+  "import_method": "metadata-only",
+  "rights_note": "Hotărârea stabilește organizarea și funcționarea Ministerului Transporturilor și Infrastructurii. Forma Portal este consolidată și include modificări ulterioare; textul integral și anexele nu sunt importate. Statusul curent nu este declarat și rămâne unknown.",
+  "related_acts": ["ordin-mti-mdlpa-970-873-2023"],
+  "relationships": [
+    {
+      "type": "related_to",
+      "target": "ordin-mti-mdlpa-970-873-2023",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "evidence": "Ordinul nr. 970/873/2023 citează explicit art. 9 alin. (4) din HG nr. 370/2021 în preambul; legătura este indexată reciproc pentru navigare și health, iar relația juridică exactă rămâne references pe actul citator.",
+      "source_article": "Preambulul Ordinului nr. 970/873/2023",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    }
+  ],
+  "tags": ["transporturi", "infrastructura-rutiera", "organizare-institutionala", "hotarare"]
+}
