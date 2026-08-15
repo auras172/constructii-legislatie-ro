@@ -1,0 +1,52 @@
+{
+  "title": "Ordin nr. 627 din 6 mai 2025 privind extinderea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială Institutul de Cercetări în Transporturi INCERTRANS - S.A., în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a produselor pentru construcții și de certificare a controlului producției în fabrică",
+  "short_title": "Ordin MDLPA 627/2025",
+  "canonical_citation": "Ordinul nr. 627/2025",
+  "type": "ordin",
+  "number": "627",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "produse-pentru-constructii",
+    "evaluarea-performantei",
+    "organism-notificat",
+    "controlul-productiei-in-fabrica",
+    "incertrans"
+  ],
+  "status": "repealed",
+  "issue_date": "2025-05-06",
+  "publication_date": "2025-05-09",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297843",
+  "official_source": "Portal Legislativ — Ordinul nr. 627 din 6 mai 2025; Monitorul Oficial al României, Partea I, nr. 426 din 9 mai 2025; formă oficială verificată cu fallback browser-like User-Agent",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297843?isFormaDeBaza=True&rep=True",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială afișată de Portal Legislativ la verificarea din 15.08.2026",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 extinde desemnarea organismului INCERTRANS conform anexei. Preambulul citează explicit art. 3 lit. d) din HG nr. 1.236/2012, iar această citare este modelată ca references. Art. 3 prevede publicarea în Monitorul Oficial, fără o regulă calendaristică distinctă de intrare în vigoare; effective_date este omisă. Portalul indică în rezultatul oficial al căutării că actul este ACT ABROGAT, astfel statusul este repealed. Anexa este documentată ca parte a ordinului, fără text integral sau nod separat.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-1236-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 lit. d) din Hotărârea Guvernului nr. 1.236/2012 privind stabilirea cadrului instituțional și a unor măsuri pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297843",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "produse-pentru-constructii",
+    "organism-notificat",
+    "incertrans",
+    "ordin-ministerial"
+  ]
+}

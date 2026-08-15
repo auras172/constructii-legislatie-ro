@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-14T22:04:25.430Z",
+  "generated_at": "2026-08-15T08:26:52.425Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 177,
+    "acts_total": 178,
     "acts_full_text": 31,
-    "acts_metadata_only": 146,
+    "acts_metadata_only": 147,
     "article_anchors_total": 2288,
-    "import_logs_total": 181,
+    "import_logs_total": 182,
     "domains": [
       "anre",
       "autorizatii",
@@ -44,7 +44,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 311,
+    "confirmed_relationships": 312,
     "auto_detected_references": 175,
     "resolved_cross_references": 19
   },
@@ -1938,6 +1938,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-4059-2024.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-4059-2024.json"
+    },
+    {
+      "slug": "ordin-mdlpa-627-2025",
+      "title": "Ordin nr. 627 din 6 mai 2025 privind extinderea desemnării organismului de evaluare și verificare a constanței performanței produselor pentru construcții Societatea Comercială Institutul de Cercetări în Transporturi INCERTRANS - S.A., în vederea notificării la Comisia Europeană pentru realizarea funcției specifice de certificare a produselor pentru construcții și de certificare a controlului producției în fabrică",
+      "short_title": "Ordin MDLPA 627/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-627-2025.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-627-2025.json"
     },
     {
       "slug": "ordin-mdlpa-770-2025",
