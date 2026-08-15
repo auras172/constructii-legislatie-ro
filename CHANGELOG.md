@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin comun 2146/2010/2025 metadata
 - feat(metadata): add HG 477/2020 ministry organization metadata
 - feat(metadata): add HG 370/2021 transport ministry metadata
 - feat(metadata): add OG 43/1997 road regime metadata
@@ -151,6 +152,9 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #464 from auras172/codex/pipeline-docx-ocr-fulltext
+- Merge pull request #463 from auras172/codex/metadata-ordin-comun-2146-2010-2025
+- feat(tooling): add DOCX and OCR full-text staging pipeline
 - Merge pull request #462 from auras172/codex/metadata-hg-477-2020-v2
 - Merge pull request #460 from auras172/codex/fulltext-ne012-2-2022-v2
 - feat(fulltext): import NE 012/2-2022 official text

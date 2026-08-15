@@ -1262,6 +1262,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-710-2026",
+      "label": "Ordin MDLPA 710/2026",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-749-2021",
       "label": "Ordin MDLPA 749/2021",
       "type": "ordin",
@@ -1976,6 +1984,20 @@
     },
     {
       "source": "hg-477-2020",
+      "target": "ordin-mdlpa-710-2026",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "Ordinul MDLPA nr. 710/2026 citează explicit art. 12 alin. (6) din HG nr. 477/2020 în preambul; legătura este indexată reciproc, iar relația juridică exactă rămâne references pe actul citator.",
+      "confidence": "confirmed",
+      "evidence_type": "cross_reference",
+      "source_article": "Preambulul Ordinului MDLPA nr. 710/2026",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120",
+      "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-477-2020",
       "target": "ordin-mti-mdlpa-970-873-2023",
       "relationship": "related",
       "review_status": "confirmed",
@@ -2221,6 +2243,13 @@
     {
       "source": "lege-10-1995",
       "target": "lege-50-1991",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "ordin-mdlpa-710-2026",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
@@ -2749,6 +2778,13 @@
     {
       "source": "metodologie-mc001-2022",
       "target": "lege-372-2005",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "source": "metodologie-mc001-2022",
+      "target": "ordin-mdlpa-710-2026",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
@@ -4764,6 +4800,66 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297843"
     },
     {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120"
+    },
+    {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-710-2026.json"
+    },
+    {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I pct. 4 citează explicit art. 5 alin. (1) lit. a) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Articolul I pct. 4",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120"
+    },
+    {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-710-2026.json"
+    },
+    {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "metodologie-mc001-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I pct. 6 citează explicit Metodologia de calcul al performanței energetice a clădirilor, indicativ Mc 001-2022, aprobată prin Ordinul MDLPA nr. 16/2023.",
+      "source_article": "Articolul I pct. 6",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312120"
+    },
+    {
+      "source": "ordin-mdlpa-710-2026",
+      "target": "metodologie-mc001-2022",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-710-2026.json"
+    },
+    {
       "source": "ordin-mdlpa-749-2021",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -5663,8 +5759,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 195,
-    "confirmed_edges": 359,
+    "total_nodes": 196,
+    "confirmed_edges": 368,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
