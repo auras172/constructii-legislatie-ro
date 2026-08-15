@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MTI 595/2026 metadata
 - feat(metadata): add Ordin MDLPA 881/2025 metadata
 - feat(metadata): add Ordin MDLPA 710/2026 metadata
 - feat(metadata): add Ordin comun 2146/2010/2025 metadata
@@ -154,6 +155,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #473 from auras172/codex/metadata-ordin-mti-595-2026-v2
 - Merge pull request #471 from auras172/codex/fulltext-hg-525-1996
 - feat(fulltext): import HG 525/1996 official text
 - Merge pull request #470 from auras172/codex/metadata-ordin-mdlpa-881-2025-v2
