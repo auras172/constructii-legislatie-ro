@@ -1,0 +1,42 @@
+{
+  "title": "Ordin nr. 1.405/1.610/2023 privind modificarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, și al ministrului transporturilor nr. 6.970/1.779/2017 pentru aprobarea reglementării tehnice «Normativ privind mixturile asfaltice executate la cald. Condiții tehnice de proiectare, preparare și punere în operă a mixturilor asfaltice». Indicativ AND 605-2016",
+  "short_title": "Ordin MTI/MDLPA 1405/1610/2023",
+  "canonical_citation": "Ordinul nr. 1.405/1.610/2023",
+  "type": "ordin",
+  "number": "1405/1610",
+  "year": "2023",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["mixturi-asfaltice", "drumuri", "infrastructura-rutiera", "and605-2016", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2023-07-27",
+  "publication_date": "2023-08-02",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450",
+  "official_source": "Portal Legislativ — Ordinul MTI nr. 1.405 din 13.07.2023 și Ordinul MDLPA nr. 1.610 din 27.07.2023; Monitorul Oficial al României, Partea I, nr. 707 din 02.08.2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma afișată de Portal Legislativ la verificarea din 15.08.2026; Ordinul modifică art. 4 din actul de aprobare al reglementării AND 605-2016; textul tehnic nu este importat",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul MTI nr. 1.405 este datat 13.07.2023, iar Ordinul MDLPA nr. 1.610 este datat 27.07.2023; issue_date stochează ultima dată de emitere. Art. I modifică explicit art. 4 din Ordinul nr. 6.970/1.779/2017 privind AND 605-2016, iar relația repo-locală este modelată ca amends. Art. II dispune publicarea în Monitorul Oficial, fără o clauză explicită privind o singură dată de intrare în vigoare; effective_date este omisă. OG 43/1997, HG 370/2021 și Legea 98/2016 sunt referințe externe și nu sunt modelate ca noduri sau relații locale. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al reglementării nu este importat.",
+  "amends": ["ordin-mti-mdlpa-6970-1779-2017"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mti-mdlpa-6970-1779-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede că art. 4 din Ordinul nr. 6.970/1.779/2017 pentru aprobarea reglementării tehnice AND 605-2016 se modifică și va avea următorul cuprins.",
+      "source_article": "Art. I",
+      "scope": "Art. 4 din actul de aprobare; aplicare la contractele de proiectare și execuție prevăzute de text",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273450",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mti", "mdlpa", "executie", "mixturi-asfaltice", "drumuri", "and605-2016", "reglementare-tehnica"]
+}
