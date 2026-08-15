@@ -366,6 +366,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-255-2010",
+      "label": "Legea 255/2010",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -2750,6 +2758,72 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/272355"
+    },
+    {
+      "source": "lege-255-2010",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 24 alin. (2) citează explicit Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. 24 alin. (2)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
+    },
+    {
+      "source": "lege-255-2010",
+      "target": "lege-292-2018",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Nota privind art. IX din OUG nr. 26/2022 citează explicit art. 19 din anexa nr. 5 la Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului.",
+      "source_article": "nota de la Art. 35 privind art. IX din OUG nr. 26/2022",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
+    },
+    {
+      "source": "lege-255-2010",
+      "target": "lege-350-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 alin. (1) citează explicit Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul.",
+      "source_article": "Art. 1 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
+    },
+    {
+      "source": "lege-255-2010",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 24 alin. (4) și nota privind art. IX din OUG nr. 26/2022 citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. 24 alin. (4); nota de la Art. 35 privind art. IX din OUG nr. 26/2022",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814",
+      "notes": "Relația este references, nu related_to sau implements; nu reprezintă o relație tematică."
+    },
+    {
+      "source": "lege-255-2010",
+      "target": "lege-7-1996",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 11 alin. (1) și art. 19 alin. (12) citează explicit Legea cadastrului și a publicității imobiliare nr. 7/1996.",
+      "source_article": "Art. 11 alin. (1); Art. 19 alin. (12)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
     },
     {
       "source": "lege-292-2018",
@@ -6157,8 +6231,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 210,
-    "confirmed_edges": 391,
+    "total_nodes": 211,
+    "confirmed_edges": 396,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T22:04:44.123Z",
+  "generated_at": "2026-08-15T22:18:01.697Z",
   "summary": {
-    "total_metadata_entries": 210,
+    "total_metadata_entries": 211,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 160,
-    "total_import_logs": 232,
-    "total_relationship_links": 416,
+    "total_metadata_only_acts": 161,
+    "total_import_logs": 233,
+    "total_relationship_links": 421,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -413,6 +413,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-255-2010",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 5,
       "provenance": true
     },
     {
@@ -1903,7 +1912,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 16,
+      "urbanism": 17,
       "executie": 24,
       "calitate": 88,
       "nzeb": 4,
@@ -1919,7 +1928,7 @@
     "issuers": {
       "minister": 119,
       "guvern": 41,
-      "parlament": 23,
+      "parlament": 24,
       "other": 8,
       "autoritate": 19
     },
@@ -1940,7 +1949,7 @@
       "2007": 2,
       "2008": 3,
       "2009": 4,
-      "2010": 18,
+      "2010": 19,
       "2011": 2,
       "2012": 2,
       "2013": 7,
@@ -1960,7 +1969,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 160,
+      "metadata-only": 161,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
