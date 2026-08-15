@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-15T15:44:22.586Z
+Generated: 2026-08-15T15:54:35.014Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 195 |
-| Full-text acts | 36 |
-| Metadata-only acts | 159 |
-| Import log files | 203 |
+| Full-text acts | 37 |
+| Metadata-only acts | 158 |
+| Import log files | 204 |
 | Total relationship links | 389 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -72,7 +72,7 @@ Generated: 2026-08-15T15:44:22.586Z
 | lege-7-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | metodologie-mc001-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | metodologie-reglementare-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| normativ-and616-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| normativ-and616-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | normativ-and619-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-c254-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | normativ-cr2-1-1-1-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -285,8 +285,8 @@ Generated: 2026-08-15T15:44:22.586Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 159 |
-| full-text | 16 |
+| metadata-only | 158 |
+| full-text | 17 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
