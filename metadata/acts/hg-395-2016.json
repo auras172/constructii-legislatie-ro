@@ -1,0 +1,52 @@
+{
+  "title": "Hotărârea Guvernului nr. 395 din 2 iunie 2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice",
+  "short_title": "HG 395/2016",
+  "canonical_citation": "HG nr. 395/2016",
+  "type": "hotarare",
+  "number": "395",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "achizitii-publice",
+    "lucrari-publice",
+    "contracte-de-lucrari",
+    "norme-metodologice"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-06-02",
+  "publication_date": "2016-06-06",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201280",
+  "official_source": "Portal Legislativ — legislatie.just.ro; publicată inițial în Monitorul Oficial nr. 423 din 6 iunie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/201280",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-15",
+  "version": "Forma consolidată afișată de Portal Legislativ; normele metodologice sunt anexă integrantă, iar publicarea inițială este indicată ca Monitorul Oficial nr. 423 din 6 iunie 2016",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only. Portal Legislativ rămâne sursa oficială. Normele metodologice aprobate prin art. 1 și prevăzute în anexă nu sunt create ca nod separat și nu sunt importate ca text. Nu se înregistrează o effective_date deoarece actul nu conține o clauză calendaristică explicită de intrare în vigoare.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-98-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează explicit Legea nr. 98/2016 privind achizițiile publice; art. 1 aprobă normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului din această lege.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201280",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "notes": "Relația este references; nu este models ca implements, amends sau approves. Normele rămân anexă a HG și nu primesc nod separat."
+    }
+  ],
+  "tags": [
+    "achizitii-publice",
+    "lucrari-publice",
+    "contracte-de-lucrari",
+    "norme-metodologice",
+    "hotarare-guvern"
+  ]
+}

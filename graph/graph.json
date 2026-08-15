@@ -166,6 +166,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-395-2016",
+      "label": "HG 395/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-477-2020",
       "label": "HG 477/2020",
       "type": "hotarare",
@@ -2095,6 +2103,20 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-395-2016",
+      "target": "lege-98-2016",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează explicit Legea nr. 98/2016 privind achizițiile publice; art. 1 aprobă normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului din această lege.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201280",
+      "notes": "Relația este references; nu este models ca implements, amends sau approves. Normele rămân anexă a HG și nu primesc nod separat."
     },
     {
       "source": "hg-477-2020",
@@ -6239,8 +6261,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 212,
-    "confirmed_edges": 396,
+    "total_nodes": 213,
+    "confirmed_edges": 397,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
