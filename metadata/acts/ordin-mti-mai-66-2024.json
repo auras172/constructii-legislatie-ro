@@ -1,0 +1,42 @@
+{
+  "title": "Ordin nr. 1.707/2023/66/2024 pentru aprobarea reglementării tehnice „Ghid tehnic pentru reglementarea circulației rutiere în soluție 2+1 (benzi de circulație) pe drumurile naționale aflate în administrarea Companiei Naționale de Administrare a Infrastructurii Rutiere - S.A.”, indicativ AND 617-2023",
+  "short_title": "Ordin comun MTI-MAI 66/2024",
+  "canonical_citation": "Ordinul comun MTI nr. 1.707/2023 și MAI nr. 66/2024",
+  "type": "ordin",
+  "number": "1707/66",
+  "year": "2024",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Afacerilor Interne",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": ["circulatie-rutiera", "drumuri-nationale", "solutie-2-plus-1", "infrastructura-rutiera", "reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2024-04-08",
+  "publication_date": "2024-05-24",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283221",
+  "official_source": "Portal Legislativ — Ordinul comun MTI nr. 1.707/20.09.2023 și MAI nr. 66/08.04.2024; Monitorul Oficial al României, Partea I, nr. 482 din 24 mai 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/283221",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Ghidul tehnic AND 617-2023 este anexă la ordinul comun; textul tehnic nu este importat",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2024-07-23",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul identifică actul ca Ordin nr. 1.707/2023/66/2024, cu MTI nr. 1.707 din 20.09.2023 și MAI nr. 66 din 08.04.2024. Art. 1 aprobă ghidul tehnic AND 617-2023 ca anexă. Art. 2 prevede intrarea în vigoare la 60 de zile de la publicare; data de 2024-07-23 este derivată mecanic din publicarea la 2024-05-24. Preambulul citează explicit art. 10 alin. (2) din Legea nr. 10/1995, iar relația locală este modelată ca implements. OG nr. 43/1997, HG nr. 370/2021, OUG nr. 30/2007 și Legea nr. 15/2008 sunt temeiuri externe și nu sunt modelate ca relații repo-locale. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283221",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mti", "mai", "circulatie-rutiera", "drumuri-nationale", "solutie-2-plus-1", "infrastructura-rutiera", "reglementare-tehnica", "ordin-comun"]
+}
