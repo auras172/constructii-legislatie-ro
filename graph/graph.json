@@ -1118,6 +1118,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-172-2023",
+      "label": "Ordin MDLPA 172/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-205-2023",
       "label": "Ordin MDLPA 205/2023",
       "type": "ordin",
@@ -1532,6 +1540,20 @@
     },
     {
       "source": "ghid-rtc13-2024",
+      "target": "hg-203-2003",
+      "relationship": "cites",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "ghid-rtc13-2024",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "ghid-rtc13-2024",
       "target": "normativ-ne012-1-2022",
       "relationship": "related",
       "review_status": "confirmed",
@@ -1782,10 +1804,31 @@
     },
     {
       "source": "hg-343-2017",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "hg-343-2017",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "hg-343-2017",
       "target": "lege-10-1995",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-343-2017.json"
+    },
+    {
+      "source": "hg-343-2017",
+      "target": "lege-177-2015",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "hg-343-2017",
@@ -1958,10 +2001,45 @@
     },
     {
       "source": "lege-10-1995",
+      "target": "hg-203-2003",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-10-1995",
       "target": "hg-525-2013",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-10-1995",
+      "target": "lege-177-2015",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "lege-10-1995",
@@ -2045,6 +2123,34 @@
     },
     {
       "source": "lege-169-2026",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
+      "target": "hg-492-2018",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
       "target": "lege-10-1995",
       "relationship": "references",
       "review_status": "confirmed",
@@ -2064,6 +2170,20 @@
     },
     {
       "source": "lege-169-2026",
+      "target": "lege-292-2018",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
+      "target": "lege-307-2006",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-169-2026",
       "target": "lege-350-2001",
       "relationship": "references",
       "review_status": "confirmed",
@@ -2080,6 +2200,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-169-2026.json"
+    },
+    {
+      "source": "lege-169-2026",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "lege-169-2026",
@@ -2229,6 +2356,13 @@
     },
     {
       "source": "lege-307-2006",
+      "target": "hg-537-2007",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-307-2006",
       "target": "lege-10-1995",
       "relationship": "related",
       "review_status": "confirmed",
@@ -2278,10 +2412,24 @@
     },
     {
       "source": "lege-350-2001",
+      "target": "hg-525-1996",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-350-2001",
       "target": "lege-50-1991",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-350-2001.json"
+    },
+    {
+      "source": "lege-350-2001",
+      "target": "oug-31-2025",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "lege-372-2005",
@@ -2296,6 +2444,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "source": "lege-481-2004",
+      "target": "hg-862-2016",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "lege-481-2004",
@@ -2338,6 +2493,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "source": "lege-50-1991",
+      "target": "oug-31-2025",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "lege-64-2008",
@@ -2491,10 +2653,45 @@
     },
     {
       "source": "normativ-i7-2011",
+      "target": "hg-300-2006",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-i7-2011",
+      "target": "hg-90-2008",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-i7-2011",
       "target": "lege-10-1995",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-i7-2011.json"
+    },
+    {
+      "source": "normativ-i7-2011",
+      "target": "lege-307-2006",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-i7-2011",
+      "target": "lege-319-2006",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-i7-2011",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-i9-2022",
@@ -2502,6 +2699,13 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-i9-2022.json"
+    },
+    {
+      "source": "normativ-i9-2022",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-nc001-1999",
@@ -2522,6 +2726,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-ne012-1-2007.json"
+    },
+    {
+      "source": "normativ-ne012-1-2022",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-ne012-1-2022",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-ne012-1-2022",
@@ -2588,6 +2806,20 @@
     },
     {
       "source": "normativ-np011-2022",
+      "target": "hg-525-1996",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np011-2022",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np011-2022",
       "target": "lege-10-1995",
       "relationship": "implements",
       "review_status": "confirmed",
@@ -2601,11 +2833,46 @@
       "notes": "NP 011-1997 este documentat ca predecessor extern. Nu se adaugă relații către NP 022, Legea nr. 50/1991 sau alte normative pe similitudine tematică."
     },
     {
+      "source": "normativ-np011-2022",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np015-2022",
+      "target": "hg-525-1996",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np015-2022",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
       "source": "normativ-np015-2022",
       "target": "lege-10-1995",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-np015-2022.json"
+    },
+    {
+      "source": "normativ-np015-2022",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np022-2021",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-np022-2021",
@@ -2679,6 +2946,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-13",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/160391"
+    },
+    {
+      "source": "normativ-np074-2022",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-np074-2022",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-np074-2022",
@@ -2826,6 +3107,13 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264676"
     },
     {
+      "source": "normativ-np24-2022",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
       "source": "normativ-ntpa002-2002",
       "target": "normativ-np133-2022",
       "relationship": "related",
@@ -2869,6 +3157,20 @@
     },
     {
       "source": "normativ-p118-1-2025",
+      "target": "hg-925-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p118-1-2025",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p118-1-2025",
       "target": "lege-307-2006",
       "relationship": "related",
       "review_status": "confirmed",
@@ -2897,10 +3199,45 @@
     },
     {
       "source": "normativ-p118-3-2015",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p118-3-2015",
       "target": "lege-307-2006",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/normativ-p118-3-2015.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "hg-273-1994",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "hg-492-2018",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "normativ-p130-2025",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "normativ-p130-2025",
@@ -3164,6 +3501,13 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-11",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580"
+    },
+    {
+      "source": "ordin-839-2009",
+      "target": "hg-525-1996",
+      "relationship": "references",
+      "review_status": "needs_review",
+      "evidence": "cross-references/relationships-auto.json"
     },
     {
       "source": "ordin-839-2009",
@@ -3653,6 +3997,45 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3DL8NY1O2RTKB0AHHJPEVV3YOV"
+    },
+    {
+      "source": "ordin-mdlpa-172-2023",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 din regulamentul privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264676"
+    },
+    {
+      "source": "ordin-mdlpa-172-2023",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264676"
+    },
+    {
+      "source": "ordin-mdlpa-172-2023",
+      "target": "normativ-np24-2022",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă reglementarea tehnică „Normativ pentru proiectarea parcajelor“, indicativ NP 24-2022, prevăzută în anexa care face parte integrantă din ordin.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264676"
     },
     {
       "source": "ordin-mdlpa-205-2023",
@@ -4826,9 +5209,9 @@
     }
   ],
   "stats": {
-    "total_nodes": 183,
-    "confirmed_edges": 326,
-    "auto_detected_edges": 0,
+    "total_nodes": 184,
+    "confirmed_edges": 329,
+    "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
 }
