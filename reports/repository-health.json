@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T14:45:58.472Z",
+  "generated_at": "2026-08-15T14:51:49.870Z",
   "summary": {
-    "total_metadata_entries": 190,
+    "total_metadata_entries": 191,
     "total_full_text_acts": 34,
-    "total_metadata_only_acts": 156,
-    "total_import_logs": 197,
-    "total_relationship_links": 379,
+    "total_metadata_only_acts": 157,
+    "total_import_logs": 198,
+    "total_relationship_links": 380,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -1631,6 +1631,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mti-mdlpa-970-873-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
       "slug": "oug-148-2024",
       "full_text": false,
       "metadata": true,
@@ -1724,7 +1733,7 @@
   "statistics": {
     "domains": {
       "urbanism": 13,
-      "executie": 17,
+      "executie": 18,
       "calitate": 78,
       "nzeb": 4,
       "munca": 3,
@@ -1740,7 +1749,7 @@
       "minister": 111,
       "guvern": 37,
       "parlament": 18,
-      "other": 5,
+      "other": 6,
       "autoritate": 19
     },
     "publication_years": {
@@ -1773,13 +1782,13 @@
       "2020": 7,
       "2021": 7,
       "2022": 22,
-      "2023": 26,
+      "2023": 27,
       "2024": 10,
       "2025": 16,
       "2026": 10
     },
     "import_methods": {
-      "metadata-only": 156,
+      "metadata-only": 157,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 2,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
