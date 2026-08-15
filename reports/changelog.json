@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:24:51.761Z",
+  "generated_at": "2026-08-15T17:28:01.871Z",
   "months": [
     {
       "month": "2026-08",
@@ -153,6 +153,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #480 from auras172/codex/fulltext-hg-1236-2012",
+        "feat(fulltext): import HG 1236/2012 official text",
         "Merge pull request #479 from auras172/codex/fulltext-hg-90-2008",
         "feat(fulltext): import HG 90/2008 official text",
         "Merge pull request #478 from auras172/codex/fulltext-hg-862-2016",

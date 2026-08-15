@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:24:51.168Z",
+  "generated_at": "2026-08-15T17:28:01.283Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 44,
-    "acts_metadata_only": 155,
-    "article_anchors_total": 2686,
-    "import_logs_total": 215,
+    "acts_full_text": 45,
+    "acts_metadata_only": 154,
+    "article_anchors_total": 2709,
+    "import_logs_total": 216,
     "domains": [
       "anre",
       "autorizatii",
@@ -270,9 +270,9 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "repealed",
-      "import_method": "metadata-only",
-      "article_count": 4,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 23,
+      "anchor_count": 23,
       "file": "legi/hg-272-1994.md",
       "metadata_file": "metadata/acts/hg-272-1994.json"
     },
