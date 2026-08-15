@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-15T17:18:38.808Z",
+  "generated_at": "2026-08-15T17:24:51.168Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 199,
-    "acts_full_text": 43,
-    "acts_metadata_only": 156,
-    "article_anchors_total": 2673,
-    "import_logs_total": 214,
+    "acts_full_text": 44,
+    "acts_metadata_only": 155,
+    "article_anchors_total": 2686,
+    "import_logs_total": 215,
     "domains": [
       "anre",
       "autorizatii",
@@ -218,9 +218,9 @@
       "type": "hotarare",
       "domain": "calitate",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 13,
-      "anchor_count": 0,
+      "anchor_count": 13,
       "file": "legi/hg-1236-2012.md",
       "metadata_file": "metadata/acts/hg-1236-2012.json"
     },
