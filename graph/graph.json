@@ -1438,6 +1438,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mti-mdlpa-6970-1779-2017",
+      "label": "Ordin MTI/MDLPA 6970/1779/2017",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-148-2024",
       "label": "OUG 148/2024",
       "type": "ordonanta",
@@ -5208,6 +5216,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310265"
     },
     {
+      "source": "ordin-mti-mdlpa-6970-1779-2017",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (2) și (4) din Regulamentul privind tipurile de reglementări tehnice, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575"
+    },
+    {
+      "source": "ordin-mti-mdlpa-6970-1779-2017",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții, republicată.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197575"
+    },
+    {
       "source": "oug-148-2024",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -5393,8 +5427,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 189,
-    "confirmed_edges": 341,
+    "total_nodes": 190,
+    "confirmed_edges": 343,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
