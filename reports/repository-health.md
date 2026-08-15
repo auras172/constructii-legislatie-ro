@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-15T16:18:00.383Z
+Generated: 2026-08-15T16:24:41.023Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 197 |
-| Full-text acts | 38 |
-| Metadata-only acts | 159 |
-| Import log files | 207 |
+| Full-text acts | 39 |
+| Metadata-only acts | 158 |
+| Import log files | 208 |
 | Total relationship links | 397 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -40,7 +40,7 @@ Generated: 2026-08-15T16:18:00.383Z
 | hg-370-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-477-2020 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | hg-492-2018 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
-| hg-525-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-525-1996 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-525-2013 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-537-2007 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-571-2016 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -287,8 +287,8 @@ Generated: 2026-08-15T16:18:00.383Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 159 |
-| full-text | 18 |
+| metadata-only | 158 |
+| full-text | 19 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |

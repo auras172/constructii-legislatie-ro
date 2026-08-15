@@ -8,21 +8,28 @@
   "issuer": "Guvernul României",
   "issuing_body_kind": "guvern",
   "domain": "urbanism",
-  "topics": ["regulament-general-de-urbanism", "amenajarea-teritoriului", "planificare-urbana", "autorizare-constructii"],
+  "topics": [
+    "regulament-general-de-urbanism",
+    "amenajarea-teritoriului",
+    "planificare-urbana",
+    "autorizare-constructii"
+  ],
   "status": "active",
   "issue_date": "1996-06-27",
   "publication_date": "1996-07-16",
   "publication_medium": "monitorul-oficial",
   "version_kind": "consolidat",
   "consolidated_as_of": "2023-11-22",
-  "last_checked": "2026-08-03",
+  "last_checked": "2026-08-15",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129025",
   "official_source": "Portal Legislativ — HG 525/1996, forma consolidată; MDLPA — Cadrul legislativ în domeniul urbanismului",
-  "official_detail_url": "https://www.mdlpa.ro/userfiles/HG525.doc",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/129026",
   "version": "forma republicată în M.Of. nr. 856/27.11.2002, cu istoricul consolidărilor Portal Legislativ până la 22.11.2023",
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, publicarea inițială în M.Of. nr. 149/16.07.1996, republicarea în M.Of. nr. 856/27.11.2002 și istoricul consolidărilor. Preambulul actului citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții. Nu este adăugată relație către Legea nr. 350/2001 deoarece aceasta nu a fost confirmată ca citare explicită în textul actului. Textul legal integral nu este importat în repository.",
-  "related_acts": ["lege-50-1991"],
+  "import_method": "full-text",
+  "rights_note": "Portalul Legislativ confirmă titlul, emitentul, publicarea inițială în M.Of. nr. 149/16.07.1996, republicarea în M.Of. nr. 856/27.11.2002 și istoricul consolidărilor. Preambulul actului citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții. Nu este adăugată relație către Legea nr. 350/2001 deoarece aceasta nu a fost confirmată ca citare explicită în textul actului. Textul legal integral nu este importat în repository. official_text_sha256: 44f50ac8ba9ad7437f127fbd07c23c503a96822724ea3effe6afee989968618b.",
+  "related_acts": [
+    "lege-50-1991"
+  ],
   "relationships": [
     {
       "type": "related_to",
@@ -36,5 +43,14 @@
       "reviewed_at": "2026-08-03"
     }
   ],
-  "tags": ["urbanism", "regulament-general-de-urbanism", "amenajarea-teritoriului", "planificare-urbana", "mdlpa", "hotarare-guvern"]
+  "tags": [
+    "urbanism",
+    "regulament-general-de-urbanism",
+    "amenajarea-teritoriului",
+    "planificare-urbana",
+    "mdlpa",
+    "hotarare-guvern"
+  ],
+  "article_count": 45,
+  "annex_count": 7
 }
