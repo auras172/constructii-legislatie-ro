@@ -1374,6 +1374,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-921-2024",
+      "label": "Ordin MDLPA 921/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-952-2025",
       "label": "Ordin MDLPA 952/2025",
       "type": "ordin",
@@ -4774,6 +4782,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311723"
     },
     {
+      "source": "ordin-mdlpa-2853-2022",
+      "target": "ordin-mdlpa-921-2024",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 921/2024 prevede expres că Normele metodologice aprobate prin Ordinul nr. 2.853/2022 se modifică și se completează.",
+      "source_article": "Articolul I al Ordinului nr. 921/2024",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/279684"
+    },
+    {
       "source": "ordin-mdlpa-310-2022",
       "target": "hg-525-2013",
       "relationship": "references",
@@ -5255,6 +5276,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ordin-mdlpa-904-2023.json"
+    },
+    {
+      "source": "ordin-mdlpa-921-2024",
+      "target": "ordin-mdlpa-2853-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede expres că Normele metodologice aprobate prin Ordinul nr. 2.853/2022 se modifică și se completează după cum urmează.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/279684"
     },
     {
       "source": "ordin-mdlpa-952-2025",
@@ -6086,8 +6120,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 206,
-    "confirmed_edges": 388,
+    "total_nodes": 207,
+    "confirmed_edges": 390,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
