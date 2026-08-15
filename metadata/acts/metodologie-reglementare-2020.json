@@ -1,0 +1,51 @@
+{
+  "title": "Metodologie din 1 iulie 2020 privind inițierea, programarea, achiziția, elaborarea, avizarea, aprobarea și valorificarea reglementărilor tehnice și a rezultatelor activităților specifice în construcții, precum și pentru aprobarea cuantumului indemnizației de participare a membrilor în comitetele tehnice de specialitate și în comitetul tehnic de coordonare generală",
+  "short_title": "Metodologia reglementărilor tehnice în construcții (2020)",
+  "canonical_citation": "Metodologia din 1 iulie 2020 privind reglementările tehnice în construcții",
+  "type": "procedura",
+  "year": "2020",
+  "issuer": "Ministerul Lucrărilor Publice, Dezvoltării și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["reglementari-tehnice", "comitete-tehnice", "constructii", "metodologie"],
+  "status": "unknown",
+  "issue_date": "2020-07-01",
+  "publication_date": "2020-07-16",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872",
+  "official_source": "Portal Legislativ — Metodologie din 1 iulie 2020, aprobată prin Ordinul nr. 3.363 din 1 iulie 2020; Monitorul Oficial al României, Partea I, nr. 624 din 16 iulie 2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872",
+  "version_kind": "original",
+  "last_checked": "2026-08-15",
+  "version": "Forma oficială a metodologiei; ordinul de aprobare și anexele procedurale nu sunt importate ca text integral",
+  "article_count": 32,
+  "annex_count": 13,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul publică metodologia din 1 iulie 2020 și indică aprobarea sa prin Ordinul nr. 3.363 din 1 iulie 2020, publicat în M.Of. nr. 624/16.07.2020. Art. 1 prevede desfășurarea activității potrivit Legii nr. 10/1995 și Regulamentului aprobat prin HG nr. 203/2003; relațiile repo-locale sunt modelate ca implements. Metodologia are 32 de articole și 13 anexe structurale în HTML-ul oficial. Nu este declarată o clauză calendaristică distinctă de intrare în vigoare, astfel că effective_date este omisă. Ordinul nr. 3.363/2020 este documentat ca act extern de aprobare, deoarece nu există în repository. Statusul curent rămâne unknown.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 prevede că activitatea de reglementare în construcții se desfășoară potrivit prevederilor Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 prevede că activitatea de reglementare în construcții se desfășoară potrivit Regulamentului aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15"
+    }
+  ],
+  "tags": ["mdlpa", "calitate", "reglementari-tehnice", "comitete-tehnice", "metodologie", "constructii"]
+}

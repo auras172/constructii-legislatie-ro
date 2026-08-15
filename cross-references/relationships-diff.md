@@ -1,6 +1,6 @@
 # Cross-Reference Suggestions
 
-Generated: 2026-08-15T10:57:09.600Z
+Generated: 2026-08-15T11:06:25.902Z
 
 > Auto-detected only. Review and manually update `metadata/acts/*.json` if confirmed.
 

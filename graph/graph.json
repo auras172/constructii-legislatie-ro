@@ -406,6 +406,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "metodologie-reglementare-2020",
+      "label": "Metodologia reglementărilor tehnice în construcții (2020)",
+      "type": "procedura",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-and616-2022",
       "label": "AND 616-2022",
       "type": "normativ",
@@ -2575,6 +2583,32 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/metodologie-mc001-2022.json"
+    },
+    {
+      "source": "metodologie-reglementare-2020",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 prevede că activitatea de reglementare în construcții se desfășoară potrivit Regulamentului aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872"
+    },
+    {
+      "source": "metodologie-reglementare-2020",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 prevede că activitatea de reglementare în construcții se desfășoară potrivit prevederilor Legii nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-15",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227872"
     },
     {
       "source": "normativ-and616-2022",
@@ -5209,8 +5243,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 184,
-    "confirmed_edges": 329,
+    "total_nodes": 185,
+    "confirmed_edges": 331,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
