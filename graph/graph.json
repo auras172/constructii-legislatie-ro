@@ -1542,6 +1542,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-1751-2012",
+      "label": "Ordin MDRT 1751/2012 — CR 1-1-4/2012",
+      "type": "ordin",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrt-1867-2010",
       "label": "Ordin MDRT 1867/2010",
       "type": "ordin",
@@ -5831,6 +5839,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/141994"
     },
     {
+      "source": "ordin-mdrt-1751-2012",
+      "target": "hg-203-2003",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din regulamentul aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222218"
+    },
+    {
+      "source": "ordin-mdrt-1751-2012",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222218"
+    },
+    {
       "source": "ordin-mdrt-1867-2010",
       "target": "ordin-839-2009",
       "relationship": "amends",
@@ -6422,8 +6456,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 220,
-    "confirmed_edges": 405,
+    "total_nodes": 221,
+    "confirmed_edges": 407,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

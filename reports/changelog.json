@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T10:29:53.509Z",
+  "generated_at": "2026-08-16T10:40:12.657Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add CR 1-1-3/2012 approving ordinance metadata",
         "feat(metadata): add CR 0-2012 design basis metadata",
         "feat(metadata): add Legea 33/1994 expropriation law",
         "feat(metadata): add Legea 121/2014 energy efficiency",
@@ -177,6 +178,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #517 from auras172/codex/metadata-cr1-1-3-2012",
         "Merge pull request #516 from auras172/codex/metadata-cr0-2012",
         "Merge pull request #515 from auras172/codex/metadata-lege-33-1994",
         "Merge pull request #514 from auras172/codex/metadata-lege-121-2014",
@@ -807,6 +809,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 206
+    "infrastructure_changes": 207
   }
 }
