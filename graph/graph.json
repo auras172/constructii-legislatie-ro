@@ -438,6 +438,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-33-1994",
+      "label": "Legea 33/1994 privind exproprierea",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-350-2001",
       "label": "Legea 350/2001",
       "type": "lege",
@@ -2995,6 +3003,20 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-319-2006.json"
+    },
+    {
+      "source": "lege-33-1994",
+      "target": "lege-255-2010",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Nota de sub Art. 26 reproduce Decizia de admitere HP nr. 78/2021 și citează explicit art. 22 alin. (6) din Legea nr. 255/2010, în interpretarea raportată la art. 26 alin. (2) din prezenta lege.",
+      "source_article": "Notă sub Art. 26 — Decizia de admitere HP nr. 78/2021",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129800",
+      "notes": "Citația este jurisprudențială și nu este modelată ca amendare, implementare sau relație tematică."
     },
     {
       "source": "lege-350-2001",
@@ -6332,8 +6354,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 217,
-    "confirmed_edges": 400,
+    "total_nodes": 218,
+    "confirmed_edges": 401,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
