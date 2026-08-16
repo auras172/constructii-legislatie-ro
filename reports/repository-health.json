@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T09:53:32.335Z",
+  "generated_at": "2026-08-16T10:20:52.123Z",
   "summary": {
-    "total_metadata_entries": 218,
+    "total_metadata_entries": 219,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 168,
-    "total_import_logs": 240,
-    "total_relationship_links": 426,
+    "total_metadata_only_acts": 169,
+    "total_import_logs": 241,
+    "total_relationship_links": 428,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -1721,6 +1721,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mdrt-1530-2012",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mdrt-1867-2010",
       "full_text": false,
       "metadata": true,
@@ -1976,7 +1985,7 @@
   "statistics": {
     "domains": {
       "urbanism": 23,
-      "executie": 24,
+      "executie": 25,
       "calitate": 88,
       "nzeb": 5,
       "munca": 3,
@@ -1989,7 +1998,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 119,
+      "minister": 120,
       "guvern": 42,
       "parlament": 30,
       "other": 8,
@@ -2015,7 +2024,7 @@
       "2009": 4,
       "2010": 19,
       "2011": 2,
-      "2012": 2,
+      "2012": 3,
       "2013": 7,
       "2014": 6,
       "2015": 3,
@@ -2033,7 +2042,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 168,
+      "metadata-only": 169,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

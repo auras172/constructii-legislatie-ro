@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 33/1994 expropriation law
 - feat(metadata): add Legea 121/2014 energy efficiency
 - feat(metadata): add Legea 152/1998 national housing agency
 - feat(metadata): add Legea 196/2018 homeowners associations
@@ -178,6 +179,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #515 from auras172/codex/metadata-lege-33-1994
 - Merge pull request #514 from auras172/codex/metadata-lege-121-2014
 - Merge pull request #513 from auras172/codex/metadata-lege-152-1998
 - Merge pull request #512 from auras172/codex/metadata-lege-196-2018

@@ -1,0 +1,66 @@
+{
+  "title": "Ordin nr. 1.530 din 23 august 2012 pentru aprobarea reglementării tehnice \"Cod de proiectare. Bazele proiectării construcțiilor\", indicativ CR 0-2012",
+  "short_title": "Ordin MDRT 1530/2012 — CR 0-2012",
+  "canonical_citation": "Ordinul nr. 1.530/2012",
+  "type": "ordin",
+  "number": "1530",
+  "year": "2012",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": [
+    "cr0-2012",
+    "bazele-proiectarii",
+    "structuri",
+    "proiectare-structurala",
+    "reglementare-tehnica"
+  ],
+  "status": "unknown",
+  "issue_date": "2012-08-23",
+  "publication_date": "2012-09-11",
+  "effective_date": "2012-10-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222160",
+  "official_source": "Portal Legislativ — Ordinul nr. 1.530 din 23 august 2012; publicat în Monitorul Oficial nr. 647 din 11 septembrie 2012; reglementarea tehnică CR 0-2012 publicată în Monitorul Oficial nr. 647 bis din 11 septembrie 2012",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222160",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "forma oficială a ordinului aprobator; CR 0-2012 este reglementare tehnică anexată ordinului și este disponibilă în recordul tehnic Portal Legislativ 222161",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222160",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    },
+    {
+      "type": "references",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din Regulamentul aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222160",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru actul aprobator. Art. 1 aprobă reglementarea tehnică «Cod de proiectare. Bazele proiectării construcțiilor», indicativ CR 0-2012, ca anexă care face parte integrantă din ordin; nu se creează nod separat pentru anexă și nu se importă textul tehnic. Ordinul are 3 articole și 1 anexă. Art. 2 stabilește intrarea în vigoare la 30 de zile de la publicare, ceea ce conduce la effective_date 2012-10-11. Recordul tehnic Portal Legislativ 222161 și recordurile oficiale 142596/142597 sunt documentate ca surse ale aceleiași reglementări, fără noduri duplicate.",
+  "tags": [
+    "cr0-2012",
+    "bazele-proiectarii",
+    "structuri",
+    "proiectare-structurala",
+    "reglementare-tehnica",
+    "ordin-ministerial",
+    "metadata-only"
+  ]
+}
