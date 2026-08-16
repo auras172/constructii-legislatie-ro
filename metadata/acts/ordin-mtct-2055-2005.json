@@ -28,7 +28,7 @@
   "article_count": 3,
   "annex_count": 1,
   "import_method": "metadata-only",
-  "amended_by": ["ordin-2513-2010"],
+  "amended_by": ["ordin-2513-2010", "ordin-mdrt-1590-2012"],
   "relationships": [
     {
       "type": "references",
@@ -52,6 +52,18 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-16",
       "notes": "Relația inversă este append-only și păstrează C 107-2005 ca anexă a ordinului aprobator."
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-mdrt-1590-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 1.590/2012 prevede explicit modificarea şi completarea Părţii a 3-a — Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I al Ordinului nr. 1.590/2012",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Relaţia priveşte modificarea Părţii a 3-a din reglementarea tehnică anexă; nu se creează nod separat pentru C 107/3."
     }
   ],
   "rights_note": "Import metadata-only pentru actul aprobator. Art. 1 aprobă reglementarea tehnică C 107-2005 ca anexă care face parte integrantă din ordin; nota oficială precizează că anexa se publică în M.Of. nr. 1.124 bis. Nu se creează nod separat pentru normativ și nu se importă textul tehnic. Ordinul are 3 articole și 1 anexă. Art. 3 folosește formula «la data intrării în vigoare a prezentului ordin» fără să stabilească o dată calendaristică, astfel că effective_date este omisă. Portalul indică modificări ulterioare prin ordine distincte, care nu sunt create ca noduri în acest import.",

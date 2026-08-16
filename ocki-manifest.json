@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-16T11:32:36.773Z",
+  "generated_at": "2026-08-16T11:48:24.677Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 224,
+    "acts_total": 225,
     "acts_full_text": 50,
-    "acts_metadata_only": 174,
+    "acts_metadata_only": 175,
     "article_anchors_total": 2727,
-    "import_logs_total": 246,
+    "import_logs_total": 247,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 412,
+    "confirmed_relationships": 414,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2563,6 +2563,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdrt-1530-2012.md",
       "metadata_file": "metadata/acts/ordin-mdrt-1530-2012.json"
+    },
+    {
+      "slug": "ordin-mdrt-1590-2012",
+      "title": "Ordin nr. 1.590 din 24 august 2012 pentru modificarea şi completarea Părţii a 3-a - Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul Reglementării tehnice \"Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor\", indicativ C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcţiilor şi turismului nr. 2.055/2005",
+      "short_title": "Ordin MDRT 1590/2012 — C 107/3",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdrt-1590-2012.md",
+      "metadata_file": "metadata/acts/ordin-mdrt-1590-2012.json"
     },
     {
       "slug": "ordin-mdrt-1655-2012",

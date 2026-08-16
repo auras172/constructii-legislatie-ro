@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:32:37.352Z",
+  "generated_at": "2026-08-16T11:48:25.251Z",
   "months": [
     {
       "month": "2026-08",
@@ -159,6 +159,8 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: reconcile repository housekeeping snapshot",
+        "docs: reconcile repository housekeeping snapshot",
         "docs: refresh project README",
         "docs: regenerate numbered legislation index",
         "docs: regenerate numbered legislation index",

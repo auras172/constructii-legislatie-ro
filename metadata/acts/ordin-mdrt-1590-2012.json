@@ -1,0 +1,43 @@
+{
+  "title": "Ordin nr. 1.590 din 24 august 2012 pentru modificarea şi completarea Părţii a 3-a - Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul Reglementării tehnice \"Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor\", indicativ C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcţiilor şi turismului nr. 2.055/2005",
+  "short_title": "Ordin MDRT 1590/2012 — C 107/3",
+  "canonical_citation": "Ordinul nr. 1.590/2012",
+  "type": "ordin",
+  "number": "1590",
+  "year": "2012",
+  "issuer": "Ministerul Dezvoltării Regionale şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "nzeb",
+  "topics": ["c107-2005", "c107-3", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2012-08-24",
+  "publication_date": "2012-09-12",
+  "effective_date": "2012-10-12",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+  "official_source": "Portal Legislativ — Ordinul nr. 1.590 din 24 august 2012; publicat în Monitorul Oficial nr. 650 din 12 septembrie 2012",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Forma oficială a ordinului modificator; modifică şi completează Partea a 3-a din C 107-2005, anexă a Ordinului nr. 2.055/2005",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "amends": ["ordin-mtct-2055-2005"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mtct-2055-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit modificarea şi completarea Părţii a 3-a — Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Nu se creează nod separat pentru C 107/3."
+    }
+  ],
+  "rights_note": "Import metadata-only. Ordinul modifică şi completează Partea a 3-a din C 107-2005, nu creează un act tehnic separat. Articolul II stabileşte intrarea în vigoare la 30 de zile de la publicare, de unde effective_date 2012-10-12. Status unknown; fără text tehnic integral.",
+  "tags": ["c107-2005", "c107-3", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica", "ordin-ministerial", "metadata-only"]
+}
