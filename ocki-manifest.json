@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-16T10:20:52.211Z",
+  "generated_at": "2026-08-16T10:29:52.942Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 219,
+    "acts_total": 220,
     "acts_full_text": 50,
-    "acts_metadata_only": 169,
+    "acts_metadata_only": 170,
     "article_anchors_total": 2727,
-    "import_logs_total": 241,
+    "import_logs_total": 242,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 403,
+    "confirmed_relationships": 405,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2550,6 +2550,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdrt-1530-2012.md",
       "metadata_file": "metadata/acts/ordin-mdrt-1530-2012.json"
+    },
+    {
+      "slug": "ordin-mdrt-1655-2012",
+      "title": "Ordin nr. 1.655 din 5 septembrie 2012 pentru aprobarea reglementării tehnice «Cod de proiectare. Evaluarea acțiunii zăpezii asupra construcțiilor», indicativ CR 1-1-3/2012",
+      "short_title": "Ordin MDRT 1655/2012",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdrt-1655-2012.md",
+      "metadata_file": "metadata/acts/ordin-mdrt-1655-2012.json"
     },
     {
       "slug": "ordin-mdrt-1867-2010",
