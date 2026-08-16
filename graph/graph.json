@@ -358,6 +358,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-18-1991",
+      "label": "Legea 18/1991 — fondul funciar",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-190-2021",
       "label": "Legea 190/2021",
       "type": "lege",
@@ -6714,7 +6722,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 228,
+    "total_nodes": 229,
     "confirmed_edges": 422,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
