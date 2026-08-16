@@ -1542,6 +1542,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-1590-2012",
+      "label": "Ordin MDRT 1590/2012 — C 107/3",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdrt-1655-2012",
       "label": "Ordin MDRT 1655/2012",
       "type": "ordin",
@@ -5851,6 +5859,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222160"
     },
     {
+      "source": "ordin-mdrt-1590-2012",
+      "target": "ordin-mtct-2055-2005",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit modificarea şi completarea Părţii a 3-a — Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+      "notes": "Nu se creează nod separat pentru C 107/3."
+    },
+    {
       "source": "ordin-mdrt-1655-2012",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -6163,6 +6185,20 @@
       "reviewed_at": "2026-08-16",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
       "notes": "Relația inversă este append-only și păstrează C 107-2005 ca anexă a ordinului aprobator."
+    },
+    {
+      "source": "ordin-mtct-2055-2005",
+      "target": "ordin-mdrt-1590-2012",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 1.590/2012 prevede explicit modificarea şi completarea Părţii a 3-a — Normativ privind calculul performanţelor termoenergetice ale elementelor de construcţii, indicativ C 107/3, din cadrul C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I al Ordinului nr. 1.590/2012",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
+      "notes": "Relaţia priveşte modificarea Părţii a 3-a din reglementarea tehnică anexă; nu se creează nod separat pentru C 107/3."
     },
     {
       "source": "ordin-mti-1468-2023",
@@ -6547,8 +6583,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 224,
-    "confirmed_edges": 412,
+    "total_nodes": 225,
+    "confirmed_edges": 414,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

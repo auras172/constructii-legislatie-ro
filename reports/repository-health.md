@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-16T11:32:36.677Z
+Generated: 2026-08-16T11:48:24.591Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 224 |
+| Total metadata entries | 225 |
 | Full-text acts | 50 |
-| Metadata-only acts | 174 |
-| Import log files | 246 |
-| Total relationship links | 436 |
+| Metadata-only acts | 175 |
+| Import log files | 247 |
+| Total relationship links | 438 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -210,6 +210,7 @@ Generated: 2026-08-16T11:32:36.677Z
 | ordin-mdrl-119-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-1496-2011 | ✗ | ✓ | ✓ | — | 6 | ✓ |
 | ordin-mdrt-1530-2012 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdrt-1590-2012 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-1655-2012 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrt-1751-2012 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdrt-1867-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -221,7 +222,7 @@ Generated: 2026-08-16T11:32:36.677Z
 | ordin-mlpda-3454-2019 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mlpda-3494-2020 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mtct-1430-2005 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-mtct-2055-2005 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mtct-2055-2005 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mti-1468-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-403-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-595-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -255,8 +256,8 @@ Generated: 2026-08-16T11:32:36.677Z
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
+| nzeb | 8 |
 | autorizatii | 8 |
-| nzeb | 7 |
 | isc | 7 |
 | receptie | 5 |
 | munca | 3 |
@@ -266,7 +267,7 @@ Generated: 2026-08-16T11:32:36.677Z
 
 | Value | Count |
 | --- | --- |
-| minister | 125 |
+| minister | 126 |
 | guvern | 42 |
 | parlament | 30 |
 | autoritate | 19 |
@@ -287,9 +288,9 @@ Generated: 2026-08-16T11:32:36.677Z
 | 2021 | 8 |
 | 2005 | 7 |
 | 2013 | 7 |
+| 2012 | 6 |
 | 2014 | 6 |
 | 2016 | 6 |
-| 2012 | 5 |
 | 2006 | 4 |
 | 2009 | 4 |
 | 2019 | 4 |
@@ -315,7 +316,7 @@ Generated: 2026-08-16T11:32:36.677Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 174 |
+| metadata-only | 175 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

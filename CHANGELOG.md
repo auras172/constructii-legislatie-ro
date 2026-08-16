@@ -162,6 +162,8 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: reconcile repository housekeeping snapshot
+- docs: reconcile repository housekeeping snapshot
 - docs: refresh project README
 - docs: regenerate numbered legislation index
 - docs: regenerate numbered legislation index
