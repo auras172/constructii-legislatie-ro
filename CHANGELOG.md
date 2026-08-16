@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 152/1998 national housing agency
 - feat(metadata): add Legea 196/2018 homeowners associations
 - feat(metadata): add Legea 114/1996 housing law
 - feat(metadata): add HG 395/2016 public procurement norms
@@ -176,6 +177,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #513 from auras172/codex/metadata-lege-152-1998
 - Merge pull request #512 from auras172/codex/metadata-lege-196-2018
 - Merge pull request #511 from auras172/codex/metadata-lege-114-1996
 - Merge pull request #510 from auras172/codex/metadata-hg-395-2016

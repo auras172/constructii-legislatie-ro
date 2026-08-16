@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-16T09:35:15.596Z",
+  "generated_at": "2026-08-16T09:42:32.359Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 216,
+    "acts_total": 217,
     "acts_full_text": 50,
-    "acts_metadata_only": 166,
+    "acts_metadata_only": 167,
     "article_anchors_total": 2727,
-    "import_logs_total": 238,
+    "import_logs_total": 239,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 398,
+    "confirmed_relationships": 400,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -548,6 +548,19 @@
       "anchor_count": 0,
       "file": "legi/lege-114-1996.md",
       "metadata_file": "metadata/acts/lege-114-1996.json"
+    },
+    {
+      "slug": "lege-121-2014",
+      "title": "Legea nr. 121 din 18 iulie 2014 privind eficiența energetică",
+      "short_title": "Legea 121/2014 privind eficiența energetică",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 23,
+      "anchor_count": 0,
+      "file": "legi/lege-121-2014.md",
+      "metadata_file": "metadata/acts/lege-121-2014.json"
     },
     {
       "slug": "lege-141-2026",
