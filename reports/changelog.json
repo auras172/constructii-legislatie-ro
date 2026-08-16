@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T09:53:32.978Z",
+  "generated_at": "2026-08-16T10:20:52.782Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 33/1994 expropriation law",
         "feat(metadata): add Legea 121/2014 energy efficiency",
         "feat(metadata): add Legea 152/1998 national housing agency",
         "feat(metadata): add Legea 196/2018 homeowners associations",
@@ -175,6 +176,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #515 from auras172/codex/metadata-lege-33-1994",
         "Merge pull request #514 from auras172/codex/metadata-lege-121-2014",
         "Merge pull request #513 from auras172/codex/metadata-lege-152-1998",
         "Merge pull request #512 from auras172/codex/metadata-lege-196-2018",
@@ -803,6 +805,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 204
+    "infrastructure_changes": 205
   }
 }
