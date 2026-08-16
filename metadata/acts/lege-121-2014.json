@@ -1,0 +1,65 @@
+{
+  "title": "Legea nr. 121 din 18 iulie 2014 privind eficiența energetică",
+  "short_title": "Legea 121/2014 privind eficiența energetică",
+  "canonical_citation": "Legea nr. 121/2014",
+  "type": "lege",
+  "number": "121",
+  "year": "2014",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "nzeb",
+  "topics": [
+    "eficienta-energetica",
+    "performanta-energetica",
+    "cladiri",
+    "energie",
+    "renovare-energetica"
+  ],
+  "status": "unknown",
+  "issue_date": "2014-07-18",
+  "publication_date": "2014-08-01",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497",
+  "official_source": "Portal Legislativ — forma consolidată; publicată inițial în Monitorul Oficial nr. 574 din 1 august 2014",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-16",
+  "version": "forma consolidată afișată de Portalul Legislativ; istoricul modificărilor este reflectat în notele oficiale ale formei verificate",
+  "article_count": 23,
+  "annex_count": 12,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-372-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit capitolul V din Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată.",
+      "source_article": "Art. 9; forma consolidată",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    },
+    {
+      "type": "references",
+      "target": "lege-196-2018",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit art. 83 alin. (2) din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor.",
+      "source_article": "Art. 10; forma consolidată",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "rights_note": "Import metadata-only. Portalul Legislativ rămâne sursa oficială. Forma verificată are 23 de blocuri de articole și 12 blocuri de anexe, inclusiv articole/anexe introduse prin modificări. Nu se înregistrează effective_date deoarece nu a fost identificată o clauză calendaristică globală explicită pentru intrarea în vigoare a legii. Nu se importă textul integral sau anexele.",
+  "tags": [
+    "eficienta-energetica",
+    "performanta-energetica",
+    "cladiri",
+    "energie",
+    "renovare-energetica",
+    "lege",
+    "metadata-only"
+  ]
+}

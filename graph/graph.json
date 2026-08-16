@@ -302,6 +302,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-121-2014",
+      "label": "Legea 121/2014 privind eficiența energetică",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-141-2026",
       "label": "Legea 141/2026",
       "type": "lege",
@@ -2448,6 +2456,32 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-121-2014",
+      "target": "lege-196-2018",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit art. 83 alin. (2) din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor.",
+      "source_article": "Art. 10; forma consolidată",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497"
+    },
+    {
+      "source": "lege-121-2014",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit capitolul V din Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată.",
+      "source_article": "Art. 9; forma consolidată",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497"
     },
     {
       "source": "lege-141-2026",
@@ -6298,8 +6332,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 216,
-    "confirmed_edges": 398,
+    "total_nodes": 217,
+    "confirmed_edges": 400,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
