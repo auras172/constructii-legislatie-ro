@@ -1054,6 +1054,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-2641-2017",
+      "label": "Ordin MDRAPFE 2641/2017 — Mc 001",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
@@ -4291,6 +4299,59 @@
       "notes": "Modificările au ca obiect părți, puncte, figuri, anexe și tabele din C 107-2005; nu se creează nod separat pentru reglementarea tehnică."
     },
     {
+      "source": "ordin-2641-2017",
+      "target": "hg-203-2003",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (2) și (4) din Regulamentul aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188101"
+    },
+    {
+      "source": "ordin-2641-2017",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188101"
+    },
+    {
+      "source": "ordin-2641-2017",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 6 alin. (3) și art. 36 din Legea nr. 372/2005, iar ordinul este emis în aplicarea prevederilor acestei legi.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188101"
+    },
+    {
+      "source": "ordin-2641-2017",
+      "target": "ordin-mtct-2055-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Nota din anexa nr. 1 citează explicit Reglementarea tehnică C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.055/2005, pentru zonarea climatică din partea a 3-a C 107/3.",
+      "source_article": "Anexa nr. 1, nota *3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188101",
+      "notes": "Referință explicită în anexa ordinului; nu este relație amends."
+    },
+    {
       "source": "ordin-839-2009",
       "target": "hg-525-1996",
       "relationship": "references",
@@ -6619,8 +6680,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 226,
-    "confirmed_edges": 416,
+    "total_nodes": 227,
+    "confirmed_edges": 420,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
