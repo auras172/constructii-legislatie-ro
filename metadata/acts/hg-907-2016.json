@@ -1,0 +1,52 @@
+{
+  "title": "Hotărârea Guvernului nr. 907 din 29 noiembrie 2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice",
+  "short_title": "HG 907/2016",
+  "canonical_citation": "Hotărârea Guvernului nr. 907/2016",
+  "type": "hotarare",
+  "number": "907",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": ["documentatii-tehnico-economice", "investitii-publice", "constructii", "finantare-publica"],
+  "status": "unknown",
+  "issue_date": "2016-11-29",
+  "publication_date": "2016-12-29",
+  "effective_date": "2017-02-27",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185166",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 907 din 29 noiembrie 2016; publicată în Monitorul Oficial nr. 1.061 din 29 decembrie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2MQL3S6JE63U01L6GROBR00WMR",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Forma originală oficială a hotărârii şi a anexelor; forma consolidată reflectă modificări ulterioare, inclusiv HG nr. 1.116/2023, care nu este creată ca nod în acest import",
+  "article_count": 18,
+  "annex_count": 11,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 lit. e) defineşte intervenţia la construcţie existentă prin raportare explicită la prevederile Legii nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Articolul 2 lit. e)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185166",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    },
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 lit. h) defineşte beneficiarul investiţiei prin raportare explicită la prevederile Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcţii.",
+      "source_article": "Articolul 2 lit. h)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185166",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "rights_note": "Forma originală a HG 907/2016 are 18 articole şi 11 anexe. Portalul indică intrarea în vigoare la 27 februarie 2017 în rezultatul oficial al publicaţiei; effective_date este preluată explicit din acel câmp. Forma consolidată afişează modificări ulterioare, inclusiv HG nr. 1.116/2023, documentată extern fără nod sau relaţie. Legea nr. 500/2002, Legea nr. 273/2006, OUG nr. 80/2016 şi Legea nr. 304/2004 sunt citate, dar ţintele nu există local şi nu sunt create. Anexele nu sunt importate ca text integral sau noduri separate.",
+  "tags": ["guvern", "investitii-publice", "documentatii-tehnico-economice", "constructii", "metadata-only"]
+}

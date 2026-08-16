@@ -278,6 +278,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-907-2016",
+      "label": "HG 907/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-925-1995",
       "label": "HG 925/1995",
       "type": "hotarare",
@@ -2459,6 +2467,32 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-90-2008.json"
+    },
+    {
+      "source": "hg-907-2016",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 lit. e) defineşte intervenţia la construcţie existentă prin raportare explicită la prevederile Legii nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Articolul 2 lit. e)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185166"
+    },
+    {
+      "source": "hg-907-2016",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 2 lit. h) defineşte beneficiarul investiţiei prin raportare explicită la prevederile Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcţii.",
+      "source_article": "Articolul 2 lit. h)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185166"
     },
     {
       "source": "hg-925-1995",
@@ -6680,8 +6714,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 227,
-    "confirmed_edges": 420,
+    "total_nodes": 228,
+    "confirmed_edges": 422,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

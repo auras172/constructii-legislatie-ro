@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-16T12:12:13.833Z",
+  "generated_at": "2026-08-16T12:28:15.094Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MDRAPFE 2641/2017",
+        "feat(metadata): add Ordinul MDRAPFE 2641/2017 energy methodology amendment",
         "feat(metadata): add Ordin MDRT 386/2016",
         "feat(metadata): add Ordin MDRT 386/2016 C 107 amendment",
         "feat(metadata): add Ordin MDRT 1590/2012",
@@ -823,6 +825,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 215
+    "infrastructure_changes": 217
   }
 }
