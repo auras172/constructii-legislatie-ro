@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T22:50:21.995Z",
+  "generated_at": "2026-08-16T09:04:31.642Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 395/2016 public procurement norms",
         "feat(metadata): add Legea 98/2016 public procurement",
         "feat(metadata): add Legea 255/2010 expropriation framework",
         "feat(metadata): add Legea 422/2001 historic monuments protection",
@@ -170,6 +171,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #510 from auras172/codex/metadata-hg-395-2016",
         "Merge pull request #509 from auras172/codex/metadata-lege-98-2016",
         "Merge pull request #508 from auras172/codex/metadata-lege-255-2010",
         "Merge pull request #507 from auras172/codex/metadata-lege-422-2001",
@@ -793,6 +795,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 199
+    "infrastructure_changes": 200
   }
 }

@@ -294,6 +294,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-114-1996",
+      "label": "Legea 114/1996 a locuinței",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-141-2026",
       "label": "Legea 141/2026",
       "type": "lege",
@@ -6261,7 +6269,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 213,
+    "total_nodes": 214,
     "confirmed_edges": 397,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
