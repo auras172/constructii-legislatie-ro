@@ -28,6 +28,7 @@
   "article_count": 3,
   "annex_count": 1,
   "import_method": "metadata-only",
+  "amended_by": ["ordin-2513-2010"],
   "relationships": [
     {
       "type": "references",
@@ -39,6 +40,18 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784",
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-16"
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-2513-2010",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 2.513/2010 prevede explicit modificarea reglementării tehnice C 107-2005 aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Ordinul nr. 2.513/2010, Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Relația inversă este append-only și păstrează C 107-2005 ca anexă a ordinului aprobator."
     }
   ],
   "rights_note": "Import metadata-only pentru actul aprobator. Art. 1 aprobă reglementarea tehnică C 107-2005 ca anexă care face parte integrantă din ordin; nota oficială precizează că anexa se publică în M.Of. nr. 1.124 bis. Nu se creează nod separat pentru normativ și nu se importă textul tehnic. Ordinul are 3 articole și 1 anexă. Art. 3 folosește formula «la data intrării în vigoare a prezentului ordin» fără să stabilească o dată calendaristică, astfel că effective_date este omisă. Portalul indică modificări ulterioare prin ordine distincte, care nu sunt create ca noduri în acest import.",
