@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-16T11:48:24.591Z
+Generated: 2026-08-16T12:00:58.441Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 225 |
+| Total metadata entries | 226 |
 | Full-text acts | 50 |
-| Metadata-only acts | 175 |
-| Import log files | 247 |
-| Total relationship links | 438 |
+| Metadata-only acts | 176 |
+| Import log files | 248 |
+| Total relationship links | 440 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -219,10 +219,11 @@ Generated: 2026-08-16T11:48:24.591Z
 | ordin-mdrt-2701-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdrt-3482-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
+| ordin-mdrt-386-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mlpda-3454-2019 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mlpda-3494-2020 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mtct-1430-2005 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-mtct-2055-2005 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mtct-2055-2005 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mti-1468-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-403-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-595-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -256,7 +257,7 @@ Generated: 2026-08-16T11:48:24.591Z
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
-| nzeb | 8 |
+| nzeb | 9 |
 | autorizatii | 8 |
 | isc | 7 |
 | receptie | 5 |
@@ -267,7 +268,7 @@ Generated: 2026-08-16T11:48:24.591Z
 
 | Value | Count |
 | --- | --- |
-| minister | 126 |
+| minister | 127 |
 | guvern | 42 |
 | parlament | 30 |
 | autoritate | 19 |
@@ -288,9 +289,9 @@ Generated: 2026-08-16T11:48:24.591Z
 | 2021 | 8 |
 | 2005 | 7 |
 | 2013 | 7 |
+| 2016 | 7 |
 | 2012 | 6 |
 | 2014 | 6 |
-| 2016 | 6 |
 | 2006 | 4 |
 | 2009 | 4 |
 | 2019 | 4 |
@@ -316,7 +317,7 @@ Generated: 2026-08-16T11:48:24.591Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 175 |
+| metadata-only | 176 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

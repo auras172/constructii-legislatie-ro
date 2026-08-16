@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDRT 1590/2012
+- feat(metadata): add Ordinul MDRT 1590/2012 C 107/3 amendment
 - feat(metadata): add Ordinul 2513/2010 C 107 amendment
 - feat(metadata): add C 107-2005 thermal calculation standard
 - feat(metadata): add NP 122:2010 approving ordinance metadata

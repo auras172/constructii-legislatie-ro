@@ -1614,6 +1614,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdrt-386-2016",
+      "label": "Ordin MDRT 386/2016 — C 107-2005",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mlpda-3454-2019",
       "label": "Ordin MLPDA 3454/2019",
       "type": "ordin",
@@ -6107,6 +6115,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153772"
     },
     {
+      "source": "ordin-mdrt-386-2016",
+      "target": "ordin-mtct-2055-2005",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Partea a 3-a din reglementarea tehnică C 107-2005, aprobată prin Ordinul nr. 2.055/2005, se modifică şi se completează.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177764",
+      "notes": "Modificarea priveşte anexa D şi introducerea anexei L în Partea a 3-a; nu se creează nod separat pentru C 107-2005 sau C 107/3."
+    },
+    {
       "source": "ordin-mlpda-3454-2019",
       "target": "ordin-839-2009",
       "relationship": "amends",
@@ -6199,6 +6221,20 @@
       "reviewed_at": "2026-08-16",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141187",
       "notes": "Relaţia priveşte modificarea Părţii a 3-a din reglementarea tehnică anexă; nu se creează nod separat pentru C 107/3."
+    },
+    {
+      "source": "ordin-mtct-2055-2005",
+      "target": "ordin-mdrt-386-2016",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 386/2016 prevede explicit modificarea şi completarea Părţii a 3-a din C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I al Ordinului nr. 386/2016",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177764",
+      "notes": "Relaţia inversă este append-only; C 107-2005 şi C 107/3 rămân reprezentate prin nodul ordinului aprobator."
     },
     {
       "source": "ordin-mti-1468-2023",
@@ -6583,8 +6619,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 225,
-    "confirmed_edges": 414,
+    "total_nodes": 226,
+    "confirmed_edges": 416,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

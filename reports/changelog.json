@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-16T11:48:25.251Z",
+  "generated_at": "2026-08-16T12:00:59.082Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDRT 1590/2012",
+        "feat(metadata): add Ordinul MDRT 1590/2012 C 107/3 amendment",
         "feat(metadata): add Ordinul 2513/2010 C 107 amendment",
         "feat(metadata): add C 107-2005 thermal calculation standard",
         "feat(metadata): add NP 122:2010 approving ordinance metadata",
@@ -819,6 +821,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 211
+    "infrastructure_changes": 213
   }
 }
