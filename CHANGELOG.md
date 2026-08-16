@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add CR 1-1-3/2012 approving ordinance metadata
 - feat(metadata): add CR 0-2012 design basis metadata
 - feat(metadata): add Legea 33/1994 expropriation law
 - feat(metadata): add Legea 121/2014 energy efficiency
@@ -180,6 +181,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #517 from auras172/codex/metadata-cr1-1-3-2012
 - Merge pull request #516 from auras172/codex/metadata-cr0-2012
 - Merge pull request #515 from auras172/codex/metadata-lege-33-1994
 - Merge pull request #514 from auras172/codex/metadata-lege-121-2014
