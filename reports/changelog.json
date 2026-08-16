@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T09:21:08.999Z",
+  "generated_at": "2026-08-16T09:35:16.227Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 196/2018 homeowners associations",
         "feat(metadata): add Legea 114/1996 housing law",
         "feat(metadata): add HG 395/2016 public procurement norms",
         "feat(metadata): add Legea 98/2016 public procurement",
@@ -172,6 +173,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #512 from auras172/codex/metadata-lege-196-2018",
         "Merge pull request #511 from auras172/codex/metadata-lege-114-1996",
         "Merge pull request #510 from auras172/codex/metadata-hg-395-2016",
         "Merge pull request #509 from auras172/codex/metadata-lege-98-2016",
@@ -797,6 +799,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 201
+    "infrastructure_changes": 202
   }
 }

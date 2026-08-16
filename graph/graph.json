@@ -310,6 +310,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-152-1998",
+      "label": "Legea 152/1998 privind Agenția Națională pentru Locuințe",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-163-2016",
       "label": "Legea 163/2016",
       "type": "lege",
@@ -2454,6 +2462,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-141-2026.json"
+    },
+    {
+      "source": "lege-152-1998",
+      "target": "lege-114-1996",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 8 alin. (2) și alin. (4) lit. a) citează explicit Legea nr. 114/1996, republicată, pentru regimul juridic, repartizarea și recalcularea chiriei unor locuințe realizate prin programele A.N.L.",
+      "source_article": "Art. 8 alin. (2) și alin. (4) lit. a)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130188"
     },
     {
       "source": "lege-163-2016",
@@ -6277,8 +6298,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 215,
-    "confirmed_edges": 397,
+    "total_nodes": 216,
+    "confirmed_edges": 398,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
