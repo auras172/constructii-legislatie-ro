@@ -350,6 +350,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-196-2018",
+      "label": "Legea 196/2018 a asociațiilor de proprietari",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-204-2020",
       "label": "Legea 204/2020",
       "type": "lege",
@@ -6269,7 +6277,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 214,
+    "total_nodes": 215,
     "confirmed_edges": 397,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
