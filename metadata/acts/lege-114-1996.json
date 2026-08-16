@@ -1,0 +1,41 @@
+{
+  "title": "Legea nr. 114 din 11 octombrie 1996 (republicată) privind locuințele",
+  "short_title": "Legea 114/1996 a locuinței",
+  "canonical_citation": "Legea nr. 114/1996",
+  "type": "lege",
+  "number": "114",
+  "year": "1996",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "locuinte",
+    "constructii",
+    "fond-locativ",
+    "locuinte-sociale",
+    "locuinte-de-necesitate"
+  ],
+  "status": "unknown",
+  "issue_date": "1996-10-11",
+  "publication_date": "1997-12-31",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70658",
+  "official_source": "Portal Legislativ — forma consolidată; publicată inițial în Monitorul Oficial nr. 254 din 21 octombrie 1996 și republicată în Monitorul Oficial nr. 393 din 31 decembrie 1997",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/70658",
+  "version_kind": "republicat",
+  "last_checked": "2026-08-16",
+  "version": "forma consolidată afișată de Portalul Legislativ; republicarea este indicată în temeiul art. II din Legea nr. 196/1997",
+  "article_count": 72,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only. Portalul Legislativ rămâne sursa oficială. Nu se înregistrează effective_date deoarece forma verificată nu oferă o clauză calendaristică unică pentru intrarea în vigoare a legii inițiale. Art. 73 enumeră dispoziții abrogate, inclusiv dispoziții din Legea nr. 50/1991; schema nu suportă relații de tip repeals, iar operațiunea nu este remapată la alt tip. Nu se importă textul integral sau anexele.",
+  "tags": [
+    "locuinte",
+    "constructii",
+    "fond-locativ",
+    "locuinte-sociale",
+    "lege",
+    "forma-republicata",
+    "metadata-only"
+  ]
+}
