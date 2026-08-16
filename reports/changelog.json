@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T10:53:46.881Z",
+  "generated_at": "2026-08-16T11:03:13.808Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP 122:2010 approving ordinance metadata",
         "feat(metadata): add CR 1-1-4/2012 wind action metadata",
         "feat(metadata): add CR 1-1-3/2012 approving ordinance metadata",
         "feat(metadata): add CR 0-2012 design basis metadata",
@@ -179,6 +180,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #519 from auras172/codex/metadata-np122-2010",
         "Merge pull request #518 from auras172/codex/metadata-cr1-1-4-2012",
         "Merge pull request #517 from auras172/codex/metadata-cr1-1-3-2012",
         "Merge pull request #516 from auras172/codex/metadata-cr0-2012",
@@ -811,6 +813,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 208
+    "infrastructure_changes": 209
   }
 }

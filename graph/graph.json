@@ -1622,6 +1622,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mtct-2055-2005",
+      "label": "Ordin MTCT 2055/2005 — C 107-2005",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mti-1468-2023",
       "label": "Ordin MTI 1468/2023",
       "type": "ordin",
@@ -6108,6 +6116,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
     },
     {
+      "source": "ordin-mtct-2055-2005",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784"
+    },
+    {
       "source": "ordin-mti-1468-2023",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -6490,8 +6511,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 222,
-    "confirmed_edges": 409,
+    "total_nodes": 223,
+    "confirmed_edges": 410,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
