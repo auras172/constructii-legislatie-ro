@@ -28,7 +28,7 @@
   "article_count": 3,
   "annex_count": 1,
   "import_method": "metadata-only",
-  "amended_by": ["ordin-2513-2010", "ordin-mdrt-1590-2012"],
+  "amended_by": ["ordin-2513-2010", "ordin-mdrt-1590-2012", "ordin-mdrt-386-2016"],
   "relationships": [
     {
       "type": "references",
@@ -64,6 +64,18 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-16",
       "notes": "Relaţia priveşte modificarea Părţii a 3-a din reglementarea tehnică anexă; nu se creează nod separat pentru C 107/3."
+    },
+    {
+      "type": "amended_by",
+      "target": "ordin-mdrt-386-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Ordinului nr. 386/2016 prevede explicit modificarea şi completarea Părţii a 3-a din C 107-2005, aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Articolul I al Ordinului nr. 386/2016",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177764",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Relaţia inversă este append-only; C 107-2005 şi C 107/3 rămân reprezentate prin nodul ordinului aprobator."
     }
   ],
   "rights_note": "Import metadata-only pentru actul aprobator. Art. 1 aprobă reglementarea tehnică C 107-2005 ca anexă care face parte integrantă din ordin; nota oficială precizează că anexa se publică în M.Of. nr. 1.124 bis. Nu se creează nod separat pentru normativ și nu se importă textul tehnic. Ordinul are 3 articole și 1 anexă. Art. 3 folosește formula «la data intrării în vigoare a prezentului ordin» fără să stabilească o dată calendaristică, astfel că effective_date este omisă. Portalul indică modificări ulterioare prin ordine distincte, care nu sunt create ca noduri în acest import.",

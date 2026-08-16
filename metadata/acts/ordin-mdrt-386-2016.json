@@ -1,0 +1,43 @@
+{
+  "title": "Ordin nr. 386 din 28 martie 2016 pentru modificarea şi completarea Reglementării tehnice \"Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor\", indicativ C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcţiilor şi turismului nr. 2.055/2005",
+  "short_title": "Ordin MDRT 386/2016 — C 107-2005",
+  "canonical_citation": "Ordinul nr. 386/2016",
+  "type": "ordin",
+  "number": "386",
+  "year": "2016",
+  "issuer": "Ministerul Dezvoltării Regionale şi Administraţiei Publice",
+  "issuing_body_kind": "minister",
+  "domain": "nzeb",
+  "topics": ["c107-2005", "c107-3", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2016-03-28",
+  "publication_date": "2016-04-21",
+  "effective_date": "2016-04-21",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177764",
+  "official_source": "Portal Legislativ — Ordinul nr. 386 din 28 martie 2016; publicat în Monitorul Oficial nr. 306 din 21 aprilie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0INU0U7XB882E1L5XHD1AVU0WH",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Forma oficială originală a ordinului modificator; C 107-2005 rămâne reglementarea tehnică anexată ordinului aprobator şi nu este creat ca nod separat",
+  "article_count": 4,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "amends": ["ordin-mtct-2055-2005"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mtct-2055-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Partea a 3-a din reglementarea tehnică C 107-2005, aprobată prin Ordinul nr. 2.055/2005, se modifică şi se completează.",
+      "source_article": "Articolul I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177764",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Modificarea priveşte anexa D şi introducerea anexei L în Partea a 3-a; nu se creează nod separat pentru C 107-2005 sau C 107/3."
+    }
+  ],
+  "rights_note": "Articolul I modifică şi completează Partea a 3-a din C 107-2005, inclusiv prin înlocuirea anexei D şi introducerea anexei L. Articolele II–III reglementează utilizarea zonei climatice V şi caracterul integrant al anexelor nr. 1 şi 2. Articolul IV dispune publicarea, iar Portalul indică intrarea în vigoare la 21 aprilie 2016. Statusul curent nu este declarat şi rămâne unknown. Textul tehnic şi anexele nu sunt importate.",
+  "tags": ["mdrt", "nzeb", "c107-2005", "c107-3", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica", "metadata-only"]
+}
