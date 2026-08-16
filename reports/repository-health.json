@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T12:12:13.175Z",
+  "generated_at": "2026-08-16T12:28:14.405Z",
   "summary": {
-    "total_metadata_entries": 227,
+    "total_metadata_entries": 228,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 177,
-    "total_import_logs": 249,
-    "total_relationship_links": 444,
+    "total_metadata_only_acts": 178,
+    "total_import_logs": 250,
+    "total_relationship_links": 446,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -314,6 +314,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-907-2016",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -2056,7 +2065,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 23,
+      "urbanism": 24,
       "executie": 27,
       "calitate": 89,
       "nzeb": 10,
@@ -2071,7 +2080,7 @@
     },
     "issuers": {
       "minister": 128,
-      "guvern": 42,
+      "guvern": 43,
       "parlament": 30,
       "other": 8,
       "autoritate": 19
@@ -2100,7 +2109,7 @@
       "2013": 7,
       "2014": 6,
       "2015": 3,
-      "2016": 7,
+      "2016": 8,
       "2017": 4,
       "2018": 8,
       "2019": 4,
@@ -2114,7 +2123,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 177,
+      "metadata-only": 178,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
