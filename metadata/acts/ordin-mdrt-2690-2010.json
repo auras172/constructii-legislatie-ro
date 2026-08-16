@@ -1,0 +1,53 @@
+{
+  "title": "Ordin nr. 2.690 din 29 decembrie 2010 pentru aprobarea Reglementării tehnice «Normativ privind determinarea valorilor caracteristice şi de calcul ale parametrilor geotehnici, indicativ NP 122: 2010»",
+  "short_title": "Ordin MDRT 2690/2010",
+  "canonical_citation": "Ordinul nr. 2.690/2010",
+  "type": "ordin",
+  "number": "2690",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": ["parametri-geotehnici", "np122-2010", "reglementare-tehnica", "constructii"],
+  "status": "unknown",
+  "issue_date": "2010-12-29",
+  "publication_date": "2011-03-04",
+  "effective_date": "2011-04-03",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126560",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.690/29.12.2010; Monitorul Oficial al României, Partea I, nr. 158 din 04.03.2011 și nr. 158 bis pentru anexa NP 122:2010",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G36VZ0WNJ3R6MA3PCGFVBWK2Y5K",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Ordin original verificat prin recordul Portal Legislativ; NP 122:2010 este anexă și nu este importat ca text sau nod separat",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Art. 1 aprobă reglementarea tehnică NP 122:2010 ca anexă. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare; 2011-04-03 este derivată mecanic din publicarea la 04.03.2011. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003. HG nr. 1.016/2004, HG nr. 1.631/2009 și Directivele 98/34/CE și 98/48/CE rămân referințe externe. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": ["lege-10-1995", "hg-203-2003"],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126560",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 2 alin. (3) și (4) din regulamentul aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126560",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "tags": ["mdrt", "executie", "parametri-geotehnici", "np122-2010", "reglementare-tehnica"]
+}
