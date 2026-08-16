@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add C 107-2005 thermal calculation standard
 - feat(metadata): add NP 122:2010 approving ordinance metadata
 - feat(metadata): add CR 1-1-4/2012 wind action metadata
 - feat(metadata): add CR 1-1-3/2012 approving ordinance metadata
@@ -183,6 +184,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #520 from auras172/codex/metadata-c107-2005
 - Merge pull request #519 from auras172/codex/metadata-np122-2010
 - Merge pull request #518 from auras172/codex/metadata-cr1-1-4-2012
 - Merge pull request #517 from auras172/codex/metadata-cr1-1-3-2012

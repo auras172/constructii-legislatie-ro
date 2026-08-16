@@ -1,0 +1,43 @@
+{
+  "title": "Ordin nr. 2.513 din 22 noiembrie 2010 pentru modificarea Reglementării tehnice «Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor», indicativ C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcţiilor şi turismului nr. 2.055/2005",
+  "short_title": "Ordin MDRT 2513/2010",
+  "canonical_citation": "Ordinul nr. 2.513/2010",
+  "type": "ordin",
+  "number": "2513",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "nzeb",
+  "topics": ["c107-2005", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica"],
+  "status": "unknown",
+  "issue_date": "2010-11-22",
+  "publication_date": "2010-12-08",
+  "effective_date": "2011-01-01",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.513/22.11.2010; Monitorul Oficial al României, Partea I, nr. 820 din 08.12.2010",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G1ZK9R3L524SAV2VO5RQ7RURPLY",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "Forma oficială originală a ordinului modificator; C 107-2005 rămâne anexă a ordinului aprobator și nu este creat ca nod separat",
+  "article_count": 3,
+  "annex_count": 4,
+  "import_method": "metadata-only",
+  "rights_note": "Art. I prevede explicit că reglementarea tehnică C 107-2005, aprobată prin Ordinul nr. 2.055/2005, se modifică, inclusiv prin înlocuirea unor figuri, puncte, anexe și tabele. Art. II stabilește că anexele nr. 1-4 fac parte integrantă din ordin. Art. III fixează intrarea în vigoare la 1 ianuarie 2011. Statusul curent nu este declarat și rămâne unknown. Textul anexelor și al reglementării tehnice nu este importat.",
+  "amends": ["ordin-mtct-2055-2005"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mtct-2055-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Reglementarea tehnică C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.055/2005, se modifică după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "notes": "Modificările au ca obiect părți, puncte, figuri, anexe și tabele din C 107-2005; nu se creează nod separat pentru reglementarea tehnică."
+    }
+  ],
+  "tags": ["mdrt", "nzeb", "c107-2005", "calcul-termotehnic", "eficienta-energetica", "modificare-reglementare-tehnica"]
+}

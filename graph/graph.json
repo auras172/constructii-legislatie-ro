@@ -1046,6 +1046,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-2513-2010",
+      "label": "Ordin MDRT 2513/2010",
+      "type": "ordin",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-839-2009",
       "label": "Ordin MDRAP 839/2009",
       "type": "ordin",
@@ -4253,6 +4261,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259580"
     },
     {
+      "source": "ordin-2513-2010",
+      "target": "ordin-mtct-2055-2005",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Reglementarea tehnică C 107-2005, aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.055/2005, se modifică după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+      "notes": "Modificările au ca obiect părți, puncte, figuri, anexe și tabele din C 107-2005; nu se creează nod separat pentru reglementarea tehnică."
+    },
+    {
       "source": "ordin-839-2009",
       "target": "hg-525-1996",
       "relationship": "references",
@@ -6129,6 +6151,20 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784"
     },
     {
+      "source": "ordin-mtct-2055-2005",
+      "target": "ordin-2513-2010",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I din Ordinul nr. 2.513/2010 prevede explicit modificarea reglementării tehnice C 107-2005 aprobată prin Ordinul nr. 2.055/2005.",
+      "source_article": "Ordinul nr. 2.513/2010, Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124251",
+      "notes": "Relația inversă este append-only și păstrează C 107-2005 ca anexă a ordinului aprobator."
+    },
+    {
       "source": "ordin-mti-1468-2023",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -6511,8 +6547,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 223,
-    "confirmed_edges": 410,
+    "total_nodes": 224,
+    "confirmed_edges": 412,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
