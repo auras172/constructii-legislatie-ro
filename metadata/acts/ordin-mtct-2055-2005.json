@@ -1,0 +1,54 @@
+{
+  "title": "Ordin nr. 2.055 din 29 noiembrie 2005 pentru aprobarea Reglementării tehnice \"Normativ privind calculul termotehnic al elementelor de construcţie ale clădirilor\", indicativ C 107-2005",
+  "short_title": "Ordin MTCT 2055/2005 — C 107-2005",
+  "canonical_citation": "Ordinul nr. 2.055/2005",
+  "type": "ordin",
+  "number": "2055",
+  "year": "2005",
+  "issuer": "Ministerul Transporturilor, Construcțiilor și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "nzeb",
+  "topics": [
+    "c107-2005",
+    "calcul-termotehnic",
+    "eficienta-energetica",
+    "elemente-de-constructie",
+    "reglementare-tehnica"
+  ],
+  "status": "unknown",
+  "issue_date": "2005-11-29",
+  "publication_date": "2005-12-13",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.055 din 29 noiembrie 2005; publicat în Monitorul Oficial nr. 1.124 din 13 decembrie 2005; anexa C 107-2005 publicată ulterior în nr. 1.124 bis",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784",
+  "version_kind": "original",
+  "last_checked": "2026-08-16",
+  "version": "forma oficială originală a ordinului aprobator; forma tehnică C 107-2005 este anexă publicată în M.Of. nr. 1.124 bis și a fost modificată ulterior prin ordine distincte",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66784",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-16"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru actul aprobator. Art. 1 aprobă reglementarea tehnică C 107-2005 ca anexă care face parte integrantă din ordin; nota oficială precizează că anexa se publică în M.Of. nr. 1.124 bis. Nu se creează nod separat pentru normativ și nu se importă textul tehnic. Ordinul are 3 articole și 1 anexă. Art. 3 folosește formula «la data intrării în vigoare a prezentului ordin» fără să stabilească o dată calendaristică, astfel că effective_date este omisă. Portalul indică modificări ulterioare prin ordine distincte, care nu sunt create ca noduri în acest import.",
+  "tags": [
+    "c107-2005",
+    "calcul-termotehnic",
+    "eficienta-energetica",
+    "elemente-de-constructie",
+    "reglementare-tehnica",
+    "ordin-ministerial",
+    "metadata-only"
+  ]
+}
