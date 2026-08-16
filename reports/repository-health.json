@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T12:28:14.405Z",
+  "generated_at": "2026-08-16T12:37:02.970Z",
   "summary": {
-    "total_metadata_entries": 228,
+    "total_metadata_entries": 229,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 178,
-    "total_import_logs": 250,
+    "total_metadata_only_acts": 179,
+    "total_import_logs": 251,
     "total_relationship_links": 446,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -404,6 +404,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-18-1991",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -2065,7 +2074,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 24,
+      "urbanism": 25,
       "executie": 27,
       "calitate": 89,
       "nzeb": 10,
@@ -2081,12 +2090,12 @@
     "issuers": {
       "minister": 128,
       "guvern": 43,
-      "parlament": 30,
+      "parlament": 31,
       "other": 8,
       "autoritate": 19
     },
     "publication_years": {
-      "1991": 1,
+      "1991": 2,
       "1994": 3,
       "1995": 2,
       "1996": 3,
@@ -2123,7 +2132,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 178,
+      "metadata-only": 179,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

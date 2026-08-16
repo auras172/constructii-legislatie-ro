@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 907/2016
+- feat(metadata): add HG 907/2016 metadata
 - feat(metadata): add Ordinul MDRAPFE 2641/2017
 - feat(metadata): add Ordinul MDRAPFE 2641/2017 energy methodology amendment
 - feat(metadata): add Ordin MDRT 386/2016

@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-16T12:28:14.405Z
+Generated: 2026-08-16T12:37:02.970Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 228 |
+| Total metadata entries | 229 |
 | Full-text acts | 50 |
-| Metadata-only acts | 178 |
-| Import log files | 250 |
+| Metadata-only acts | 179 |
+| Import log files | 251 |
 | Total relationship links | 446 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -62,6 +62,7 @@ Generated: 2026-08-16T12:28:14.405Z
 | lege-163-2016 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | lege-169-2026 | ✓ | ✓ | ✓ | ✓ | 5 | ✓ |
 | lege-177-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| lege-18-1991 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-190-2021 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-193-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | lege-196-2018 | ✗ | ✓ | ✓ | — | 0 | ✓ |
@@ -255,7 +256,7 @@ Generated: 2026-08-16T12:28:14.405Z
 | --- | --- |
 | calitate | 89 |
 | executie | 27 |
-| urbanism | 24 |
+| urbanism | 25 |
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
@@ -272,7 +273,7 @@ Generated: 2026-08-16T12:28:14.405Z
 | --- | --- |
 | minister | 128 |
 | guvern | 43 |
-| parlament | 30 |
+| parlament | 31 |
 | autoritate | 19 |
 | other | 8 |
 
@@ -304,6 +305,7 @@ Generated: 2026-08-16T12:28:14.405Z
 | 2002 | 3 |
 | 2008 | 3 |
 | 2015 | 3 |
+| 1991 | 2 |
 | 1995 | 2 |
 | 1997 | 2 |
 | 2000 | 2 |
@@ -311,7 +313,6 @@ Generated: 2026-08-16T12:28:14.405Z
 | 2004 | 2 |
 | 2007 | 2 |
 | 2011 | 2 |
-| 1991 | 1 |
 | 1998 | 1 |
 | 1999 | 1 |
 
@@ -319,7 +320,7 @@ Generated: 2026-08-16T12:28:14.405Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 178 |
+| metadata-only | 179 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
