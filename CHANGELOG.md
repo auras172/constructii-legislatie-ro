@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add NP 126/2010 metadata
+- feat(metadata): add NP 126/2010 metadata
 - feat(metadata): add Legea 24/2007
 - feat(metadata): add Legea 24/2007 green spaces law
 - feat(metadata): add Legea 213/1998
