@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-17T21:06:15.574Z",
+  "generated_at": "2026-08-17T21:13:29.016Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add NP 123/2010 approving order",
+        "feat(metadata): add NP 123/2010 approving order",
         "feat(metadata): add NP 126/2010 metadata",
         "feat(metadata): add NP 126/2010 metadata",
         "feat(metadata): add Legea 24/2007",
@@ -837,6 +839,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 229
+    "infrastructure_changes": 231
   }
 }

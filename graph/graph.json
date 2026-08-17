@@ -798,6 +798,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np120-2014",
+      "label": "NP 120-2014",
+      "type": "normativ",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np123-2010",
       "label": "Ordin MDRT 2691/2010 — NP 123:2010",
       "type": "ordin",
@@ -3863,6 +3871,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161148"
     },
     {
+      "source": "normativ-np120-2014",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare în construcții, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300"
+    },
+    {
+      "source": "normativ-np120-2014",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300"
+    },
+    {
       "source": "normativ-np123-2010",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -6814,8 +6848,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 234,
-    "confirmed_edges": 426,
+    "total_nodes": 235,
+    "confirmed_edges": 428,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

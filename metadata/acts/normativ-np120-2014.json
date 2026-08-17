@@ -1,0 +1,68 @@
+{
+  "title": "Normativ privind cerințele de proiectare, execuție și monitorizare a excavațiilor adânci în zone urbane, indicativ NP 120-2014",
+  "short_title": "NP 120-2014",
+  "canonical_citation": "NP 120-2014",
+  "type": "normativ",
+  "number": "120",
+  "year": "2014",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": [
+    "geotehnica",
+    "excavatii-adanci",
+    "monitorizare",
+    "reglementare-tehnica",
+    "normativ"
+  ],
+  "status": "unknown",
+  "issue_date": "2014-10-29",
+  "publication_date": "2014-11-27",
+  "effective_date": "2014-12-27",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.104 din 29 octombrie 2014; Monitorul Oficial al României, Partea I, nr. 863 din 27 noiembrie 2014 și nr. 863 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300",
+  "version_kind": "original",
+  "last_checked": "2026-08-17",
+  "version": "Reglementarea tehnică NP 120-2014 aprobată prin Ordinul nr. 2.104/2014; anexa este parte integrantă și textul tehnic nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 2.104/29.10.2014 aprobă NP 120-2014 ca anexă. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003; ambele relații repo-locale sunt modelate ca implements. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare, iar 2014-12-27 este derivată mecanic din M.Of. 863/27.11.2014. Art. 3 abrogă la intrarea în vigoare Ordinul nr. 1.730/2006 pentru NP 120-2006; acesta și celelalte acte tehnice citate rămân referințe externe fără relații de lifecycle nesuportate. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": [
+    "lege-10-1995",
+    "hg-203-2003"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare în construcții, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/163300",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17"
+    }
+  ],
+  "tags": [
+    "geotehnica",
+    "excavatii-adanci",
+    "monitorizare",
+    "reglementare-tehnica",
+    "normativ"
+  ]
+}
