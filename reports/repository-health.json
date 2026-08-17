@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:04:15.231Z",
+  "generated_at": "2026-08-17T21:06:12.332Z",
   "summary": {
-    "total_metadata_entries": 233,
+    "total_metadata_entries": 234,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 183,
-    "total_import_logs": 255,
-    "total_relationship_links": 448,
+    "total_metadata_only_acts": 184,
+    "total_import_logs": 256,
+    "total_relationship_links": 450,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -894,6 +894,15 @@
     },
     {
       "slug": "normativ-np114-2014",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "normativ-np123-2010",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -2111,7 +2120,7 @@
   "statistics": {
     "domains": {
       "urbanism": 28,
-      "executie": 28,
+      "executie": 29,
       "calitate": 89,
       "nzeb": 10,
       "munca": 3,
@@ -2124,7 +2133,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 129,
+      "minister": 130,
       "guvern": 43,
       "parlament": 34,
       "other": 8,
@@ -2148,7 +2157,7 @@
       "2007": 3,
       "2008": 3,
       "2009": 4,
-      "2010": 22,
+      "2010": 23,
       "2011": 2,
       "2012": 6,
       "2013": 7,
@@ -2168,7 +2177,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 183,
+      "metadata-only": 184,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
