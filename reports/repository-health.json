@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T19:07:23.019Z",
+  "generated_at": "2026-08-17T19:31:12.888Z",
   "summary": {
-    "total_metadata_entries": 231,
+    "total_metadata_entries": 232,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 181,
-    "total_import_logs": 253,
+    "total_metadata_only_acts": 182,
+    "total_import_logs": 254,
     "total_relationship_links": 446,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -480,6 +480,15 @@
     },
     {
       "slug": "lege-213-1998",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
+      "slug": "lege-24-2007",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -2092,7 +2101,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 27,
+      "urbanism": 28,
       "executie": 27,
       "calitate": 89,
       "nzeb": 10,
@@ -2108,7 +2117,7 @@
     "issuers": {
       "minister": 128,
       "guvern": 43,
-      "parlament": 33,
+      "parlament": 34,
       "other": 8,
       "autoritate": 19
     },
@@ -2127,7 +2136,7 @@
       "2004": 2,
       "2005": 7,
       "2006": 4,
-      "2007": 2,
+      "2007": 3,
       "2008": 3,
       "2009": 4,
       "2010": 21,
@@ -2150,7 +2159,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 181,
+      "metadata-only": 182,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
