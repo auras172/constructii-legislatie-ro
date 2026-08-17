@@ -1,0 +1,68 @@
+{
+  "title": "Normativ privind fundarea construcțiilor pe pământuri cu umflări și contracții mari, indicativ NP 126:2010",
+  "short_title": "NP 126:2010",
+  "canonical_citation": "NP 126:2010",
+  "type": "normativ",
+  "number": "126",
+  "year": "2010",
+  "issuer": "Ministerul Dezvoltării Regionale și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "executie",
+  "topics": [
+    "geotehnica",
+    "fundatii",
+    "pamanturi-cu-umflari-si-contractii-mari",
+    "reglementare-tehnica",
+    "normativ"
+  ],
+  "status": "unknown",
+  "issue_date": "2012-05-31",
+  "publication_date": "2012-06-13",
+  "effective_date": "2012-07-13",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138774",
+  "official_source": "Portal Legislativ — Ordinul nr. 115 din 31 mai 2012; Monitorul Oficial al României, Partea I, nr. 397 din 13 iunie 2012 și nr. 397 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138774",
+  "version_kind": "original",
+  "last_checked": "2026-08-17",
+  "version": "Reglementarea tehnică NP 126:2010 aprobată prin Ordinul nr. 115/2012; anexa este parte integrantă și textul tehnic nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 115/31.05.2012 aprobă NP 126:2010 ca anexă. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003; ambele relații repo-locale sunt modelate ca implements. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare, iar 2012-07-13 este derivată mecanic din M.Of. nr. 397/13.06.2012. Art. 3 încetează aplicabilitatea NE 0001-1996, aprobat prin Ordinul nr. 11/N/1996; aceste acte și HG nr. 1016/2004, HG nr. 1631/2009 și directivele europene rămân referințe externe. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": [
+    "lege-10-1995",
+    "hg-203-2003"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138774",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din regulamentul privind tipurile de reglementări tehnice, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/138774",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-17"
+    }
+  ],
+  "tags": [
+    "geotehnica",
+    "fundatii",
+    "pamanturi-cu-umflari-si-contractii-mari",
+    "reglementare-tehnica",
+    "normativ"
+  ]
+}

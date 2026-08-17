@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-17T19:30:49.174Z",
+  "generated_at": "2026-08-17T20:04:17.068Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 24/2007",
+        "feat(metadata): add Legea 24/2007 green spaces law",
         "feat(metadata): add Legea 213/1998",
         "feat(metadata): add Legea 213/1998 metadata",
         "feat(metadata): add Legea 184/2001",
@@ -833,6 +835,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 225
+    "infrastructure_changes": 227
   }
 }
