@@ -422,6 +422,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-213-1998",
+      "label": "Legea 213/1998",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "partially_repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-243-2023",
       "label": "Legea 243/2023",
       "type": "lege",
@@ -6730,7 +6738,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 230,
+    "total_nodes": 231,
     "confirmed_edges": 422,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0

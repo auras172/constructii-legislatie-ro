@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 184/2001
+- feat(metadata): add Legea 184/2001 architecture profession law
 - feat(metadata): add Legea 18/1991
 - feat(metadata): add Legea 18/1991 land fund legislation
 - feat(metadata): add HG 907/2016
