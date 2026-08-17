@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-16T12:37:04.030Z",
+  "generated_at": "2026-08-17T18:59:28.148Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 18/1991",
+        "feat(metadata): add Legea 18/1991 land fund legislation",
         "feat(metadata): add HG 907/2016",
         "feat(metadata): add HG 907/2016 metadata",
         "feat(metadata): add Ordinul MDRAPFE 2641/2017",
@@ -827,6 +829,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 219
+    "infrastructure_changes": 221
   }
 }

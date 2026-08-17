@@ -366,6 +366,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-184-2001",
+      "label": "Legea 184/2001 — profesia de arhitect",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-190-2021",
       "label": "Legea 190/2021",
       "type": "lege",
@@ -6722,7 +6730,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 229,
+    "total_nodes": 230,
     "confirmed_edges": 422,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
