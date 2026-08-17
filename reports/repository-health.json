@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T12:37:02.970Z",
+  "generated_at": "2026-08-17T18:59:27.463Z",
   "summary": {
-    "total_metadata_entries": 229,
+    "total_metadata_entries": 230,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 179,
-    "total_import_logs": 251,
+    "total_metadata_only_acts": 180,
+    "total_import_logs": 252,
     "total_relationship_links": 446,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -408,6 +408,15 @@
     },
     {
       "slug": "lege-18-1991",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
+      "slug": "lege-184-2001",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -2074,7 +2083,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 25,
+      "urbanism": 26,
       "executie": 27,
       "calitate": 89,
       "nzeb": 10,
@@ -2090,7 +2099,7 @@
     "issuers": {
       "minister": 128,
       "guvern": 43,
-      "parlament": 31,
+      "parlament": 32,
       "other": 8,
       "autoritate": 19
     },
@@ -2103,7 +2112,7 @@
       "1998": 1,
       "1999": 1,
       "2000": 2,
-      "2001": 3,
+      "2001": 4,
       "2002": 3,
       "2003": 2,
       "2004": 2,
@@ -2132,7 +2141,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 179,
+      "metadata-only": 180,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
