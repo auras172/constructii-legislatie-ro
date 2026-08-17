@@ -430,6 +430,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-24-2007",
+      "label": "Legea 24/2007 — spațiile verzi",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-243-2023",
       "label": "Legea 243/2023",
       "type": "lege",
@@ -6738,7 +6746,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 231,
+    "total_nodes": 232,
     "confirmed_edges": 422,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
