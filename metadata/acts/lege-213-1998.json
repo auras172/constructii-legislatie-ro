@@ -1,0 +1,39 @@
+{
+  "title": "Legea nr. 213 din 17 noiembrie 1998 privind bunurile proprietate publică",
+  "short_title": "Legea 213/1998",
+  "canonical_citation": "Legea nr. 213/1998",
+  "type": "lege",
+  "number": "213",
+  "year": "1998",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "proprietate-publica",
+    "infrastructura",
+    "terenuri",
+    "bunuri-publice"
+  ],
+  "status": "partially_repealed",
+  "issue_date": "1998-11-17",
+  "publication_date": "1998-11-24",
+  "effective_date": "1999-01-23",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16209",
+  "official_source": "Portal Legislativ — legislatie.just.ro; publicată inițial în Monitorul Oficial nr. 448 din 24 noiembrie 1998",
+  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0XI4LGP8WKFIQ2E9SMPLQMPBVM",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-17",
+  "version": "Forma consolidată afișată de Portal Legislativ; titlul și publicarea inițiale sunt indicate în forma de bază; republicarea/istoricul modificărilor este documentat în import-log.",
+  "article_count": 27,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only. Forma consolidată indică abrogări parțiale prin Legea nr. 71/2011 și OUG nr. 57/2019, inclusiv abrogarea anexei; nu se creează noduri pentru modificatori sau succesorii externi. Portal Legislativ rămâne sursa oficială.",
+  "tags": [
+    "proprietate-publica",
+    "infrastructura",
+    "terenuri",
+    "bunuri-publice",
+    "lege"
+  ]
+}
