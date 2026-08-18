@@ -16,6 +16,7 @@
   "status": "repealed",
   "issue_date": "1994-06-14",
   "publication_date": "1994-07-28",
+  "effective_date": "1994-08-27",
   "publication_medium": "monitorul-oficial",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4820",
   "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 272/1994; Monitorul Oficial al României, Partea I, nr. 193 din 28 iulie 1994",
@@ -26,7 +27,7 @@
   "article_count": 23,
   "annex_count": 1,
   "import_method": "full-text",
-  "rights_note": "HG 272/1994 aprobă Regulamentul privind controlul de stat al calității în construcții. Art. 4 din HG 492/2018 confirmă abrogarea HG 272/1994 la intrarea în vigoare a HG 492/2018. Statusul este păstrat ca repealed; nu se introduce effective_date. Textul hotărârii și regulamentul anexat nu sunt importate. official_text_sha256: 879e916a4b2df8d452b2912a7b62331a0430da51beb9e8de2a111bc1098ce143.",
+  "rights_note": "HG 272/1994 aprobă Regulamentul privind controlul de stat al calității în construcții. Art. 3 din hotărâre stabilește intrarea în vigoare în termen de 30 de zile de la publicarea în Monitorul Oficial; effective_date 1994-08-27 este calculated_deterministically din publicarea la 1994-07-28 plus 30 de zile, fără ca data calendaristică finală să fie tipărită în act. Art. 4 din HG 492/2018 confirmă abrogarea HG 272/1994 la intrarea în vigoare a HG 492/2018, dar intervalul de valabilitate și repeal_date nu sunt modelate. Statusul rămâne repealed, iar toate relațiile existente sunt păstrate neschimbate. Nu se adaugă repeals, repealed_by sau effective_to, deoarece schema actuală nu le suportă. Referințele hg-272-1994/art-10 din relațiile existente corespund art. 6 din regulamentul anexat și nu sunt reinterpretate ca art. 10 al hotărârii. Textul hotărârii și regulamentul anexat nu sunt modificate. official_text_sha256: 879e916a4b2df8d452b2912a7b62331a0430da51beb9e8de2a111bc1098ce143.",
   "related_acts": [
     "ordin-mdrt-1496-2011",
     "ordin-mdrt-277-2012"
