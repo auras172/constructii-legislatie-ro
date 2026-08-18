@@ -1,0 +1,70 @@
+{
+  "title": "Normativ privind documentațiile geotehnice pentru construcții, indicativ NP 074-2014",
+  "short_title": "NP 074-2014",
+  "canonical_citation": "NP 074:2014",
+  "type": "normativ",
+  "number": "1330",
+  "year": "2014",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "geotehnica",
+    "documentatii-geotehnice",
+    "fundatii",
+    "constructii",
+    "reglementare-tehnica",
+    "normativ"
+  ],
+  "status": "unknown",
+  "issue_date": "2014-07-17",
+  "publication_date": "2014-08-11",
+  "effective_date": "2014-09-10",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160582",
+  "official_source": "Portal Legislativ — Ordinul nr. 1.330 din 17 iulie 2014; Monitorul Oficial al României, Partea I, nr. 597 din 11 august 2014 și nr. 597 bis pentru anexă",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/160582",
+  "version_kind": "original",
+  "last_checked": "2026-08-18",
+  "version": "Reglementarea tehnică NP 074-2014 aprobată prin Ordinul nr. 1.330/2014; anexa este parte integrantă și textul tehnic nu este importat",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Ordinul nr. 1.330/17.07.2014 aprobă NP 074-2014 ca anexă. Preambulul citează explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 și art. 2 alin. (3) și (4) din regulamentul aprobat prin HG nr. 203/2003; ambele relații repo-locale sunt modelate ca implements. Art. 2 prevede intrarea în vigoare la 30 de zile de la publicare, iar 2014-09-10 este calculată determinist din M.Of. 597/11.08.2014 plus 30 de zile. Art. 3 abrogă la data intrării în vigoare Ordinul nr. 128/2007 pentru NP 074-2007; acesta rămâne referință externă fără relație de lifecycle nesuportată. Auditul final direct a returnat HTTP 200 pentru detail și forma printabilă; o verificare browser anterioară din 2026-08-18T16:33:53.978Z a furnizat hashurile DOM documentate în import log. Statusul curent nu este declarat și rămâne unknown. Textul tehnic al anexei nu este importat.",
+  "implements": [
+    "lege-10-1995",
+    "hg-203-2003"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160582",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-18"
+    },
+    {
+      "type": "implements",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din regulamentul privind tipurile de reglementări tehnice și de cheltuieli aferente activității de reglementare în construcții, aprobat prin Hotărârea Guvernului nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160582",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-18"
+    }
+  ],
+  "tags": [
+    "geotehnica",
+    "documentatii-geotehnice",
+    "fundatii",
+    "constructii",
+    "reglementare-tehnica",
+    "normativ"
+  ]
+}
