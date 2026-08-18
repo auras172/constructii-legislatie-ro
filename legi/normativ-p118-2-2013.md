@@ -8515,3 +8515,5 @@ Textul oficial este extras mecanic din forma printabilă tehnică Portal Legisla
 Textul oficial este extras mecanic din [reglementarea tehnică Portal Legislativ, ID 206765](https://legislatie.just.ro/Public/DetaliiDocumentAfis/206765) și [forma printabilă oficială](https://legislatie.just.ro/Public/FormaPrintabila/00000G1BZERTEF08A3P0YWIAXLPS6WZT). Ordinul de aprobare este [Ordinul nr. 2.463/2013](https://legislatie.just.ro/Public/DetaliiDocument/151521), iar sursa instituțională complementară este [MDLPA](https://www.mdlpa.ro/pages/reglementare28).
 
 Inventar sursă: 1.910 blocuri `S_PCT`, 0 `S_ART`, 34 `S_ANX`, 113 tabele HTML și 35 imagini. Sunt importate 1.910 ancore `pct-*`, 34 ancore `anexa-*`, 112 tabele normative și toate cele 35 de imagini; tabelul de antet al documentului este exclus ca publication chrome. Forma este originală, nu consolidată; modificarea din 2018 este documentată, nu aplicată silențios. Nu s-a folosit OCR și nu s-au comis binare.
+
+Intrare în vigoare: 24 octombrie 2013, calculată determinist din termenul de 30 de zile prevăzut de art. 2 al Ordinului nr. 2463/2013.
