@@ -9,6 +9,9 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): import NP 134/2014 metadata
+- feat(metadata): add NP 074/2014 metadata
+- feat(metadata): add NP 074/2014 metadata
 - feat(metadata): add NP 120/2014 metadata
 - feat(metadata): add NP 120/2014 metadata
 - feat(metadata): add NP 123/2010 approving order
@@ -204,6 +207,7 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Fixes
+- fix(metadata): add P118/3-2015 effective date (#538)
 - fix(metadata): correct I7-2011 temporal dates
 - fix(metadata): correct I7-2011 temporal dates
 - fix(metadata): model Ordin 227 approval relationship

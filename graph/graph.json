@@ -854,6 +854,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "normativ-np134-2014",
+      "label": "NP 134-2014",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "normativ-np24-2022",
       "label": "NP 24-2022",
       "type": "normativ",
@@ -4036,6 +4044,32 @@
       "evidence": "metadata/acts/normativ-np133-2022.json"
     },
     {
+      "source": "normativ-np134-2014",
+      "target": "hg-203-2003",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 2 alin. (3) și (4) din Regulamentul aprobat prin Hotărârea Guvernului nr. 203/2003, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-18",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160581"
+    },
+    {
+      "source": "normativ-np134-2014",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 și art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-18",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160581"
+    },
+    {
       "source": "normativ-np24-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -6882,8 +6916,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 236,
-    "confirmed_edges": 430,
+    "total_nodes": 237,
+    "confirmed_edges": 432,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
