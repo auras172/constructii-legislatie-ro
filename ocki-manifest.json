@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-18T16:43:00.080Z",
+  "generated_at": "2026-08-18T17:17:41.282Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 236,
+    "acts_total": 237,
     "acts_full_text": 50,
-    "acts_metadata_only": 186,
+    "acts_metadata_only": 187,
     "article_anchors_total": 2727,
-    "import_logs_total": 258,
+    "import_logs_total": 259,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 430,
+    "confirmed_relationships": 432,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -1445,6 +1445,19 @@
       "anchor_count": 0,
       "file": "legi/normativ-np133-2022.md",
       "metadata_file": "metadata/acts/normativ-np133-2022.json"
+    },
+    {
+      "slug": "normativ-np134-2014",
+      "title": "Ordin nr. 995 din 24 iunie 2014 pentru aprobarea reglementării tehnice \"Normativ privind proiectarea geotehnică a lucrărilor de epuizmente\", indicativ NP 134-2014",
+      "short_title": "NP 134-2014",
+      "type": "normativ",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/normativ-np134-2014.md",
+      "metadata_file": "metadata/acts/normativ-np134-2014.json"
     },
     {
       "slug": "normativ-np24-2022",
