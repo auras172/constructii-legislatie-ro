@@ -10,7 +10,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-16; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
+Snapshot reconciliat la 2026-08-19; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
@@ -215,7 +215,7 @@ Snapshot reconciliat la 2026-08-16; surse canonice: ocki-manifest.json, reports/
 | 199 | Ordin MTI 595/2026 | executie | ordin | metadata-only | 2 | 1 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/311545) | [legi/ordin-mti-595-2026.md](./legi/ordin-mti-595-2026.md) | [metadata/acts/ordin-mti-595-2026.json](./metadata/acts/ordin-mti-595-2026.json) | text nedisponibil în repo; status unknown; effective_date 2026-06-24; versiune original; relații: implements → lege-10-1995; Forma afișată de Portal Legislativ la verificarea din 15.08.2026; ghidul tehnic AND 625-2025 este anexă și nu este importat ca text sau nod separat |
 | 200 | Ordin MDLPA 710/2026 | calitate | ordin | metadata-only | 3 | 5 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/312120) | [legi/ordin-mdlpa-710-2026.md](./legi/ordin-mdlpa-710-2026.md) | [metadata/acts/ordin-mdlpa-710-2026.json](./metadata/acts/ordin-mdlpa-710-2026.json) | text nedisponibil în repo; status unknown; versiune original; relații: references → hg-477-2020, references → lege-10-1995, references → metodologie-mc001-2022; Forma oficială a ordinului; normele metodologice modificate și cele cinci anexe nu sunt importate ca text integral |
 
-**Sumar:** 224 acte urmărite · 50 full-text importate · 174 metadata-only · 412 relații confirmate · 2.727 ancore · health 100/100
+**Sumar:** 237 acte urmărite · 50 full-text importate · 187 metadata-only · 432 relații confirmate · 2.727 ancore · health 100/100
 
 ---
 ## Acte adăugate după snapshotul anterior
@@ -250,6 +250,29 @@ Cele 24 de intrări de mai jos au fost reconciliate din `metadata/acts/*.json` �
 | 224 | Ordin MTCT 2055/2005 — C 107-2005 | nzeb | ordin | metadata-only | 3 | 1 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/66784) | [metadata](./metadata/acts/ordin-mtct-2055-2005.json) | metadata-only; status unknown; relații: references → lege-10-1995, amended_by → ordin-2513-2010 |
 
 ---
+## Acte adăugate după snapshotul de 224 acte
+
+Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/acts/*.json` la `origin/main` `346f048`. Fișierele JSON rămân sursa structurată primară.
+
+| Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Sursă | Metadate |
+|---:|---|---|---|---|---:|---:|---|---|
+| 225 | Ordin comun MTI/MDLPA 285/412/2026 — DD 509-2024 | executie | ordin | metadata-only | 3 | 1 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/310265) | [metadata](./metadata/acts/ordin-mti-mdlpa-285-412-2026.json) |
+| 226 | Ordin MTI/MDLPA 6970/1779/2017 — AND 605-2016 | executie | ordin | metadata-only | 4 | 1 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/197575) | [metadata](./metadata/acts/ordin-mti-mdlpa-6970-1779-2017.json) |
+| 227 | Ordin MTI/MDLPA 970/873/2023 — CD 16-2000 | executie | ordin | metadata-only | 2 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/270561) | [metadata](./metadata/acts/ordin-mti-mdlpa-970-873-2023.json) |
+| 228 | OUG 148/2024 | calitate | ordonanta | metadata-only | 8 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/FormaPrintabila/00000G0OF66MHK7P5N803DQ07O9V18BN) | [metadata](./metadata/acts/oug-148-2024.json) |
+| 229 | OUG 17/2026 | incendiu | ordonanta | metadata-only | — | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/FormaPrintabila/00000G1G0RY488TEEI21D9MC87ZMW3VA) | [metadata](./metadata/acts/oug-17-2026.json) |
+| 230 | OUG 195/2005 — protecția mediului | mediu | ordonanta | full-text importat | 105 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/253015) | [metadata](./metadata/acts/oug-195-2005.json) |
+| 231 | OUG 21/2004 — situații de urgență | incendiu | ordonanta | full-text importat | 47 | 2 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/303043) | [metadata](./metadata/acts/oug-21-2004.json) |
+| 232 | OUG 26/2022 — investiții publice | calitate | ordonanta | metadata-only | 11 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/252773) | [metadata](./metadata/acts/oug-26-2022.json) |
+| 233 | OUG 31/2025 — urbanism și construcții | urbanism | ordonanta | metadata-only | 12 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/297058) | [metadata](./metadata/acts/oug-31-2025.json) |
+| 234 | OUG 46/2015 | calitate | ordonanta | metadata-only | 10 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/172411) | [metadata](./metadata/acts/oug-46-2015.json) |
+| 235 | OUG 52/2025 | calitate | ordonanta | metadata-only | 20 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/302698) | [metadata](./metadata/acts/oug-52-2025.json) |
+| 236 | OUG 6/2018 | calitate | ordonanta | metadata-only | 1 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070) | [metadata](./metadata/acts/oug-6-2018.json) |
+| 237 | OUG 87/2025 | calitate | ordonanta | metadata-only | 8 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305816) | [metadata](./metadata/acts/oug-87-2025.json) |
+
+**Sumar reconciliat:** 237 acte urmărite · 50 full-text importate · 187 metadata-only · 432 relații confirmate · health 100/100.
+
+---
 ## Cum trebuie să folosească agenții AI acest index
 
 Acest index este conceput pentru a fi citit de agenți AI înainte de a răspunde la întrebări despre legislația românească de construcții. Urmați regulile de mai jos:
@@ -276,6 +299,6 @@ Următoarele puncte rămân deschise și documentate. Nu adăugați acte noi în
 
 - **ISCIR — audit de acoperire și actualitate:** Repo-ul conține deja 16 acte în domeniul ISCIR, inclusiv prescripții tehnice, și trimiteri la catalogul ISCIR. Nu mai este corect că sursele nu au fost identificate; rămâne de reconciliat catalogul oficial curent cu actele importate și de completat full-text-ul unde este disponibil.
 - **ANRE — audit de acoperire și actualitate:** Repo-ul conține deja 20 de acte în domeniul ANRE, inclusiv ordine pentru autorizarea electricienilor și racordare. Nu mai este corect că sursele nu au fost identificate; rămâne auditul exhaustivității, statusului și full-text-ului pe sursele ANRE și Portalul Legislativ.
-- **Ancore de citare:** Indexul curent conține 11.906 de ancore. Sunt suportate `art-*`, `pct-*` și `anexa-*`, iar navigarea directă folosește URL fragments (de exemplu `legi/lege-50-1991.md#art-7`). Indexul și validarea sunt generate de `scripts/generate-citation-index.mjs` și `scripts/validate-citation-anchors.mjs`.
+- **Ancore de citare:** Indexul curent conține 2.727 de ancore în cele 50 de acte full-text. Sunt suportate `art-*`, `pct-*` și `anexa-*`, iar navigarea directă folosește URL fragments (de exemplu `legi/lege-50-1991.md#art-7`). Indexul și validarea sunt generate de `scripts/generate-citation-index.mjs` și `scripts/validate-citation-anchors.mjs`.
 - **Integritate import:** Există verificări și hash-uri pentru textul oficial importat prin `scripts/check-official-text-integrity.mjs` și `scripts/hash-official-text.mjs`. Acestea verifică artefactul local și hash-ul documentat; nu certifică singure fidelitatea juridică față de o sursă live care poate fi modificată.
 - **Reconciliere consolidare Legea 372/2005:** Metadata indică `consolidated_as_of: 2024-07-25` și `last_checked: 2026-06-28`. Snapshotul repository-ului nu stabilește dacă există o formă consolidată mai nouă pe Portal Legislativ; o verificare fresh a sursei oficiale rămâne deschisă.

@@ -15,7 +15,7 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix. Internatio
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [224](./INDEX.md) | 50 | 174 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
+| [237](./INDEX.md) | 50 | 187 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
 
 > Snapshot generated from the repository health report. Counts change as reviewed imports are merged.
 
@@ -149,7 +149,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Knowledge graph
 
-- `graph/graph.json` — node/edge graph (224 acts, 412 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
+- `graph/graph.json` — node/edge graph (237 acts, 432 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
 - `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
 - Regenerate: `node scripts/generate-graph.mjs`
 - Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)
