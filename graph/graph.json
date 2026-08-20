@@ -294,6 +294,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-932-2007",
+      "label": "HG 932/2007",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-10-1995",
       "label": "Legea 10/1995",
       "type": "lege",
@@ -2579,6 +2587,19 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2U8V7RKT6PCVQ0XEON5ACAGIKS",
       "notes": "HG 742/2018 este singura relație grafică adăugată; nu se importă Regulamentul ca nod separat."
+    },
+    {
+      "source": "hg-932-2007",
+      "target": "lege-350-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 51 alin. (3) din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-20",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84853"
     },
     {
       "source": "lege-10-1995",
@@ -6916,8 +6937,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 237,
-    "confirmed_edges": 432,
+    "total_nodes": 238,
+    "confirmed_edges": 433,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

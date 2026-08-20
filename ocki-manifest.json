@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-18T17:17:41.282Z",
+  "generated_at": "2026-08-20T20:48:56.439Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 237,
+    "acts_total": 238,
     "acts_full_text": 50,
-    "acts_metadata_only": 187,
+    "acts_metadata_only": 188,
     "article_anchors_total": 2727,
-    "import_logs_total": 259,
+    "import_logs_total": 260,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 432,
+    "confirmed_relationships": 433,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -535,6 +535,19 @@
       "anchor_count": 0,
       "file": "legi/hg-925-1995.md",
       "metadata_file": "metadata/acts/hg-925-1995.json"
+    },
+    {
+      "slug": "hg-932-2007",
+      "title": "Hotărârea Guvernului nr. 932 din 7 august 2007 pentru aprobarea Metodologiei privind finanțarea de la bugetul de stat a hărților de risc natural pentru cutremure și alunecări de teren",
+      "short_title": "HG 932/2007",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 1,
+      "anchor_count": 0,
+      "file": "legi/hg-932-2007.md",
+      "metadata_file": "metadata/acts/hg-932-2007.json"
     },
     {
       "slug": "lege-10-1995",

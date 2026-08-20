@@ -1,0 +1,40 @@
+{
+  "title": "Hotărârea Guvernului nr. 932 din 7 august 2007 pentru aprobarea Metodologiei privind finanțarea de la bugetul de stat a hărților de risc natural pentru cutremure și alunecări de teren",
+  "short_title": "HG 932/2007",
+  "canonical_citation": "HG nr. 932/2007",
+  "type": "hotarare",
+  "number": "932",
+  "year": "2007",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": ["hărți-de-risc", "risc-seismic", "alunecări-de-teren", "finanțare-construcții"],
+  "status": "unknown",
+  "issue_date": "2007-08-07",
+  "publication_date": "2007-08-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84853",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 932/2007; Monitorul Oficial al României, Partea I, nr. 596 din 29 august 2007",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/84853",
+  "version_kind": "original",
+  "last_checked": "2026-08-20",
+  "version": "Forma oficială originală a hotărârii; metodologia aprobată este anexă și nu este modelată ca nod separat",
+  "article_count": 1,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 596 din 29 august 2007. Forma printabilă oficială a fost verificată pentru aceeași identitate și structură. Audit final la 2026-08-20T20:11:23Z: detail HTTP 200, text/html; charset=utf-8, 54106 bytes, SHA-256 16bdd410863a077b5133aeaad2ade68a9886a2f4713b36f2b12088edc3b518c8; forma printabilă HTTP 200, text/html; charset=utf-8, 4555 bytes, SHA-256 ef4c9eff3f2aa70556e9c27e1c0d0453efe872550e810df508436c7a32b90a75. Articolul unic aprobă metodologia anexată. Preambulul citează explicit art. 51 alin. (3) din Legea nr. 350/2001; relația este modelată ca references, nu implements, deoarece actul nu modifică sau aplică direct textul legii. Statusul juridic curent nu este declarat explicit și rămâne unknown. Nu a fost identificată o clauză distinctă de intrare în vigoare, astfel că effective_date este omisă. Textul metodologiei anexate nu este importat.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 51 alin. (3) din Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84853",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-20"
+    }
+  ],
+  "tags": ["urbanism", "hărți-de-risc", "risc-seismic", "alunecări-de-teren", "hotarare-guvern"]
+}

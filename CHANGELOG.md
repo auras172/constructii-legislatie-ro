@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): import NP 134-2014 metadata
 - feat(metadata): import NP 134/2014 metadata
 - feat(metadata): add NP 074/2014 metadata
 - feat(metadata): add NP 074/2014 metadata
@@ -187,6 +188,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh repository housekeeping snapshot
 - docs: reconcile repository housekeeping snapshot
 - docs: reconcile repository housekeeping snapshot
 - docs: refresh project README
@@ -207,6 +209,10 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Fixes
+- fix(metadata): add HG 272/1994 effective date
+- fix(metadata): add HG 272/1994 effective date
+- fix(metadata): add P118/2-2013 effective date
+- fix(metadata): add P118/2-2013 effective date
 - fix(metadata): add P118/3-2015 effective date (#538)
 - fix(metadata): correct I7-2011 temporal dates
 - fix(metadata): correct I7-2011 temporal dates
@@ -215,6 +221,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #543 from auras172/codex/docs-housekeeping-2026-08-19
 - Merge pull request #521 from auras172/codex/metadata-ordin-2513-2010
 - Merge pull request #520 from auras172/codex/metadata-c107-2005
 - Merge pull request #519 from auras172/codex/metadata-np122-2010
