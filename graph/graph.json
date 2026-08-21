@@ -1830,6 +1830,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-140-2020",
+      "label": "OUG 140/2020 — înscrisuri electronice în construcții, arhitectură și urbanism",
+      "type": "ordonanta",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-148-2024",
       "label": "OUG 148/2024",
       "type": "ordonanta",
@@ -6752,6 +6760,45 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561"
     },
     {
+      "source": "oug-140-2020",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 5 citează nominal Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308"
+    },
+    {
+      "source": "oug-140-2020",
+      "target": "lege-184-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 6 citează nominal Legea nr. 184/2001 privind organizarea și exercitarea profesiei de arhitect, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 6",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308"
+    },
+    {
+      "source": "oug-140-2020",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 5 citează nominal Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308"
+    },
+    {
       "source": "oug-148-2024",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -6937,8 +6984,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 238,
-    "confirmed_edges": 433,
+    "total_nodes": 239,
+    "confirmed_edges": 436,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
