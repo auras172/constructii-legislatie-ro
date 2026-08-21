@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:09:46.341Z",
+  "generated_at": "2026-08-21T19:51:58.976Z",
   "months": [
     {
       "month": "2026-08",
@@ -220,6 +220,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #546 from auras172/codex/metadata-oug-140-2020",
         "Merge pull request #545 from auras172/codex/metadata-hg-932-2007",
         "Merge pull request #543 from auras172/codex/docs-housekeeping-2026-08-19",
         "Merge pull request #521 from auras172/codex/metadata-ordin-2513-2010",

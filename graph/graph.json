@@ -438,6 +438,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-238-2024",
+      "label": "Legea 238/2024",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-24-2007",
       "label": "Legea 24/2007 — spațiile verzi",
       "type": "lege",
@@ -3048,6 +3056,32 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-212-2022.json"
+    },
+    {
+      "source": "lege-238-2024",
+      "target": "lege-372-2005",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Legea nr. 372/2005 privind performanța energetică a clădirilor se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769"
+    },
+    {
+      "source": "lege-238-2024",
+      "target": "metodologie-mc001-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I pct. 8 citează explicit Metodologia de calcul al performanței energetice a clădirilor, indicativ Mc 001-2022.",
+      "source_article": "Art. I pct. 8",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769"
     },
     {
       "source": "lege-243-2023",
@@ -6984,8 +7018,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 239,
-    "confirmed_edges": 436,
+    "total_nodes": 240,
+    "confirmed_edges": 438,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
