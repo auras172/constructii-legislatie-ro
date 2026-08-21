@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-20T20:48:57.157Z
+Generated: 2026-08-21T15:09:25.802Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 238 |
+| Total metadata entries | 239 |
 | Full-text acts | 50 |
-| Metadata-only acts | 188 |
-| Import log files | 260 |
-| Total relationship links | 457 |
+| Metadata-only acts | 189 |
+| Import log files | 261 |
+| Total relationship links | 460 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -246,6 +246,7 @@ Generated: 2026-08-20T20:48:57.157Z
 | ordin-mti-mdlpa-285-412-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-mdlpa-6970-1779-2017 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mti-mdlpa-970-873-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| oug-140-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -270,7 +271,7 @@ Generated: 2026-08-20T20:48:57.157Z
 | incendiu | 16 |
 | iscir | 16 |
 | nzeb | 10 |
-| autorizatii | 8 |
+| autorizatii | 9 |
 | isc | 7 |
 | receptie | 5 |
 | munca | 3 |
@@ -281,7 +282,7 @@ Generated: 2026-08-20T20:48:57.157Z
 | Value | Count |
 | --- | --- |
 | minister | 133 |
-| guvern | 44 |
+| guvern | 45 |
 | parlament | 34 |
 | autoritate | 19 |
 | other | 8 |
@@ -297,9 +298,9 @@ Generated: 2026-08-20T20:48:57.157Z
 | 2024 | 12 |
 | 2026 | 12 |
 | 2014 | 9 |
+| 2020 | 9 |
 | 2016 | 8 |
 | 2018 | 8 |
-| 2020 | 8 |
 | 2021 | 8 |
 | 2005 | 7 |
 | 2013 | 7 |
@@ -329,7 +330,7 @@ Generated: 2026-08-20T20:48:57.157Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 188 |
+| metadata-only | 189 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

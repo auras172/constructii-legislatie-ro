@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-20T20:48:57.009Z",
+  "generated_at": "2026-08-21T15:09:46.341Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 140/2020 metadata",
+        "feat(metadata): add HG 932/2007 metadata",
         "feat(metadata): import NP 134-2014 metadata",
         "feat(metadata): import NP 134/2014 metadata",
         "feat(metadata): add NP 074/2014 metadata",
@@ -218,6 +220,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #545 from auras172/codex/metadata-hg-932-2007",
         "Merge pull request #543 from auras172/codex/docs-housekeeping-2026-08-19",
         "Merge pull request #521 from auras172/codex/metadata-ordin-2513-2010",
         "Merge pull request #520 from auras172/codex/metadata-c107-2005",
@@ -854,6 +857,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 237
+    "infrastructure_changes": 239
   }
 }

@@ -1,0 +1,78 @@
+{
+  "title": "Ordonanță de urgență nr. 140 din 19 august 2020 pentru stabilirea unor măsuri privind utilizarea înscrisurilor în formă electronică în domeniile construcții, arhitectură și urbanism",
+  "short_title": "OUG 140/2020 — înscrisuri electronice în construcții, arhitectură și urbanism",
+  "canonical_citation": "OUG nr. 140/2020",
+  "type": "ordonanta",
+  "number": "140",
+  "year": "2020",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "autorizatii",
+  "topics": [
+    "inscrisuri-electronice",
+    "semnatura-electronica",
+    "constructii",
+    "arhitectura",
+    "urbanism",
+    "autorizarea-lucrarilor"
+  ],
+  "status": "unknown",
+  "issue_date": "2020-08-19",
+  "publication_date": "2020-08-21",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308",
+  "official_source": "Portal Legislativ — Ordonanță de urgență nr. 140 din 19 august 2020; publicată în Monitorul Oficial nr. 767 din 21 august 2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308",
+  "version_kind": "original",
+  "last_checked": "2026-08-21",
+  "version": "forma oficială originală afișată de Portal Legislativ; actul nu are anexe",
+  "article_count": 15,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 5 citează nominal Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 5",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21"
+    },
+    {
+      "type": "references",
+      "target": "lege-372-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 5 citează nominal Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 5",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21"
+    },
+    {
+      "type": "references",
+      "target": "lege-184-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 6 citează nominal Legea nr. 184/2001 privind organizarea și exercitarea profesiei de arhitect, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 6",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229308",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru forma oficială originală a OUG nr. 140/2020. Portalul confirmă titlul, emitentul, data emiterii, publicarea în M.Of. nr. 767/21.08.2020, 15 articole și 0 anexe. Nu este introdusă effective_date deoarece sursa auditată nu conține o regulă calendaristică explicită de intrare în vigoare, iar textul nu este importat integral. Relațiile păstrate sunt exclusiv citările nominale confirmate din art. 5 și art. 6 către ținte locale existente. Legea nr. 255/2020, Ordinul comun nr. 4.134/3.875/2020 și normele tehnice aferente sunt documentate ca referințe externe/candidați separați și nu sunt create sau importate în acest PR. Requesturile HTTP directe din auditul final au primit 403; identitatea și conținutul au fost reconfirmate read-only în browser. Hashurile browser sunt ale document.documentElement.outerHTML, nu ale răspunsului HTTP brut.",
+  "tags": [
+    "inscrisuri-electronice",
+    "semnatura-electronica",
+    "constructii",
+    "arhitectura",
+    "urbanism",
+    "autorizarea-lucrarilor",
+    "ordonanta-de-urgenta",
+    "metadata-only"
+  ]
+}
