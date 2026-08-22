@@ -1958,6 +1958,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-49-2023",
+      "label": "OUG 49/2023 — programe naționale pentru consolidarea spitalelor și expertizarea clădirilor publice",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-52-2025",
       "label": "OUG 52/2025",
       "type": "ordonanta",
@@ -7150,6 +7158,84 @@
       "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte menționate contextual sau pentru domeniul general al măsurilor financiare."
     },
     {
+      "source": "oug-49-2023",
+      "target": "hg-907-2016",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit anexa nr. 7 și art. 1 alin. (2) din Hotărârea Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice.",
+      "source_article": "Art. 4 alin. (1) lit. a)-d); art. 9 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
+      "source": "oug-49-2023",
+      "target": "lege-212-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 4 alin. (2), art. 4 alin. (3), art. 11 alin. (4), art. 12 lit. b) și art. 30 din Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor.",
+      "source_article": "Art. 3 alin. (1); art. 6 alin. (3); art. 21 alin. (2)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
+      "source": "oug-49-2023",
+      "target": "lege-422-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 23 alin. (1) din Legea nr. 422/2001 privind protejarea monumentelor istorice.",
+      "source_article": "Art. 5 alin. (7)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
+      "source": "oug-49-2023",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 6 alin. (2) și art. 7 alin. (1^6) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. 17 alin. (1) și (3)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
+      "source": "oug-49-2023",
+      "target": "ordin-839-2009",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează ordinul care aprobă Normele metodologice de aplicare a Legii nr. 50/1991: Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009.",
+      "source_article": "Art. 27",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
+      "source": "oug-49-2023",
+      "target": "ordin-mdlpa-2853-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022 pentru normele metodologice legate de Legea nr. 212/2022.",
+      "source_article": "Art. 5 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
+    },
+    {
       "source": "oug-52-2025",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -7192,8 +7278,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 247,
-    "confirmed_edges": 447,
+    "total_nodes": 248,
+    "confirmed_edges": 453,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

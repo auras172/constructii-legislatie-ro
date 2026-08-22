@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 107/1996 metadata
 - feat(metadata): add Legea 231/2017 OUG 18 amendment
 - feat(metadata): add Legea 265/2006 metadata
 - feat(metadata): add Ordinul 456/2014 control procedures metadata
@@ -197,6 +198,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: reconcile repository snapshot and act index
 - docs: refresh repository housekeeping snapshot
 - docs: reconcile repository housekeeping snapshot
 - docs: reconcile repository housekeeping snapshot
@@ -230,6 +232,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #555 from auras172/codex/housekeeping-20260822
+- Merge pull request #554 from auras172/codex/metadata-lege-107-1996
 - Merge pull request #553 from auras172/codex/metadata-lege-231-2017
 - Merge pull request #552 from auras172/codex/metadata-lege-265-2006
 - Merge pull request #551 from auras172/codex/metadata-ordin-456-2014
