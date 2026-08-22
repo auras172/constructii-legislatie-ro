@@ -10,7 +10,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-19; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
+Snapshot reconciliat la 2026-08-22; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
@@ -270,7 +270,24 @@ Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/a
 | 236 | OUG 6/2018 | calitate | ordonanta | metadata-only | 1 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070) | [metadata](./metadata/acts/oug-6-2018.json) |
 | 237 | OUG 87/2025 | calitate | ordonanta | metadata-only | 8 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305816) | [metadata](./metadata/acts/oug-87-2025.json) |
 
-**Sumar reconciliat:** 237 acte urmărite · 50 full-text importate · 187 metadata-only · 432 relații confirmate · health 100/100.
+**Sumar reconciliat:** 247 acte urmărite · 50 full-text importate · 197 metadata-only · 447 relații confirmate · health 100/100.
+
+### Importuri reconciliate după snapshotul de 237 acte
+
+Manifestul curent confirmă următoarele acte adăugate ulterior:
+
+| Nr. | Act | Domeniu | Tip | Status | Articole / prevederi | Anexe | Sursă | Metadate |
+|---:|---|---|---|---|---:|---:|---|---|
+| 238 | HG 932/2007 | urbanism | hotarare | repealed | 1 | 1 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/84853) | [metadata](./metadata/acts/hg-932-2007.json) |
+| 239 | OUG 140/2020 | autorizatii | ordonanta | unknown | 15 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/229308) | [metadata](./metadata/acts/oug-140-2020.json) |
+| 240 | Legea 238/2024 | nzeb | lege | unknown | 3 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/285769) | [metadata](./metadata/acts/lege-238-2024.json) |
+| 241 | HG 445/2009 | mediu | hotarare | repealed | 36 | 4 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/135436) | [metadata](./metadata/acts/hg-445-2009.json) |
+| 242 | HG 1076/2004 | mediu | hotarare | unknown | 44 | 4 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/142394) | [metadata](./metadata/acts/hg-1076-2004.json) |
+| 243 | OUG 18/2009 | nzeb | ordonanta | unknown | 46 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/169443) | [metadata](./metadata/acts/oug-18-2009.json) |
+| 244 | Ordinul 456/2014 | autorizatii | ordin | unknown | 3 | 2 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/245745) | [metadata](./metadata/acts/ordin-mdlpa-456-2014.json) |
+| 245 | Legea 265/2006 | mediu | lege | unknown | 2 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220) | [metadata](./metadata/acts/lege-265-2006.json) |
+| 246 | Legea 231/2017 | nzeb | lege | unknown | 4 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/195432) | [metadata](./metadata/acts/lege-231-2017.json) |
+| 247 | Legea apelor 107/1996 | mediu | lege | unknown | 112 | 11 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/284872) | [metadata](./metadata/acts/lege-107-1996.json) |
 
 ---
 ## Cum trebuie să folosească agenții AI acest index
