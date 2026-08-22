@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordinul 456/2014 control procedures metadata
 - feat(metadata): add OUG 18/2009 energy performance metadata
 - feat(metadata): add HG 1076/2004 environmental assessment metadata
 - feat(metadata): add HG 445/2009 environmental impact metadata
@@ -227,6 +228,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #551 from auras172/codex/metadata-ordin-456-2014
 - Merge pull request #550 from auras172/codex/metadata-oug-18-2009
 - Merge pull request #549 from auras172/codex/metadata-hg-1076-2004
 - Merge pull request #548 from auras172/codex/metadata-hg-445-2009

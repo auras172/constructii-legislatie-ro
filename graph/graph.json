@@ -486,6 +486,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-265-2006",
+      "label": "Legea 265/2006",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -3219,6 +3227,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
+    },
+    {
+      "source": "lege-265-2006",
+      "target": "oug-195-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit aprobarea Ordonanței de urgență a Guvernului nr. 195 din 22 decembrie 2005 privind protecția mediului, publicată în M.Of. nr. 1.196 din 30 decembrie 2005.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220"
     },
     {
       "source": "lege-292-2018",
@@ -7115,8 +7136,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 244,
-    "confirmed_edges": 443,
+    "total_nodes": 245,
+    "confirmed_edges": 444,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
