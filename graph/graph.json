@@ -94,6 +94,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-1076-2004",
+      "label": "HG 1076/2004 — evaluarea de mediu pentru planuri și programe",
+      "type": "hotarare",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-1236-2012",
       "label": "HG 1236/2012",
       "type": "hotarare",
@@ -7039,7 +7047,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 241,
+    "total_nodes": 242,
     "confirmed_edges": 439,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0

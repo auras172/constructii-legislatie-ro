@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-22T09:14:13.560Z",
+  "generated_at": "2026-08-22T09:29:34.215Z",
   "summary": {
-    "total_metadata_entries": 241,
+    "total_metadata_entries": 242,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 191,
-    "total_import_logs": 263,
+    "total_metadata_only_acts": 192,
+    "total_import_logs": 264,
     "total_relationship_links": 462,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -107,6 +107,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-1076-2004",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -2186,9 +2195,9 @@
       "executie": 30,
       "calitate": 91,
       "nzeb": 11,
+      "mediu": 5,
       "munca": 3,
       "receptie": 5,
-      "mediu": 4,
       "isc": 7,
       "incendiu": 16,
       "anre": 20,
@@ -2197,7 +2206,7 @@
     },
     "issuers": {
       "minister": 133,
-      "guvern": 46,
+      "guvern": 47,
       "parlament": 35,
       "other": 8,
       "autoritate": 19
@@ -2214,7 +2223,7 @@
       "2001": 4,
       "2002": 3,
       "2003": 2,
-      "2004": 2,
+      "2004": 3,
       "2005": 7,
       "2006": 4,
       "2007": 4,
@@ -2240,7 +2249,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 191,
+      "metadata-only": 192,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

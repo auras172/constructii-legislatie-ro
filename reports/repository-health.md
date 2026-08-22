@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-22T09:14:13.560Z
+Generated: 2026-08-22T09:29:34.215Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 241 |
+| Total metadata entries | 242 |
 | Full-text acts | 50 |
-| Metadata-only acts | 191 |
-| Import log files | 263 |
+| Metadata-only acts | 192 |
+| Import log files | 264 |
 | Total relationship links | 462 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -29,6 +29,7 @@ Generated: 2026-08-22T09:14:13.560Z
 | ghid-rtc6-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | ghid-rtc7-2022 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | ghid-rtc8-2022 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-1076-2004 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | hg-1236-2012 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-1425-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-172-2024 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
@@ -275,8 +276,8 @@ Generated: 2026-08-22T09:14:13.560Z
 | nzeb | 11 |
 | autorizatii | 9 |
 | isc | 7 |
+| mediu | 5 |
 | receptie | 5 |
-| mediu | 4 |
 | munca | 3 |
 
 ### Issuers
@@ -284,7 +285,7 @@ Generated: 2026-08-22T09:14:13.560Z
 | Value | Count |
 | --- | --- |
 | minister | 133 |
-| guvern | 46 |
+| guvern | 47 |
 | parlament | 35 |
 | autoritate | 19 |
 | other | 8 |
@@ -316,6 +317,7 @@ Generated: 2026-08-22T09:14:13.560Z
 | 1994 | 3 |
 | 1996 | 3 |
 | 2002 | 3 |
+| 2004 | 3 |
 | 2008 | 3 |
 | 2015 | 3 |
 | 1991 | 2 |
@@ -324,7 +326,6 @@ Generated: 2026-08-22T09:14:13.560Z
 | 1998 | 2 |
 | 2000 | 2 |
 | 2003 | 2 |
-| 2004 | 2 |
 | 2011 | 2 |
 | 1999 | 1 |
 
@@ -332,7 +333,7 @@ Generated: 2026-08-22T09:14:13.560Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 191 |
+| metadata-only | 192 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
