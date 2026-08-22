@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-21T19:51:57.642Z",
+  "generated_at": "2026-08-22T09:14:13.702Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 240,
+    "acts_total": 241,
     "acts_full_text": 50,
-    "acts_metadata_only": 190,
+    "acts_metadata_only": 191,
     "article_anchors_total": 2727,
-    "import_logs_total": 262,
+    "import_logs_total": 263,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 438,
+    "confirmed_relationships": 439,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -340,6 +340,19 @@
       "anchor_count": 0,
       "file": "legi/hg-395-2016.md",
       "metadata_file": "metadata/acts/hg-395-2016.json"
+    },
+    {
+      "slug": "hg-445-2009",
+      "title": "Hotărârea Guvernului nr. 445 din 8 aprilie 2009 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+      "short_title": "HG 445/2009 — evaluarea impactului asupra mediului",
+      "type": "hotarare",
+      "domain": "mediu",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 36,
+      "anchor_count": 0,
+      "file": "legi/hg-445-2009.md",
+      "metadata_file": "metadata/acts/hg-445-2009.json"
     },
     {
       "slug": "hg-477-2020",
