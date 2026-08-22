@@ -1,0 +1,88 @@
+{
+  "title": "Ordin nr. 456 din 1 aprilie 2014 pentru aprobarea procedurilor de control al statului la autoritățile administrației publice locale/județene privind respectarea prevederilor legale la emiterea certificatelor de urbanism și a autorizațiilor de construire/desființare",
+  "short_title": "Ordin 456/2014 — proceduri de control pentru certificate și autorizații",
+  "canonical_citation": "Ordin nr. 456/2014",
+  "type": "ordin",
+  "number": "456",
+  "year": "2014",
+  "issuer": "Ministerul Dezvoltării Regionale și Administrației Publice",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": [
+    "control-de-stat",
+    "certificate-de-urbanism",
+    "autorizatii-de-construire",
+    "autorizatii-de-desfiintare",
+    "inspectoratul-de-stat-in-constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2014-04-01",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2014-04-16",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+  "official_source": "Portal Legislativ — Ordin nr. 456 din 1 aprilie 2014; publicat în Monitorul Oficial nr. 281 din 16 aprilie 2014",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2021-09-27",
+  "last_checked": "2026-08-22",
+  "version": "Forma consolidată afișată de Portal, cu istoricul modificării anexelor prin Ordinul nr. 1.309/2021; procedurile rămân anexe ale ordinului.",
+  "article_count": 3,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și anexele procedurale citează nominal Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3; Anexa nr. 2, art. 2-3",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Anexa nr. 1, art. 2-3 citează nominal Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "hg-525-2013",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează nominal art. 3 pct. II lit. j) și pct. III lit. c) din anexa nr. 1 la Hotărârea Guvernului nr. 525/2013 privind atribuțiile Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și anexele procedurale citează nominal Normele metodologice aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3; Anexa nr. 2, art. 2-3",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru Ordinul nr. 456/2014. Ordinul aprobă două proceduri care rămân anexele nr. 1 și 2 ale aceluiași act; nu se creează noduri separate și nu se importă textul procedurilor. Portalul afișează forma consolidată cu istoricul până la 27.09.2021. Ordinul nr. 1.309 din 16 septembrie 2021, publicat în M.Of. nr. 920/27.09.2021, modifică anexele Ordinului nr. 456/2014, dar nu este importat în acest PR și nu primește relație deoarece nu există ca țintă locală. Statusul rămâne unknown, iar effective_date este omisă: art. 3 dispune publicarea, fără o clauză explicită de intrare în vigoare.",
+  "tags": [
+    "control-de-stat",
+    "certificate-de-urbanism",
+    "autorizatii-de-construire",
+    "autorizatii-de-desfiintare",
+    "inspectoratul-de-stat-in-constructii",
+    "ordin-ministerial",
+    "metadata-only"
+  ]
+}
