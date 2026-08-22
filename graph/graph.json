@@ -1510,6 +1510,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-456-2014",
+      "label": "Ordin 456/2014 — proceduri de control pentru certificate și autorizații",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-576-2025",
       "label": "Ordin MDLPA 576/2025",
       "type": "ordin",
@@ -5744,6 +5752,58 @@
       "evidence": "metadata/acts/ordin-mdlpa-430-2021.json"
     },
     {
+      "source": "ordin-mdlpa-456-2014",
+      "target": "hg-525-2013",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează nominal art. 3 pct. II lit. j) și pct. III lit. c) din anexa nr. 1 la Hotărârea Guvernului nr. 525/2013 privind atribuțiile Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
+    },
+    {
+      "source": "ordin-mdlpa-456-2014",
+      "target": "lege-350-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Anexa nr. 1, art. 2-3 citează nominal Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
+    },
+    {
+      "source": "ordin-mdlpa-456-2014",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și anexele procedurale citează nominal Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3; Anexa nr. 2, art. 2-3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
+    },
+    {
+      "source": "ordin-mdlpa-456-2014",
+      "target": "ordin-839-2009",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și anexele procedurale citează nominal Normele metodologice aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009.",
+      "source_article": "Preambul; Anexa nr. 1, art. 2-3; Anexa nr. 2, art. 2-3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
+    },
+    {
       "source": "ordin-mdlpa-576-2025",
       "target": "ordin-mdlpa-2853-2022",
       "relationship": "amends",
@@ -7055,8 +7115,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 243,
-    "confirmed_edges": 439,
+    "total_nodes": 244,
+    "confirmed_edges": 443,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
