@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-22T13:57:40.800Z",
+  "generated_at": "2026-08-22T14:28:14.541Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 246,
+    "acts_total": 247,
     "acts_full_text": 50,
-    "acts_metadata_only": 196,
+    "acts_metadata_only": 197,
     "article_anchors_total": 2727,
-    "import_logs_total": 268,
+    "import_logs_total": 269,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 446,
+    "confirmed_relationships": 447,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -587,6 +587,19 @@
       "anchor_count": 43,
       "file": "legi/lege-10-1995.md",
       "metadata_file": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "slug": "lege-107-1996",
+      "title": "LEGE nr. 107 din 25 septembrie 1996 legea apelor",
+      "short_title": "Legea apelor 107/1996",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 112,
+      "anchor_count": 0,
+      "file": "legi/lege-107-1996.md",
+      "metadata_file": "metadata/acts/lege-107-1996.json"
     },
     {
       "slug": "lege-114-1996",

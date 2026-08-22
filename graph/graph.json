@@ -326,6 +326,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-107-1996",
+      "label": "Legea apelor 107/1996",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-114-1996",
       "label": "Legea 114/1996 a locuinței",
       "type": "lege",
@@ -2740,6 +2748,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-107-1996",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții în dispozițiile referitoare la avizul și autorizația de gospodărire a apelor, inclusiv în art. 50 alin. (1) și (1^2).",
+      "source_article": "Art. 25 alin. (7), Art. 50 alin. (1) și (1^2)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872"
     },
     {
       "source": "lege-121-2014",
@@ -7171,8 +7192,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 246,
-    "confirmed_edges": 446,
+    "total_nodes": 247,
+    "confirmed_edges": 447,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
