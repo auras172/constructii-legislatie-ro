@@ -1,0 +1,65 @@
+{
+  "title": "ORDIN nr. 1.322 din 14 iunie 2023 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 49/2023 privind aprobarea Programului național de investiții pentru consolidarea spitalelor \"Mihail Cantacuzino\" și a Programului național de expertizare a clădirilor publice cu risc seismic din sistemele de sănătate și de învățământ",
+  "short_title": "Ordinul MDLPA 1322/2023",
+  "canonical_citation": "Ordinul nr. 1.322/2023",
+  "type": "ordin",
+  "number": "1322",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "consolidare-seismică",
+    "clădiri-publice",
+    "spitale",
+    "expertizare-seismică",
+    "program-național-de-investiții"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-06-14",
+  "publication_date": "2023-06-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709",
+  "official_source": "Portal Legislativ — Ordinul nr. 1.322 din 14 iunie 2023; Monitorul Oficial al României, Partea I, nr. 589 din 29 iunie 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-07-07",
+  "last_checked": "2026-08-22",
+  "version": "Forma consolidată afișată de Portal la 7 iulie 2026; forma printabilă oficială verificată separat",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data de 14 iunie 2023 și publicarea în M.Of. nr. 589 din 29 iunie 2023. Istoricul Portalului indică consolidări la 07.05.2025 și 07.07.2026. Audit final la 2026-08-22T17:09:52Z pentru detail și 2026-08-22T17:10:14Z pentru forma printabilă: cererea HTTP brută a primit 403, iar User-Agent-ul de browser a primit 200. Art. 1 aprobă normele metodologice prevăzute în anexa integrantă; Art. 2 dispune publicarea în Monitorul Oficial, fără o clauză calendaristică distinctă de intrare în vigoare, astfel că effective_date este omisă. Textul normelor și anexa nu sunt importate.",
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "oug-49-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 49/2023, prevăzute în anexa integrantă a ordinului.",
+      "source_article": "Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "consolidare-seismică",
+    "clădiri-publice",
+    "spitale",
+    "expertizare-seismică",
+    "ordin-ministerial"
+  ]
+}
