@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-22T09:14:48.367Z",
+  "generated_at": "2026-08-22T09:29:51.871Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 1076/2004 environmental assessment metadata",
         "feat(metadata): add HG 445/2009 environmental impact metadata",
         "feat(metadata): add Legea 238/2024 metadata",
         "feat(metadata): add OUG 140/2020 metadata",
@@ -222,6 +223,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #548 from auras172/codex/metadata-hg-445-2009",
         "Merge pull request #547 from auras172/codex/metadata-lege-238-2024",
         "Merge pull request #546 from auras172/codex/metadata-oug-140-2020",
         "Merge pull request #545 from auras172/codex/metadata-hg-932-2007",
@@ -861,6 +863,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 241
+    "infrastructure_changes": 242
   }
 }
