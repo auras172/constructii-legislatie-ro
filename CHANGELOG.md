@@ -226,6 +226,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #549 from auras172/codex/metadata-hg-1076-2004
 - Merge pull request #548 from auras172/codex/metadata-hg-445-2009
 - Merge pull request #547 from auras172/codex/metadata-lege-238-2024
 - Merge pull request #546 from auras172/codex/metadata-oug-140-2020
