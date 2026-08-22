@@ -454,6 +454,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-231-2017",
+      "label": "Legea 231/2017 — modificarea OUG 18/2009",
+      "type": "lege",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-238-2024",
       "label": "Legea 238/2024",
       "type": "lege",
@@ -3109,6 +3117,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-212-2022.json"
+    },
+    {
+      "source": "lege-231-2017",
+      "target": "oug-18-2009",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Ordonanța de urgență a Guvernului nr. 18/2009 se modifică și se completează după cum urmează; articolele I și III conțin intervenții asupra reglementării și dispoziții de aplicare.",
+      "source_article": "Art. I și Art. III",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432"
     },
     {
       "source": "lege-238-2024",
@@ -6984,6 +7005,20 @@
       "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G1G0RY488TEEI21D9MC87ZMW3VA"
     },
     {
+      "source": "oug-18-2009",
+      "target": "lege-231-2017",
+      "relationship": "amended_by",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Legii nr. 231/2017 prevede explicit că OUG nr. 18/2009 se modifică și se completează.",
+      "source_article": "Legea nr. 231/2017, Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432",
+      "notes": "Inversă append-only; nu se importă textul modificat al OUG 18/2009 în acest PR."
+    },
+    {
       "source": "oug-195-2005",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -7136,8 +7171,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 245,
-    "confirmed_edges": 444,
+    "total_nodes": 246,
+    "confirmed_edges": 446,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

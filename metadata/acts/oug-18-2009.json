@@ -28,6 +28,23 @@
   "article_count": 46,
   "annex_count": 0,
   "import_method": "metadata-only",
+  "amended_by": [
+    "lege-231-2017"
+  ],
+  "relationships": [
+    {
+      "type": "amended_by",
+      "target": "lege-231-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I al Legii nr. 231/2017 prevede explicit că OUG nr. 18/2009 se modifică și se completează.",
+      "source_article": "Legea nr. 231/2017, Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "notes": "Inversă append-only; nu se importă textul modificat al OUG 18/2009 în acest PR."
+    }
+  ],
   "rights_note": "Import metadata-only pentru OUG nr. 18/2009. Portalul confirmă identitatea, emitentul, data emiterii și publicarea inițială în M.Of. nr. 155/12.03.2009. Forma verificată este consolidată, iar pagina Portalului afișează istoricul consolidărilor și avertismentul că materialul consolidat nu este document oficial; textul integral și actele modificatoare nu sunt importate aici. Forma alternativă oficială indică actualizarea până la 27.11.2012, iar forma de la recordul de detaliu indică actualizarea până la 04.07.2015. Nu este atribuit un status curent și nu este setat effective_date deoarece sursele auditate nu conțin o clauză explicită de intrare în vigoare pentru acest act. Căutarea nominală a formei verificate nu a confirmat relații eligibile către Legea nr. 372/2005, Legea nr. 121/2014 sau Legea nr. 196/2018; nu sunt adăugate relații tematice sau speculative.",
   "tags": [
     "performanta-energetica",

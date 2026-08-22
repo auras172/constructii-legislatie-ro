@@ -1,0 +1,56 @@
+{
+  "title": "Legea nr. 231 din 29 noiembrie 2017 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe",
+  "short_title": "Legea 231/2017 — modificarea OUG 18/2009",
+  "canonical_citation": "Legea nr. 231/2017",
+  "type": "lege",
+  "number": "231",
+  "year": "2017",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "nzeb",
+  "topics": [
+    "performanta-energetica",
+    "blocuri-de-locuinte",
+    "reabilitare-termica",
+    "modificare-legislativa"
+  ],
+  "status": "unknown",
+  "issue_date": "2017-11-29",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2017-12-05",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432",
+  "official_source": "Portal Legislativ — Legea nr. 231 din 29 noiembrie 2017; publicată în Monitorul Oficial nr. 961 din 5 decembrie 2017",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2024-07-25",
+  "last_checked": "2026-08-22",
+  "version": "Forma consolidată afișată de Portal; art. II este marcat abrogat prin Legea nr. 238/2024, iar art. IV dispune republicarea OUG nr. 18/2009 cu o nouă numerotare.",
+  "article_count": 4,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "amends": [
+    "oug-18-2009"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "oug-18-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Ordonanța de urgență a Guvernului nr. 18/2009 se modifică și se completează după cum urmează; articolele I și III conțin intervenții asupra reglementării și dispoziții de aplicare.",
+      "source_article": "Art. I și Art. III",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195432",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru Legea nr. 231/2017. Portalul confirmă emiterea la 29.11.2017 și publicarea în M.Of. nr. 961/05.12.2017. Forma consolidată auditată este actualizată la 25.07.2024: art. II este marcat abrogat prin art. III din Legea nr. 238/2024, publicată în M.Of. nr. 714/22.07.2024, iar art. IV dispune republicarea OUG nr. 18/2009 cu o nouă numerotare. Nu se importă textul integral și nu se modifică textul OUG 18/2009 în acest PR. Nu este setată effective_date deoarece sursa auditată nu conține o clauză explicită de intrare în vigoare.",
+  "tags": [
+    "performanta-energetica",
+    "blocuri-de-locuinte",
+    "reabilitare-termica",
+    "modificare-legislativa",
+    "lege",
+    "metadata-only"
+  ]
+}
