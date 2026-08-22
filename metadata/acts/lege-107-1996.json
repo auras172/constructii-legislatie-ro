@@ -1,0 +1,53 @@
+{
+  "title": "LEGE nr. 107 din 25 septembrie 1996 legea apelor",
+  "short_title": "Legea apelor 107/1996",
+  "canonical_citation": "Legea nr. 107/1996",
+  "type": "lege",
+  "number": "107",
+  "year": "1996",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "mediu",
+  "topics": [
+    "ape",
+    "gospodărirea-apelor",
+    "infrastructură-hidrotehnică",
+    "mediu"
+  ],
+  "status": "unknown",
+  "issue_date": "1996-09-25",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "1996-10-08",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872",
+  "official_source": "Portal Legislativ — Legea apelor nr. 107/1996",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-07-23",
+  "last_checked": "2026-08-22",
+  "version": "forma consolidată afișată de Portal la 23 iulie 2026; publicată inițial în M.Of. nr. 244 din 8 octombrie 1996",
+  "article_count": 112,
+  "annex_count": 11,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul și publicarea inițială. Forma consolidată și forma printabilă au fost verificate la 2026-08-22. Cererea HTTP fără User-Agent a primit 403; cererea cu User-Agent de browser a primit 200. Detail: 1990381 bytes, SHA-256 5c5b19967c0e5a2c409343c024c80207f458b3523f94114558aac8b7f177fbc0. Printable: 1960456 bytes, SHA-256 0145add1c32786d4488e9b1fc49147a348cfcc626343e4a779b52e1d2659e4a6. Forma consolidată afișează 112 articole și 11 anexe. Nu este declarată explicit o singură dată calendaristică de intrare în vigoare pentru legea în ansamblu, astfel că effective_date este omisă. Textul juridic integral și anexele nu sunt importate.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții în dispozițiile referitoare la avizul și autorizația de gospodărire a apelor, inclusiv în art. 50 alin. (1) și (1^2).",
+      "source_article": "Art. 25 alin. (7), Art. 50 alin. (1) și (1^2)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "tags": [
+    "ape",
+    "gospodărirea-apelor",
+    "infrastructură-hidrotehnică",
+    "mediu",
+    "lege",
+    "forma-consolidată"
+  ]
+}
