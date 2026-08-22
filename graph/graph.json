@@ -1878,6 +1878,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-18-2009",
+      "label": "OUG 18/2009 — performanța energetică a blocurilor de locuințe",
+      "type": "ordonanta",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-195-2005",
       "label": "OUG 195/2005",
       "type": "ordonanta",
@@ -7047,7 +7055,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 242,
+    "total_nodes": 243,
     "confirmed_edges": 439,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0

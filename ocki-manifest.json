@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-22T09:29:34.360Z",
+  "generated_at": "2026-08-22T09:50:58.756Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 242,
+    "acts_total": 243,
     "acts_full_text": 50,
-    "acts_metadata_only": 192,
+    "acts_metadata_only": 193,
     "article_anchors_total": 2727,
-    "import_logs_total": 264,
+    "import_logs_total": 265,
     "domains": [
       "anre",
       "autorizatii",
@@ -3109,6 +3109,19 @@
       "anchor_count": 0,
       "file": "legi/oug-17-2026.md",
       "metadata_file": "metadata/acts/oug-17-2026.json"
+    },
+    {
+      "slug": "oug-18-2009",
+      "title": "Ordonanța de urgență a Guvernului nr. 18 din 4 martie 2009 privind creșterea performanței energetice a blocurilor de locuințe",
+      "short_title": "OUG 18/2009 — performanța energetică a blocurilor de locuințe",
+      "type": "ordonanta",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 46,
+      "anchor_count": 0,
+      "file": "legi/oug-18-2009.md",
+      "metadata_file": "metadata/acts/oug-18-2009.json"
     },
     {
       "slug": "oug-195-2005",
