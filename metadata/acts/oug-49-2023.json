@@ -1,0 +1,113 @@
+{
+  "title": "Ordonanță de urgență nr. 49 din 26 mai 2023 privind aprobarea Programului național de investiții pentru consolidarea spitalelor „Mihail Cantacuzino” și a Programului național de expertizare a clădirilor publice cu risc seismic din sistemele de sănătate și de învățământ",
+  "short_title": "OUG 49/2023 — programe naționale pentru consolidarea spitalelor și expertizarea clădirilor publice",
+  "canonical_citation": "OUG nr. 49/2023",
+  "type": "ordonanta",
+  "number": "49",
+  "year": "2023",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "cladiri-publice",
+    "expertizare-tehnica",
+    "investitii-publice"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-05-26",
+  "publication_date": "2023-05-26",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+  "official_source": "Portal Legislativ — Ordonanța de urgență nr. 49 din 26 mai 2023, publicată în Monitorul Oficial nr. 468 din 26 mai 2023; forma consolidată afișată de Portal",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2025-12-19",
+  "last_checked": "2026-08-22",
+  "version": "Forma consolidată afișată de Portal, cu istoricul consolidărilor până la 19 decembrie 2025; forma inițială este identificată prin data și numărul actului.",
+  "article_count": 33,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-212-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 4 alin. (2), art. 4 alin. (3), art. 11 alin. (4), art. 12 lit. b) și art. 30 din Legea nr. 212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor.",
+      "source_article": "Art. 3 alin. (1); art. 6 alin. (3); art. 21 alin. (2)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "hg-907-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit anexa nr. 7 și art. 1 alin. (2) din Hotărârea Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice.",
+      "source_article": "Art. 4 alin. (1) lit. a)-d); art. 9 alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "lege-422-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 23 alin. (1) din Legea nr. 422/2001 privind protejarea monumentelor istorice.",
+      "source_article": "Art. 5 alin. (7)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează explicit art. 6 alin. (2) și art. 7 alin. (1^6) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. 17 alin. (1) și (3)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "ordin-839-2009",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Ordonanța citează ordinul care aprobă Normele metodologice de aplicare a Legii nr. 50/1991: Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009.",
+      "source_article": "Art. 27",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdlpa-2853-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma consolidată citează explicit Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 2.853/2022 pentru normele metodologice legate de Legea nr. 212/2022.",
+      "source_article": "Art. 5 alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "rights_note": "Import metadata-only; textul integral nu este reprodus. Sursa canonică este recordul oficial Portal Legislativ, iar forma printabilă oficială asociată este https://legislatie.just.ro/Public/FormaPrintabila/00000G1S8AEDZEX2ZCC3BKJFVCECOWLW. Portalul afișează forma consolidată și istoricul consolidărilor până la 19.12.2025. Nu este setat effective_date deoarece Art. 32 și Art. 33 folosesc intrarea în vigoare ca reper pentru termene ulterioare, fără să stabilească o dată calendaristică proprie. Forma consolidată include mențiuni privind modificări ulterioare prin Legea nr. 55/2024, OUG nr. 52/2025 și OUG nr. 82/2025; aceste acte, precum și Ordinul MDLPA nr. 1.322/2023, nu sunt importate în acest PR. Legea nr. 95/2006, Legea nr. 500/2002, HG nr. 144/2010 și alte acte citate, dar absente din corpus, rămân referințe externe. Nu se adaugă relații tematice sau relații către acte absente.",
+  "tags": [
+    "ordonanta-de-urgenta",
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "cladiri-publice",
+    "expertizare-tehnica",
+    "investitii-publice",
+    "calitate-constructii",
+    "metadata-only"
+  ]
+}
