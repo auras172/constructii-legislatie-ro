@@ -1,0 +1,52 @@
+{
+  "title": "Legea nr. 238 din 19 iulie 2024 pentru modificarea și completarea Legii nr. 372/2005 privind performanța energetică a clădirilor",
+  "short_title": "Legea 238/2024",
+  "canonical_citation": "Legea nr. 238/2024",
+  "type": "lege",
+  "number": "238",
+  "year": "2024",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "nzeb",
+  "topics": ["performanță-energetică", "clădiri", "nZEB", "modificare-legislativă"],
+  "status": "unknown",
+  "issue_date": "2024-07-19",
+  "publication_date": "2024-07-22",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769",
+  "official_source": "Portal Legislativ — Legea nr. 238/2024; Monitorul Oficial al României, Partea I, nr. 714 din 22 iulie 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769",
+  "version_kind": "original",
+  "last_checked": "2026-08-21",
+  "version": "Forma oficială originală a Legii nr. 238/2024; forma printabilă a Portalului a fost verificată separat",
+  "article_count": 3,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 714 din 22 iulie 2024. Audit final la 2026-08-21T19:50:27Z: detail HTTP 200, text/html; charset=utf-8, 181026 bytes, SHA-256 3c4126b3c55ce312d6339ba84b73cb7075f0a49bdce2b8ed8954caf17b5d61b4; forma printabilă HTTP 200, text/html; charset=utf-8, 129780 bytes, SHA-256 4bb79e67ff6723556ee2108dff4e3d6e6446de03dcbbf59b75ac5814b43e2476. Art. I modifică și completează explicit Legea nr. 372/2005. Art. I citează explicit metodologia Mc 001-2022, reprezentată local, și relația este references. Art. III abrogă punctual art. II din Legea nr. 231/2017; această operațiune nu este remapată deoarece schema nu suportă fidel relația repeals. Nu este identificată o clauză calendaristică proprie privind intrarea în vigoare, astfel că effective_date este omisă. Statusul juridic curent nu este declarat explicit și rămâne unknown. Textul juridic integral nu este importat.",
+  "amends": ["lege-372-2005"],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-372-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede explicit că Legea nr. 372/2005 privind performanța energetică a clădirilor se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21"
+    },
+    {
+      "type": "references",
+      "target": "metodologie-mc001-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I pct. 8 citează explicit Metodologia de calcul al performanței energetice a clădirilor, indicativ Mc 001-2022.",
+      "source_article": "Art. I pct. 8",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285769",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-21"
+    }
+  ],
+  "tags": ["nzeb", "performanță-energetică", "clădiri", "modificare-legislativă", "lege"]
+}
