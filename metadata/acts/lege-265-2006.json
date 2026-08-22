@@ -1,0 +1,40 @@
+{
+  "title": "Legea nr. 265 din 29 iunie 2006 pentru aprobarea Ordonanței de urgență a Guvernului nr. 195/2005 privind protecția mediului",
+  "short_title": "Legea 265/2006",
+  "canonical_citation": "Legea nr. 265/2006",
+  "type": "lege",
+  "number": "265",
+  "year": "2006",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "mediu",
+  "topics": ["mediu", "protectia-mediului", "constructii", "aprobare-ordonanta"],
+  "status": "unknown",
+  "issue_date": "2006-06-29",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2006-07-06",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220",
+  "official_source": "Portal Legislativ — Legea nr. 265/2006; Monitorul Oficial al României, Partea I, nr. 586 din 6 iulie 2006",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220",
+  "version_kind": "original",
+  "last_checked": "2026-08-22",
+  "version": "Forma de bază a Legii nr. 265/2006; Portalul oferă și o formă consolidată istorică la 16.10.2012 și o formă printabilă oficială.",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Audit final la 2026-08-22: requesturile directe fără User-Agent pentru detail, forma consolidată și forma printabilă indicată au returnat HTTP 403, text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75. Fallback-ul User-Agent/browser a returnat conținut oficial complet la HTTP 200, text/html; charset=utf-8: detail 103618 bytes, SHA-256 0cdd31304a62dbff0e814b226c5e668523c558059f2bd67246ea4b6df7e15262; forma consolidată 136827 bytes, SHA-256 17e5e46772dfe75746bb40f18ff522f120b8d249fddb6f1345fc70bbb422b2d9; forma printabilă indicată 58453 bytes, SHA-256 5e2d861fbcc167aa0f8e9860110efa13f65b8ad53f7b52f05f6dc0f005c6a080. Un link printabil canonic descoperit în Portal, https://legislatie.just.ro/Public/FormaPrintabila/00000G3S0CZPK3ZKTSX3MUY1G2TVB2UY, a avut aceleași 58453 bytes și SHA-256. Retrieval UTC: 2026-08-22T13:20:00Z. Articolul I aprobă OUG nr. 195/2005 și îi aduce modificări și completări; Articolul II dispune republicarea OUG. Nu este declarată o clauză proprie, unică, de intrare în vigoare pentru Legea 265/2006, iar effective_date este omisă. Portalul afișează o formă consolidată istorică și disclaimerul că aceasta nu este document oficial; nu este importat textul legal integral.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "oug-195-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit aprobarea Ordonanței de urgență a Guvernului nr. 195 din 22 decembrie 2005 privind protecția mediului, publicată în M.Of. nr. 1.196 din 30 decembrie 2005.",
+      "source_article": "Articolul I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "tags": ["lege", "mediu", "protectia-mediului", "constructii", "aprobare-ordonanta"]
+}
