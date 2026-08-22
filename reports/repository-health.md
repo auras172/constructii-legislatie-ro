@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-22T13:20:06.820Z
+Generated: 2026-08-22T13:57:40.707Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 245 |
+| Total metadata entries | 246 |
 | Full-text acts | 50 |
-| Metadata-only acts | 195 |
-| Import log files | 267 |
-| Total relationship links | 467 |
+| Metadata-only acts | 196 |
+| Import log files | 268 |
+| Total relationship links | 469 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -74,6 +74,7 @@ Generated: 2026-08-22T13:20:06.820Z
 | lege-207-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-212-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | lege-213-1998 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| lege-231-2017 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-238-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-24-2007 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-243-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -254,7 +255,7 @@ Generated: 2026-08-22T13:20:06.820Z
 | oug-140-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-148-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-17-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| oug-18-2009 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| oug-18-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-195-2005 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-26-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -276,7 +277,7 @@ Generated: 2026-08-22T13:20:06.820Z
 | anre | 20 |
 | incendiu | 16 |
 | iscir | 16 |
-| nzeb | 12 |
+| nzeb | 13 |
 | autorizatii | 10 |
 | isc | 7 |
 | mediu | 6 |
@@ -289,7 +290,7 @@ Generated: 2026-08-22T13:20:06.820Z
 | --- | --- |
 | minister | 134 |
 | guvern | 48 |
-| parlament | 36 |
+| parlament | 37 |
 | autoritate | 19 |
 | other | 8 |
 
@@ -313,9 +314,9 @@ Generated: 2026-08-22T13:20:06.820Z
 | 2009 | 6 |
 | 2012 | 6 |
 | 2006 | 5 |
+| 2017 | 5 |
 | 2001 | 4 |
 | 2007 | 4 |
-| 2017 | 4 |
 | 2019 | 4 |
 | 1994 | 3 |
 | 1996 | 3 |
@@ -336,7 +337,7 @@ Generated: 2026-08-22T13:20:06.820Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 195 |
+| metadata-only | 196 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

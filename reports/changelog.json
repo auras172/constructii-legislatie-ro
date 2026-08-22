@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-22T13:20:07.487Z",
+  "generated_at": "2026-08-22T13:57:41.374Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 265/2006 metadata",
         "feat(metadata): add Ordinul 456/2014 control procedures metadata",
         "feat(metadata): add OUG 18/2009 energy performance metadata",
         "feat(metadata): add HG 1076/2004 environmental assessment metadata",
@@ -225,6 +226,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #552 from auras172/codex/metadata-lege-265-2006",
         "Merge pull request #551 from auras172/codex/metadata-ordin-456-2014",
         "Merge pull request #550 from auras172/codex/metadata-oug-18-2009",
         "Merge pull request #549 from auras172/codex/metadata-hg-1076-2004",
@@ -868,6 +870,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 244
+    "infrastructure_changes": 245
   }
 }
