@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 445/2009 environmental impact metadata
+- feat(metadata): add Legea 238/2024 metadata
 - feat(metadata): add OUG 140/2020 metadata
 - feat(metadata): add HG 932/2007 metadata
 - feat(metadata): import NP 134-2014 metadata
@@ -223,6 +225,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #547 from auras172/codex/metadata-lege-238-2024
 - Merge pull request #546 from auras172/codex/metadata-oug-140-2020
 - Merge pull request #545 from auras172/codex/metadata-hg-932-2007
 - Merge pull request #543 from auras172/codex/docs-housekeeping-2026-08-19

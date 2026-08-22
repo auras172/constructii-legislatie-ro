@@ -1,0 +1,55 @@
+{
+  "title": "Hotărârea Guvernului nr. 445 din 8 aprilie 2009 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+  "short_title": "HG 445/2009 — evaluarea impactului asupra mediului",
+  "canonical_citation": "HG nr. 445/2009",
+  "type": "hotarare",
+  "number": "445",
+  "year": "2009",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "mediu",
+  "topics": [
+    "evaluare-impact",
+    "proiecte-publice",
+    "proiecte-private",
+    "protectia-mediului",
+    "constructii"
+  ],
+  "status": "repealed",
+  "issue_date": "2009-04-08",
+  "publication_date": "2009-07-13",
+  "effective_date": "2009-09-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135436",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 445 din 8 aprilie 2009; publicată în Monitorul Oficial nr. 481 din 13 iulie 2009",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/135436",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-22",
+  "version": "forma consolidată afișată de Portal Legislativ; actul original are 36 de articole și 4 anexe",
+  "article_count": 36,
+  "annex_count": 4,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "oug-195-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 195/2005 privind protecția mediului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135436",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru forma oficială a HG nr. 445/2009. Portalul confirmă identitatea, emitentul, publicarea în M.Of. nr. 481/13.07.2009, 36 de articole și 4 anexe. Art. 36 stabilește intrarea în vigoare la 60 de zile de la publicare; effective_date 2009-09-11 este calculată determinist. Forma oficială curentă indică faptul că Legea nr. 292/2018, art. 32 lit. c), abrogă HG nr. 445/2009 la intrarea sa în vigoare; art. 34 din aceeași lege stabilește intrarea în vigoare la 30 de zile de la publicarea în M.Of. nr. 1043/10.12.2018, calculat la 2019-01-09. Statutul este `repealed`; nu se adaugă repeal edge sau repeal_date deoarece schema și scopul acestui import nu le suportă. Singura relație introdusă este citarea nominală din preambul către OUG nr. 195/2005. Legea nr. 265/2006 și Legea nr. 292/2018 sunt documentate ca acte conexe, fără relații suplimentare în acest PR.",
+  "tags": [
+    "evaluare-impact",
+    "proiecte-publice",
+    "proiecte-private",
+    "protectia-mediului",
+    "constructii",
+    "hotarare-guvern",
+    "metadata-only"
+  ]
+}
