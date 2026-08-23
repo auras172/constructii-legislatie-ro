@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-23T15:04:15.997Z
+Generated: 2026-08-23T15:27:07.501Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 251 |
+| Total metadata entries | 252 |
 | Full-text acts | 50 |
-| Metadata-only acts | 201 |
-| Import log files | 273 |
+| Metadata-only acts | 202 |
+| Import log files | 274 |
 | Total relationship links | 479 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -70,10 +70,10 @@ Generated: 2026-08-23T15:04:15.997Z
 | lege-184-2001 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-190-2021 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-193-2019 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| lege-196-2018 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| lege-196-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-204-2020 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-207-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-212-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
+| lege-212-2022 | ✗ | ✓ | ✓ | — | 6 | ✓ |
 | lege-213-1998 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-231-2017 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-238-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -265,9 +265,10 @@ Generated: 2026-08-23T15:04:15.997Z
 | oug-26-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-31-2025 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | oug-46-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| oug-49-2023 | ✗ | ✓ | ✓ | — | 6 | ✓ |
+| oug-49-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-52-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-6-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| oug-82-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-87-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 
 ## Statistics
@@ -276,7 +277,7 @@ Generated: 2026-08-23T15:04:15.997Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 95 |
+| calitate | 96 |
 | executie | 30 |
 | urbanism | 29 |
 | anre | 20 |
@@ -294,7 +295,7 @@ Generated: 2026-08-23T15:04:15.997Z
 | Value | Count |
 | --- | --- |
 | minister | 136 |
-| guvern | 49 |
+| guvern | 50 |
 | parlament | 39 |
 | autoritate | 19 |
 | other | 8 |
@@ -306,7 +307,7 @@ Generated: 2026-08-23T15:04:15.997Z
 | 2023 | 33 |
 | 2022 | 24 |
 | 2010 | 23 |
-| 2025 | 20 |
+| 2025 | 21 |
 | 2024 | 14 |
 | 2026 | 12 |
 | 2014 | 10 |
@@ -342,7 +343,7 @@ Generated: 2026-08-23T15:04:15.997Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 201 |
+| metadata-only | 202 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

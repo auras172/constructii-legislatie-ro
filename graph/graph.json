@@ -2006,6 +2006,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-82-2025",
+      "label": "OUG 82/2025 — modificări legislative și măsuri pentru consolidarea clădirilor",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-87-2025",
       "label": "OUG 87/2025",
       "type": "ordonanta",
@@ -7378,6 +7386,110 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070"
     },
     {
+      "source": "oug-82-2025",
+      "target": "hg-907-2016",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V pct. 10 citează anexa nr. 7 la HG nr. 907/2016 privind documentațiile tehnico-economice și devizul general.",
+      "source_article": "Articolul V pct. 10",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V pct. 9 citează art. 5 alin. (1) lit. a) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Articolul V pct. 9",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "lege-196-2018",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VIII introduce art. 10^1 după art. 10 din Legea nr. 196/2018 privind asociațiile de proprietari și administrarea condominiilor.",
+      "source_article": "Articolul VIII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "lege-212-2022",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V prevede expres că Legea nr. 212/2022 se modifică și se completează după cum urmează.",
+      "source_article": "Articolul V",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "lege-55-2024",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul III identifică OUG nr. 49/2023 ca fiind aprobată prin Legea nr. 55/2024.",
+      "source_article": "Articolul III",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "ordin-mdlpa-1322-2023",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV identifică Ordinul MDLPA nr. 1.322/2023, prin care sunt aprobate normele metodologice de aplicare a OUG nr. 49/2023, și dispune modificarea ulterioară a acestor norme.",
+      "source_article": "Articolul IV",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "ordin-mdlpa-2853-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VII identifică Ordinul MDLPA nr. 2.853/2022, prin care sunt aprobate normele metodologice pentru aplicarea Legii nr. 212/2022.",
+      "source_article": "Articolul VII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
+      "source": "oug-82-2025",
+      "target": "oug-49-2023",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul III prevede expres că OUG nr. 49/2023, aprobată prin Legea nr. 55/2024, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul III",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667"
+    },
+    {
       "source": "oug-87-2025",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -7393,8 +7505,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 251,
-    "confirmed_edges": 460,
+    "total_nodes": 252,
+    "confirmed_edges": 468,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
