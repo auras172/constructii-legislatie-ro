@@ -1422,6 +1422,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-1322-2023",
+      "label": "Ordinul MDLPA 1322/2023",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-171-2023",
       "label": "Ordin MDLPA 171/2023",
       "type": "ordin",
@@ -5284,6 +5292,32 @@
       "evidence": "metadata/acts/ordin-mdlpa-1129-2022.json"
     },
     {
+      "source": "ordin-mdlpa-1322-2023",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709"
+    },
+    {
+      "source": "ordin-mdlpa-1322-2023",
+      "target": "oug-49-2023",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 aprobă Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 49/2023, prevăzute în anexa integrantă a ordinului.",
+      "source_article": "Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-22",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311709"
+    },
+    {
       "source": "ordin-mdlpa-171-2023",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -7278,8 +7312,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 248,
-    "confirmed_edges": 453,
+    "total_nodes": 249,
+    "confirmed_edges": 455,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
