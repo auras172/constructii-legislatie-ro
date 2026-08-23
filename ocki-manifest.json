@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-23T18:53:37.860Z",
+  "generated_at": "2026-08-23T19:15:14.220Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 259,
+    "acts_total": 260,
     "acts_full_text": 50,
-    "acts_metadata_only": 209,
+    "acts_metadata_only": 210,
     "article_anchors_total": 2727,
-    "import_logs_total": 281,
+    "import_logs_total": 282,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 497,
+    "confirmed_relationships": 500,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2524,6 +2524,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-2734-2024.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-2734-2024.json"
+    },
+    {
+      "slug": "ordin-mdlpa-2748-2024",
+      "title": "Ordin nr. 2.748 din 24 iulie 2024 pentru aprobarea reglementării tehnice \"Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024\"",
+      "short_title": "Ordinul MDLPA 2748/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-2748-2024.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-2748-2024.json"
     },
     {
       "slug": "ordin-mdlpa-2837-2022",

@@ -1,0 +1,80 @@
+{
+  "title": "Ordin nr. 2.748 din 24 iulie 2024 pentru aprobarea reglementării tehnice \"Ghid informativ privind stabilirea compoziției betonului în funcție de nivelurile de performanță ale betonului, indicativ RTC 13-2024\"",
+  "short_title": "Ordinul MDLPA 2748/2024",
+  "canonical_citation": "Ordinul MDLPA nr. 2.748/2024",
+  "type": "ordin",
+  "number": "2748",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "beton",
+    "compoziția-betonului",
+    "performanța-betonului",
+    "reglementare-tehnică",
+    "RTC-13-2024"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-07-24",
+  "publication_date": "2024-08-07",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286606",
+  "official_source": "Portal Legislativ — Ordin nr. 2.748 din 24 iulie 2024; Monitorul Oficial nr. 774 și 774 bis din 7 august 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/286606",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "forma oficială originală afișată de Portalul Legislativ; anexa tehnică este publicată separat în M.Of. nr. 774 bis",
+  "article_count": 2,
+  "annex_count": 1,
+  "effective_date": "2024-09-06",
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 774 și 774 bis din 7 august 2024. Art. 1 aprobă RTC 13-2024 ca anexă, iar Art. 2 prevede publicarea și intrarea în vigoare la 30 de zile de la data publicării; effective_date 2024-09-06 este calculată determinist din 2024-08-07 + 30 de zile. Preambulul citează explicit art. 10 din Legea nr. 10/1995, art. 2 alin. (3) din regulamentul aprobat prin HG nr. 203/2003 și art. 5 pct. 31 și art. 12 alin. (6) din HG nr. 477/2020. RTC 13-2024 este deja reprezentat în repository ca ghid tehnic, dar nu se creează un nod sau o relație nouă pentru anexă în acest import. Audit final la 2026-08-23T19:13:35Z: cererea HTTP brută a primit 403, iar fallback-ul cu User-Agent de browser a primit 200.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 10 din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286606",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-203-2003",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 2 alin. (3) din Regulamentul privind activitatea de reglementare în construcții și categoriile de cheltuieli aferente, aprobat prin HG nr. 203/2003.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286606",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 5 pct. 31 și art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286606",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "beton",
+    "compoziția-betonului",
+    "performanța-betonului",
+    "reglementare-tehnică",
+    "RTC-13-2024",
+    "metadata-only"
+  ]
+}
