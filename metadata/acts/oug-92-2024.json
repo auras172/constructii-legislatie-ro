@@ -1,0 +1,67 @@
+{
+  "title": "Ordonanță de urgență nr. 92 din 28 iunie 2024 privind înființarea rețelei naționale de ghișee unice de eficiență energetică",
+  "short_title": "OUG 92/2024 — rețeaua națională de ghișee unice de eficiență energetică",
+  "canonical_citation": "OUG nr. 92/2024",
+  "type": "ordonanta",
+  "number": "92",
+  "year": "2024",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "nzeb",
+  "topics": [
+    "eficiență-energetică",
+    "renovare-energetică",
+    "clădiri",
+    "ghișee-unice",
+    "REPowerEU",
+    "consolidare-seismică"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-06-28",
+  "publication_date": "2024-06-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700",
+  "official_source": "Portal Legislativ — Ordonanță de urgență nr. 92 din 28 iunie 2024; Monitorul Oficial nr. 613 din 29 iunie 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "forma oficială originală afișată de Portalul Legislativ; forma printabilă verificată separat",
+  "article_count": 10,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 613 din 29 iunie 2024. Forma printabilă oficială are 10 articole și nu are anexe. Nu este introdusă effective_date: articolele 4, 8 și 10 folosesc data intrării în vigoare ca reper pentru termene, dar ordonanța nu conține o clauză calendaristică distinctă care să permită stabilirea unei singure date în convenția repository-ului. Preambulul citează explicit Legea nr. 372/2005, iar art. 4 și art. 5 citează explicit Legea nr. 121/2014; aceste două ținte locale sunt înregistrate ca references. Actele externe citate nominal, inclusiv Legea nr. 226/2021, OUG nr. 163/2022, Legea nr. 123/2012, Legea nr. 246/2022, OUG nr. 115/2023, HG nr. 1.034/2020, OUG nr. 155/2020 și Legea nr. 230/2021, nu sunt create sau importate. Audit la 2026-08-23T17:05:27Z: cererile HTTP brute au primit 403, iar fallback-ul cu User-Agent de browser a primit 200.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-372-2005",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată, cu modificările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-121-2014",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 4 alin. (2) și (5) citează explicit Legea nr. 121/2014 privind eficiența energetică.",
+      "source_article": "Art. 4 alin. (2) și (5)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "eficiență-energetică",
+    "renovare-energetică",
+    "clădiri",
+    "ghișee-unice",
+    "REPowerEU",
+    "consolidare-seismică",
+    "ordonanță-de-urgență",
+    "metadata-only"
+  ]
+}

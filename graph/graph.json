@@ -2036,6 +2036,14 @@
       "domain": "calitate",
       "status": "unknown",
       "import_method": "metadata-only"
+    },
+    {
+      "id": "oug-92-2024",
+      "label": "OUG 92/2024 — rețeaua națională de ghișee unice de eficiență energetică",
+      "type": "ordonanta",
+      "domain": "nzeb",
+      "status": "unknown",
+      "import_method": "metadata-only"
     }
   ],
   "edges": [
@@ -7635,11 +7643,37 @@
       "reviewed_at": "2026-08-10",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305816",
       "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte contextual citate sau pentru subiectul general al programelor de lucrări publice."
+    },
+    {
+      "source": "oug-92-2024",
+      "target": "lege-121-2014",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 4 alin. (2) și (5) citează explicit Legea nr. 121/2014 privind eficiența energetică.",
+      "source_article": "Art. 4 alin. (2) și (5)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700"
+    },
+    {
+      "source": "oug-92-2024",
+      "target": "lege-372-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit Legea nr. 372/2005 privind performanța energetică a clădirilor, republicată, cu modificările ulterioare.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284700"
     }
   ],
   "stats": {
-    "total_nodes": 254,
-    "confirmed_edges": 477,
+    "total_nodes": 255,
+    "confirmed_edges": 479,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
