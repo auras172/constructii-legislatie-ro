@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T14:55:08.225Z",
+  "generated_at": "2026-08-23T15:04:15.997Z",
   "summary": {
-    "total_metadata_entries": 250,
+    "total_metadata_entries": 251,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 200,
-    "total_import_logs": 272,
+    "total_metadata_only_acts": 201,
+    "total_import_logs": 273,
     "total_relationship_links": 479,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -1618,7 +1618,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 2,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -1754,6 +1754,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 4,
+      "provenance": true
+    },
+    {
+      "slug": "ordin-mdlpa-566-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -2265,7 +2274,7 @@
     "domains": {
       "urbanism": 29,
       "executie": 30,
-      "calitate": 94,
+      "calitate": 95,
       "nzeb": 13,
       "mediu": 7,
       "munca": 3,
@@ -2277,7 +2286,7 @@
       "iscir": 16
     },
     "issuers": {
-      "minister": 135,
+      "minister": 136,
       "guvern": 49,
       "parlament": 39,
       "other": 8,
@@ -2316,12 +2325,12 @@
       "2022": 24,
       "2023": 33,
       "2024": 14,
-      "2025": 19,
+      "2025": 20,
       "2026": 12
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 200,
+      "metadata-only": 201,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
