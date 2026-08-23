@@ -1574,6 +1574,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-565-2025",
+      "label": "Ordinul MDLPA 565/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-566-2025",
       "label": "Ordinul MDLPA 566/2025",
       "type": "ordin",
@@ -6051,6 +6059,71 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
     },
     {
+      "source": "ordin-mdlpa-565-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912"
+    },
+    {
+      "source": "ordin-mdlpa-565-2025",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit HG nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912"
+    },
+    {
+      "source": "ordin-mdlpa-565-2025",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează regulamentul privind agrementul tehnic în construcții aprobat prin HG nr. 766/1997.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912"
+    },
+    {
+      "source": "ordin-mdlpa-565-2025",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912"
+    },
+    {
+      "source": "ordin-mdlpa-565-2025",
+      "target": "ordin-mdlpa-435-2021",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede expres că Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 435/2021 se completează prin introducerea articolelor 4^1-4^3.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912"
+    },
+    {
       "source": "ordin-mdlpa-566-2025",
       "target": "hg-477-2020",
       "relationship": "references",
@@ -7753,8 +7826,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 257,
-    "confirmed_edges": 484,
+    "total_nodes": 258,
+    "confirmed_edges": 489,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

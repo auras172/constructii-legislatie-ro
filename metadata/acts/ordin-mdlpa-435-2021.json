@@ -73,6 +73,9 @@
       "reviewed_at": "2026-08-23"
     }
   ],
+  "amended_by": [
+    "ordin-mdlpa-565-2025"
+  ],
   "rights_note": "Import metadata-only pentru forma originală a Ordinului nr. 435/31.03.2021, publicat în M.Of. nr. 412/20.04.2021. Ordinul aprobă procedurile din anexele nr. 1 și 2; anexele rămân parte a ordinului și nu sunt noduri separate. Portalul indică forme consolidate ulterioare la 25.04.2025 și 10.08.2026, dar acestea nu sunt importate și nu modifică identitatea/numărătoarea formei originale din acest PR. Art. 5 dispune publicarea, iar art. 3 și art. 4 folosesc data intrării în vigoare fără să prevadă o dată calendaristică explicită; effective_date este omisă. Art. 6 abrogă Ordinul MTCT nr. 1.889/2004, însă actul nu există local și nu se creează nod sau relație. Ordinul nr. 565/2025 și alte modificări ulterioare rămân separate.",
   "tags": [
     "ordin",

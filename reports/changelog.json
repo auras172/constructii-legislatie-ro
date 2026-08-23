@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T18:24:57.261Z",
+  "generated_at": "2026-08-23T18:44:17.564Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MDLPA 435/2021",
         "feat(metadata): add HG 856/2023 road infrastructure act",
         "feat(metadata): add OUG 92/2024 metadata",
         "feat(metadata): add OUG 52/2023 water legislation",
@@ -227,6 +228,7 @@
         "docs: refresh status after OUG 31 import (#267)"
       ],
       "fixes": [
+        "fix(metadata): correct Ordinul MDLPA 435 JSON",
         "fix(metadata): correct HG 856 JSON syntax",
         "fix(metadata): add HG 272/1994 effective date",
         "fix(metadata): add HG 272/1994 effective date",
@@ -240,6 +242,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #568 from auras172/codex/metadata-ordin-mdlpa-435-2021-v2",
         "Merge pull request #566 from auras172/codex/housekeeping-20260823",
         "Merge pull request #565 from auras172/codex/metadata-hg-856-2023-v2",
         "Merge pull request #563 from auras172/codex/metadata-oug-92-2024",
@@ -897,6 +900,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 256
+    "infrastructure_changes": 257
   }
 }
