@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-23T14:55:08.225Z
+Generated: 2026-08-23T15:04:15.997Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 250 |
+| Total metadata entries | 251 |
 | Full-text acts | 50 |
-| Metadata-only acts | 200 |
-| Import log files | 272 |
+| Metadata-only acts | 201 |
+| Import log files | 273 |
 | Total relationship links | 479 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -196,7 +196,7 @@ Generated: 2026-08-23T14:55:08.225Z
 | ordin-mai-180-2022 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mai-87-2010 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-1129-2022 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-mdlpa-1322-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-mdlpa-1322-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-171-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-172-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-mdlpa-205-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -212,6 +212,7 @@ Generated: 2026-08-23T14:55:08.225Z
 | ordin-mdlpa-4059-2024 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-430-2021 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-456-2014 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-mdlpa-566-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-576-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-627-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-710-2026 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -275,7 +276,7 @@ Generated: 2026-08-23T14:55:08.225Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 94 |
+| calitate | 95 |
 | executie | 30 |
 | urbanism | 29 |
 | anre | 20 |
@@ -292,7 +293,7 @@ Generated: 2026-08-23T14:55:08.225Z
 
 | Value | Count |
 | --- | --- |
-| minister | 135 |
+| minister | 136 |
 | guvern | 49 |
 | parlament | 39 |
 | autoritate | 19 |
@@ -305,7 +306,7 @@ Generated: 2026-08-23T14:55:08.225Z
 | 2023 | 33 |
 | 2022 | 24 |
 | 2010 | 23 |
-| 2025 | 19 |
+| 2025 | 20 |
 | 2024 | 14 |
 | 2026 | 12 |
 | 2014 | 10 |
@@ -341,7 +342,7 @@ Generated: 2026-08-23T14:55:08.225Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 200 |
+| metadata-only | 201 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

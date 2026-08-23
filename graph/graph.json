@@ -1558,6 +1558,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-566-2025",
+      "label": "Ordinul MDLPA 566/2025",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-576-2025",
       "label": "Ordin MDLPA 576/2025",
       "type": "ordin",
@@ -5930,6 +5938,58 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245745"
     },
     {
+      "source": "ordin-mdlpa-566-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389"
+    },
+    {
+      "source": "ordin-mdlpa-566-2025",
+      "target": "lege-55-2024",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Legea nr. 55/2024, prin care OUG nr. 49/2023 a fost aprobată.",
+      "source_article": "Preambul și Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389"
+    },
+    {
+      "source": "ordin-mdlpa-566-2025",
+      "target": "ordin-mdlpa-1322-2023",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede expres că Normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.322/2023 se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389"
+    },
+    {
+      "source": "ordin-mdlpa-566-2025",
+      "target": "oug-49-2023",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Ordonanța de urgență a Guvernului nr. 49/2023 privind programul național de investiții și programul național de expertizare.",
+      "source_article": "Preambul și Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389"
+    },
+    {
       "source": "ordin-mdlpa-576-2025",
       "target": "ordin-mdlpa-2853-2022",
       "relationship": "amends",
@@ -7333,8 +7393,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 250,
-    "confirmed_edges": 456,
+    "total_nodes": 251,
+    "confirmed_edges": 460,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

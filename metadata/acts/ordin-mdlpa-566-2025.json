@@ -1,0 +1,92 @@
+{
+  "title": "ORDIN nr. 566 din 23 aprilie 2025 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 49/2023 privind aprobarea Programului național de investiții pentru consolidarea spitalelor \"Mihail Cantacuzino\" și a Programului național de expertizare a clădirilor publice cu risc seismic din sistemele de sănătate și de învățământ, aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.322/2023",
+  "short_title": "Ordinul MDLPA 566/2025",
+  "canonical_citation": "Ordinul nr. 566/2025",
+  "type": "ordin",
+  "number": "566",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "consolidare-seismică",
+    "clădiri-publice",
+    "spitale",
+    "expertizare-seismică",
+    "program-național-de-investiții",
+    "modificare-legislativă"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-04-23",
+  "publication_date": "2025-05-07",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+  "official_source": "Portal Legislativ — Ordinul nr. 566 din 23 aprilie 2025; Monitorul Oficial al României, Partea I, nr. 404 din 7 mai 2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-07-07",
+  "last_checked": "2026-08-23",
+  "version": "Forma consolidată afișată de Portal la 7 iulie 2026; forma printabilă oficială verificată separat",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data de 23 aprilie 2025 și publicarea în M.Of. nr. 404 din 7 mai 2025. Art. I modifică și completează explicit normele metodologice aprobate prin Ordinul MDLPA nr. 1.322/2023. Preambulul citează OUG nr. 49/2023, aprobată prin Legea nr. 55/2024, și HG nr. 477/2020. Art. II dispune publicarea în Monitorul Oficial, fără o clauză calendaristică distinctă de intrare în vigoare; effective_date este omisă. Anexa rămâne parte a ordinului și nu este importată integral. Audit final la 2026-08-23T15:02:23Z: cererea HTTP brută a primit 403, iar User-Agent-ul de browser a primit 200. Forma printabilă a fost auditată la același timestamp.",
+  "amends": [
+    "ordin-mdlpa-1322-2023"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdlpa-1322-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede expres că Normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.322/2023 se modifică și se completează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "oug-49-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Ordonanța de urgență a Guvernului nr. 49/2023 privind programul național de investiții și programul național de expertizare.",
+      "source_article": "Preambul și Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-55-2024",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Legea nr. 55/2024, prin care OUG nr. 49/2023 a fost aprobată.",
+      "source_article": "Preambul și Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "consolidare-seismică",
+    "clădiri-publice",
+    "spitale",
+    "expertizare-seismică",
+    "program-național-de-investiții",
+    "modificare-legislativă"
+  ]
+}
