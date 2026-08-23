@@ -134,6 +134,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-27-2024",
+      "label": "HG 27/2024 privind Ghidul solicitantului ConstructPlus",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-272-1994",
       "label": "HG 272/1994",
       "type": "hotarare",
@@ -2371,6 +2379,19 @@
       "reviewed_at": "2026-08-09",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42096",
       "notes": "Relația privește actul-cadru existent. HG nr. 650/2001, Legea nr. 500/2002, OG nr. 16/2014 și HG nr. 369/2018 sunt documentate ca referințe externe, fără noduri sau relații suplimentare."
+    },
+    {
+      "source": "hg-27-2024",
+      "target": "oug-68-2023",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și articolul unic indică explicit Ordonanța de urgență a Guvernului nr. 68/2023 ca act prin care este instituită schema de ajutor de stat; articolul unic aprobă ghidul aferent acestei scheme.",
+      "source_article": "Preambul și articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278197"
     },
     {
       "source": "hg-272-1994",
@@ -8078,8 +8099,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 263,
-    "confirmed_edges": 509,
+    "total_nodes": 264,
+    "confirmed_edges": 510,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
