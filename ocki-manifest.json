@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-23T17:18:26.014Z",
+  "generated_at": "2026-08-23T18:24:56.309Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 256,
+    "acts_total": 257,
     "acts_full_text": 50,
-    "acts_metadata_only": 206,
+    "acts_metadata_only": 207,
     "article_anchors_total": 2727,
-    "import_logs_total": 278,
+    "import_logs_total": 279,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 480,
+    "confirmed_relationships": 484,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2589,6 +2589,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-430-2021.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-430-2021.json"
+    },
+    {
+      "slug": "ordin-mdlpa-435-2021",
+      "title": "Ordin nr. 435 din 31 martie 2021 pentru aprobarea unor proceduri privind agrementul tehnic în construcții",
+      "short_title": "Ordinul MDLPA nr. 435/2021 — agrement tehnic în construcții",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 6,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-435-2021.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-435-2021.json"
     },
     {
       "slug": "ordin-mdlpa-456-2014",

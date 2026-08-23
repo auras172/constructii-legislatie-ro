@@ -1558,6 +1558,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-435-2021",
+      "label": "Ordinul MDLPA nr. 435/2021 — agrement tehnic în construcții",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-456-2014",
       "label": "Ordin 456/2014 — proceduri de control pentru certificate și autorizații",
       "type": "ordin",
@@ -5939,6 +5947,58 @@
       "evidence": "metadata/acts/ordin-mdlpa-430-2021.json"
     },
     {
+      "source": "ordin-mdlpa-435-2021",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157"
+    },
+    {
+      "source": "ordin-mdlpa-435-2021",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează Hotărârea Guvernului nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157"
+    },
+    {
+      "source": "ordin-mdlpa-435-2021",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Regulamentul privind agrementul tehnic în construcții, aprobat prin Hotărârea Guvernului nr. 766/1997.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157"
+    },
+    {
+      "source": "ordin-mdlpa-435-2021",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 43 alin. (9) și art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157"
+    },
+    {
       "source": "ordin-mdlpa-456-2014",
       "target": "hg-525-2013",
       "relationship": "references",
@@ -7693,8 +7753,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 256,
-    "confirmed_edges": 480,
+    "total_nodes": 257,
+    "confirmed_edges": 484,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

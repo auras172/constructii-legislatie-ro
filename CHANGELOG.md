@@ -207,6 +207,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: refresh corpus status and act index
 - docs: reconcile repository snapshot and act index
 - docs: refresh repository housekeeping snapshot
 - docs: reconcile repository housekeeping snapshot
@@ -229,6 +230,7 @@ All notable changes to constructii-legislatie-ro.
 - docs: refresh status after OUG 31 import (#267)
 
 ### Fixes
+- fix(metadata): correct HG 856 JSON syntax
 - fix(metadata): add HG 272/1994 effective date
 - fix(metadata): add HG 272/1994 effective date
 - fix(metadata): add P118/2-2013 effective date
@@ -241,6 +243,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #566 from auras172/codex/housekeeping-20260823
+- Merge pull request #565 from auras172/codex/metadata-hg-856-2023-v2
 - Merge pull request #563 from auras172/codex/metadata-oug-92-2024
 - Merge pull request #562 from auras172/codex/metadata-oug-52-2023
 - Merge pull request #561 from auras172/codex/metadata-ordin-mdlpa-713-2026

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:18:27.467Z",
+  "generated_at": "2026-08-23T18:24:57.261Z",
   "months": [
     {
       "month": "2026-08",
@@ -204,6 +204,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: refresh corpus status and act index",
         "docs: reconcile repository snapshot and act index",
         "docs: refresh repository housekeeping snapshot",
         "docs: reconcile repository housekeeping snapshot",
@@ -226,6 +227,7 @@
         "docs: refresh status after OUG 31 import (#267)"
       ],
       "fixes": [
+        "fix(metadata): correct HG 856 JSON syntax",
         "fix(metadata): add HG 272/1994 effective date",
         "fix(metadata): add HG 272/1994 effective date",
         "fix(metadata): add P118/2-2013 effective date",
@@ -238,6 +240,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #566 from auras172/codex/housekeeping-20260823",
+        "Merge pull request #565 from auras172/codex/metadata-hg-856-2023-v2",
         "Merge pull request #563 from auras172/codex/metadata-oug-92-2024",
         "Merge pull request #562 from auras172/codex/metadata-oug-52-2023",
         "Merge pull request #561 from auras172/codex/metadata-ordin-mdlpa-713-2026",

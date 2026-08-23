@@ -1,0 +1,84 @@
+{
+  "title": "Ordin nr. 435 din 31 martie 2021 pentru aprobarea unor proceduri privind agrementul tehnic în construcții",
+  "short_title": "Ordinul MDLPA nr. 435/2021 — agrement tehnic în construcții",
+  "canonical_citation": "Ordinul MDLPA nr. 435/2021",
+  "type": "ordin",
+  "number": "435",
+  "year": "2021",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "calitate-construcții",
+    "proceduri"
+  ],
+  "status": "unknown",
+  "issue_date": "2021-03-31",
+  "publication_date": "2021-04-20",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+  "official_source": "Portal Legislativ — Ordin nr. 435 din 31 martie 2021 pentru aprobarea unor proceduri privind agrementul tehnic în construcții; publicat în Monitorul Oficial al României, Partea I, nr. 412 din 20 aprilie 2021",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală pentru import; Portalul indică forme consolidate ulterioare la 25.04.2025 și 10.08.2026, neincluse în acest PR.",
+  "article_count": 6,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-668-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează Hotărârea Guvernului nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-766-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Regulamentul privind agrementul tehnic în construcții, aprobat prin Hotărârea Guvernului nr. 766/1997.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 43 alin. (9) și art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Lucrărilor Publice, Dezvoltării și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241157",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru forma originală a Ordinului nr. 435/31.03.2021, publicat în M.Of. nr. 412/20.04.2021. Ordinul aprobă procedurile din anexele nr. 1 și 2; anexele rămân parte a ordinului și nu sunt noduri separate. Portalul indică forme consolidate ulterioare la 25.04.2025 și 10.08.2026, dar acestea nu sunt importate și nu modifică identitatea/numărătoarea formei originale din acest PR. Art. 5 dispune publicarea, iar art. 3 și art. 4 folosesc data intrării în vigoare fără să prevadă o dată calendaristică explicită; effective_date este omisă. Art. 6 abrogă Ordinul MTCT nr. 1.889/2004, însă actul nu există local și nu se creează nod sau relație. Ordinul nr. 565/2025 și alte modificări ulterioare rămân separate."
+  "tags": [
+    "ordin",
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "calitate-construcții",
+    "metadata-only"
+  ]
+}
