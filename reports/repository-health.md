@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-23T19:26:21.920Z
+Generated: 2026-08-23T19:37:59.901Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 261 |
+| Total metadata entries | 262 |
 | Full-text acts | 50 |
-| Metadata-only acts | 211 |
-| Import log files | 283 |
+| Metadata-only acts | 212 |
+| Import log files | 284 |
 | Total relationship links | 499 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -276,6 +276,7 @@ Generated: 2026-08-23T19:26:21.920Z
 | oug-52-2023 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-52-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-6-2018 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| oug-68-2023 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | oug-82-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | oug-87-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-92-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -286,7 +287,7 @@ Generated: 2026-08-23T19:26:21.920Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 102 |
+| calitate | 103 |
 | executie | 31 |
 | urbanism | 29 |
 | anre | 20 |
@@ -304,7 +305,7 @@ Generated: 2026-08-23T19:26:21.920Z
 | Value | Count |
 | --- | --- |
 | minister | 142 |
-| guvern | 53 |
+| guvern | 54 |
 | parlament | 39 |
 | autoritate | 19 |
 | other | 8 |
@@ -313,7 +314,7 @@ Generated: 2026-08-23T19:26:21.920Z
 
 | Value | Count |
 | --- | --- |
-| 2023 | 35 |
+| 2023 | 36 |
 | 2022 | 24 |
 | 2010 | 23 |
 | 2025 | 22 |
@@ -352,7 +353,7 @@ Generated: 2026-08-23T19:26:21.920Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 211 |
+| metadata-only | 212 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

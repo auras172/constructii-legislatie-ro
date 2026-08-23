@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T19:26:22.896Z",
+  "generated_at": "2026-08-23T19:38:00.969Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MDLPA 4284/2024",
         "feat(metadata): add Ordin MDLPA 2748/2024 metadata",
         "feat(metadata): add Ordinul MDLPA 2734/2024",
         "feat(metadata): add Ordin MDLPA 565/2025 metadata",
@@ -245,6 +246,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #572 from auras172/codex/metadata-ordin-mdlpa-4284-2024",
         "Merge pull request #571 from auras172/codex/metadata-ordin-mdlpa-2748-2024",
         "Merge pull request #570 from auras172/codex/metadata-ordin-mdlpa-2734-2024",
         "Merge pull request #569 from auras172/codex/metadata-ordin-mdlpa-565-2025",
@@ -906,6 +908,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 260
+    "infrastructure_changes": 261
   }
 }
