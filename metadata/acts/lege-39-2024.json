@@ -1,0 +1,70 @@
+{
+  "title": "Legea nr. 39 din 8 martie 2024 privind aprobarea Ordonanței de urgență a Guvernului nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții",
+  "short_title": "Legea 39/2024 — aprobarea OUG 68/2023",
+  "canonical_citation": "Legea nr. 39/2024",
+  "type": "lege",
+  "number": "39",
+  "year": "2024",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "produse-pentru-constructii",
+    "materiale-de-constructii",
+    "ajutor-de-stat",
+    "program-national"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-03-08",
+  "publication_date": "2024-03-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751",
+  "official_source": "Portal Legislativ — Legea nr. 39/08.03.2024; Monitorul Oficial al României, Partea I, nr. 198 din 11.03.2024; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 23.08.2026; legea conține un articol unic și nu are anexe",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma originală a Legii nr. 39/08.03.2024, publicată în M.Of. nr. 198/11.03.2024. Articolul unic aprobă OUG nr. 68/2023 și prevede modificări ale acesteia. Nu există o clauză distinctă de intrare în vigoare în textul auditat; effective_date este omisă. Statusul curent rămâne unknown. Nu se creează noduri pentru acte externe sau pentru actele citate doar incidental.",
+  "approves": [
+    "oug-68-2023"
+  ],
+  "amends": [
+    "oug-68-2023"
+  ],
+  "related_acts": [
+    "oug-68-2023"
+  ],
+  "relationships": [
+    {
+      "type": "approves",
+      "target": "oug-68-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic prevede expres: «Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 7 iulie 2023» pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "amends",
+      "target": "oug-68-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Același articol unic aprobă OUG nr. 68/2023 «cu următoarele modificări» și enumeră modificările aduse articolelor 3, 5, 11, 12, 13, 14 și 18 din ordonanță.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "lege",
+    "produse-pentru-constructii",
+    "materiale-de-constructii",
+    "program-national"
+  ]
+}

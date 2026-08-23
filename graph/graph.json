@@ -566,6 +566,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-39-2024",
+      "label": "Legea 39/2024 — aprobarea OUG 68/2023",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-422-2001",
       "label": "Legea 422/2001 privind protejarea monumentelor istorice",
       "type": "lege",
@@ -3534,6 +3542,39 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-372-2005.json"
+    },
+    {
+      "source": "lege-39-2024",
+      "target": "oug-68-2023",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Același articol unic aprobă OUG nr. 68/2023 «cu următoarele modificări» și enumeră modificările aduse articolelor 3, 5, 11, 12, 13, 14 și 18 din ordonanță.",
+      "source_article": "Articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751"
+    },
+    {
+      "source": "lege-39-2024",
+      "target": "oug-68-2023",
+      "relationship": "approves",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic prevede expres: «Se aprobă Ordonanța de urgență a Guvernului nr. 68 din 7 iulie 2023» pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții.",
+      "source_article": "Articolul unic",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279751"
+    },
+    {
+      "source": "lege-39-2024",
+      "target": "oug-68-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/lege-39-2024.json"
     },
     {
       "source": "lege-426-2023",
@@ -8037,8 +8078,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 262,
-    "confirmed_edges": 506,
+    "total_nodes": 263,
+    "confirmed_edges": 509,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
