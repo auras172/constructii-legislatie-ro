@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-23T19:26:22.058Z",
+  "generated_at": "2026-08-23T19:38:00.065Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 261,
+    "acts_total": 262,
     "acts_full_text": 50,
-    "acts_metadata_only": 211,
+    "acts_metadata_only": 212,
     "article_anchors_total": 2727,
-    "import_logs_total": 283,
+    "import_logs_total": 284,
     "domains": [
       "anre",
       "autorizatii",
@@ -3421,6 +3421,19 @@
       "anchor_count": 0,
       "file": "legi/oug-6-2018.md",
       "metadata_file": "metadata/acts/oug-6-2018.json"
+    },
+    {
+      "slug": "oug-68-2023",
+      "title": "Ordonanță de urgență nr. 68 din 7 iulie 2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții",
+      "short_title": "OUG 68/2023 privind Programul național pentru produse și materiale de construcții",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 27,
+      "anchor_count": 0,
+      "file": "legi/oug-68-2023.md",
+      "metadata_file": "metadata/acts/oug-68-2023.json"
     },
     {
       "slug": "oug-82-2025",

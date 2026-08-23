@@ -2070,6 +2070,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-68-2023",
+      "label": "OUG 68/2023 privind Programul național pentru produse și materiale de construcții",
+      "type": "ordonanta",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-82-2025",
       "label": "OUG 82/2025 — modificări legislative și măsuri pentru consolidarea clădirilor",
       "type": "ordonanta",
@@ -8029,7 +8037,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 261,
+    "total_nodes": 262,
     "confirmed_edges": 506,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
