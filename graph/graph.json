@@ -1998,6 +1998,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-52-2023",
+      "label": "OUG 52/2023 — modificări în domeniul apelor",
+      "type": "ordonanta",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-52-2025",
       "label": "OUG 52/2025",
       "type": "ordonanta",
@@ -7445,6 +7453,45 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270777"
     },
     {
+      "source": "oug-52-2023",
+      "target": "lege-107-1996",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolele III-V și VIII citează nominal Legea apelor nr. 107/1996, inclusiv art. 81, art. 53 și art. 25; actul nu este modelat ca modificare directă a Legii nr. 107/1996.",
+      "source_article": "Art. III alin. (4); Art. IV alin. (1), (1^2) și (5); Art. V alin. (1); Art. VIII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163"
+    },
+    {
+      "source": "oug-52-2023",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I pct. 2 citează explicit anexa nr. 2 la Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. I pct. 2",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163"
+    },
+    {
+      "source": "oug-52-2023",
+      "target": "ordin-mdlpa-817-2021",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV alin. (1) citează Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 817/2021 pentru aprobarea procedurii privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici.",
+      "source_article": "Art. IV alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163"
+    },
+    {
       "source": "oug-52-2025",
       "target": "lege-10-1995",
       "relationship": "amends",
@@ -7591,8 +7638,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 253,
-    "confirmed_edges": 474,
+    "total_nodes": 254,
+    "confirmed_edges": 477,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
