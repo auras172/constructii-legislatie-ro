@@ -30,6 +30,7 @@
   "article_count": 33,
   "annex_count": 0,
   "import_method": "metadata-only",
+  "approved_by": ["lege-55-2024"],
   "relationships": [
     {
       "type": "references",
@@ -98,7 +99,7 @@
       "reviewed_at": "2026-08-22"
     }
   ],
-  "rights_note": "Import metadata-only; textul integral nu este reprodus. Sursa canonică este recordul oficial Portal Legislativ, iar forma printabilă oficială asociată este https://legislatie.just.ro/Public/FormaPrintabila/00000G1S8AEDZEX2ZCC3BKJFVCECOWLW. Portalul afișează forma consolidată și istoricul consolidărilor până la 19.12.2025. Nu este setat effective_date deoarece Art. 32 și Art. 33 folosesc intrarea în vigoare ca reper pentru termene ulterioare, fără să stabilească o dată calendaristică proprie. Forma consolidată include mențiuni privind modificări ulterioare prin Legea nr. 55/2024, OUG nr. 52/2025 și OUG nr. 82/2025; aceste acte, precum și Ordinul MDLPA nr. 1.322/2023, nu sunt importate în acest PR. Legea nr. 95/2006, Legea nr. 500/2002, HG nr. 144/2010 și alte acte citate, dar absente din corpus, rămân referințe externe. Nu se adaugă relații tematice sau relații către acte absente.",
+  "rights_note": "Import metadata-only; textul integral nu este reprodus. Sursa canonică este recordul oficial Portal Legislativ, iar forma printabilă oficială asociată este https://legislatie.just.ro/Public/FormaPrintabila/00000G1S8AEDZEX2ZCC3BKJFVCECOWLW. Portalul afișează forma consolidată și istoricul consolidărilor până la 19.12.2025. Nu este setat effective_date deoarece Art. 32 și Art. 33 folosesc intrarea în vigoare ca reper pentru termene ulterioare, fără să stabilească o dată calendaristică proprie. Forma consolidată include mențiuni privind modificări ulterioare prin Legea nr. 55/2024, OUG nr. 52/2025 și OUG nr. 82/2025; Legea nr. 55/2024 este reprezentată separat și relația de aprobare este reflectată prin approved_by, iar celelalte acte rămân candidați separați. Ordinul MDLPA nr. 1.322/2023 nu este importat în acest PR. Legea nr. 95/2006, Legea nr. 500/2002, HG nr. 144/2010 și alte acte citate, dar absente din corpus, rămân referințe externe. Nu se adaugă relații tematice sau relații către acte absente.",
   "tags": [
     "ordonanta-de-urgenta",
     "risc-seismic",

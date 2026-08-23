@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordin MDLPA 1322/2023 metadata
 - feat(metadata): add OUG 49/2023 seismic hospital programs
 - feat(metadata): add Legea 107/1996 metadata
 - feat(metadata): add Legea 231/2017 OUG 18 amendment
@@ -233,6 +234,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #557 from auras172/codex/metadata-ordin-mdlpa-1322-2023
 - Merge pull request #556 from auras172/codex/metadata-oug-49-2023
 - Merge pull request #555 from auras172/codex/housekeeping-20260822
 - Merge pull request #554 from auras172/codex/metadata-lege-107-1996
