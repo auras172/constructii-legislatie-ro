@@ -278,6 +278,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-856-2023",
+      "label": "HG 856/2023 — trecerea unor sectoare din DN Centura București",
+      "type": "hotarare",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-862-2016",
       "label": "HG 862/2016",
       "type": "hotarare",
@@ -2676,6 +2684,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279235?isFormaDeBaza=True&rep=True"
+    },
+    {
+      "source": "hg-856-2023",
+      "target": "og-43-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 11 alin. (1) și art. 12 alin. (1) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274598"
     },
     {
       "source": "hg-862-2016",
@@ -7672,8 +7693,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 255,
-    "confirmed_edges": 479,
+    "total_nodes": 256,
+    "confirmed_edges": 480,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

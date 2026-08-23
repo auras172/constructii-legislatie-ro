@@ -1,0 +1,53 @@
+{
+  "title": "Hotărârea Guvernului nr. 856 din 14 septembrie 2023 privind trecerea unor sectoare din drumul național DN Centură București cuprinse între km 66+150-km 67+500, respectiv între km 67+500-km 69+050, inclusiv a terenurilor aferente, din domeniul public al statului și din administrarea Ministerului Transporturilor și Infrastructurii în domeniul public al orașului Chitila, respectiv în domeniul public al comunei Mogoșoaia, declasarea acestora din categoria funcțională a drumurilor de interes național, înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unui sector de drum național cuprins între DN 7 și DN 1A și darea în administrarea Ministerului Transporturilor și Infrastructurii, precum și modificarea traseului drumului național DN Centură București",
+  "short_title": "HG 856/2023 — trecerea unor sectoare din DN Centura București",
+  "canonical_citation": "HG nr. 856/2023",
+  "type": "hotarare",
+  "number": "856",
+  "year": "2023",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "executie",
+  "topics": [
+    "drumuri",
+    "infrastructură-rutieră",
+    "domeniu-public",
+    "administrare-bunuri",
+    "declasare-drumuri"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-09-14",
+  "publication_date": "2023-09-20",
+  "publication_medium": "monitorul-oficial",
+  "effective_date": "2023-09-20",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274598",
+  "official_source": "Portal Legislativ — Hotărârea Guvernului nr. 856 din 14 septembrie 2023; publicată în Monitorul Oficial al României, Partea I, nr. 847 din 20 septembrie 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/274598",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală afișată de Portal; 6 articole și 3 anexe.",
+  "article_count": 6,
+  "annex_count": 3,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "og-43-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 11 alin. (1) și art. 12 alin. (1) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274598",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru HG nr. 856/2023, forma oficială originală. Portalul confirmă că actul privește trecerea și declasarea unor sectoare din DN Centura București, înscrierea unui sector în inventarul centralizat al domeniului public și modificarea traseului drumului național. Art. 4 și art. 6 se raportează la data intrării în vigoare; pagina oficială de rezultate a Portalului indică data intrării în vigoare ca 20.09.2023, aceeași cu publicarea, iar effective_date este setată determinist la această dată. Hotărârea are 3 anexe proprii, care rămân parte a actului și nu sunt create ca noduri separate. Art. 5 și art. 6 modifică, respectiv completează efectele asupra HG nr. 1.705/2006 și HG nr. 540/2000, dar aceste ținte nu există în corpus și nu sunt create. Preambulul citează Legea nr. 287/2009 și OUG nr. 57/2019, absente din corpus. Singura relație adăugată este referința explicită către OG nr. 43/1997, țintă locală existentă. Nu se adaugă relații către actele de consolidare seismică sau alte acte tematice."
+  "tags": [
+    "hotarare-guvern",
+    "drumuri",
+    "infrastructură-rutieră",
+    "domeniu-public",
+    "metadata-only"
+  ]
+}

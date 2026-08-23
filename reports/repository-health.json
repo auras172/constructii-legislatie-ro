@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T17:06:45.773Z",
+  "generated_at": "2026-08-23T17:16:08.885Z",
   "summary": {
-    "total_metadata_entries": 255,
+    "total_metadata_entries": 256,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 205,
-    "total_import_logs": 277,
-    "total_relationship_links": 486,
+    "total_metadata_only_acts": 206,
+    "total_import_logs": 278,
+    "total_relationship_links": 487,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -314,6 +314,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "hg-856-2023",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -2309,7 +2318,7 @@
   "statistics": {
     "domains": {
       "urbanism": 29,
-      "executie": 30,
+      "executie": 31,
       "calitate": 97,
       "nzeb": 14,
       "mediu": 8,
@@ -2323,7 +2332,7 @@
     },
     "issuers": {
       "minister": 137,
-      "guvern": 52,
+      "guvern": 53,
       "parlament": 39,
       "other": 8,
       "autoritate": 19
@@ -2359,14 +2368,14 @@
       "2020": 9,
       "2021": 8,
       "2022": 24,
-      "2023": 34,
+      "2023": 35,
       "2024": 15,
       "2025": 21,
       "2026": 13
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 205,
+      "metadata-only": 206,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

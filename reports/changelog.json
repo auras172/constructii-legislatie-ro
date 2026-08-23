@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T17:06:46.769Z",
+  "generated_at": "2026-08-23T17:16:09.875Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 92/2024 metadata",
         "feat(metadata): add OUG 52/2023 water legislation",
         "feat(metadata): add Ordin MDLPA 713/2026 metadata",
         "feat(metadata): add OUG 82/2025 seismic program amendments",
@@ -236,6 +237,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #563 from auras172/codex/metadata-oug-92-2024",
         "Merge pull request #562 from auras172/codex/metadata-oug-52-2023",
         "Merge pull request #561 from auras172/codex/metadata-ordin-mdlpa-713-2026",
         "Merge pull request #560 from auras172/codex/metadata-oug-82-2025",
@@ -890,6 +892,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 254
+    "infrastructure_changes": 255
   }
 }

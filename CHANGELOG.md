@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add OUG 92/2024 metadata
 - feat(metadata): add OUG 52/2023 water legislation
 - feat(metadata): add Ordin MDLPA 713/2026 metadata
 - feat(metadata): add OUG 82/2025 seismic program amendments
@@ -239,6 +240,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #563 from auras172/codex/metadata-oug-92-2024
 - Merge pull request #562 from auras172/codex/metadata-oug-52-2023
 - Merge pull request #561 from auras172/codex/metadata-ordin-mdlpa-713-2026
 - Merge pull request #560 from auras172/codex/metadata-oug-82-2025
