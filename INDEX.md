@@ -10,7 +10,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-22; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
+Snapshot reconciliat la 2026-08-23; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
@@ -270,7 +270,7 @@ Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/a
 | 236 | OUG 6/2018 | calitate | ordonanta | metadata-only | 1 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070) | [metadata](./metadata/acts/oug-6-2018.json) |
 | 237 | OUG 87/2025 | calitate | ordonanta | metadata-only | 8 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305816) | [metadata](./metadata/acts/oug-87-2025.json) |
 
-**Sumar reconciliat:** 247 acte urmărite · 50 full-text importate · 197 metadata-only · 447 relații confirmate · health 100/100.
+**Sumar reconciliat:** 256 acte urmărite · 50 full-text importate · 206 metadata-only · 480 relații confirmate · health 100/100.
 
 ### Importuri reconciliate după snapshotul de 237 acte
 
@@ -288,6 +288,15 @@ Manifestul curent confirmă următoarele acte adăugate ulterior:
 | 245 | Legea 265/2006 | mediu | lege | unknown | 2 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220) | [metadata](./metadata/acts/lege-265-2006.json) |
 | 246 | Legea 231/2017 | nzeb | lege | unknown | 4 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/195432) | [metadata](./metadata/acts/lege-231-2017.json) |
 | 247 | Legea apelor 107/1996 | mediu | lege | unknown | 112 | 11 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/284872) | [metadata](./metadata/acts/lege-107-1996.json) |
+| 248 | OUG 49/2023 | calitate | ordonanta | unknown | 33 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/270777) | [metadata](./metadata/acts/oug-49-2023.json) |
+| 249 | Ordin MDLPA 1322/2023 | calitate | ordin | unknown | 2 | 1 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/311709) | [metadata](./metadata/acts/ordin-mdlpa-1322-2023.json) |
+| 250 | Legea 55/2024 | calitate | lege | unknown | 1 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocumentAfis/280153) | [metadata](./metadata/acts/lege-55-2024.json) |
+| 251 | Ordin MDLPA 566/2025 | calitate | ordin | unknown | 2 | 1 | [Portal](https://legislatie.just.ro/Public/DetaliiDocumentAfis/297389) | [metadata](./metadata/acts/ordin-mdlpa-566-2025.json) |
+| 252 | OUG 82/2025 | calitate | ordonanta | unknown | 10 | 1 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/305667) | [metadata](./metadata/acts/oug-82-2025.json) |
+| 253 | Ordin MDLPA 713/2026 | calitate | ordin | unknown | — | — | [Portal](https://legislatie.just.ro/Public/DetaliiDocumentAfis/312100) | [metadata](./metadata/acts/ordin-mdlpa-713-2026.json) |
+| 254 | OUG 52/2023 | mediu | ordonanta | unknown | 10 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/271163) | [metadata](./metadata/acts/oug-52-2023.json) |
+| 255 | OUG 92/2024 | nzeb | ordonanta | unknown | 10 | 0 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/284700) | [metadata](./metadata/acts/oug-92-2024.json) |
+| 256 | HG 856/2023 | executie | hotarare | unknown | 6 | 3 | [Portal](https://legislatie.just.ro/Public/DetaliiDocument/274598) | [metadata](./metadata/acts/hg-856-2023.json) |
 
 ---
 ## Cum trebuie să folosească agenții AI acest index
@@ -312,7 +321,7 @@ Acest index este conceput pentru a fi citit de agenți AI înainte de a răspund
 
 ## Lacune cunoscute și pași următori
 
-Următoarele puncte rămân deschise și documentate. Nu adăugați acte noi în metadate fără cercetare de sursă verificată.
+Următoarele puncte rămân deschise și documentate. Nu adăugați acte noi în metadate fără cercetare de sursă verificată. Candidații din issue-ul #544 au fost reconciliați; orice candidat nou trebuie verificat fresh și deduplicat contra `origin/main`.
 
 - **ISCIR — audit de acoperire și actualitate:** Repo-ul conține deja 16 acte în domeniul ISCIR, inclusiv prescripții tehnice, și trimiteri la catalogul ISCIR. Nu mai este corect că sursele nu au fost identificate; rămâne de reconciliat catalogul oficial curent cu actele importate și de completat full-text-ul unde este disponibil.
 - **ANRE — audit de acoperire și actualitate:** Repo-ul conține deja 20 de acte în domeniul ANRE, inclusiv ordine pentru autorizarea electricienilor și racordare. Nu mai este corect că sursele nu au fost identificate; rămâne auditul exhaustivității, statusului și full-text-ului pe sursele ANRE și Portalul Legislativ.
