@@ -1,0 +1,79 @@
+{
+  "title": "Ordin nr. 3.057 din 7 octombrie 2024 privind aprobarea Ghidului de plată adresat beneficiarilor de ajutor de stat în baza Ordonanței de urgență a Guvernului nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții - CONSTRUCTPLUS",
+  "short_title": "Ordinul MEAT nr. 3.057/2024 — Ghidul de plată ConstructPlus",
+  "canonical_citation": "Ordinul MEAT nr. 3.057/2024",
+  "type": "ordin",
+  "number": "3057",
+  "year": "2024",
+  "issuer": "Ministerul Economiei, Antreprenoriatului și Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "constructplus",
+    "produse-pentru-constructii",
+    "materiale-de-constructii",
+    "ajutor-de-stat"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-10-07",
+  "publication_date": "2024-10-18",
+  "publication_medium": "monitorul-oficial",
+  "effective_date": "2024-10-18",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+  "official_source": "Portal Legislativ — Ordin nr. 3.057 din 7 octombrie 2024; publicat în Monitorul Oficial al României, Partea I, nr. 1048 din 18 octombrie 2024; forma printabilă oficială verificată separat",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 23.08.2026; ordinul are 4 articole și o anexă — Ghidul de plată ConstructPlus.",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma originală a Ordinului nr. 3.057/07.10.2024, publicat în M.Of. nr. 1048/18.10.2024. Art. 1 aprobă Ghidul de plată, care constituie anexă și face parte integrantă din ordin; ghidul nu este creat ca nod separat și textul său nu este importat. Art. 4 prevede că ordinul intră în vigoare la data publicării, astfel effective_date este 18.10.2024, derivată determinist din publicarea oficială. Statusul curent rămâne unknown. Preambulul citează și acte externe absente din corpus, care nu sunt create în acest PR.",
+  "related_acts": [
+    "hg-27-2024",
+    "oug-68-2023",
+    "lege-39-2024"
+  ],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-27-2024",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Hotărârea Guvernului nr. 27/2024 privind aprobarea Ghidului solicitantului aferent schemei de ajutor de stat instituite prin OUG nr. 68/2023.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "oug-68-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează expres OUG nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții; art. 1 aprobă ghidul de plată aferent acestui program.",
+      "source_article": "Preambul; Art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-39-2024",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul indică faptul că OUG nr. 68/2023 a fost aprobată cu modificări prin Legea nr. 39/2024.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "ordin",
+    "constructplus",
+    "produse-pentru-constructii",
+    "materiale-de-constructii",
+    "ajutor-de-stat"
+  ]
+}

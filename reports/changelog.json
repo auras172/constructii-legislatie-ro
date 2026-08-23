@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T20:09:20.238Z",
+  "generated_at": "2026-08-23T20:32:45.874Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 27/2024 metadata",
         "feat(metadata): add Legea 39/2024",
         "feat(metadata): add OUG 68/2023 metadata",
         "feat(metadata): add Ordinul MDLPA 4284/2024",
@@ -248,6 +249,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #576 from auras172/codex/metadata-hg-27-2024",
         "Merge pull request #575 from auras172/codex/metadata-lege-39-2024",
         "Merge pull request #574 from auras172/codex/metadata-oug-68-2023",
         "Merge pull request #572 from auras172/codex/metadata-ordin-mdlpa-4284-2024",
@@ -912,6 +914,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 263
+    "infrastructure_changes": 264
   }
 }

@@ -1870,6 +1870,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-meat-3057-2024",
+      "label": "Ordinul MEAT nr. 3.057/2024 — Ghidul de plată ConstructPlus",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mlpda-3454-2019",
       "label": "Ordin MLPDA 3454/2019",
       "type": "ordin",
@@ -7309,6 +7317,66 @@
       "notes": "Modificarea priveşte anexa D şi introducerea anexei L în Partea a 3-a; nu se creează nod separat pentru C 107-2005 sau C 107/3."
     },
     {
+      "source": "ordin-meat-3057-2024",
+      "target": "hg-27-2024",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează Hotărârea Guvernului nr. 27/2024 privind aprobarea Ghidului solicitantului aferent schemei de ajutor de stat instituite prin OUG nr. 68/2023.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825"
+    },
+    {
+      "source": "ordin-meat-3057-2024",
+      "target": "hg-27-2024",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-meat-3057-2024.json"
+    },
+    {
+      "source": "ordin-meat-3057-2024",
+      "target": "lege-39-2024",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul indică faptul că OUG nr. 68/2023 a fost aprobată cu modificări prin Legea nr. 39/2024.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825"
+    },
+    {
+      "source": "ordin-meat-3057-2024",
+      "target": "lege-39-2024",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-meat-3057-2024.json"
+    },
+    {
+      "source": "ordin-meat-3057-2024",
+      "target": "oug-68-2023",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 1 citează expres OUG nr. 68/2023 pentru aprobarea și finanțarea Programului național pentru dezvoltarea producției interne de produse și materiale de construcții; art. 1 aprobă ghidul de plată aferent acestui program.",
+      "source_article": "Preambul; Art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289825"
+    },
+    {
+      "source": "ordin-meat-3057-2024",
+      "target": "oug-68-2023",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-meat-3057-2024.json"
+    },
+    {
       "source": "ordin-mlpda-3454-2019",
       "target": "ordin-839-2009",
       "relationship": "amends",
@@ -8099,8 +8167,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 264,
-    "confirmed_edges": 510,
+    "total_nodes": 265,
+    "confirmed_edges": 516,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

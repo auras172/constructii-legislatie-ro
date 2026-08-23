@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-23T20:09:19.253Z
+Generated: 2026-08-23T20:32:44.756Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 264 |
+| Total metadata entries | 265 |
 | Full-text acts | 50 |
-| Metadata-only acts | 214 |
-| Import log files | 286 |
-| Total relationship links | 502 |
+| Metadata-only acts | 215 |
+| Import log files | 287 |
+| Total relationship links | 505 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -251,6 +251,7 @@ Generated: 2026-08-23T20:09:19.253Z
 | ordin-mdrt-277-2012 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mdrt-3482-2013 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mdrt-386-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-meat-3057-2024 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mlpda-3454-2019 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mlpda-3494-2020 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mtct-1430-2005 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -289,7 +290,7 @@ Generated: 2026-08-23T20:09:19.253Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 105 |
+| calitate | 106 |
 | executie | 31 |
 | urbanism | 29 |
 | anre | 20 |
@@ -306,7 +307,7 @@ Generated: 2026-08-23T20:09:19.253Z
 
 | Value | Count |
 | --- | --- |
-| minister | 142 |
+| minister | 143 |
 | guvern | 55 |
 | parlament | 40 |
 | autoritate | 19 |
@@ -320,7 +321,7 @@ Generated: 2026-08-23T20:09:19.253Z
 | 2022 | 24 |
 | 2010 | 23 |
 | 2025 | 22 |
-| 2024 | 20 |
+| 2024 | 21 |
 | 2026 | 13 |
 | 2014 | 10 |
 | 2020 | 9 |
@@ -355,7 +356,7 @@ Generated: 2026-08-23T20:09:19.253Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 214 |
+| metadata-only | 215 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
