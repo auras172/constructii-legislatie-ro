@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 856/2023 road infrastructure act
 - feat(metadata): add OUG 92/2024 metadata
 - feat(metadata): add OUG 52/2023 water legislation
 - feat(metadata): add Ordin MDLPA 713/2026 metadata

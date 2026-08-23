@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T17:16:09.875Z",
+  "generated_at": "2026-08-23T17:18:27.467Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 856/2023 road infrastructure act",
         "feat(metadata): add OUG 92/2024 metadata",
         "feat(metadata): add OUG 52/2023 water legislation",
         "feat(metadata): add Ordin MDLPA 713/2026 metadata",
@@ -892,6 +893,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 255
+    "infrastructure_changes": 256
   }
 }
