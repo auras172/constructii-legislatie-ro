@@ -1,0 +1,75 @@
+{
+  "title": "Ordonanță de urgență nr. 52 din 31 mai 2023 pentru modificarea și completarea unor acte normative din domeniul apelor",
+  "short_title": "OUG 52/2023 — modificări în domeniul apelor",
+  "canonical_citation": "OUG nr. 52/2023",
+  "type": "ordonanta",
+  "number": "52",
+  "year": "2023",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "mediu",
+  "topics": [
+    "gospodărirea-apelor",
+    "resurse-de-apă",
+    "Administrația-Națională-Apele-Române",
+    "infrastructură-hidrotehnică",
+    "finanțare-publică"
+  ],
+  "status": "unknown",
+  "issue_date": "2023-05-31",
+  "publication_date": "2023-06-12",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163",
+  "official_source": "Portal Legislativ — Ordonanța de urgență nr. 52 din 31 mai 2023; publicată în Monitorul Oficial al României, Partea I, nr. 517 din 12 iunie 2023",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2024-07-08",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială consolidată afișată de Portal, cu istoricul consolidării din 8 iulie 2024; 10 articole și fără anexă proprie.",
+  "article_count": 10,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-107-1996",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolele III-V și VIII citează nominal Legea apelor nr. 107/1996, inclusiv art. 81, art. 53 și art. 25; actul nu este modelat ca modificare directă a Legii nr. 107/1996.",
+      "source_article": "Art. III alin. (4); Art. IV alin. (1), (1^2) și (5); Art. V alin. (1); Art. VIII",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I pct. 2 citează explicit anexa nr. 2 la Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. I pct. 2",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdlpa-817-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV alin. (1) citează Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 817/2021 pentru aprobarea procedurii privind atestarea tehnico-profesională a verificatorilor de proiecte și a experților tehnici.",
+      "source_article": "Art. IV alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271163",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru forma oficială consolidată afișată de Portalul Legislativ. Forma de bază este publicată în M.Of. nr. 517/12.06.2023, iar Portalul indică o consolidare la 08.07.2024 prin Legea nr. 207/2024; textul integral și anexele actelor modificate nu sunt importate. OUG nr. 52/2023 modifică direct art. III din Legea nr. 122/2020 și OUG nr. 107/2002, dar aceste ținte nu există în corpus și nu sunt create. Articolul VIII dispune republicarea Legii nr. 107/1996 după aprobarea ordonanței prin lege, fără a constitui o modificare directă a legii în modelarea acestui import. Nu există o clauză calendaristică explicită de intrare în vigoare a ordonanței; effective_date este omisă, iar statusul rămâne unknown. Referințele către OUG nr. 57/2019, Legea nr. 287/2009, Ordinul nr. 74/1996, Ordinul nr. 798/2005, HG nr. 183/2020 și alte acte absente rămân documentate ca externe. Domeniul oficial este cel al apelor, nu consolidarea seismică; actele seismice menționate în cererea inițială nu sunt citate nominal și nu primesc relații.",
+  "tags": [
+    "ordonanta-de-urgenta",
+    "gospodărirea-apelor",
+    "resurse-de-apă",
+    "mediu",
+    "metadata-only"
+  ]
+}
