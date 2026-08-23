@@ -1,0 +1,101 @@
+{
+  "title": "ORDIN nr. 565 din 23 aprilie 2025 privind completarea Ordinului ministrului dezvoltării, lucrărilor publice și administrației nr. 435/2021 pentru aprobarea unor proceduri privind agrementul tehnic în construcții",
+  "short_title": "Ordinul MDLPA 565/2025",
+  "canonical_citation": "Ordinul nr. 565/2025",
+  "type": "ordin",
+  "number": "565",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "proceduri-tehnice",
+    "organisme-elaboratoare",
+    "modificare-legislativă"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-04-23",
+  "publication_date": "2025-04-25",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+  "official_source": "Portal Legislativ — Ordin nr. 565 din 23 aprilie 2025; Monitorul Oficial nr. 370 din 25 aprilie 2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "forma oficială originală afișată de Portalul Legislativ; actul completează Ordinul 435/2021",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 370 din 25 aprilie 2025. Ordinul are două articole de sine stătătoare și nu introduce anexe noi; Art. I introduce articolele 4^1-4^3 în procedura existentă din anexa nr. 2 a Ordinului 435/2021. Nu este introdusă effective_date deoarece Art. II dispune publicarea în Monitorul Oficial, fără o clauză calendaristică distinctă pentru o singură dată de intrare în vigoare. Preambulul citează explicit HG nr. 668/2017, HG nr. 766/1997, Legea nr. 10/1995 și HG nr. 477/2020, toate ținte locale existente. Audit final la 2026-08-23T18:42:55Z: cererea HTTP brută a primit 403, iar fallback-ul cu User-Agent de browser a primit 200.",
+  "amends": [
+    "ordin-mdlpa-435-2021"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "ordin-mdlpa-435-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede expres că Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 435/2021 se completează prin introducerea articolelor 4^1-4^3.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-668-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit HG nr. 668/2017 privind stabilirea condițiilor pentru comercializarea produselor pentru construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-766-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează regulamentul privind agrementul tehnic în construcții aprobat prin HG nr. 766/1997.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296912",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "proceduri-tehnice",
+    "organisme-elaboratoare",
+    "modificare-legislativă",
+    "metadata-only"
+  ]
+}

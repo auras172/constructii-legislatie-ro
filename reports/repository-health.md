@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-23T18:24:56.164Z
+Generated: 2026-08-23T18:44:16.570Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 257 |
+| Total metadata entries | 258 |
 | Full-text acts | 50 |
-| Metadata-only acts | 207 |
-| Import log files | 279 |
-| Total relationship links | 491 |
+| Metadata-only acts | 208 |
+| Import log files | 280 |
+| Total relationship links | 489 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -212,8 +212,9 @@ Generated: 2026-08-23T18:24:56.164Z
 | ordin-mdlpa-348-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-4059-2024 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-mdlpa-430-2021 | ✗ | ✓ | ✓ | — | 4 | ✓ |
-| ordin-mdlpa-435-2021 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-mdlpa-435-2021 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-456-2014 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| ordin-mdlpa-565-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-566-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-576-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mdlpa-627-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -282,7 +283,7 @@ Generated: 2026-08-23T18:24:56.164Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 98 |
+| calitate | 99 |
 | executie | 31 |
 | urbanism | 29 |
 | anre | 20 |
@@ -299,7 +300,7 @@ Generated: 2026-08-23T18:24:56.164Z
 
 | Value | Count |
 | --- | --- |
-| minister | 138 |
+| minister | 139 |
 | guvern | 53 |
 | parlament | 39 |
 | autoritate | 19 |
@@ -312,7 +313,7 @@ Generated: 2026-08-23T18:24:56.164Z
 | 2023 | 35 |
 | 2022 | 24 |
 | 2010 | 23 |
-| 2025 | 21 |
+| 2025 | 22 |
 | 2024 | 15 |
 | 2026 | 13 |
 | 2014 | 10 |
@@ -348,7 +349,7 @@ Generated: 2026-08-23T18:24:56.164Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 207 |
+| metadata-only | 208 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
