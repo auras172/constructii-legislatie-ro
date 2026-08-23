@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T15:04:15.997Z",
+  "generated_at": "2026-08-23T15:27:07.501Z",
   "summary": {
-    "total_metadata_entries": 251,
+    "total_metadata_entries": 252,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 201,
-    "total_import_logs": 273,
+    "total_metadata_only_acts": 202,
+    "total_import_logs": 274,
     "total_relationship_links": 479,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -484,7 +484,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 0,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -511,7 +511,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 5,
+      "relationships": 6,
       "provenance": true
     },
     {
@@ -2239,7 +2239,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 6,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -2261,6 +2261,15 @@
       "provenance": true
     },
     {
+      "slug": "oug-82-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 3,
+      "provenance": true
+    },
+    {
       "slug": "oug-87-2025",
       "full_text": false,
       "metadata": true,
@@ -2274,7 +2283,7 @@
     "domains": {
       "urbanism": 29,
       "executie": 30,
-      "calitate": 95,
+      "calitate": 96,
       "nzeb": 13,
       "mediu": 7,
       "munca": 3,
@@ -2287,7 +2296,7 @@
     },
     "issuers": {
       "minister": 136,
-      "guvern": 49,
+      "guvern": 50,
       "parlament": 39,
       "other": 8,
       "autoritate": 19
@@ -2325,12 +2334,12 @@
       "2022": 24,
       "2023": 33,
       "2024": 14,
-      "2025": 20,
+      "2025": 21,
       "2026": 12
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 201,
+      "metadata-only": 202,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

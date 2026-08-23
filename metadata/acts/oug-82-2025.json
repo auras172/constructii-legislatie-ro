@@ -1,0 +1,138 @@
+{
+  "title": "Ordonanță de urgență nr. 82 din 18 decembrie 2025 pentru modificarea și completarea unor acte normative, precum și pentru transmiterea unui bun aflat în proprietatea publică a statului din administrarea Regiei Autonome „Administrația Patrimoniului Protocolului de Stat“ în administrarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației",
+  "short_title": "OUG 82/2025 — modificări legislative și măsuri pentru consolidarea clădirilor",
+  "canonical_citation": "OUG nr. 82/2025",
+  "type": "ordonanta",
+  "number": "82",
+  "year": "2025",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": [
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "scoli",
+    "cladiri-publice",
+    "investitii-publice"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-12-18",
+  "publication_date": "2025-12-19",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+  "official_source": "Portal Legislativ — Ordonanța de urgență nr. 82 din 18 decembrie 2025; publicată în Monitorul Oficial al României, Partea I, nr. 1181 din 19 decembrie 2025",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală afișată de Portal; 10 articole și o anexă.",
+  "article_count": 10,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "amends": [
+    "oug-49-2023",
+    "lege-212-2022",
+    "lege-196-2018"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "oug-49-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul III prevede expres că OUG nr. 49/2023, aprobată prin Legea nr. 55/2024, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul III",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "amends",
+      "target": "lege-212-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V prevede expres că Legea nr. 212/2022 se modifică și se completează după cum urmează.",
+      "source_article": "Articolul V",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "amends",
+      "target": "lege-196-2018",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VIII introduce art. 10^1 după art. 10 din Legea nr. 196/2018 privind asociațiile de proprietari și administrarea condominiilor.",
+      "source_article": "Articolul VIII",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-55-2024",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul III identifică OUG nr. 49/2023 ca fiind aprobată prin Legea nr. 55/2024.",
+      "source_article": "Articolul III",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdlpa-1322-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV identifică Ordinul MDLPA nr. 1.322/2023, prin care sunt aprobate normele metodologice de aplicare a OUG nr. 49/2023, și dispune modificarea ulterioară a acestor norme.",
+      "source_article": "Articolul IV",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdlpa-2853-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VII identifică Ordinul MDLPA nr. 2.853/2022, prin care sunt aprobate normele metodologice pentru aplicarea Legii nr. 212/2022.",
+      "source_article": "Articolul VII",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V pct. 9 citează art. 5 alin. (1) lit. a) din Legea nr. 10/1995 privind calitatea în construcții.",
+      "source_article": "Articolul V pct. 9",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-907-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V pct. 10 citează anexa nr. 7 la HG nr. 907/2016 privind documentațiile tehnico-economice și devizul general.",
+      "source_article": "Articolul V pct. 10",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305667",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "rights_note": "Import metadata-only; textul integral și anexa tehnică privind imobilul transmis nu sunt reproduse. Articolul VI stabilește intrarea în vigoare la 1 ianuarie 2026 numai pentru art. V pct. 3 și 5; nu se atribuie o effective_date globală ordonanței deoarece sursa auditată nu conține o clauză calendaristică generală. Statusul curent rămâne unknown. Relațiile amends sunt limitate la OUG nr. 49/2023, Legea nr. 212/2022 și Legea nr. 196/2018. Ordinul MDLPA nr. 566/2025 nu este citat nominal și nu primește relație. OUG nr. 7/2023, OUG nr. 31/2024, Legea nr. 204/2024 și alte acte citate, dar absente din corpus, nu generează noduri sau relații. Nu sunt adăugate relații speculative către acte asociate.",
+  "tags": [
+    "ordonanta-de-urgenta",
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "scoli",
+    "cladiri-publice",
+    "investitii-publice",
+    "metadata-only"
+  ]
+}
