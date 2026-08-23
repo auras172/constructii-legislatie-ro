@@ -1510,6 +1510,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-2734-2024",
+      "label": "Ordin MDLPA 2734/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-2837-2022",
       "label": "Ordin MDLPA 2837/2022",
       "type": "ordin",
@@ -5650,6 +5658,86 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285943"
     },
     {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-2734-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "hg-668-2017",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 2 alin. (1) din HG nr. 668/2017, iar art. 6 citează art. 14 alin. (1) coroborat cu art. 15 alin. (3) din aceeași hotărâre.",
+      "source_article": "Preambul; Art. 6",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "hg-668-2017",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-2734-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-2734-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "ordin-mdlpa-435-2021",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 3 și art. 5 citează explicit Procedura privind elaborarea și avizarea agrementelor tehnice în construcții, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 435/2021.",
+      "source_article": "Art. 3; Art. 5",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976"
+    },
+    {
+      "source": "ordin-mdlpa-2734-2024",
+      "target": "ordin-mdlpa-435-2021",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-2734-2024.json"
+    },
+    {
       "source": "ordin-mdlpa-2837-2022",
       "target": "lege-10-1995",
       "relationship": "related",
@@ -7826,8 +7914,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 258,
-    "confirmed_edges": 489,
+    "total_nodes": 259,
+    "confirmed_edges": 497,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

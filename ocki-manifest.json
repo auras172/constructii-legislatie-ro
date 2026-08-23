@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-23T18:44:16.716Z",
+  "generated_at": "2026-08-23T18:53:37.860Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 258,
+    "acts_total": 259,
     "acts_full_text": 50,
-    "acts_metadata_only": 208,
+    "acts_metadata_only": 209,
     "article_anchors_total": 2727,
-    "import_logs_total": 280,
+    "import_logs_total": 281,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 489,
+    "confirmed_relationships": 497,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2511,6 +2511,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-2719-2024.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-2719-2024.json"
+    },
+    {
+      "slug": "ordin-mdlpa-2734-2024",
+      "title": "Ordin nr. 2.734 din 22 iulie 2024 pentru aprobarea instrucțiunilor privind avizarea și comercializarea produselor pentru construcții aflate în contact cu apa potabilă care fac obiectul unui agrement tehnic în construcții, pentru perioada 2024-2027",
+      "short_title": "Ordin MDLPA 2734/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 7,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-2734-2024.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-2734-2024.json"
     },
     {
       "slug": "ordin-mdlpa-2837-2022",

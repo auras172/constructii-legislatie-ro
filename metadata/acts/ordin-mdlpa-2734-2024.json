@@ -1,0 +1,93 @@
+{
+  "title": "Ordin nr. 2.734 din 22 iulie 2024 pentru aprobarea instrucțiunilor privind avizarea și comercializarea produselor pentru construcții aflate în contact cu apa potabilă care fac obiectul unui agrement tehnic în construcții, pentru perioada 2024-2027",
+  "short_title": "Ordin MDLPA 2734/2024",
+  "canonical_citation": "Ordinul nr. 2734/2024",
+  "type": "ordin",
+  "number": "2734",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "produse-pentru-constructii",
+    "agrement-tehnic",
+    "apa-potabila",
+    "calitate-constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-07-22",
+  "publication_date": "2024-07-26",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+  "official_source": "Portal Legislativ — Ordinul nr. 2.734/22.07.2024; Monitorul Oficial al României, Partea I, nr. 733 din 26.07.2024; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 23.08.2026; ordinul conține 7 articole și nu are anexă distinctă",
+  "article_count": 7,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma originală a Ordinului nr. 2.734/22.07.2024, publicat în M.Of. nr. 733/26.07.2024. Instrucțiunile aprobate rămân parte a ordinului și nu sunt modelate ca nod separat. Portalul a confirmat forma originală; nu sunt importate acte ulterioare sau surse binare. Ordinul nu conține o clauză distinctă de intrare în vigoare cu dată calendaristică; effective_date este omisă. Ordinul nr. 4.059/2024 este un act ulterior și rămâne separat.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "related_acts": [
+    "lege-10-1995",
+    "hg-668-2017",
+    "hg-477-2020",
+    "ordin-mdlpa-435-2021"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 41 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-668-2017",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează art. 2 alin. (1) din HG nr. 668/2017, iar art. 6 citează art. 14 alin. (1) coroborat cu art. 15 alin. (3) din aceeași hotărâre.",
+      "source_article": "Preambul; Art. 6",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "ordin-mdlpa-435-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 3 și art. 5 citează explicit Procedura privind elaborarea și avizarea agrementelor tehnice în construcții, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 435/2021.",
+      "source_article": "Art. 3; Art. 5",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285976",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "calitate",
+    "produse-pentru-constructii",
+    "agrement-tehnic",
+    "apa-potabila"
+  ]
+}
