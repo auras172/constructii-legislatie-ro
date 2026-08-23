@@ -1590,6 +1590,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-713-2026",
+      "label": "Ordinul MDLPA 713/2026",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-749-2021",
       "label": "Ordin MDLPA 749/2021",
       "type": "ordin",
@@ -6084,6 +6092,84 @@
       "evidence": "metadata/acts/ordin-mdlpa-710-2026.json"
     },
     {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "lege-55-2024",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Legea nr. 55/2024, prin care OUG nr. 49/2023 a fost aprobată.",
+      "source_article": "Preambul și Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "ordin-mdlpa-1322-2023",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. I prevede expres că Normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.322/2023 se modifică și se completează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "oug-49-2023",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și Art. I citează explicit Ordonanța de urgență a Guvernului nr. 49/2023.",
+      "source_article": "Preambul și Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "oug-52-2025",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. VI din Ordonanța de urgență a Guvernului nr. 52/2025.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
+      "source": "ordin-mdlpa-713-2026",
+      "target": "oug-82-2025",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. IV din Ordonanța de urgență a Guvernului nr. 82/2025.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312100"
+    },
+    {
       "source": "ordin-mdlpa-749-2021",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -7505,8 +7591,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 252,
-    "confirmed_edges": 468,
+    "total_nodes": 253,
+    "confirmed_edges": 474,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

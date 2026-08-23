@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-23T15:27:08.313Z",
+  "generated_at": "2026-08-23T16:05:12.276Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 82/2025 seismic program amendments",
         "feat(metadata): add Ordin MDLPA 566/2025 metadata",
         "feat(metadata): add Legea 55/2024 approval of OUG 49",
         "feat(metadata): add Ordin MDLPA 1322/2023 metadata",
@@ -233,6 +234,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #560 from auras172/codex/metadata-oug-82-2025",
         "Merge pull request #559 from auras172/codex/metadata-ordin-mdlpa-566-2025",
         "Merge pull request #558 from auras172/codex/metadata-lege-55-2024",
         "Merge pull request #557 from auras172/codex/metadata-ordin-mdlpa-1322-2023",
@@ -884,6 +886,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 251
+    "infrastructure_changes": 252
   }
 }
