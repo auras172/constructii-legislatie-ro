@@ -1,0 +1,81 @@
+{
+  "title": "Ordin nr. 4.284 din 12 decembrie 2024 pentru aprobarea Procedurii privind controlul de stat la stațiile de producere betoane, indicativ PCC 022 din 2024",
+  "short_title": "Ordin MDLPA 4284/2024",
+  "canonical_citation": "Ordinul nr. 4284/2024",
+  "type": "ordin",
+  "number": "4284",
+  "year": "2024",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "control-de-stat",
+    "statii-producere-betoane",
+    "pcc-022-2024",
+    "calitate-constructii"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-12-12",
+  "publication_date": "2025-01-08",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
+  "official_source": "Portal Legislativ — Ordinul nr. 4.284/12.12.2024; Monitorul Oficial al României, Partea I, nr. 6 din 08.01.2025; forma printabilă oficială verificată separat",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 23.08.2026; ordinul conține 4 articole și 1 anexă",
+  "article_count": 4,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma originală a Ordinului nr. 4.284/12.12.2024, publicat în M.Of. nr. 6/08.01.2025. Procedura PCC 022-2024 este anexa care face parte integrantă din ordin și nu este modelată ca nod separat. Art. 2 dispune publicarea, iar art. 3 se referă la intrarea în vigoare fără a stabili o dată calendaristică explicită; effective_date este omisă. Art. 3 abrogă Ordinul nr. 1.392/2.815/D.M./2008 și reglementarea PCC 022/2008, dar țintele nu există local și nu sunt create în acest PR. Statusul curent rămâne unknown.",
+  "implements": [
+    "lege-10-1995"
+  ],
+  "related_acts": [
+    "lege-10-1995",
+    "hg-525-2013",
+    "hg-477-2020"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 3 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-525-2013",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 pct. II lit. j) din anexa nr. 1 la HG nr. 525/2013 privind atribuțiile generale și specifice ale Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 12 alin. (6) și art. 14 alin. (1) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "tags": [
+    "mdlpa",
+    "calitate",
+    "control-de-stat",
+    "betoane",
+    "pcc-022-2024"
+  ]
+}

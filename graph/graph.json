@@ -1566,6 +1566,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-4284-2024",
+      "label": "Ordin MDLPA 4284/2024",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-430-2021",
       "label": "Ordin MDLPA 430/2021",
       "type": "ordin",
@@ -6044,6 +6052,66 @@
       "evidence": "metadata/acts/ordin-mdlpa-4059-2024.json"
     },
     {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 12 alin. (6) și art. 14 alin. (1) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179"
+    },
+    {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4284-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "hg-525-2013",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 3 pct. II lit. j) din anexa nr. 1 la HG nr. 525/2013 privind atribuțiile generale și specifice ale Inspectoratului de Stat în Construcții.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179"
+    },
+    {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "hg-525-2013",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4284-2024.json"
+    },
+    {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "lege-10-1995",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 3 din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare, ca temei pentru emiterea ordinului.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293179"
+    },
+    {
+      "source": "ordin-mdlpa-4284-2024",
+      "target": "lege-10-1995",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mdlpa-4284-2024.json"
+    },
+    {
       "source": "ordin-mdlpa-430-2021",
       "target": "hg-203-2003",
       "relationship": "implements",
@@ -7961,8 +8029,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 260,
-    "confirmed_edges": 500,
+    "total_nodes": 261,
+    "confirmed_edges": 506,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
