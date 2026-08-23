@@ -1,0 +1,55 @@
+{
+  "title": "Legea nr. 55 din 19 martie 2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 49/2023 privind aprobarea Programului național de investiții pentru consolidarea spitalelor „Mihail Cantacuzino“ și a Programului național de expertizare a clădirilor publice cu risc seismic din sistemele de sănătate și de învățământ",
+  "short_title": "Legea 55/2024 — aprobarea OUG 49/2023",
+  "canonical_citation": "Legea nr. 55/2024",
+  "type": "lege",
+  "number": "55",
+  "year": "2024",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "cladiri-publice",
+    "aprobare-act-normativ"
+  ],
+  "status": "unknown",
+  "issue_date": "2024-03-19",
+  "publication_date": "2024-03-20",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280153",
+  "official_source": "Portal Legislativ — Legea nr. 55 din 19 martie 2024; publicată în Monitorul Oficial al României, Partea I, nr. 238 din 20 martie 2024",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280153",
+  "version_kind": "original",
+  "last_checked": "2026-08-23",
+  "version": "Forma oficială originală a legii; Portalul nu indică o formă consolidată sau republicată pentru acest act.",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "approves": ["oug-49-2023"],
+  "relationships": [
+    {
+      "type": "approves",
+      "target": "oug-49-2023",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic prevede expres: „Se aprobă Ordonanța de urgență a Guvernului nr. 49 din 26 mai 2023”, cu identificarea integrală și publicarea actului aprobat.",
+      "source_article": "Articolul unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/280153",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-23"
+    }
+  ],
+  "rights_note": "Import metadata-only; textul integral nu este reprodus. Sursa canonică este recordul oficial Portal Legislativ și forma printabilă asociată. Legea aprobă OUG nr. 49/2023 și nu modifică prin propriul articol unic Legea nr. 212/2022 sau alte acte locale. Effective_date este omisă deoarece recordul detail și forma printabilă auditate nu conțin o clauză explicită sau o mențiune calendaristică verificabilă în conținutul actului. Nu este atribuit un status curent, deoarece Portalul nu declară explicit unul. OUG nr. 82/2025 și alte acte modificatoare ulterioare rămân în afara acestui PR și vor fi auditate separat.",
+  "tags": [
+    "lege",
+    "risc-seismic",
+    "consolidare",
+    "spitale",
+    "cladiri-publice",
+    "aprobare-act-normativ",
+    "metadata-only"
+  ]
+}

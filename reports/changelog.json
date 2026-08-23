@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-22T17:11:49.675Z",
+  "generated_at": "2026-08-23T14:55:08.924Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordin MDLPA 1322/2023 metadata",
         "feat(metadata): add OUG 49/2023 seismic hospital programs",
         "feat(metadata): add Legea 107/1996 metadata",
         "feat(metadata): add Legea 231/2017 OUG 18 amendment",
@@ -230,6 +231,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #557 from auras172/codex/metadata-ordin-mdlpa-1322-2023",
         "Merge pull request #556 from auras172/codex/metadata-oug-49-2023",
         "Merge pull request #555 from auras172/codex/housekeeping-20260822",
         "Merge pull request #554 from auras172/codex/metadata-lege-107-1996",
@@ -878,6 +880,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 248
+    "infrastructure_changes": 249
   }
 }
