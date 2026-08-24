@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-24T18:50:45.795Z",
+  "generated_at": "2026-08-24T19:18:48.327Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 269,
+    "acts_total": 270,
     "acts_full_text": 50,
-    "acts_metadata_only": 219,
+    "acts_metadata_only": 220,
     "article_anchors_total": 2727,
-    "import_logs_total": 291,
+    "import_logs_total": 292,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 527,
+    "confirmed_relationships": 530,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2758,6 +2758,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mdlpa-627-2025.md",
       "metadata_file": "metadata/acts/ordin-mdlpa-627-2025.json"
+    },
+    {
+      "slug": "ordin-mdlpa-634-2025",
+      "title": "Ordin nr. 634 din 7 mai 2025 privind aprobarea formularului \"Declarație pe propria răspundere prin care beneficiarul declară că nu a fost primită solicitarea de clarificare, completare sau modificare, nu a fost eliberat aviz/acord cu sau fără condiții ori nu a fost eliberată adresa de respingere\"",
+      "short_title": "Ordinul MDLPA 634/2025 privind formularul pentru urbanism și autorizare",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/ordin-mdlpa-634-2025.md",
+      "metadata_file": "metadata/acts/ordin-mdlpa-634-2025.json"
     },
     {
       "slug": "ordin-mdlpa-710-2026",

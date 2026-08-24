@@ -1,0 +1,62 @@
+{
+  "title": "Ordin nr. 634 din 7 mai 2025 privind aprobarea formularului \"Declarație pe propria răspundere prin care beneficiarul declară că nu a fost primită solicitarea de clarificare, completare sau modificare, nu a fost eliberat aviz/acord cu sau fără condiții ori nu a fost eliberată adresa de respingere\"",
+  "short_title": "Ordinul MDLPA 634/2025 privind formularul pentru urbanism și autorizare",
+  "canonical_citation": "Ordin nr. 634/2025",
+  "type": "ordin",
+  "number": "634",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "autorizatii",
+  "topics": ["urbanism", "autorizarea-executarii-lucrarilor", "formulare", "avize-si-acorduri"],
+  "status": "unknown",
+  "issue_date": "2025-05-07",
+  "publication_date": "2025-05-08",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833",
+  "official_source": "Portal Legislativ - forma publicată a Ordinului nr. 634/2025 și forma printabilă oficială indicată de recordul detail",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma publicată în M.Of. nr. 424 din 8 mai 2025; formularul este anexa ordinului.",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data de 7 mai 2025 și publicarea în M.Of. nr. 424 din 8 mai 2025. Art. 1 aprobă formularul prevăzut în anexă, iar art. 2 dispune publicarea ordinului. Preambulul citează explicit Legea nr. 350/2001, Legea nr. 50/1991 și HG nr. 477/2020, toate ținte locale. Auditul brut fără User-Agent la 2026-08-24T19:17:05Z a primit HTTP 403, text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75; fallback-ul User-Agent a primit HTTP 200 și este documentat în import-log. URL-ul printabil furnizat inițial (00000G30...) este un record diferit pentru Ordinul 989/2025 și nu este folosit ca sursă pentru acest act. Recordul detail indică forma printabilă corectă 00000G06.... Portalul nu declară o clauză generală explicită de intrare în vigoare; effective_date este omisă. Formularul anexat nu este importat ca text integral și nu primește nod separat.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-350-2001",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 56 alin. (17) din Legea nr. 350/2001, iar art. 1 stabilește depunerea formularului în conformitate cu această dispoziție.",
+      "source_article": "Preambul și art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 5 alin. (1^12) din Legea nr. 50/1991, iar art. 1 stabilește depunerea formularului în conformitate cu această dispoziție.",
+      "source_article": "Preambul și art. 1",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": ["ordin", "mdlpa", "urbanism", "autorizatii", "formulare"]
+}

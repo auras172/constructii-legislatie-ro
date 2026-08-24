@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordinul MTI MDLPA 29/221/2025
 - feat(metadata): add Ordin MDLPA 833/2024 metadata
 - feat(metadata): add Ordinul CNCAN 134/2024
 - feat(metadata): add HG 5/2024 metadata
@@ -256,6 +257,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #581 from auras172/codex/metadata-ordin-mti-mdlpa-29-221-2025
 - Merge pull request #580 from auras172/codex/metadata-ordin-mdlpa-833-2024
 - Merge pull request #579 from auras172/codex/metadata-ordin-cncan-134-2024
 - Merge pull request #578 from auras172/codex/metadata-hg-5-2024
