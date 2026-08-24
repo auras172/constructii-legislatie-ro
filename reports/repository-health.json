@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T17:25:48.089Z",
+  "generated_at": "2026-08-24T17:36:04.846Z",
   "summary": {
-    "total_metadata_entries": 266,
+    "total_metadata_entries": 267,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 216,
-    "total_import_logs": 288,
+    "total_metadata_only_acts": 217,
+    "total_import_logs": 289,
     "total_relationship_links": 507,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -1577,6 +1577,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-cncan-134-2024",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
+      "provenance": true
+    },
+    {
       "slug": "ordin-comun-2061-171-3344-2026",
       "full_text": false,
       "metadata": true,
@@ -2409,7 +2418,7 @@
     "domains": {
       "urbanism": 29,
       "executie": 31,
-      "calitate": 107,
+      "calitate": 108,
       "nzeb": 14,
       "mediu": 8,
       "munca": 3,
@@ -2425,7 +2434,7 @@
       "guvern": 56,
       "parlament": 40,
       "other": 8,
-      "autoritate": 19
+      "autoritate": 20
     },
     "publication_years": {
       "1991": 2,
@@ -2459,13 +2468,13 @@
       "2021": 9,
       "2022": 24,
       "2023": 36,
-      "2024": 22,
+      "2024": 23,
       "2025": 22,
       "2026": 13
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 216,
+      "metadata-only": 217,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

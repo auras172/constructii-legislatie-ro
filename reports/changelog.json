@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:25:49.131Z",
+  "generated_at": "2026-08-24T17:36:05.869Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 5/2024 metadata",
         "feat(metadata): add Ordinul MEAT 3057/2024",
         "feat(metadata): add HG 27/2024 metadata",
         "feat(metadata): add Legea 39/2024",
@@ -250,6 +251,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #578 from auras172/codex/metadata-hg-5-2024",
         "Merge pull request #577 from auras172/codex/metadata-ordin-meat-3057-2024",
         "Merge pull request #576 from auras172/codex/metadata-hg-27-2024",
         "Merge pull request #575 from auras172/codex/metadata-lege-39-2024",
@@ -916,6 +918,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 265
+    "infrastructure_changes": 266
   }
 }

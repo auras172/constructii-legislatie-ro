@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-24T17:25:48.089Z
+Generated: 2026-08-24T17:36:04.846Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 266 |
+| Total metadata entries | 267 |
 | Full-text acts | 50 |
-| Metadata-only acts | 216 |
-| Import log files | 288 |
+| Metadata-only acts | 217 |
+| Import log files | 289 |
 | Total relationship links | 507 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -192,6 +192,7 @@ Generated: 2026-08-24T17:25:48.089Z
 | ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-81-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-89-2018 | ✗ | ✓ | ✓ | — | 9 | ✓ |
+| ordin-cncan-134-2024 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | ordin-comun-2061-171-3344-2026 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-comun-2146-2010-2025 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-comun-2245-2069-2025 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -291,7 +292,7 @@ Generated: 2026-08-24T17:25:48.089Z
 
 | Value | Count |
 | --- | --- |
-| calitate | 107 |
+| calitate | 108 |
 | executie | 31 |
 | urbanism | 29 |
 | anre | 20 |
@@ -311,7 +312,7 @@ Generated: 2026-08-24T17:25:48.089Z
 | minister | 143 |
 | guvern | 56 |
 | parlament | 40 |
-| autoritate | 19 |
+| autoritate | 20 |
 | other | 8 |
 
 ### Publication Years
@@ -321,7 +322,7 @@ Generated: 2026-08-24T17:25:48.089Z
 | 2023 | 36 |
 | 2022 | 24 |
 | 2010 | 23 |
-| 2024 | 22 |
+| 2024 | 23 |
 | 2025 | 22 |
 | 2026 | 13 |
 | 2014 | 10 |
@@ -357,7 +358,7 @@ Generated: 2026-08-24T17:25:48.089Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 216 |
+| metadata-only | 217 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

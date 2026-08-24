@@ -1398,6 +1398,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-cncan-134-2024",
+      "label": "Ordinul CNCAN nr. 134/2024 — construcții cu specific nuclear",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-comun-2061-171-3344-2026",
       "label": "Ordin comun RTC 15-2025",
       "type": "ordin",
@@ -8189,7 +8197,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 266,
+    "total_nodes": 267,
     "confirmed_edges": 517,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
