@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T18:20:32.533Z",
+  "generated_at": "2026-08-24T18:50:45.626Z",
   "summary": {
-    "total_metadata_entries": 268,
+    "total_metadata_entries": 269,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 218,
-    "total_import_logs": 290,
-    "total_relationship_links": 509,
+    "total_metadata_only_acts": 219,
+    "total_import_logs": 291,
+    "total_relationship_links": 514,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -2252,6 +2252,15 @@
       "provenance": true
     },
     {
+      "slug": "ordin-mti-mdlpa-29-221-2025",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 5,
+      "provenance": true
+    },
+    {
       "slug": "ordin-mti-mdlpa-6970-1779-2017",
       "full_text": false,
       "metadata": true,
@@ -2426,7 +2435,7 @@
   "statistics": {
     "domains": {
       "urbanism": 29,
-      "executie": 31,
+      "executie": 32,
       "calitate": 109,
       "nzeb": 14,
       "mediu": 8,
@@ -2442,7 +2451,7 @@
       "minister": 144,
       "guvern": 56,
       "parlament": 40,
-      "other": 8,
+      "other": 9,
       "autoritate": 20
     },
     "publication_years": {
@@ -2478,12 +2487,12 @@
       "2022": 24,
       "2023": 36,
       "2024": 24,
-      "2025": 22,
+      "2025": 23,
       "2026": 13
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 218,
+      "metadata-only": 219,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
