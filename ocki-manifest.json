@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-23T20:32:44.905Z",
+  "generated_at": "2026-08-24T17:25:48.234Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 265,
+    "acts_total": 266,
     "acts_full_text": 50,
-    "acts_metadata_only": 215,
+    "acts_metadata_only": 216,
     "article_anchors_total": 2727,
-    "import_logs_total": 287,
+    "import_logs_total": 288,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 516,
+    "confirmed_relationships": 517,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -405,6 +405,19 @@
       "anchor_count": 18,
       "file": "legi/hg-492-2018.md",
       "metadata_file": "metadata/acts/hg-492-2018.json"
+    },
+    {
+      "slug": "hg-5-2024",
+      "title": "Hotărâre nr. 5 din 4 ianuarie 2024 privind modificarea anexei la Hotărârea Guvernului nr. 925/1995 pentru aprobarea Regulamentului privind verificarea și expertizarea tehnică a proiectelor, expertizarea tehnică a execuției lucrărilor și a construcțiilor, precum și verificarea calității lucrărilor executate",
+      "short_title": "HG 5/2024 privind modificarea anexei HG 925/1995",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 1,
+      "anchor_count": 0,
+      "file": "legi/hg-5-2024.md",
+      "metadata_file": "metadata/acts/hg-5-2024.json"
     },
     {
       "slug": "hg-525-1996",

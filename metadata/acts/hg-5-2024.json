@@ -1,0 +1,41 @@
+{
+  "title": "Hotărâre nr. 5 din 4 ianuarie 2024 privind modificarea anexei la Hotărârea Guvernului nr. 925/1995 pentru aprobarea Regulamentului privind verificarea și expertizarea tehnică a proiectelor, expertizarea tehnică a execuției lucrărilor și a construcțiilor, precum și verificarea calității lucrărilor executate",
+  "short_title": "HG 5/2024 privind modificarea anexei HG 925/1995",
+  "canonical_citation": "HG nr. 5/2024",
+  "type": "hotarare",
+  "number": "5",
+  "year": "2024",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "calitate",
+  "topics": ["calitate-constructii", "verificare-tehnica", "expertizare-tehnica", "regulament"],
+  "status": "unknown",
+  "issue_date": "2024-01-04",
+  "publication_date": "2024-01-11",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278076",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278076",
+  "official_source": "Portal Legislativ — forma publicată a HG nr. 5/2024; Monitorul Oficial al României, Partea I, nr. 23 din 11 ianuarie 2024",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma publicată în M.Of. nr. 23 din 11 ianuarie 2024; actul modifică punctual anexa HG nr. 925/1995.",
+  "article_count": 1,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data de 4 ianuarie 2024 și publicarea în M.Of. nr. 23 din 11 ianuarie 2024. Articolul unic modifică alin. (3) al art. 6 din anexa la HG nr. 925/1995; HG 925/1995 este țintă locală existentă și regulamentul nu este creat ca nod separat. Preambulul citează art. 13 alin. (1) din Legea nr. 10/1995 și art. 108 din Constituție. Audit final la 2026-08-24: cererile HTTP brute au primit 403, iar User-Agent-ul de browser a primit 200. Hashurile și dimensiunile sunt documentate în import-log. Hotărârea nu conține o clauză explicită generală de intrare în vigoare; effective_date este omisă. Textul legal și regulamentul anexat nu sunt importate.",
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "hg-925-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic modifică alin. (3) al art. 6 din anexa la HG nr. 925/1995, privind contractarea serviciilor de verificare tehnică a proiectelor.",
+      "source_article": "Articol unic",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278076",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "scope": "Anexa HG 925/1995, art. 6 alin. (3)"
+    }
+  ],
+  "tags": ["hg", "calitate-constructii", "verificare-tehnica", "expertizare-tehnica", "regulament"]
+}
