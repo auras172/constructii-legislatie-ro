@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-24T19:46:46.181Z",
+  "generated_at": "2026-08-24T20:04:00.321Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 272,
+    "acts_total": 273,
     "acts_full_text": 50,
-    "acts_metadata_only": 222,
+    "acts_metadata_only": 223,
     "article_anchors_total": 2727,
-    "import_logs_total": 294,
+    "import_logs_total": 295,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 534,
+    "confirmed_relationships": 538,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -3226,6 +3226,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mtct-1430-2005.md",
       "metadata_file": "metadata/acts/ordin-mtct-1430-2005.json"
+    },
+    {
+      "slug": "ordin-mtct-1889-2004",
+      "title": "Ordin nr. 1.889 din 15 octombrie 2004 pentru aprobarea unor proceduri privind agrementul tehnic în construcţii",
+      "short_title": "Ordinul MTCT nr. 1.889/2004 — proceduri agrement tehnic",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 5,
+      "anchor_count": 0,
+      "file": "legi/ordin-mtct-1889-2004.md",
+      "metadata_file": "metadata/acts/ordin-mtct-1889-2004.json"
     },
     {
       "slug": "ordin-mtct-2055-2005",

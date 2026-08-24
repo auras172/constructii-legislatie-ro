@@ -1950,6 +1950,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mtct-1889-2004",
+      "label": "Ordinul MTCT nr. 1.889/2004 — proceduri agrement tehnic",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mtct-2055-2005",
       "label": "Ordin MTCT 2055/2005 — C 107-2005",
       "type": "ordin",
@@ -7611,6 +7619,46 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103909"
     },
     {
+      "source": "ordin-mtct-1889-2004",
+      "target": "hg-766-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 24 lit. j) şi k) din Regulamentul privind agrementul tehnic pentru produse, procedee şi echipamente noi în construcţii, aprobat prin Hotărârea Guvernului nr. 766/1997.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517"
+    },
+    {
+      "source": "ordin-mtct-1889-2004",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517"
+    },
+    {
+      "source": "ordin-mtct-1889-2004",
+      "target": "ordin-mdlpa-435-2021",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mtct-1889-2004.json"
+    },
+    {
+      "source": "ordin-mtct-1889-2004",
+      "target": "ordin-mdlpa-565-2025",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-mtct-1889-2004.json"
+    },
+    {
       "source": "ordin-mtct-2055-2005",
       "target": "lege-10-1995",
       "relationship": "references",
@@ -8428,8 +8476,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 272,
-    "confirmed_edges": 534,
+    "total_nodes": 273,
+    "confirmed_edges": 538,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
