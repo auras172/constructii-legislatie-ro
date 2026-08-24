@@ -10,7 +10,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-23; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
+Snapshot reconciliat la 2026-08-24; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
