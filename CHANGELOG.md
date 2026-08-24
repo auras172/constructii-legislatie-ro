@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Ordinul CNCAN 134/2024
 - feat(metadata): add HG 5/2024 metadata
 - feat(metadata): add Ordinul MEAT 3057/2024
 - feat(metadata): add HG 27/2024 metadata
@@ -254,6 +255,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #579 from auras172/codex/metadata-ordin-cncan-134-2024
 - Merge pull request #578 from auras172/codex/metadata-hg-5-2024
 - Merge pull request #577 from auras172/codex/metadata-ordin-meat-3057-2024
 - Merge pull request #576 from auras172/codex/metadata-hg-27-2024

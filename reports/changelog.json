@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:36:05.869Z",
+  "generated_at": "2026-08-24T18:20:33.534Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul CNCAN 134/2024",
         "feat(metadata): add HG 5/2024 metadata",
         "feat(metadata): add Ordinul MEAT 3057/2024",
         "feat(metadata): add HG 27/2024 metadata",
@@ -251,6 +252,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #579 from auras172/codex/metadata-ordin-cncan-134-2024",
         "Merge pull request #578 from auras172/codex/metadata-hg-5-2024",
         "Merge pull request #577 from auras172/codex/metadata-ordin-meat-3057-2024",
         "Merge pull request #576 from auras172/codex/metadata-hg-27-2024",
@@ -918,6 +920,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 266
+    "infrastructure_changes": 267
   }
 }
