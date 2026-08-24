@@ -1,0 +1,98 @@
+{
+  "title": "Ordin nr. 29/221/2025 pentru aprobarea reglementării tehnice «Instrucțiuni tehnice privind metodologia de determinare a stării de degradare a drumurilor cu ajutorul echipamentului HAWKEYE 2000 - ACD (Automatic Crack Detection)» - indicativ AND 618-2023",
+  "short_title": "Ordinul comun MTI/MDLPA nr. 29/221/2025 — AND 618-2023",
+  "canonical_citation": "Ordinul MTI/MDLPA nr. 29/221/2025",
+  "type": "ordin",
+  "number": "29/221",
+  "year": "2025",
+  "issuer": "Ministerul Transporturilor și Infrastructurii; Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "other",
+  "domain": "executie",
+  "topics": [
+    "drumuri",
+    "infrastructura-rutiera",
+    "starea-drumurilor",
+    "reglementare-tehnica",
+    "AND-618-2023"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-02-17",
+  "publication_date": "2025-03-18",
+  "publication_medium": "monitorul-oficial",
+  "effective_date": "2025-03-18",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+  "official_source": "Portal Legislativ — Ordinul MTI nr. 29 din 20 ianuarie 2025 și Ordinul MDLPA nr. 221 din 17 februarie 2025; publicat în Monitorul Oficial al României, Partea I, nr. 236 din 18 martie 2025; forma printabilă oficială verificată separat",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 24.08.2026; ordinul are 2 articole și o anexă, AND 618-2023.",
+  "article_count": 2,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma originală a Ordinului MTI/MDLPA nr. 29/221/2025. Art. 1 aprobă AND 618-2023 ca anexă care face parte integrantă din ordin; reglementarea tehnică nu este creată ca nod separat și textul său nu este importat. Art. 2 prevede intrarea în vigoare la data publicării, astfel effective_date este 18.03.2025, derivată determinist din publicarea oficială. Statusul curent rămâne unknown. Ordinul 970/873/2023 nu este citat în textul auditat și nu primește relație.",
+  "related_acts": [
+    "og-43-1997",
+    "lege-10-1995",
+    "hg-370-2021",
+    "hg-477-2020"
+  ],
+  "implements": [
+    "lege-10-1995"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 10 alin. (2) din Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "og-43-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 57 lit. h) și j) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "hg-370-2021",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021 privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295640",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": [
+    "ordin",
+    "mti",
+    "mdlpa",
+    "drumuri",
+    "infrastructura-rutiera",
+    "starea-drumurilor",
+    "reglementare-tehnica",
+    "metadata-only"
+  ]
+}

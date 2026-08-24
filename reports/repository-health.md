@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-24T18:20:32.533Z
+Generated: 2026-08-24T18:50:45.626Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 268 |
+| Total metadata entries | 269 |
 | Full-text acts | 50 |
-| Metadata-only acts | 218 |
-| Import log files | 290 |
-| Total relationship links | 509 |
+| Metadata-only acts | 219 |
+| Import log files | 291 |
+| Total relationship links | 514 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -267,6 +267,7 @@ Generated: 2026-08-24T18:20:32.533Z
 | ordin-mti-mai-66-2024 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-mdlpa-1405-1610-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-mti-mdlpa-285-412-2026 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| ordin-mti-mdlpa-29-221-2025 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | ordin-mti-mdlpa-6970-1779-2017 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | ordin-mti-mdlpa-970-873-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-140-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -294,7 +295,7 @@ Generated: 2026-08-24T18:20:32.533Z
 | Value | Count |
 | --- | --- |
 | calitate | 109 |
-| executie | 31 |
+| executie | 32 |
 | urbanism | 29 |
 | anre | 20 |
 | incendiu | 16 |
@@ -314,7 +315,7 @@ Generated: 2026-08-24T18:20:32.533Z
 | guvern | 56 |
 | parlament | 40 |
 | autoritate | 20 |
-| other | 8 |
+| other | 9 |
 
 ### Publication Years
 
@@ -324,7 +325,7 @@ Generated: 2026-08-24T18:20:32.533Z
 | 2022 | 24 |
 | 2024 | 24 |
 | 2010 | 23 |
-| 2025 | 22 |
+| 2025 | 23 |
 | 2026 | 13 |
 | 2014 | 10 |
 | 2020 | 9 |
@@ -359,7 +360,7 @@ Generated: 2026-08-24T18:20:32.533Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 218 |
+| metadata-only | 219 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
