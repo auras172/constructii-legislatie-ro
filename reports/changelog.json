@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-24T20:37:58.458Z",
+  "generated_at": "2026-08-24T20:52:36.603Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MTCT 1010/2003",
         "feat(metadata): add Ordin MLPTL 57/N/1999 metadata",
         "feat(metadata): add Ordinul MTCT 1889/2004",
         "feat(metadata): add Ordin MDLPA 313/2023 metadata",
@@ -259,6 +260,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #587 from auras172/codex/metadata-ordin-mtct-1010-2003",
         "Merge pull request #586 from auras172/codex/metadata-ordin-mlptl-57-n-1999",
         "Merge pull request #585 from auras172/codex/metadata-ordin-mtct-1889-2004",
         "Merge pull request #584 from auras172/codex/metadata-ordin-mdlpa-313-2023",
@@ -934,6 +936,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 274
+    "infrastructure_changes": 275
   }
 }
