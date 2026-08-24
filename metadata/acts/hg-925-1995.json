@@ -31,7 +31,7 @@
   "annex_count": 1,
   "import_method": "metadata-only",
   "rights_note": "Portal Legislativ confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 286/11.12.1995. Art. 4 prevede intrarea în vigoare în termen de 30 de zile de la publicare, dar effective_date este omisă deoarece taskul cere o dată numai dacă este explicită. Forma consolidată indică explicit că titlul hotărârii și art. 1 au fost modificate, iar anexa (Regulamentul) a fost înlocuită prin HG 742/2018, publicată în M.Of. nr. 828/27.09.2018. Statusul juridic curent nu este declarat explicit și rămâne unknown. Textul legal și Regulamentul anexat nu sunt importate.",
-  "amended_by": ["hg-742-2018"],
+  "amended_by": ["hg-742-2018", "hg-5-2024"],
   "relationships": [
     {
       "type": "amended_by",

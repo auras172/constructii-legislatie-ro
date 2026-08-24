@@ -214,6 +214,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-5-2024",
+      "label": "HG 5/2024 privind modificarea anexei HG 925/1995",
+      "type": "hotarare",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-525-1996",
       "label": "HG 525/1996",
       "type": "hotarare",
@@ -2628,6 +2636,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-12",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202598"
+    },
+    {
+      "source": "hg-5-2024",
+      "target": "hg-925-1995",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul unic modifică alin. (3) al art. 6 din anexa la HG nr. 925/1995, privind contractarea serviciilor de verificare tehnică a proiectelor.",
+      "source_article": "Articol unic",
+      "scope": "Anexa HG 925/1995, art. 6 alin. (3)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/278076"
     },
     {
       "source": "hg-525-1996",
@@ -8167,8 +8189,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 265,
-    "confirmed_edges": 516,
+    "total_nodes": 266,
+    "confirmed_edges": 517,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
