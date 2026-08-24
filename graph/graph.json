@@ -1662,6 +1662,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-634-2025",
+      "label": "Ordinul MDLPA 634/2025 privind formularul pentru urbanism și autorizare",
+      "type": "ordin",
+      "domain": "autorizatii",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-710-2026",
       "label": "Ordin MDLPA 710/2026",
       "type": "ordin",
@@ -6529,6 +6537,45 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/297843"
     },
     {
+      "source": "ordin-mdlpa-634-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833"
+    },
+    {
+      "source": "ordin-mdlpa-634-2025",
+      "target": "lege-350-2001",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 56 alin. (17) din Legea nr. 350/2001, iar art. 1 stabilește depunerea formularului în conformitate cu această dispoziție.",
+      "source_article": "Preambul și art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833"
+    },
+    {
+      "source": "ordin-mdlpa-634-2025",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 5 alin. (1^12) din Legea nr. 50/1991, iar art. 1 stabilește depunerea formularului în conformitate cu această dispoziție.",
+      "source_article": "Preambul și art. 1",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297833"
+    },
+    {
       "source": "ordin-mdlpa-710-2026",
       "target": "hg-477-2020",
       "relationship": "references",
@@ -8319,8 +8366,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 269,
-    "confirmed_edges": 527,
+    "total_nodes": 270,
+    "confirmed_edges": 530,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
