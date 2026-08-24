@@ -1942,6 +1942,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mlptl-57-n-1999",
+      "label": "Ordinul MLPTL 57/N/1999 pentru P 130-99",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mtct-1430-2005",
       "label": "Ordin MTCT 1430/2005",
       "type": "ordin",
@@ -8476,7 +8484,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 273,
+    "total_nodes": 274,
     "confirmed_edges": 538,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
