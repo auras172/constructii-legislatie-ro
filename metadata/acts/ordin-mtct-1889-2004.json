@@ -1,0 +1,70 @@
+{
+  "title": "Ordin nr. 1.889 din 15 octombrie 2004 pentru aprobarea unor proceduri privind agrementul tehnic în construcţii",
+  "short_title": "Ordinul MTCT nr. 1.889/2004 — proceduri agrement tehnic",
+  "canonical_citation": "Ordinul MTCT nr. 1.889/2004",
+  "type": "ordin",
+  "number": "1889",
+  "year": "2004",
+  "issuer": "Ministerul Transporturilor, Construcţiilor şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "proceduri",
+    "pat-1-2004",
+    "pat-2-2004",
+    "pat-3-2004"
+  ],
+  "status": "repealed",
+  "issue_date": "2004-10-15",
+  "publication_date": "2004-12-09",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+  "official_source": "Portal Legislativ — Ordin nr. 1.889 din 15 octombrie 2004 pentru aprobarea unor proceduri privind agrementul tehnic în construcţii; publicat în Monitorul Oficial nr. 1.167 din 9 decembrie 2004, cu anexele publicate în Monitorul Oficial nr. 1.167 bis",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma oficială originală; Portalul confirmă 5 articole și 3 anexe, iar anexele sunt procedurile PAT 1-2004, PAT 2-2004 și PAT 3-2004",
+  "article_count": 5,
+  "annex_count": 3,
+  "import_method": "metadata-only",
+  "related_acts": [
+    "ordin-mdlpa-435-2021",
+    "ordin-mdlpa-565-2025"
+  ],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "hg-766-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 24 lit. j) şi k) din Regulamentul privind agrementul tehnic pentru produse, procedee şi echipamente noi în construcţii, aprobat prin Hotărârea Guvernului nr. 766/1997.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57517",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": [
+    "ordin",
+    "agrement-tehnic",
+    "produse-pentru-construcții",
+    "proceduri",
+    "calitate-construcții",
+    "istoric",
+    "metadata-only"
+  ],
+  "rights_note": "Import metadata-only pentru forma oficială originală. Art. 1 aprobă procedurile PAT 1-2004, PAT 2-2004 şi PAT 3-2004 din anexele nr. 1-3, iar art. 2 precizează publicarea lor în Monitorul Oficial nr. 1.167 bis; anexele nu sunt noduri separate şi textul lor nu este importat. Art. 5 stabileşte încetarea aplicabilităţii dispoziţiilor contrare la data semnării, dar nu este o clauză generală de intrare în vigoare; effective_date este omisă. Art. 6 din Ordinul MDLPA nr. 435/2021 abrogă explicit Ordinul MTCT nr. 1.889/2004. Statutul este repealed, însă schema repository-ului nu suportă tipul juridic repeals/repealed_by, astfel abrogarea este documentată fără edge nesuportat. Ordinul MDLPA nr. 565/2025 modifică Ordinul nr. 435/2021, nu este modelat ca modificator direct al acestui act."
+}
