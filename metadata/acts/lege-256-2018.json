@@ -1,0 +1,62 @@
+{
+  "title": "LEGE nr. 256 din 12 noiembrie 2018 (*republicată) privind unele măsuri necesare pentru implementarea operațiunilor petroliere de către titularii de acorduri petroliere referitoare la perimetre petroliere offshore și onshore de adâncime",
+  "short_title": "Legea 256/2018 privind operațiunile petroliere offshore și onshore de adâncime",
+  "canonical_citation": "Legea nr. 256/2018",
+  "type": "lege",
+  "number": "256",
+  "year": "2018",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "executie",
+  "topics": ["infrastructură-energetică", "operațiuni-petroliere", "offshore", "onshore", "autorizare-construcții"],
+  "status": "unknown",
+  "issue_date": "2018-11-12",
+  "publication_date": "2022-07-15",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014",
+  "official_source": "Portal Legislativ — forma consolidată/republicată a Legii nr. 256/2018; publicată inițial în M.Of. nr. 964/14.11.2018 și republicată în M.Of. nr. 713/15.07.2022",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014",
+  "version_kind": "republicat",
+  "last_checked": "2026-08-24",
+  "version": "Forma consolidată afișată de Portal, republicată în M.Of. nr. 713/15.07.2022; forma inițială a fost publicată în M.Of. nr. 964/14.11.2018.",
+  "article_count": 36,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Textul legal și anexele nu sunt importate. Portalul confirmă forma republicată/consolidată, publicarea inițială și modificările ulterioare. Nu este declarată o singură clauză calendaristică de intrare în vigoare pentru legea în ansamblu, astfel că effective_date este omisă. Sunt documentate ca externe actele modificatoare OUG nr. 106/2020, Legea nr. 290/2020 și Legea nr. 157/2022; nu se creează noduri pentru acestea. Relațiile references către lege-10-1995, lege-50-1991 și og-43-1997 sunt susținute de textul oficial.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul oficial citează Legea nr. 50/1991, republicată, cu modificările și completările ulterioare, pentru documentația tehnică și pentru lucrările/construcțiile afectate.",
+      "source_article": "Art. 6 lit. c) și Art. 11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 11 citează Legea nr. 10/1995 privind calitatea în construcții, iar art. 29 alin. (5) stabilește aplicarea acesteia lucrărilor executate pe uscat.",
+      "source_article": "Art. 11 și Art. 29 alin. (5)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "og-43-1997",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 11 citează Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare, pentru lucrările care afectează construcțiile existente.",
+      "source_article": "Art. 11",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": ["lege", "infrastructură-energetică", "operațiuni-petroliere", "offshore", "onshore", "construcții", "metadata-only"]
+}

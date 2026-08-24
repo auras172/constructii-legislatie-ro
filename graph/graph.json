@@ -526,6 +526,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-256-2018",
+      "label": "Legea 256/2018 privind operațiunile petroliere offshore și onshore de adâncime",
+      "type": "lege",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-265-2006",
       "label": "Legea 265/2006",
       "type": "lege",
@@ -3533,6 +3541,45 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306814"
+    },
+    {
+      "source": "lege-256-2018",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 11 citează Legea nr. 10/1995 privind calitatea în construcții, iar art. 29 alin. (5) stabilește aplicarea acesteia lucrărilor executate pe uscat.",
+      "source_article": "Art. 11 și Art. 29 alin. (5)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014"
+    },
+    {
+      "source": "lege-256-2018",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul oficial citează Legea nr. 50/1991, republicată, cu modificările și completările ulterioare, pentru documentația tehnică și pentru lucrările/construcțiile afectate.",
+      "source_article": "Art. 6 lit. c) și Art. 11",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014"
+    },
+    {
+      "source": "lege-256-2018",
+      "target": "og-43-1997",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 11 citează Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare, pentru lucrările care afectează construcțiile existente.",
+      "source_article": "Art. 11",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262014"
     },
     {
       "source": "lege-265-2006",
@@ -8505,8 +8552,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 275,
-    "confirmed_edges": 539,
+    "total_nodes": 276,
+    "confirmed_edges": 542,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
