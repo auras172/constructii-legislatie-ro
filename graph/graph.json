@@ -1590,6 +1590,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-313-2023",
+      "label": "Ordinul MDLPA 313/2023 privind standardele armonizate pentru produse de construcții",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-348-2026",
       "label": "Ordin MDLPA 348/2026",
       "type": "ordin",
@@ -6125,6 +6133,32 @@
       "evidence": "metadata/acts/ordin-mdlpa-310-2022.json"
     },
     {
+      "source": "ordin-mdlpa-313-2023",
+      "target": "hg-1236-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 3 lit. g) din HG nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616"
+    },
+    {
+      "source": "ordin-mdlpa-313-2023",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616"
+    },
+    {
       "source": "ordin-mdlpa-348-2026",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -8394,8 +8428,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 271,
-    "confirmed_edges": 532,
+    "total_nodes": 272,
+    "confirmed_edges": 534,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

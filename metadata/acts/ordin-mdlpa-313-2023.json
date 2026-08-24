@@ -1,0 +1,51 @@
+{
+  "title": "Ordin nr. 313 din 28 februarie 2023 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+  "short_title": "Ordinul MDLPA 313/2023 privind standardele armonizate pentru produse de construcții",
+  "canonical_citation": "Ordin nr. 313/2023",
+  "type": "ordin",
+  "number": "313",
+  "year": "2023",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": ["produse-pentru-constructii", "standarde-armonizate", "marcaj-ce", "regulament-305-2011"],
+  "status": "repealed",
+  "issue_date": "2023-02-28",
+  "publication_date": "2023-03-13",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616",
+  "official_source": "Portal Legislativ - forma publicată a Ordinului nr. 313/2023 și forma printabilă oficială indicată de recordul detail",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma publicată în M.Of. nr. 207 din 13 martie 2023; lista standardelor este anexă a ordinului.",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data de 28 februarie 2023 și publicarea în M.Of. nr. 207 din 13 martie 2023. Art. 1 aprobă lista prevăzută în anexă, art. 2 dispune publicarea, iar art. 3 abrogă Ordinul nr. 1.687/2019. Ordinul MDLPA nr. 833/2024, verificat separat pe Portalul Legislativ, abrogă explicit Ordinul nr. 313/2023 la data publicării; statusul curent este astfel repealed. Relația juridică de abrogare nu este adăugată deoarece schema actuală nu suportă repeals/repealed_by și nu este remapată ca amends sau related_to. Audit brut la 2026-08-24T19:44:22Z și fallback User-Agent la 2026-08-24T19:44:22Z/19:44:42Z sunt documentate în import-log. Lista standardelor și standardele individuale nu sunt importate ca noduri sau text integral.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-1236-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 3 lit. g) din HG nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    },
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 12 alin. (6) din HG nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265616",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": ["ordin", "mdlpa", "produse-pentru-constructii", "standarde-armonizate", "marcaj-ce"]
+}
