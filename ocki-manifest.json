@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-24T20:15:22.497Z",
+  "generated_at": "2026-08-24T20:37:57.547Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 274,
+    "acts_total": 275,
     "acts_full_text": 50,
-    "acts_metadata_only": 224,
+    "acts_metadata_only": 225,
     "article_anchors_total": 2727,
-    "import_logs_total": 296,
+    "import_logs_total": 297,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 538,
+    "confirmed_relationships": 539,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -3226,6 +3226,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mlptl-57-n-1999.md",
       "metadata_file": "metadata/acts/ordin-mlptl-57-n-1999.json"
+    },
+    {
+      "slug": "ordin-mtct-1010-2003",
+      "title": "Ordin nr. 1.010 din 10 decembrie 2003 pentru aprobarea reglementării tehnice «Metodologie privind programul de urmărire în timp a comportării construcţiilor din punct de vedere al cerinţelor funcţionale», indicativ MP-031-03",
+      "short_title": "Ordinul MTCT nr. 1.010/2003 — MP-031-03",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 3,
+      "anchor_count": 0,
+      "file": "legi/ordin-mtct-1010-2003.md",
+      "metadata_file": "metadata/acts/ordin-mtct-1010-2003.json"
     },
     {
       "slug": "ordin-mtct-1430-2005",

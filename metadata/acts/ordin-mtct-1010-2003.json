@@ -1,0 +1,54 @@
+{
+  "title": "Ordin nr. 1.010 din 10 decembrie 2003 pentru aprobarea reglementării tehnice «Metodologie privind programul de urmărire în timp a comportării construcţiilor din punct de vedere al cerinţelor funcţionale», indicativ MP-031-03",
+  "short_title": "Ordinul MTCT nr. 1.010/2003 — MP-031-03",
+  "canonical_citation": "Ordinul MTCT nr. 1.010/2003",
+  "type": "ordin",
+  "number": "1010",
+  "year": "2003",
+  "issuer": "Ministerul Transporturilor, Construcţiilor şi Turismului",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "urmarirea-comportarii-constructiilor",
+    "mp-031-03",
+    "reglementare-tehnica",
+    "constructii"
+  ],
+  "status": "repealed",
+  "issue_date": "2003-12-10",
+  "publication_date": "2003-12-22",
+  "effective_date": "2003-12-22",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48607",
+  "official_source": "Portal Legislativ — Ordin nr. 1.010 din 10 decembrie 2003 pentru aprobarea reglementării tehnice MP-031-03; publicat în Monitorul Oficial nr. 920 din 22 decembrie 2003",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/48607",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma oficială originală; Portalul indică 3 articole și o anexă tehnică publicată în Buletinul Construcţiilor",
+  "article_count": 3,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48607",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": [
+    "ordin",
+    "mp-031-03",
+    "urmarirea-comportarii-constructiilor",
+    "reglementare-tehnica",
+    "calitate-construcții",
+    "istoric",
+    "metadata-only"
+  ],
+  "rights_note": "Import metadata-only pentru forma oficială originală. Art. 1 aprobă reglementarea tehnică MP-031-03, prevăzută în anexa care face parte integrantă din ordin; anexa tehnică este publicată în Buletinul Construcţiilor și nu primește nod separat. Portalul confirmă intrarea în vigoare la 22 decembrie 2003, aceeași zi cu publicarea în Monitorul Oficial nr. 920, iar effective_date este preluată direct din sursa oficială. Ordinul MDLPA nr. 770/2025, art. 6, abrogă explicit Ordinul MTCT nr. 1.010/2003; statutul este repealed. Schema repository-ului nu suportă tipul juridic repeals/repealed_by, astfel abrogarea și succesorul sunt documentate fără edge nesuportat. Nu se adaugă relații către Ordinul MTCT nr. 1.889/2004 sau alte acte doar pe baza succesiunii tematice."
+}
