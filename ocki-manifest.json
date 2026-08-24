@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-24T20:04:00.321Z",
+  "generated_at": "2026-08-24T20:15:22.497Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 273,
+    "acts_total": 274,
     "acts_full_text": 50,
-    "acts_metadata_only": 223,
+    "acts_metadata_only": 224,
     "article_anchors_total": 2727,
-    "import_logs_total": 295,
+    "import_logs_total": 296,
     "domains": [
       "anre",
       "autorizatii",
@@ -3213,6 +3213,19 @@
       "anchor_count": 0,
       "file": "legi/ordin-mlpda-3494-2020.md",
       "metadata_file": "metadata/acts/ordin-mlpda-3494-2020.json"
+    },
+    {
+      "slug": "ordin-mlptl-57-n-1999",
+      "title": "Ordinul nr. 57/N din 18 august 1999 pentru aprobarea Normativului privind comportarea în timp a construcțiilor, indicativ P 130-99",
+      "short_title": "Ordinul MLPTL 57/N/1999 pentru P 130-99",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only",
+      "article_count": 0,
+      "anchor_count": 0,
+      "file": "legi/ordin-mlptl-57-n-1999.md",
+      "metadata_file": "metadata/acts/ordin-mlptl-57-n-1999.json"
     },
     {
       "slug": "ordin-mtct-1430-2005",

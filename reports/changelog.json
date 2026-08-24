@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-24T20:04:02.357Z",
+  "generated_at": "2026-08-24T20:15:24.699Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Ordinul MTCT 1889/2004",
         "feat(metadata): add Ordin MDLPA 313/2023 metadata",
         "feat(metadata): add Ordinul 989/2025 CNI amendment",
         "feat(metadata): add Ordin MDLPA 634/2025 metadata",
@@ -257,6 +258,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #585 from auras172/codex/metadata-ordin-mtct-1889-2004",
         "Merge pull request #584 from auras172/codex/metadata-ordin-mdlpa-313-2023",
         "Merge pull request #583 from auras172/codex/metadata-ordin-989-2025",
         "Merge pull request #582 from auras172/codex/metadata-ordin-mdlpa-634-2025",
@@ -930,6 +932,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 272
+    "infrastructure_changes": 273
   }
 }
