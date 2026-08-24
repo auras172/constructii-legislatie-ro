@@ -1950,6 +1950,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mtct-1010-2003",
+      "label": "Ordinul MTCT nr. 1.010/2003 — MP-031-03",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mtct-1430-2005",
       "label": "Ordin MTCT 1430/2005",
       "type": "ordin",
@@ -7600,6 +7608,19 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228632"
     },
     {
+      "source": "ordin-mtct-1010-2003",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48607"
+    },
+    {
       "source": "ordin-mtct-1430-2005",
       "target": "lege-50-1991",
       "relationship": "implements",
@@ -8484,8 +8505,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 274,
-    "confirmed_edges": 538,
+    "total_nodes": 275,
+    "confirmed_edges": 539,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
