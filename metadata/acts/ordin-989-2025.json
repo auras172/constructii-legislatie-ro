@@ -1,0 +1,55 @@
+{
+  "title": "Ordin nr. 989 din 22 iulie 2025 privind modificarea anexei la Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.319/2004 pentru aprobarea Actului constitutiv al Companiei Naționale de Investiții «C.N.I.» - S.A.",
+  "short_title": "Ordinul nr. 989/2025 — modificarea actului constitutiv CNI",
+  "canonical_citation": "Ordinul nr. 989/2025",
+  "type": "ordin",
+  "number": "989",
+  "year": "2025",
+  "issuer": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+  "issuing_body_kind": "minister",
+  "domain": "calitate",
+  "topics": [
+    "compania-nationala-de-investitii",
+    "act-constitutiv",
+    "constructii",
+    "administrare-corporativa"
+  ],
+  "status": "unknown",
+  "issue_date": "2025-07-22",
+  "publication_date": "2025-07-24",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299995",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/299995",
+  "official_source": "Portal Legislativ — Ordin nr. 989 din 22 iulie 2025; publicat în Monitorul Oficial al României, Partea I, nr. 693 din 24 iulie 2025; forma printabilă oficială verificată separat",
+  "version_kind": "original",
+  "last_checked": "2026-08-24",
+  "version": "Forma oficială originală verificată în Portal Legislativ la 24.08.2026; ordinul are 2 articole și nu are anexe proprii.",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru Ordinul nr. 989/22.07.2025, publicat în M.Of. nr. 693/24.07.2025. Art. I modifică anexa la Ordinul MTCT nr. 2.319/2004 pentru aprobarea Actului constitutiv al C.N.I. - S.A.; actul constitutiv și CNI rămân referințe externe și nu primesc noduri separate. Art. II dispune publicarea, fără o clauză calendaristică distinctă de intrare în vigoare; effective_date este omisă. Statusul curent rămâne unknown. URL-ul furnizat inițial pentru forma printabilă este un URL alternativ al aceluiași Ordin 989; forma printabilă canonică este indicată de recordul detail.",
+  "related_acts": [
+    "hg-477-2020"
+  ],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "hg-477-2020",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299995",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24"
+    }
+  ],
+  "tags": [
+    "ordin",
+    "mdlpa",
+    "compania-nationala-de-investitii",
+    "act-constitutiv",
+    "constructii",
+    "metadata-only"
+  ]
+}
