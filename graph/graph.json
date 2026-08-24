@@ -1702,6 +1702,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "ordin-mdlpa-833-2024",
+      "label": "Ordinul MDLPA 833/2024 privind standardele armonizate pentru produse de construcții",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-mdlpa-880-2025",
       "label": "Ordin MDLPA 880/2025",
       "type": "ordin",
@@ -6729,6 +6737,32 @@
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252076"
     },
     {
+      "source": "ordin-mdlpa-833-2024",
+      "target": "hg-1236-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 3 lit. g) din Hotărârea Guvernului nr. 1.236/2012 privind cadrul instituțional pentru aplicarea Regulamentului (UE) nr. 305/2011.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279694"
+    },
+    {
+      "source": "ordin-mdlpa-833-2024",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279694"
+    },
+    {
       "source": "ordin-mdlpa-880-2025",
       "target": "lege-10-1995",
       "relationship": "implements",
@@ -8197,8 +8231,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 267,
-    "confirmed_edges": 517,
+    "total_nodes": 268,
+    "confirmed_edges": 519,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
