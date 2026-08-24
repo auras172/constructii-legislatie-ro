@@ -1246,6 +1246,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "ordin-989-2025",
+      "label": "Ordinul nr. 989/2025 — modificarea actului constitutiv CNI",
+      "type": "ordin",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "ordin-anre-133-2022",
       "label": "Ordin ANRE 133/2022",
       "type": "ordin",
@@ -5057,6 +5065,26 @@
       "evidence": "metadata/acts/ordin-839-2009.json"
     },
     {
+      "source": "ordin-989-2025",
+      "target": "hg-477-2020",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă explicit art. 12 alin. (6) din Hotărârea Guvernului nr. 477/2020 privind organizarea și funcționarea Ministerului Dezvoltării, Lucrărilor Publice și Administrației.",
+      "source_article": "Preambul",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-24",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299995"
+    },
+    {
+      "source": "ordin-989-2025",
+      "target": "hg-477-2020",
+      "relationship": "related",
+      "review_status": "confirmed",
+      "evidence": "metadata/acts/ordin-989-2025.json"
+    },
+    {
       "source": "ordin-anre-133-2022",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
@@ -8366,8 +8394,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 270,
-    "confirmed_edges": 530,
+    "total_nodes": 271,
+    "confirmed_edges": 532,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
