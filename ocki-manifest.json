@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-25T18:57:26.270Z",
+  "generated_at": "2026-08-25T19:37:43.346Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 279,
+    "acts_total": 280,
     "acts_full_text": 50,
-    "acts_metadata_only": 229,
+    "acts_metadata_only": 230,
     "article_anchors_total": 2727,
-    "import_logs_total": 301,
+    "import_logs_total": 302,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 545,
+    "confirmed_relationships": 546,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -3629,6 +3629,19 @@
       "anchor_count": 0,
       "file": "legi/oug-52-2025.md",
       "metadata_file": "metadata/acts/oug-52-2025.json"
+    },
+    {
+      "slug": "oug-57-2019",
+      "title": "ORDONANȚĂ DE URGENȚĂ nr. 57 din 3 iulie 2019 privind Codul administrativ",
+      "short_title": "Codul administrativ (OUG 57/2019)",
+      "type": "ordonanta",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 699,
+      "anchor_count": 0,
+      "file": "legi/oug-57-2019.md",
+      "metadata_file": "metadata/acts/oug-57-2019.json"
     },
     {
       "slug": "oug-6-2018",

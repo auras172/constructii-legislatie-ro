@@ -2198,6 +2198,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-57-2019",
+      "label": "Codul administrativ (OUG 57/2019)",
+      "type": "ordonanta",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-6-2018",
       "label": "OUG 6/2018",
       "type": "ordonanta",
@@ -8457,6 +8465,19 @@
       "notes": "Singura relație repo-locală; nu sunt adăugate relații pentru acte externe sau pentru referințe fără țintă locală."
     },
     {
+      "source": "oug-57-2019",
+      "target": "lege-213-1998",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Procedurile de atestare a inventarului bunurilor aparținând domeniului public al unităților administrativ-teritoriale, începute anterior intrării în vigoare a Codului administrativ în baza Legii nr. 213/1998, rămân supuse dispozițiilor legale în vigoare la data inițierii.",
+      "source_article": "Art. 608 alin. (3)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312619"
+    },
+    {
       "source": "oug-6-2018",
       "target": "lege-163-2016",
       "relationship": "related",
@@ -8615,8 +8636,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 279,
-    "confirmed_edges": 545,
+    "total_nodes": 280,
+    "confirmed_edges": 546,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
