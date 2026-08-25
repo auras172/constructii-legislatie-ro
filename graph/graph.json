@@ -294,6 +294,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-856-2002",
+      "label": "HG 856/2002 — evidența gestiunii deșeurilor",
+      "type": "hotarare",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-856-2023",
       "label": "HG 856/2023 — trecerea unor sectoare din DN Centura București",
       "type": "hotarare",
@@ -8670,7 +8678,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 281,
+    "total_nodes": 282,
     "confirmed_edges": 548,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
