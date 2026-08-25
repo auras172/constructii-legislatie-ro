@@ -1,0 +1,55 @@
+{
+  "title": "ORDONANȚĂ DE URGENȚĂ nr. 57 din 3 iulie 2019 privind Codul administrativ",
+  "short_title": "Codul administrativ (OUG 57/2019)",
+  "canonical_citation": "OUG nr. 57/2019",
+  "type": "ordonanta",
+  "number": "57",
+  "year": "2019",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "administrație-publică",
+    "autorități-locale",
+    "proprietate-publică",
+    "servicii-publice",
+    "urbanism"
+  ],
+  "status": "unknown",
+  "issue_date": "2019-07-03",
+  "publication_date": "2019-07-05",
+  "effective_date": "2019-07-05",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312619",
+  "official_source": "Portal Legislativ — forma consolidată la 09.08.2026 a OUG nr. 57/2019; publicată inițial în M.Of. nr. 555/05.07.2019",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/283599",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-08-09",
+  "last_checked": "2026-08-25",
+  "version": "Forma consolidată oficială din 09.08.2026, care include modificările aduse prin Legea nr. 165/2026.",
+  "article_count": 699,
+  "annex_count": 16,
+  "import_method": "metadata-only",
+  "rights_note": "Textul legal și anexele nu sunt importate. Art. 597 alin. (1) stabilește data generală de intrare în vigoare la data publicării, 05.07.2019, dar enumeră excepții cu date distincte; effective_date reprezintă numai regula generală, iar excepțiile sunt documentate în import-log. Statusul rămâne unknown deoarece Portalul afișează o formă consolidată și istoricul modificărilor, fără o etichetă explicită de status juridic curent. Art. 597 alin. (2) abrogă parțial Legea nr. 213/1998, însă schema nu suportă repeals/repealed_by și efectul nu este remapat. Art. 608 alin. (3) păstrează o referință tranzitorie explicită la aceeași lege.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-213-1998",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Procedurile de atestare a inventarului bunurilor aparținând domeniului public al unităților administrativ-teritoriale, începute anterior intrării în vigoare a Codului administrativ în baza Legii nr. 213/1998, rămân supuse dispozițiilor legale în vigoare la data inițierii.",
+      "source_article": "Art. 608 alin. (3)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312619",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25"
+    }
+  ],
+  "tags": [
+    "ordonanță-de-urgență",
+    "cod-administrativ",
+    "administrație-publică",
+    "autorități-locale",
+    "proprietate-publică",
+    "metadata-only"
+  ]
+}
