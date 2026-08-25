@@ -638,6 +638,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-51-2006",
+      "label": "Legea serviciilor comunitare de utilități publice 51/2006",
+      "type": "lege",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-55-2024",
       "label": "Legea 55/2024 — aprobarea OUG 49/2023",
       "type": "lege",
@@ -3823,6 +3831,19 @@
       "relationship": "references",
       "review_status": "needs_review",
       "evidence": "cross-references/relationships-auto.json"
+    },
+    {
+      "source": "lege-51-2006",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Forma oficială citează Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare, în dispoziția privind lucrările de infrastructură și serviciile de utilități publice.",
+      "source_article": "Art. 43",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307034"
     },
     {
       "source": "lege-55-2024",
@@ -8560,8 +8581,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 277,
-    "confirmed_edges": 542,
+    "total_nodes": 278,
+    "confirmed_edges": 543,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

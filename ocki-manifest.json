@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-25T18:25:53.557Z",
+  "generated_at": "2026-08-25T18:42:39.095Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 277,
+    "acts_total": 278,
     "acts_full_text": 50,
-    "acts_metadata_only": 227,
+    "acts_metadata_only": 228,
     "article_anchors_total": 2727,
-    "import_logs_total": 299,
+    "import_logs_total": 300,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 542,
+    "confirmed_relationships": 543,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -1094,6 +1094,19 @@
       "anchor_count": 64,
       "file": "legi/lege-50-1991.md",
       "metadata_file": "metadata/acts/lege-50-1991.json"
+    },
+    {
+      "slug": "lege-51-2006",
+      "title": "LEGE nr. 51 din 8 martie 2006 (**republicată**) privind serviciile comunitare de utilități publice",
+      "short_title": "Legea serviciilor comunitare de utilități publice 51/2006",
+      "type": "lege",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 58,
+      "anchor_count": 0,
+      "file": "legi/lege-51-2006.md",
+      "metadata_file": "metadata/acts/lege-51-2006.json"
     },
     {
       "slug": "lege-55-2024",
