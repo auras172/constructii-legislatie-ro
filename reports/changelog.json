@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-24T20:52:36.603Z",
+  "generated_at": "2026-08-25T18:25:54.508Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 256/2018 metadata",
         "feat(metadata): add Ordinul MTCT 1010/2003",
         "feat(metadata): add Ordin MLPTL 57/N/1999 metadata",
         "feat(metadata): add Ordinul MTCT 1889/2004",
@@ -223,6 +224,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: reconcile housekeeping snapshot and procedure",
         "docs: refresh corpus status and act index",
         "docs: reconcile repository snapshot and act index",
         "docs: refresh repository housekeeping snapshot",
@@ -260,6 +262,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #589 from auras172/codex/housekeeping-procedure-2026-08-24",
+        "Merge pull request #588 from auras172/codex/metadata-lege-256-2018",
         "Merge pull request #587 from auras172/codex/metadata-ordin-mtct-1010-2003",
         "Merge pull request #586 from auras172/codex/metadata-ordin-mlptl-57-n-1999",
         "Merge pull request #585 from auras172/codex/metadata-ordin-mtct-1889-2004",
@@ -936,6 +940,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 275
+    "infrastructure_changes": 276
   }
 }

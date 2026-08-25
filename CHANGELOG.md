@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 256/2018 metadata
 - feat(metadata): add Ordinul MTCT 1010/2003
 - feat(metadata): add Ordin MLPTL 57/N/1999 metadata
 - feat(metadata): add Ordinul MTCT 1889/2004
@@ -226,6 +227,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: reconcile housekeeping snapshot and procedure
 - docs: refresh corpus status and act index
 - docs: reconcile repository snapshot and act index
 - docs: refresh repository housekeeping snapshot
@@ -263,6 +265,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #589 from auras172/codex/housekeeping-procedure-2026-08-24
+- Merge pull request #588 from auras172/codex/metadata-lege-256-2018
 - Merge pull request #587 from auras172/codex/metadata-ordin-mtct-1010-2003
 - Merge pull request #586 from auras172/codex/metadata-ordin-mlptl-57-n-1999
 - Merge pull request #585 from auras172/codex/metadata-ordin-mtct-1889-2004

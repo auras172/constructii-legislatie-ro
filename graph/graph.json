@@ -374,6 +374,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-123-2012",
+      "label": "Legea 123/2012 — energia electrică și gazele naturale",
+      "type": "lege",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-141-2026",
       "label": "Legea 141/2026",
       "type": "lege",
@@ -8552,7 +8560,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 276,
+    "total_nodes": 277,
     "confirmed_edges": 542,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
