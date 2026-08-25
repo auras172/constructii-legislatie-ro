@@ -1,0 +1,43 @@
+{
+  "title": "Legea nr. 123 din 10 iulie 2012 a energiei electrice şi a gazelor naturale",
+  "short_title": "Legea 123/2012 — energia electrică și gazele naturale",
+  "canonical_citation": "Legea nr. 123/2012",
+  "type": "lege",
+  "number": "123",
+  "year": "2012",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "executie",
+  "topics": [
+    "energie-electrica",
+    "gaze-naturale",
+    "retele-energetice",
+    "racordare",
+    "infrastructura-energetica"
+  ],
+  "status": "unknown",
+  "issue_date": "2012-07-10",
+  "publication_date": "2012-07-16",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307058",
+  "official_source": "Portal Legislativ — forma consolidată a Legii nr. 123 din 10 iulie 2012 a energiei electrice şi a gazelor naturale; publicată inițial în Monitorul Oficial nr. 485 din 16 iulie 2012",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/307058",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2026-02-27",
+  "last_checked": "2026-08-25",
+  "version": "Forma consolidată afișată de Portalul Legislativ; ultima modificare identificată în note este din 27 februarie 2026; forma curentă are 237 blocuri de articole și nu are anexe",
+  "article_count": 237,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma consolidată oficială. Portalul confirmă publicarea inițială în M.Of. nr. 485/16.07.2012 și afișează forma consolidată cu modificări până la 27.02.2026. Forma verificată are 237 blocuri de articole și niciun bloc de anexă. Effective_date este omisă: art. 96 și art. 200 conțin reguli pentru dispoziții speciale și folosesc reperul datei intrării în vigoare, dar nu stabilesc în forma auditată o singură dată calendaristică generală pentru lege. Nu au fost identificate citări nominale eligibile către ținte locale precum Legea nr. 10/1995, Legea nr. 50/1991 sau Legea nr. 51/2006; nu se adaugă relații tematice sau speculative. Actele modificatoare și actele externe rămân documentate ca parte a istoricului formei consolidate, fără noduri noi în acest PR.",
+  "tags": [
+    "lege",
+    "energie-electrica",
+    "gaze-naturale",
+    "retele-energetice",
+    "racordare",
+    "infrastructura-energetica",
+    "forma-consolidata",
+    "metadata-only"
+  ]
+}

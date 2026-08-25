@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T20:52:35.440Z",
+  "generated_at": "2026-08-25T18:25:53.407Z",
   "summary": {
-    "total_metadata_entries": 276,
+    "total_metadata_entries": 277,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 226,
-    "total_import_logs": 298,
+    "total_metadata_only_acts": 227,
+    "total_import_logs": 299,
     "total_relationship_links": 526,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -422,6 +422,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-123-2012",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -2498,7 +2507,7 @@
   "statistics": {
     "domains": {
       "urbanism": 29,
-      "executie": 33,
+      "executie": 34,
       "calitate": 114,
       "nzeb": 14,
       "mediu": 8,
@@ -2513,7 +2522,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 56,
-      "parlament": 41,
+      "parlament": 42,
       "other": 9,
       "autoritate": 20
     },
@@ -2537,7 +2546,7 @@
       "2009": 6,
       "2010": 23,
       "2011": 2,
-      "2012": 6,
+      "2012": 7,
       "2013": 7,
       "2014": 10,
       "2015": 3,
@@ -2555,7 +2564,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 226,
+      "metadata-only": 227,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
