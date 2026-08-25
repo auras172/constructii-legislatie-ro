@@ -2238,6 +2238,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "oug-92-2021",
+      "label": "OUG 92/2021 — regimul deșeurilor",
+      "type": "ordonanta",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "oug-92-2024",
       "label": "OUG 92/2024 — rețeaua națională de ghișee unice de eficiență energetică",
       "type": "ordonanta",
@@ -8609,6 +8617,32 @@
       "notes": "Singura relație repo-locală; nu se adaugă relații pentru acte contextual citate sau pentru subiectul general al programelor de lucrări publice."
     },
     {
+      "source": "oug-92-2021",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 17 și art. 23 citează explicit art. 11 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții.",
+      "source_article": "Art. 17; Art. 23",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245846"
+    },
+    {
+      "source": "oug-92-2021",
+      "target": "oug-195-2005",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 34 citează explicit art. 15 din Ordonanța de urgență a Guvernului nr. 195/2005 privind protecția mediului.",
+      "source_article": "Art. 34",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245846"
+    },
+    {
       "source": "oug-92-2024",
       "target": "lege-121-2014",
       "relationship": "references",
@@ -8636,8 +8670,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 280,
-    "confirmed_edges": 546,
+    "total_nodes": 281,
+    "confirmed_edges": 548,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:37:44.912Z",
+  "generated_at": "2026-08-25T20:11:09.011Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add OUG 57/2019 metadata",
         "feat(metadata): add Legea 241/2006 water and wastewater law",
         "feat(metadata): add Legea 51/2006 metadata",
         "feat(metadata): add Legea 123/2012 energy law",
@@ -265,6 +266,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #594 from auras172/codex/metadata-oug-57-2019",
         "Merge pull request #593 from auras172/codex/metadata-lege-241-2006",
         "Merge pull request #592 from auras172/codex/metadata-lege-51-2006",
         "Merge pull request #591 from auras172/codex/metadata-lege-123-2012",
@@ -946,6 +948,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 279
+    "infrastructure_changes": 280
   }
 }

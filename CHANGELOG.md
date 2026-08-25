@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add OUG 57/2019 metadata
 - feat(metadata): add Legea 241/2006 water and wastewater law
 - feat(metadata): add Legea 51/2006 metadata
 - feat(metadata): add Legea 123/2012 energy law
@@ -268,6 +269,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #594 from auras172/codex/metadata-oug-57-2019
 - Merge pull request #593 from auras172/codex/metadata-lege-241-2006
 - Merge pull request #592 from auras172/codex/metadata-lege-51-2006
 - Merge pull request #591 from auras172/codex/metadata-lege-123-2012
