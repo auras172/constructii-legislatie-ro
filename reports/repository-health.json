@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T18:42:38.939Z",
+  "generated_at": "2026-08-25T18:57:26.111Z",
   "summary": {
-    "total_metadata_entries": 278,
+    "total_metadata_entries": 279,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 228,
-    "total_import_logs": 300,
-    "total_relationship_links": 527,
+    "total_metadata_only_acts": 229,
+    "total_import_logs": 301,
+    "total_relationship_links": 529,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -584,6 +584,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 0,
+      "provenance": true
+    },
+    {
+      "slug": "lege-241-2006",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 2,
       "provenance": true
     },
     {
@@ -2516,7 +2525,7 @@
   "statistics": {
     "domains": {
       "urbanism": 29,
-      "executie": 35,
+      "executie": 36,
       "calitate": 114,
       "nzeb": 14,
       "mediu": 8,
@@ -2531,7 +2540,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 56,
-      "parlament": 43,
+      "parlament": 44,
       "other": 9,
       "autoritate": 20
     },
@@ -2549,7 +2558,7 @@
       "2003": 3,
       "2004": 4,
       "2005": 7,
-      "2006": 6,
+      "2006": 7,
       "2007": 4,
       "2008": 3,
       "2009": 6,
@@ -2573,7 +2582,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 228,
+      "metadata-only": 229,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

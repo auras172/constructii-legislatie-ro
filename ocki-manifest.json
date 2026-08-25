@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-25T18:42:39.095Z",
+  "generated_at": "2026-08-25T18:57:26.270Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 278,
+    "acts_total": 279,
     "acts_full_text": 50,
-    "acts_metadata_only": 228,
+    "acts_metadata_only": 229,
     "article_anchors_total": 2727,
-    "import_logs_total": 300,
+    "import_logs_total": 301,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 543,
+    "confirmed_relationships": 545,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -899,6 +899,19 @@
       "anchor_count": 0,
       "file": "legi/lege-24-2007.md",
       "metadata_file": "metadata/acts/lege-24-2007.json"
+    },
+    {
+      "slug": "lege-241-2006",
+      "title": "Legea nr. 241 din 22 iunie 2006 (*republicată*) privind serviciul de alimentare cu apă și de canalizare",
+      "short_title": "Legea 241/2006 — alimentare cu apă și canalizare",
+      "type": "lege",
+      "domain": "executie",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 64,
+      "anchor_count": 0,
+      "file": "legi/lege-241-2006.md",
+      "metadata_file": "metadata/acts/lege-241-2006.json"
     },
     {
       "slug": "lege-243-2023",
