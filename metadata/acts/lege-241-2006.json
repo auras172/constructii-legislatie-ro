@@ -1,0 +1,68 @@
+{
+  "title": "Legea nr. 241 din 22 iunie 2006 (*republicată*) privind serviciul de alimentare cu apă și de canalizare",
+  "short_title": "Legea 241/2006 — alimentare cu apă și canalizare",
+  "canonical_citation": "Legea nr. 241/2006",
+  "type": "lege",
+  "number": "241",
+  "year": "2006",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "executie",
+  "topics": [
+    "apa",
+    "canalizare",
+    "servicii-comunitare",
+    "utilitati-publice",
+    "infrastructura-edilitara"
+  ],
+  "status": "unknown",
+  "issue_date": "2006-06-22",
+  "publication_date": "2006-06-29",
+  "effective_date": "2007-03-21",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296132",
+  "official_source": "Portal Legislativ — forma republicată și consolidată a Legii nr. 241 din 22 iunie 2006 privind serviciul de alimentare cu apă și de canalizare; publicată inițial în Monitorul Oficial nr. 563 din 29 iunie 2006 și republicată în Monitorul Oficial nr. 679 din 7 septembrie 2015",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/296132",
+  "version_kind": "republicat",
+  "consolidated_as_of": "2025-04-10",
+  "last_checked": "2026-08-25",
+  "version": "Forma republicată și consolidată afișată de Portalul Legislativ; republicări anterioare în M.Of. nr. 85/08.02.2013 și nr. 679/07.09.2015; ultima modificare identificată în note la 10.04.2025",
+  "article_count": 64,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-51-2006",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 alin. (3), art. 41 și art. 44 citează explicit Legea serviciilor comunitare de utilități publice nr. 51/2006.",
+      "source_article": "Art. 1 alin. (3); Art. 41; Art. 44",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296132",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25"
+    },
+    {
+      "type": "references",
+      "target": "lege-107-1996",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 44 prevede completarea dispozițiilor legii cu dispozițiile Legii apelor nr. 107/1996.",
+      "source_article": "Art. 44",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296132",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-25"
+    }
+  ],
+  "rights_note": "Import metadata-only pentru forma republicată și consolidată oficială. Legea a fost publicată inițial în M.Of. nr. 563/29.06.2006, republicată în M.Of. nr. 85/08.02.2013 și din nou în temeiul Legii nr. 224/2015 în M.Of. nr. 679/07.09.2015. Forma auditată are 64 blocuri de articole și 0 anexe. Art. 46 stabilește direct că legea intră în vigoare la 21.03.2007; effective_date este preluată din această clauză explicită. Statusul rămâne unknown deoarece Portalul nu declară explicit un status juridic curent în forma auditată. Relațiile confirmate sunt numai references către Legea nr. 51/2006 și Legea nr. 107/1996, ambele ținte locale. Actele modificatoare și actele externe rămân documentate ca istoric, fără noduri noi în acest PR.",
+  "tags": [
+    "lege",
+    "apa",
+    "canalizare",
+    "servicii-comunitare",
+    "utilitati-publice",
+    "infrastructura-edilitara",
+    "forma-republicata",
+    "metadata-only"
+  ]
+}

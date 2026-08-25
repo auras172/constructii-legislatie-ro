@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 51/2006 metadata
 - feat(metadata): add Legea 123/2012 energy law
 - feat(metadata): add Legea 256/2018 metadata
 - feat(metadata): add Ordinul MTCT 1010/2003
@@ -266,6 +267,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #592 from auras172/codex/metadata-lege-51-2006
 - Merge pull request #591 from auras172/codex/metadata-lege-123-2012
 - Merge pull request #589 from auras172/codex/housekeeping-procedure-2026-08-24
 - Merge pull request #588 from auras172/codex/metadata-lege-256-2018
