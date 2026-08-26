@@ -1,0 +1,54 @@
+{
+  "title": "LEGE nr. 101 din 19 mai 2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor",
+  "short_title": "Legea 101/2016 privind remediile în achiziții publice",
+  "canonical_citation": "Legea nr. 101/2016",
+  "type": "lege",
+  "number": "101",
+  "year": "2016",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "achiziții-publice",
+    "concesiuni-de-lucrări",
+    "căi-de-atac",
+    "contestații",
+    "contracte-sectoriale"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-05-19",
+  "publication_date": "2016-05-23",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265919",
+  "official_source": "Portal Legislativ — forma consolidată la 06.04.2023; publicată inițial în M.Of. nr. 393/23.05.2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/252180",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2023-04-06",
+  "last_checked": "2026-08-26",
+  "version": "Forma consolidată oficială din 06.04.2023, care include modificările aduse prin Legea nr. 75/2023; Portalul afișează și note jurisprudențiale ulterioare.",
+  "article_count": 80,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Textul legal nu este importat. Cele 80 de articole reprezintă articolele distincte din forma consolidată, inclusiv articolele cu indice. Legea nu conține o clauză globală explicită de intrare în vigoare, astfel că effective_date este omisă. Statusul rămâne unknown deoarece Portalul oferă forma consolidată și istoricul, fără o etichetă juridică explicită de status curent. HG nr. 395/2016 apare numai într-o notă jurisprudențială adăugată de Portal, nu în textul normativ propriu, și nu este modelată ca relație.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-98-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul consolidat citează nominal Legea nr. 98/2016 pentru procedurile de atribuire, competența contestațiilor, pragurile valorice și serviciile din anexa nr. 2 a acelei legi.",
+      "source_article": "Art. 3 alin. (1) lit. a), Art. 49 alin. (2), Art. 58^2 alin. (2) lit. c) și Art. 61^1 alin. (1) lit. a)-b)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265919",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-26"
+    }
+  ],
+  "tags": [
+    "lege",
+    "achiziții-publice",
+    "concesiuni-de-lucrări",
+    "căi-de-atac",
+    "contestații",
+    "metadata-only"
+  ]
+}
