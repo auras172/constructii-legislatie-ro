@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T21:13:36.232Z",
+  "generated_at": "2026-08-26T17:45:49.620Z",
   "summary": {
-    "total_metadata_entries": 282,
+    "total_metadata_entries": 283,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 232,
-    "total_import_logs": 304,
-    "total_relationship_links": 532,
+    "total_metadata_only_acts": 233,
+    "total_import_logs": 305,
+    "total_relationship_links": 533,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -404,6 +404,15 @@
       "import_log": true,
       "official_markers": true,
       "relationships": 15,
+      "provenance": true
+    },
+    {
+      "slug": "lege-101-2016",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -2551,7 +2560,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 30,
+      "urbanism": 31,
       "executie": 36,
       "calitate": 114,
       "nzeb": 14,
@@ -2567,7 +2576,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 59,
-      "parlament": 44,
+      "parlament": 45,
       "other": 9,
       "autoritate": 20
     },
@@ -2595,7 +2604,7 @@
       "2013": 7,
       "2014": 10,
       "2015": 3,
-      "2016": 8,
+      "2016": 9,
       "2017": 5,
       "2018": 9,
       "2019": 5,
@@ -2609,7 +2618,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 232,
+      "metadata-only": 233,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

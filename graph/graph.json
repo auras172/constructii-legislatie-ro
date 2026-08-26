@@ -358,6 +358,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "lege-101-2016",
+      "label": "Legea 101/2016 privind remediile în achiziții publice",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-107-1996",
       "label": "Legea apelor 107/1996",
       "type": "lege",
@@ -3068,6 +3076,19 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/lege-10-1995.json"
+    },
+    {
+      "source": "lege-101-2016",
+      "target": "lege-98-2016",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Textul consolidat citează nominal Legea nr. 98/2016 pentru procedurile de atribuire, competența contestațiilor, pragurile valorice și serviciile din anexa nr. 2 a acelei legi.",
+      "source_article": "Art. 3 alin. (1) lit. a), Art. 49 alin. (2), Art. 58^2 alin. (2) lit. c) și Art. 61^1 alin. (1) lit. a)-b)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-26",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265919"
     },
     {
       "source": "lege-107-1996",
@@ -8678,8 +8699,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 282,
-    "confirmed_edges": 548,
+    "total_nodes": 283,
+    "confirmed_edges": 549,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
