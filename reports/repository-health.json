@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T17:45:49.620Z",
+  "generated_at": "2026-08-26T19:44:54.086Z",
   "summary": {
-    "total_metadata_entries": 283,
+    "total_metadata_entries": 284,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 233,
-    "total_import_logs": 305,
-    "total_relationship_links": 533,
+    "total_metadata_only_acts": 234,
+    "total_import_logs": 306,
+    "total_relationship_links": 534,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -417,6 +417,15 @@
     },
     {
       "slug": "lege-107-1996",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-111-1996",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -2562,7 +2571,7 @@
     "domains": {
       "urbanism": 31,
       "executie": 36,
-      "calitate": 114,
+      "calitate": 115,
       "nzeb": 14,
       "mediu": 10,
       "munca": 3,
@@ -2576,7 +2585,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 59,
-      "parlament": 45,
+      "parlament": 46,
       "other": 9,
       "autoritate": 20
     },
@@ -2584,7 +2593,7 @@
       "1991": 2,
       "1994": 3,
       "1995": 2,
-      "1996": 4,
+      "1996": 5,
       "1997": 2,
       "1998": 2,
       "1999": 2,
@@ -2618,7 +2627,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 233,
+      "metadata-only": 234,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

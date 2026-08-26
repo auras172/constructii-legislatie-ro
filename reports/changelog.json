@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-26T17:45:59.989Z",
+  "generated_at": "2026-08-26T19:44:55.146Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 101/2016 metadata",
         "feat(metadata): add HG 856/2002 waste records",
         "feat(metadata): add OUG 92/2021 waste regime",
         "feat(metadata): add OUG 57/2019 metadata",
@@ -268,6 +269,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #597 from auras172/codex/metadata-lege-101-2016",
         "Merge pull request #596 from auras172/codex/metadata-hg-856-2002",
         "Merge pull request #595 from auras172/codex/metadata-oug-92-2021",
         "Merge pull request #594 from auras172/codex/metadata-oug-57-2019",
@@ -952,6 +954,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 282
+    "infrastructure_changes": 283
   }
 }
