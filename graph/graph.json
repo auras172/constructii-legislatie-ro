@@ -374,6 +374,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-111-1996",
+      "label": "Legea 111/1996 — activități nucleare",
+      "type": "lege",
+      "domain": "calitate",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-114-1996",
       "label": "Legea 114/1996 a locuinței",
       "type": "lege",
@@ -3102,6 +3110,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-22",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872"
+    },
+    {
+      "source": "lege-111-1996",
+      "target": "lege-10-1995",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 35 menționează explicit Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.",
+      "source_article": "Art. 35",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-26",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198553"
     },
     {
       "source": "lege-121-2014",
@@ -8699,8 +8720,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 283,
-    "confirmed_edges": 549,
+    "total_nodes": 284,
+    "confirmed_edges": 550,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

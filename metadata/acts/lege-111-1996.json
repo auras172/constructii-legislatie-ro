@@ -1,0 +1,56 @@
+{
+  "title": "Legea nr. 111 din 10 octombrie 1996 (**republicată**) privind desfășurarea în siguranță, reglementarea, autorizarea și controlul activităților nucleare",
+  "short_title": "Legea 111/1996 — activități nucleare",
+  "canonical_citation": "Legea nr. 111/1996",
+  "type": "lege",
+  "number": "111",
+  "year": "1996",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "calitate",
+  "topics": [
+    "activitati-nucleare",
+    "securitate-nucleara",
+    "radioprotectie",
+    "autorizare",
+    "control-reglementar"
+  ],
+  "status": "unknown",
+  "issue_date": "1996-10-10",
+  "publication_date": "1996-10-29",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198553",
+  "official_source": "Portal Legislativ — forma republicată și consolidată a Legii nr. 111 din 10 octombrie 1996; publicarea inițială în M.Of. nr. 267 din 29 octombrie 1996 și republicarea curentă în M.Of. nr. 552 din 27 iunie 2006",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/198553",
+  "version_kind": "republicat",
+  "consolidated_as_of": "2024-06-17",
+  "last_checked": "2026-08-26",
+  "version": "Forma republicată în temeiul Legii nr. 63/2006 și consolidată de Portalul Legislativ; istoricul afișează consolidări până la 17.06.2024",
+  "article_count": 63,
+  "annex_count": 4,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma republicată și consolidată oficială. Legea a fost publicată inițial în M.Of. nr. 267/29.10.1996, republicată în M.Of. nr. 78/18.02.1998 și republicată din nou în temeiul art. II din Legea nr. 63/2006, în M.Of. nr. 552/27.06.2006. Forma auditată are 63 blocuri de articole, incluzând articolele 7^1, 39^1 și 42^1, și 4 anexe. Art. 59 prevede intrarea în vigoare la 60 de zile de la publicare, dar textul auditat este o republicare iar sursa nu permite atribuirea neambiguă a unei singure effective_date curente fără amestecarea formei inițiale cu republicarea; câmpul este omis. Statusul rămâne unknown deoarece Portalul nu declară explicit un status juridic curent. Singura relație locală confirmată este references către Legea nr. 10/1995, citată explicit în Art. 35; nu se adaugă relații către Legea nr. 307/2006, Legea nr. 319/2006, OUG nr. 195/2005 sau HG nr. 300/2006 fără citare nominală eligibilă. Actele modificatoare, inclusiv Legea nr. 234/2023 dacă este identificată în cercetări ulterioare, rămân separate.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-10-1995",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 35 menționează explicit Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.",
+      "source_article": "Art. 35",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198553",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-26"
+    }
+  ],
+  "tags": [
+    "lege",
+    "activitati-nucleare",
+    "securitate-nucleara",
+    "radioprotectie",
+    "autorizare",
+    "control-reglementar",
+    "forma-republicata",
+    "metadata-only"
+  ]
+}
