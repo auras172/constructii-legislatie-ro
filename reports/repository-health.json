@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T19:44:54.086Z",
+  "generated_at": "2026-08-26T20:22:01.493Z",
   "summary": {
-    "total_metadata_entries": 284,
+    "total_metadata_entries": 285,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 234,
-    "total_import_logs": 306,
+    "total_metadata_only_acts": 235,
+    "total_import_logs": 307,
     "total_relationship_links": 534,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -107,6 +107,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-1028-2013",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -2573,18 +2582,18 @@
       "executie": 36,
       "calitate": 115,
       "nzeb": 14,
+      "anre": 21,
       "mediu": 10,
       "munca": 3,
       "receptie": 5,
       "isc": 7,
       "incendiu": 16,
-      "anre": 20,
       "autorizatii": 11,
       "iscir": 16
     },
     "issuers": {
       "minister": 150,
-      "guvern": 59,
+      "guvern": 60,
       "parlament": 46,
       "other": 9,
       "autoritate": 20
@@ -2610,7 +2619,7 @@
       "2010": 23,
       "2011": 2,
       "2012": 7,
-      "2013": 7,
+      "2013": 8,
       "2014": 10,
       "2015": 3,
       "2016": 9,
@@ -2627,7 +2636,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 234,
+      "metadata-only": 235,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

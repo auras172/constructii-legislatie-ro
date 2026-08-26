@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 111/1996 nuclear activities law
 - feat(metadata): add Legea 101/2016 metadata
 - feat(metadata): add HG 856/2002 waste records
 - feat(metadata): add OUG 92/2021 waste regime
@@ -272,6 +273,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #598 from auras172/codex/metadata-lege-111-1996
 - Merge pull request #597 from auras172/codex/metadata-lege-101-2016
 - Merge pull request #596 from auras172/codex/metadata-hg-856-2002
 - Merge pull request #595 from auras172/codex/metadata-oug-92-2021

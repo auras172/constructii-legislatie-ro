@@ -94,6 +94,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-1028-2013",
+      "label": "HG 1028/2013 privind abrogarea HG 90/2008",
+      "type": "hotarare",
+      "domain": "anre",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-1076-2004",
       "label": "HG 1076/2004 — evaluarea de mediu pentru planuri și programe",
       "type": "hotarare",
@@ -8720,7 +8728,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 284,
+    "total_nodes": 285,
     "confirmed_edges": 550,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
