@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T20:22:01.493Z",
+  "generated_at": "2026-08-27T16:25:05.519Z",
   "summary": {
-    "total_metadata_entries": 285,
+    "total_metadata_entries": 286,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 235,
-    "total_import_logs": 307,
-    "total_relationship_links": 534,
+    "total_metadata_only_acts": 236,
+    "total_import_logs": 308,
+    "total_relationship_links": 535,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -133,6 +133,15 @@
       "metadata": true,
       "import_log": true,
       "official_markers": true,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-1340-2001",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
       "relationships": 1,
       "provenance": true
     },
@@ -2584,16 +2593,16 @@
       "nzeb": 14,
       "anre": 21,
       "mediu": 10,
+      "iscir": 17,
       "munca": 3,
       "receptie": 5,
       "isc": 7,
       "incendiu": 16,
-      "autorizatii": 11,
-      "iscir": 16
+      "autorizatii": 11
     },
     "issuers": {
       "minister": 150,
-      "guvern": 60,
+      "guvern": 61,
       "parlament": 46,
       "other": 9,
       "autoritate": 20
@@ -2607,7 +2616,7 @@
       "1998": 2,
       "1999": 2,
       "2000": 2,
-      "2001": 4,
+      "2001": 5,
       "2002": 4,
       "2003": 3,
       "2004": 4,
@@ -2636,7 +2645,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 235,
+      "metadata-only": 236,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-26T20:22:02.667Z",
+  "generated_at": "2026-08-27T16:25:06.747Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 1028/2013 metadata",
         "feat(metadata): add Legea 111/1996 nuclear activities law",
         "feat(metadata): add Legea 101/2016 metadata",
         "feat(metadata): add HG 856/2002 waste records",
@@ -270,6 +271,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #599 from auras172/codex/metadata-hg-1028-2013",
         "Merge pull request #598 from auras172/codex/metadata-lege-111-1996",
         "Merge pull request #597 from auras172/codex/metadata-lege-101-2016",
         "Merge pull request #596 from auras172/codex/metadata-hg-856-2002",
@@ -956,6 +958,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 284
+    "infrastructure_changes": 285
   }
 }

@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-26T20:22:01.493Z
+Generated: 2026-08-27T16:25:05.519Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 285 |
+| Total metadata entries | 286 |
 | Full-text acts | 50 |
-| Metadata-only acts | 235 |
-| Import log files | 307 |
-| Total relationship links | 534 |
+| Metadata-only acts | 236 |
+| Import log files | 308 |
+| Total relationship links | 535 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -32,6 +32,7 @@ Generated: 2026-08-26T20:22:01.493Z
 | hg-1028-2013 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | hg-1076-2004 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | hg-1236-2012 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
+| hg-1340-2001 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-1425-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-172-2024 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-203-2003 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
@@ -314,8 +315,8 @@ Generated: 2026-08-26T20:22:01.493Z
 | executie | 36 |
 | urbanism | 31 |
 | anre | 21 |
+| iscir | 17 |
 | incendiu | 16 |
-| iscir | 16 |
 | nzeb | 14 |
 | autorizatii | 11 |
 | mediu | 10 |
@@ -328,7 +329,7 @@ Generated: 2026-08-26T20:22:01.493Z
 | Value | Count |
 | --- | --- |
 | minister | 150 |
-| guvern | 60 |
+| guvern | 61 |
 | parlament | 46 |
 | autoritate | 20 |
 | other | 9 |
@@ -354,9 +355,9 @@ Generated: 2026-08-26T20:22:01.493Z
 | 2012 | 7 |
 | 2009 | 6 |
 | 1996 | 5 |
+| 2001 | 5 |
 | 2017 | 5 |
 | 2019 | 5 |
-| 2001 | 4 |
 | 2002 | 4 |
 | 2004 | 4 |
 | 2007 | 4 |
@@ -376,7 +377,7 @@ Generated: 2026-08-26T20:22:01.493Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 235 |
+| metadata-only | 236 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

@@ -118,6 +118,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-1340-2001",
+      "label": "HG 1.340/2001 — organizarea și funcționarea ISCIR",
+      "type": "hotarare",
+      "domain": "iscir",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-1425-2006",
       "label": "HG 1425/2006",
       "type": "hotarare",
@@ -2480,6 +2488,19 @@
       "reviewed_at": "2026-08-13",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193282",
       "notes": "Relația related_to este utilizată ca relație repo-locală confirmată deoarece citarea explicită provine din actul ulterior; nu se afirmă că HG 1236/2012 modifică sau implementează HG 668/2017."
+    },
+    {
+      "source": "hg-1340-2001",
+      "target": "lege-64-2008",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 1 alin. (1) menționează instalațiile și echipamentele prevăzute în anexele nr. 2-4 la Legea nr. 64/2008 privind funcționarea în condiții de siguranță a instalațiilor sub presiune, instalațiilor de ridicat și a aparatelor consumatoare de combustibil, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 1 alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-27",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217746"
     },
     {
       "source": "hg-1425-2006",
@@ -8728,8 +8749,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 285,
-    "confirmed_edges": 550,
+    "total_nodes": 286,
+    "confirmed_edges": 551,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
