@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 1340/2001 ISCIR organization
 - feat(metadata): add HG 1028/2013 metadata
 - feat(metadata): add Legea 111/1996 nuclear activities law
 - feat(metadata): add Legea 101/2016 metadata
@@ -236,6 +237,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: correct HG 1340 baseline metrics
 - docs: reconcile housekeeping snapshot and procedure
 - docs: refresh corpus status and act index
 - docs: reconcile repository snapshot and act index
@@ -274,6 +276,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #601 from auras172/codex/metadata-hg-1340-2001-v2
 - Merge pull request #599 from auras172/codex/metadata-hg-1028-2013
 - Merge pull request #598 from auras172/codex/metadata-lege-111-1996
 - Merge pull request #597 from auras172/codex/metadata-lege-101-2016
