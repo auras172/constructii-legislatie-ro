@@ -358,6 +358,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-925-2006",
+      "label": "HG 925/2006",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "repealed",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-932-2007",
       "label": "HG 932/2007",
       "type": "hotarare",
@@ -8749,7 +8757,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 286,
+    "total_nodes": 287,
     "confirmed_edges": 551,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0

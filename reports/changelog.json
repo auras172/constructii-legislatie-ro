@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-27T16:25:06.747Z",
+  "generated_at": "2026-08-27T19:34:19.602Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 1340/2001 ISCIR organization",
         "feat(metadata): add HG 1028/2013 metadata",
         "feat(metadata): add Legea 111/1996 nuclear activities law",
         "feat(metadata): add Legea 101/2016 metadata",
@@ -233,6 +234,7 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: correct HG 1340 baseline metrics",
         "docs: reconcile housekeeping snapshot and procedure",
         "docs: refresh corpus status and act index",
         "docs: reconcile repository snapshot and act index",
@@ -271,6 +273,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #601 from auras172/codex/metadata-hg-1340-2001-v2",
         "Merge pull request #599 from auras172/codex/metadata-hg-1028-2013",
         "Merge pull request #598 from auras172/codex/metadata-lege-111-1996",
         "Merge pull request #597 from auras172/codex/metadata-lege-101-2016",
@@ -958,6 +961,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 285
+    "infrastructure_changes": 286
   }
 }
