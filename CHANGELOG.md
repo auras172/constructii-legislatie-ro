@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 1660/2006 e-procurement norms
 - feat(metadata): add HG 925/2006 metadata
 - feat(metadata): add HG 1340/2001 ISCIR organization
 - feat(metadata): add HG 1028/2013 metadata
@@ -277,6 +278,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #603 from auras172/codex/metadata-hg-1660-2006
 - Merge pull request #602 from auras172/codex/metadata-hg-925-2006
 - Merge pull request #601 from auras172/codex/metadata-hg-1340-2001-v2
 - Merge pull request #599 from auras172/codex/metadata-hg-1028-2013
