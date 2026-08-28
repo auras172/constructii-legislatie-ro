@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-27T19:34:18.188Z",
+  "generated_at": "2026-08-28T19:07:54.783Z",
   "summary": {
-    "total_metadata_entries": 287,
+    "total_metadata_entries": 288,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 237,
-    "total_import_logs": 309,
-    "total_relationship_links": 535,
+    "total_metadata_only_acts": 238,
+    "total_import_logs": 310,
+    "total_relationship_links": 536,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -147,6 +147,15 @@
     },
     {
       "slug": "hg-1425-2006",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "hg-1660-2006",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -2596,7 +2605,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 32,
+      "urbanism": 33,
       "executie": 36,
       "calitate": 115,
       "nzeb": 14,
@@ -2611,7 +2620,7 @@
     },
     "issuers": {
       "minister": 150,
-      "guvern": 62,
+      "guvern": 63,
       "parlament": 46,
       "other": 9,
       "autoritate": 20
@@ -2630,7 +2639,7 @@
       "2003": 3,
       "2004": 4,
       "2005": 7,
-      "2006": 8,
+      "2006": 9,
       "2007": 4,
       "2008": 3,
       "2009": 6,
@@ -2654,7 +2663,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 237,
+      "metadata-only": 238,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
