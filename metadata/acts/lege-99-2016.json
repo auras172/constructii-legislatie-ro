@@ -1,0 +1,54 @@
+{
+  "title": "LEGE nr. 99 din 19 mai 2016 privind achizițiile sectoriale",
+  "short_title": "Legea 99/2016 privind achizițiile sectoriale",
+  "canonical_citation": "Legea nr. 99/2016",
+  "type": "lege",
+  "number": "99",
+  "year": "2016",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "achiziții-sectoriale",
+    "contracte-sectoriale",
+    "contracte-de-lucrări",
+    "utilități-publice"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-05-19",
+  "publication_date": "2016-05-23",
+  "effective_date": "2016-05-26",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178661",
+  "official_source": "Portal Legislativ — forma consolidată la 17.11.2024; publicată inițial în M.Of. nr. 391/23.05.2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/178661",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2024-11-17",
+  "last_checked": "2026-08-29",
+  "version": "Forma consolidată oficială din 17.11.2024, conform istoricului de consolidare afișat de Portalul Legislativ.",
+  "article_count": 264,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Textul legal și anexele nu sunt importate. Forma inițială are 257 de articole, iar forma consolidată auditată are 264 de articole distincte prin includerea articolelor cu indice. Data generală de intrare în vigoare, 26.05.2016, este calculată determinist din art. 257 alin. (1): publicarea din 23.05.2016 + 3 zile; art. 257 alin. (2) stabilește separat intrarea în vigoare a art. 208 alin. (2) la 18.10.2018. Statusul rămâne unknown deoarece Portalul oferă forma consolidată și istoricul, fără o etichetă juridică explicită de status curent. Art. 255 abrogă expres cap. VIII din OUG nr. 34/2006, dar abrogarea parțială este documentată fără edge deoarece schema nu suportă repeals/repealed_by.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-123-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 4 alin. (2) lit. b) citează explicit procedurile de autorizare prevăzute de Legea energiei electrice și a gazelor naturale nr. 123/2012.",
+      "source_article": "Art. 4 alin. (2) lit. b)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178661",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29"
+    }
+  ],
+  "tags": [
+    "lege",
+    "achiziții-sectoriale",
+    "contracte-sectoriale",
+    "contracte-de-lucrări",
+    "utilități-publice",
+    "metadata-only"
+  ]
+}

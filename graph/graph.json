@@ -750,6 +750,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-99-2016",
+      "label": "Legea 99/2016 privind achizițiile sectoriale",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "metodologie-mc001-2022",
       "label": "Mc 001-2022",
       "type": "normativ",
@@ -4110,6 +4118,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-08",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221908"
+    },
+    {
+      "source": "lege-99-2016",
+      "target": "lege-123-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 4 alin. (2) lit. b) citează explicit procedurile de autorizare prevăzute de Legea energiei electrice și a gazelor naturale nr. 123/2012.",
+      "source_article": "Art. 4 alin. (2) lit. b)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178661"
     },
     {
       "source": "metodologie-mc001-2022",
@@ -8812,8 +8833,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 289,
-    "confirmed_edges": 554,
+    "total_nodes": 290,
+    "confirmed_edges": 555,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
