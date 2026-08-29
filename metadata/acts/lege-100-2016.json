@@ -1,0 +1,40 @@
+{
+  "title": "LEGE nr. 100 din 19 mai 2016 privind concesiunile de lucrări și concesiunile de servicii",
+  "short_title": "Legea 100/2016 privind concesiunile de lucrări și servicii",
+  "canonical_citation": "Legea nr. 100/2016",
+  "type": "lege",
+  "number": "100",
+  "year": "2016",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "urbanism",
+  "topics": [
+    "concesiuni-de-lucrări",
+    "concesiuni-de-servicii",
+    "contracte-de-concesiune",
+    "lucrări-publice"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-05-19",
+  "publication_date": "2016-05-23",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290672",
+  "official_source": "Portal Legislativ — forma consolidată la 17.11.2024; publicată inițial în M.Of. nr. 392/23.05.2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/227289",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2024-11-17",
+  "last_checked": "2026-08-29",
+  "version": "Forma consolidată oficială din 17.11.2024, conform istoricului de consolidare afișat de Portalul Legislativ.",
+  "article_count": 120,
+  "annex_count": 3,
+  "import_method": "metadata-only",
+  "rights_note": "Textul legal și anexele nu sunt importate. Forma inițială are 118 articole, iar forma consolidată auditată are 120 de articole distincte prin includerea articolelor cu indice; ambele forme au 3 anexe. Legea nu conține o clauză globală explicită de intrare în vigoare, astfel că effective_date este omisă. Statusul rămâne unknown deoarece Portalul oferă forma consolidată și istoricul, fără o etichetă juridică explicită de status curent. Art. 117 abrogă Legea nr. 178/2010 și HG nr. 71/2007; aceste ținte sunt absente, iar schema nu suportă repeals/repealed_by, astfel că operațiunile sunt documentate fără edge inexact. OUG nr. 34/2006 apare numai în titlul complet al HG nr. 71/2007 și nu este modelată ca relație separată.",
+  "tags": [
+    "lege",
+    "concesiuni-de-lucrări",
+    "concesiuni-de-servicii",
+    "contracte-de-concesiune",
+    "lucrări-publice",
+    "metadata-only"
+  ]
+}
