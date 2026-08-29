@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-29T14:51:21.445Z",
+  "generated_at": "2026-08-29T17:30:47.562Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 866/2016 amendments",
         "feat(metadata): add HG 867/2016 concession norms",
         "feat(metadata): add Legea 100/2016 concessions",
         "feat(metadata): add HG 394/2016 sectoral procurement norms",
@@ -280,6 +281,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #611 from auras172/codex/metadata-hg-866-2016",
         "Merge pull request #610 from auras172/codex/metadata-hg-867-2016",
         "Merge pull request #609 from auras172/codex/metadata-lege-100-2016",
         "Merge pull request #608 from auras172/codex/metadata-hg-394-2016-v2",
@@ -977,6 +979,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 293
+    "infrastructure_changes": 294
   }
 }
