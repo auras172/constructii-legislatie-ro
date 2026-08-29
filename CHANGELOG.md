@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 99/2016 sectoral procurement
 - feat(metadata): add OUG 34/2006 public procurement framework
 - feat(metadata): add HG 1660/2006 e-procurement norms
 - feat(metadata): add HG 925/2006 metadata
@@ -279,6 +280,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #606 from auras172/codex/metadata-lege-99-2016
 - Merge pull request #605 from auras172/codex/metadata-oug-34-2006-v2
 - docs(import-log): correct OUG 34 baseline relationship count
 - Merge pull request #603 from auras172/codex/metadata-hg-1660-2006

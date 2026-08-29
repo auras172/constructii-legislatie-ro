@@ -1,0 +1,55 @@
+{
+  "title": "Hotărâre nr. 394 din 2 iunie 2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale",
+  "short_title": "HG 394/2016",
+  "canonical_citation": "HG nr. 394/2016",
+  "type": "hotarare",
+  "number": "394",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "achizitii-sectoriale",
+    "contracte-sectoriale",
+    "contracte-de-lucrari",
+    "norme-metodologice"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-06-02",
+  "publication_date": "2016-06-06",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201278",
+  "official_source": "Portal Legislativ — forma consolidată oficială; Hotărârea nr. 394/02.06.2016, publicată inițial în Monitorul Oficial nr. 422/06.06.2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/201278",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-29",
+  "version": "Forma consolidată afișată de Portal Legislativ la 29.08.2026; anexa cu normele metodologice face parte integrantă din hotărâre și nu este modelată ca nod separat",
+  "article_count": 1,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru forma consolidată oficială a HG nr. 394/2016. Portalul confirmă un singur articol (Articolul UNIC) și o anexă cu Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale; anexa rămâne parte integrantă a hotărârii și nu primește nod separat. Nu este identificată o clauză calendaristică explicită de intrare în vigoare, astfel effective_date este omisă. Portalul nu declară explicit un status juridic curent, astfel status rămâne unknown. Relația implements către Legea nr. 99/2016 este susținută de titlu, preambul și Articolul UNIC. Nu sunt importate modificatoare sau surse binare.",
+  "implements": [
+    "lege-99-2016"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-99-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Titlul și Articolul UNIC prevăd aprobarea normelor metodologice de aplicare a prevederilor din Legea nr. 99/2016 privind achizițiile sectoriale; preambulul invocă art. 254 din aceeași lege.",
+      "source_article": "Titlu; Preambul; Articolul UNIC",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201278",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29"
+    }
+  ],
+  "tags": [
+    "achizitii-sectoriale",
+    "contracte-sectoriale",
+    "contracte-de-lucrari",
+    "norme-metodologice",
+    "hotarare-guvern",
+    "metadata-only"
+  ]
+}
