@@ -350,6 +350,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-867-2016",
+      "label": "HG 867/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-90-2008",
       "label": "HG 90/2008",
       "type": "hotarare",
@@ -3077,6 +3085,20 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-05",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183997"
+    },
+    {
+      "source": "hg-867-2016",
+      "target": "lege-100-2016",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 115 din Legea nr. 100/2016, iar Articolul UNIC aprobă normele metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din aceeași lege, prevăzute în anexa integrantă.",
+      "source_article": "Preambul; Articolul UNIC",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266863",
+      "notes": "Ținta locală există în origin/main. Anexa cu normele metodologice nu primește nod separat. Actele ulterioare sau neimportate rămân documentate fără relații speculative."
     },
     {
       "source": "hg-90-2008",
@@ -8862,8 +8884,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 292,
-    "confirmed_edges": 556,
+    "total_nodes": 293,
+    "confirmed_edges": 557,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

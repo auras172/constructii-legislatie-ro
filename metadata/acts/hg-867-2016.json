@@ -1,0 +1,57 @@
+{
+  "title": "HOTĂRÂRE nr. 867 din 16 noiembrie 2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii",
+  "short_title": "HG 867/2016",
+  "canonical_citation": "HG nr. 867/2016",
+  "type": "hotarare",
+  "number": "867",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "concesiuni-de-lucrări",
+    "concesiuni-de-servicii",
+    "contracte-de-concesiune",
+    "norme-metodologice"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-11-16",
+  "publication_date": "2016-12-07",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G1725CK6FRAP3A3MU8L9OOUA5U1",
+  "official_source": "Portal Legislativ — forma consolidată oficială, cu ultima consolidare afișată la 19.04.2023; publicată inițial în Monitorul Oficial al României, Partea I, nr. 985 din 7 decembrie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/266863",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2023-04-19",
+  "last_checked": "2026-08-29",
+  "version": "Forma consolidată oficială afișată de Portalul Legislativ la 19.04.2023; anexa cu normele metodologice rămâne parte integrantă a hotărârii și nu este modelată ca nod separat",
+  "article_count": 1,
+  "annex_count": 1,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data emiterii și publicarea în M.Of. nr. 985/07.12.2016. Forma consolidată afișează istoricul consolidărilor din 18.06.2018 și 19.04.2023 și include o notă privind art. IV din HG nr. 336/2023; HG nr. 336/2023 rămâne act separat și nu este importată aici. Preambulul și Articolul UNIC citează explicit art. 115 din Legea nr. 100/2016 și aprobă normele metodologice prevăzute în anexa integrantă. Nu este identificată o clauză calendaristică explicită de intrare în vigoare, astfel effective_date este omisă. Portalul nu declară explicit un status juridic curent, astfel status rămâne unknown. Textul hotărârii și normele anexate nu sunt importate; nu se importă HG nr. 866/2016, HG nr. 485/2020 sau HG nr. 336/2023 și nu se creează noduri externe.",
+  "implements": [
+    "lege-100-2016"
+  ],
+  "relationships": [
+    {
+      "type": "implements",
+      "target": "lege-100-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul invocă art. 115 din Legea nr. 100/2016, iar Articolul UNIC aprobă normele metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din aceeași lege, prevăzute în anexa integrantă.",
+      "source_article": "Preambul; Articolul UNIC",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266863",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "notes": "Ținta locală există în origin/main. Anexa cu normele metodologice nu primește nod separat. Actele ulterioare sau neimportate rămân documentate fără relații speculative."
+    }
+  ],
+  "tags": [
+    "concesiuni-de-lucrări",
+    "concesiuni-de-servicii",
+    "contracte-de-concesiune",
+    "norme-metodologice",
+    "hotarare-guvern",
+    "metadata-only"
+  ]
+}
