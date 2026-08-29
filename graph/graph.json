@@ -206,6 +206,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-394-2016",
+      "label": "HG 394/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-395-2016",
       "label": "HG 395/2016",
       "type": "hotarare",
@@ -2771,6 +2779,19 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "notes": "Nu reprezintă o relație de amendare, implementare sau citare inversată."
+    },
+    {
+      "source": "hg-394-2016",
+      "target": "lege-99-2016",
+      "relationship": "implements",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Titlul și Articolul UNIC prevăd aprobarea normelor metodologice de aplicare a prevederilor din Legea nr. 99/2016 privind achizițiile sectoriale; preambulul invocă art. 254 din aceeași lege.",
+      "source_article": "Titlu; Preambul; Articolul UNIC",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201278"
     },
     {
       "source": "hg-395-2016",
@@ -8833,8 +8854,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 290,
-    "confirmed_edges": 555,
+    "total_nodes": 291,
+    "confirmed_edges": 556,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

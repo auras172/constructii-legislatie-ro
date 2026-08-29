@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-29T09:38:47.009Z",
+  "generated_at": "2026-08-29T11:02:18.628Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add Legea 99/2016 sectoral procurement",
         "feat(metadata): add OUG 34/2006 public procurement framework",
         "feat(metadata): add HG 1660/2006 e-procurement norms",
         "feat(metadata): add HG 925/2006 metadata",
@@ -276,6 +277,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #606 from auras172/codex/metadata-lege-99-2016",
         "Merge pull request #605 from auras172/codex/metadata-oug-34-2006-v2",
         "docs(import-log): correct OUG 34 baseline relationship count",
         "Merge pull request #603 from auras172/codex/metadata-hg-1660-2006",
@@ -968,6 +970,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 289
+    "infrastructure_changes": 290
   }
 }
