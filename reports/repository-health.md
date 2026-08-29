@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-28T19:07:54.783Z
+Generated: 2026-08-28T20:04:45.833Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 288 |
+| Total metadata entries | 289 |
 | Full-text acts | 50 |
-| Metadata-only acts | 238 |
-| Import log files | 310 |
-| Total relationship links | 536 |
+| Metadata-only acts | 239 |
+| Import log files | 311 |
+| Total relationship links | 537 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -63,7 +63,7 @@ Generated: 2026-08-28T19:07:54.783Z
 | hg-90-2008 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-907-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-925-1995 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| hg-925-2006 | ✗ | ✓ | ✓ | — | 0 | ✓ |
+| hg-925-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-932-2007 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 15 | ✓ |
 | lege-101-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
@@ -295,6 +295,7 @@ Generated: 2026-08-28T19:07:54.783Z
 | oug-21-2004 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | oug-26-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | oug-31-2025 | ✗ | ✓ | ✓ | — | 4 | ✓ |
+| oug-34-2006 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | oug-46-2015 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-49-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | oug-52-2023 | ✗ | ✓ | ✓ | — | 3 | ✓ |
@@ -315,7 +316,7 @@ Generated: 2026-08-28T19:07:54.783Z
 | --- | --- |
 | calitate | 115 |
 | executie | 36 |
-| urbanism | 33 |
+| urbanism | 34 |
 | anre | 21 |
 | iscir | 17 |
 | incendiu | 16 |
@@ -331,7 +332,7 @@ Generated: 2026-08-28T19:07:54.783Z
 | Value | Count |
 | --- | --- |
 | minister | 150 |
-| guvern | 63 |
+| guvern | 64 |
 | parlament | 46 |
 | autoritate | 20 |
 | other | 9 |
@@ -346,9 +347,9 @@ Generated: 2026-08-28T19:07:54.783Z
 | 2024 | 24 |
 | 2010 | 23 |
 | 2026 | 13 |
+| 2006 | 10 |
 | 2014 | 10 |
 | 2021 | 10 |
-| 2006 | 9 |
 | 2016 | 9 |
 | 2018 | 9 |
 | 2020 | 9 |
@@ -379,7 +380,7 @@ Generated: 2026-08-28T19:07:54.783Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 238 |
+| metadata-only | 239 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
