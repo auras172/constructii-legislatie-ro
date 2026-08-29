@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-29T13:41:15.161Z",
+  "generated_at": "2026-08-29T14:51:20.549Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 293,
+    "acts_total": 294,
     "acts_full_text": 50,
-    "acts_metadata_only": 243,
+    "acts_metadata_only": 244,
     "article_anchors_total": 2727,
-    "import_logs_total": 315,
+    "import_logs_total": 316,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 557,
+    "confirmed_relationships": 559,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -626,6 +626,19 @@
       "anchor_count": 3,
       "file": "legi/hg-862-2016.md",
       "metadata_file": "metadata/acts/hg-862-2016.json"
+    },
+    {
+      "slug": "hg-866-2016",
+      "title": "HOTĂRÂRE nr. 866 din 16 noiembrie 2016 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achiziţiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, precum şi pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziţie publică/acordului-cadru din Legea nr. 98/2016 privind achiziţiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016",
+      "short_title": "HG 866/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 2,
+      "anchor_count": 0,
+      "file": "legi/hg-866-2016.md",
+      "metadata_file": "metadata/acts/hg-866-2016.json"
     },
     {
       "slug": "hg-867-2016",

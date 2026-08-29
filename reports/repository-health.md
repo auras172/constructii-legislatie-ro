@@ -1,16 +1,16 @@
 # Repository Health Report
 
-Generated: 2026-08-29T13:41:15.021Z
+Generated: 2026-08-29T14:51:20.394Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 293 |
+| Total metadata entries | 294 |
 | Full-text acts | 50 |
-| Metadata-only acts | 243 |
-| Import log files | 315 |
-| Total relationship links | 540 |
+| Metadata-only acts | 244 |
+| Import log files | 316 |
+| Total relationship links | 543 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
 
@@ -43,7 +43,7 @@ Generated: 2026-08-29T13:41:15.021Z
 | hg-300-2006 | ✓ | ✓ | ✓ | ✓ | 3 | ✓ |
 | hg-343-2017 | ✓ | ✓ | ✓ | ✓ | 4 | ✓ |
 | hg-370-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| hg-394-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| hg-394-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-395-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-445-2009 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-477-2020 | ✗ | ✓ | ✓ | — | 4 | ✓ |
@@ -61,6 +61,7 @@ Generated: 2026-08-29T13:41:15.021Z
 | hg-856-2002 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | hg-856-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-862-2016 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
+| hg-866-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | hg-867-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | hg-90-2008 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | hg-907-2016 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -319,7 +320,7 @@ Generated: 2026-08-29T13:41:15.021Z
 | Value | Count |
 | --- | --- |
 | calitate | 115 |
-| urbanism | 38 |
+| urbanism | 39 |
 | executie | 36 |
 | anre | 21 |
 | iscir | 17 |
@@ -336,7 +337,7 @@ Generated: 2026-08-29T13:41:15.021Z
 | Value | Count |
 | --- | --- |
 | minister | 150 |
-| guvern | 66 |
+| guvern | 67 |
 | parlament | 48 |
 | autoritate | 20 |
 | other | 9 |
@@ -350,7 +351,7 @@ Generated: 2026-08-29T13:41:15.021Z
 | 2022 | 24 |
 | 2024 | 24 |
 | 2010 | 23 |
-| 2016 | 13 |
+| 2016 | 14 |
 | 2026 | 13 |
 | 2006 | 10 |
 | 2014 | 10 |
@@ -384,7 +385,7 @@ Generated: 2026-08-29T13:41:15.021Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 243 |
+| metadata-only | 244 |
 | full-text | 25 |
 | printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |

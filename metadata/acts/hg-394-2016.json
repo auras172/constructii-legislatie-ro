@@ -31,6 +31,9 @@
   "implements": [
     "lege-99-2016"
   ],
+  "amended_by": [
+    "hg-866-2016"
+  ],
   "relationships": [
     {
       "type": "implements",
