@@ -1,0 +1,71 @@
+{
+  "title": "HOTĂRÂRE nr. 866 din 16 noiembrie 2016 pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achiziţiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, precum şi pentru modificarea şi completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziţie publică/acordului-cadru din Legea nr. 98/2016 privind achiziţiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016",
+  "short_title": "HG 866/2016",
+  "canonical_citation": "HG nr. 866/2016",
+  "type": "hotarare",
+  "number": "866",
+  "year": "2016",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "achizitii-sectoriale",
+    "achizitii-publice",
+    "contracte-de-lucrari",
+    "norme-metodologice",
+    "modificare-legislativa"
+  ],
+  "status": "unknown",
+  "issue_date": "2016-11-16",
+  "publication_date": "2016-12-05",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G2D3V3M6R3RZNY3FTHLKNUMYXY9",
+  "official_source": "Portal Legislativ — forma consolidată oficială afișată pentru HG nr. 866/16.11.2016; publicată inițial în Monitorul Oficial al României, Partea I, nr. 972 din 5 decembrie 2016",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/184257",
+  "version_kind": "consolidat",
+  "last_checked": "2026-08-29",
+  "version": "Forma consolidată afișată de Portal Legislativ la 29.08.2026; recordul conține textul ordinului modificator, cu 2 articole și fără anexe, iar Portalul nu afișează o formă republicată distinctă",
+  "article_count": 2,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only pentru HG nr. 866/2016. Portalul Legislativ confirmă titlul, emitentul, data emiterii și publicarea în M.Of. nr. 972/05.12.2016. Forma oficială afișată este în containerul de formă consolidată, iar sursa verificată conține Articolul I și Articolul II, fără anexă. Articolul I prevede explicit că normele metodologice aprobate prin HG nr. 394/2016 se modifică și se completează, iar Articolul II prevede aceeași acțiune pentru normele aprobate prin HG nr. 395/2016. Portalul nu declară explicit statusul juridic curent și nu este identificată o clauză calendaristică distinctă de intrare în vigoare, astfel status rămâne unknown și effective_date este omisă. Textul hotărârii și normele metodologice modificate nu sunt importate ca full-text; nu se creează noduri pentru anexe sau pentru actele asociate neimportate.",
+  "amends": [
+    "hg-394-2016",
+    "hg-395-2016"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "hg-394-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016, aprobate prin Hotărârea Guvernului nr. 394/2016, se modifică şi se completează după cum urmează.",
+      "source_article": "Articolul I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184257",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "notes": "Ținta hg-394-2016 există în origin/main. Relația vizează normele aprobate prin HG 394/2016, în cadrul amendamentului explicit din Articolul I."
+    },
+    {
+      "type": "amends",
+      "target": "hg-395-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul II prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziţie publică/acordului-cadru din Legea nr. 98/2016, aprobate prin Hotărârea Guvernului nr. 395/2016, se modifică şi se completează după cum urmează.",
+      "source_article": "Articolul II",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184257",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "notes": "Ținta hg-395-2016 există în origin/main. Relația vizează normele aprobate prin HG 395/2016, în cadrul amendamentului explicit din Articolul II."
+    }
+  ],
+  "tags": [
+    "achizitii-sectoriale",
+    "achizitii-publice",
+    "contracte-de-lucrari",
+    "norme-metodologice",
+    "hotarare-guvern",
+    "modificare-legislativa",
+    "metadata-only"
+  ]
+}
