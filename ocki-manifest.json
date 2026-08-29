@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-29T12:45:19.269Z",
+  "generated_at": "2026-08-29T13:41:15.161Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 292,
+    "acts_total": 293,
     "acts_full_text": 50,
-    "acts_metadata_only": 242,
+    "acts_metadata_only": 243,
     "article_anchors_total": 2727,
-    "import_logs_total": 314,
+    "import_logs_total": 315,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 556,
+    "confirmed_relationships": 557,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -626,6 +626,19 @@
       "anchor_count": 3,
       "file": "legi/hg-862-2016.md",
       "metadata_file": "metadata/acts/hg-862-2016.json"
+    },
+    {
+      "slug": "hg-867-2016",
+      "title": "HOTĂRÂRE nr. 867 din 16 noiembrie 2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii",
+      "short_title": "HG 867/2016",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 1,
+      "anchor_count": 0,
+      "file": "legi/hg-867-2016.md",
+      "metadata_file": "metadata/acts/hg-867-2016.json"
     },
     {
       "slug": "hg-90-2008",

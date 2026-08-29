@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add Legea 100/2016 concessions
 - feat(metadata): add HG 394/2016 sectoral procurement norms
 - feat(metadata): add Legea 99/2016 sectoral procurement
 - feat(metadata): add OUG 34/2006 public procurement framework
@@ -281,6 +282,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #609 from auras172/codex/metadata-lege-100-2016
 - Merge pull request #608 from auras172/codex/metadata-hg-394-2016-v2
 - docs(import-log): correct HG 394 relationship counts
 - Merge pull request #606 from auras172/codex/metadata-lege-99-2016
