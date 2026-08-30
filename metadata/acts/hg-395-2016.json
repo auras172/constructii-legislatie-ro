@@ -29,7 +29,8 @@
   "import_method": "metadata-only",
   "amended_by": [
     "hg-866-2016",
-    "hg-485-2020"
+    "hg-485-2020",
+    "hg-336-2023"
   ],
   "rights_note": "Import metadata-only. Portal Legislativ rămâne sursa oficială. Normele metodologice aprobate prin art. 1 și prevăzute în anexă nu sunt create ca nod separat și nu sunt importate ca text. Nu se înregistrează o effective_date deoarece actul nu conține o clauză calendaristică explicită de intrare în vigoare.",
   "relationships": [

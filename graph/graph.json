@@ -190,6 +190,14 @@
       "import_method": "full-text"
     },
     {
+      "id": "hg-336-2023",
+      "label": "HG 336/2023",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-343-2017",
       "label": "HG 343/2017",
       "type": "hotarare",
@@ -2741,6 +2749,48 @@
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "source": "hg-336-2023",
+      "target": "hg-394-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016, aprobate prin Hotărârea Guvernului nr. 394/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267223",
+      "notes": "Ținta hg-394-2016 există în origin/main. Relația vizează normele aprobate prin HG 394/2016, în cadrul modificării explicite din Articolul I."
+    },
+    {
+      "source": "hg-336-2023",
+      "target": "hg-395-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul II prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, aprobate prin Hotărârea Guvernului nr. 395/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267223",
+      "notes": "Ținta hg-395-2016 există în origin/main. Relația vizează normele aprobate prin HG 395/2016, în cadrul modificării explicite din Articolul II."
+    },
+    {
+      "source": "hg-336-2023",
+      "target": "hg-867-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul III prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016, aprobate prin Hotărârea Guvernului nr. 867/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul III",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267223",
+      "notes": "Ținta hg-867-2016 există în origin/main. Relația vizează normele aprobate prin HG 867/2016, în cadrul modificării explicite din Articolul III."
     },
     {
       "source": "hg-343-2017",
@@ -8956,8 +9006,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 295,
-    "confirmed_edges": 561,
+    "total_nodes": 296,
+    "confirmed_edges": 564,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

@@ -32,6 +32,9 @@
   "implements": [
     "lege-100-2016"
   ],
+  "amended_by": [
+    "hg-336-2023"
+  ],
   "relationships": [
     {
       "type": "implements",

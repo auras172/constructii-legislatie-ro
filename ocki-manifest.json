@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-29T17:30:44.907Z",
+  "generated_at": "2026-08-30T10:43:16.214Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 295,
+    "acts_total": 296,
     "acts_full_text": 50,
-    "acts_metadata_only": 245,
+    "acts_metadata_only": 246,
     "article_anchors_total": 2727,
-    "import_logs_total": 317,
+    "import_logs_total": 318,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 561,
+    "confirmed_relationships": 564,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -366,6 +366,19 @@
       "anchor_count": 73,
       "file": "legi/hg-300-2006.md",
       "metadata_file": "metadata/acts/hg-300-2006.json"
+    },
+    {
+      "slug": "hg-336-2023",
+      "title": "HOTĂRÂRE nr. 336 din 12 aprilie 2023 pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016, precum și a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, aprobate prin Hotărârea Guvernului nr. 867/2016",
+      "short_title": "HG 336/2023",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 4,
+      "anchor_count": 0,
+      "file": "legi/hg-336-2023.md",
+      "metadata_file": "metadata/acts/hg-336-2023.json"
     },
     {
       "slug": "hg-343-2017",
