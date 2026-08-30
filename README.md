@@ -6,7 +6,7 @@
 [![Site build](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/site-build.yml/badge.svg)](https://github.com/auras172/constructii-legislatie-ro/actions/workflows/site-build.yml)
 [![License](https://img.shields.io/badge/license-MIT-2ea44f.svg)](./LICENSE)
 
-[Index legislație](./INDEX.md) · [Manifest OCKI](./ocki-manifest.json) · [Roadmap](./ROADMAP.md) · [Contribuie](./CONTRIBUTING.md) · [Issues](https://github.com/auras172/constructii-legislatie-ro/issues)
+[Index legislație](./INDEX.md) · [Inventar complet](./docs/act-inventory.md) · [Manifest OCKI](./ocki-manifest.json) · [Roadmap](./ROADMAP.md) · [Contribuie](./CONTRIBUTING.md) · [Issues](https://github.com/auras172/constructii-legislatie-ro/issues)
 
 `constructii-legislatie-ro` is a provenance-first knowledge repository for Romanian construction-related legislation, technical norms, metadata, relationships, citations, and validation artifacts. It is designed to be readable by humans, reviewable through Git, and usable by search systems, RAG pipelines, and AI agents without treating generated output as legal authority.
 
@@ -15,7 +15,7 @@ See [INDEX.md](./INDEX.md) for the current legislation status matrix. Internatio
 <!-- Generated from reports/repository-health.json — update after running scripts/repository-health-report.mjs -->
 | Acts | Full-text | Metadata-only | Health | License | OCKI |
 |------|-----------|---------------|--------|---------|------|
-| [276](./INDEX.md) | 50 | 226 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
+| [296](./INDEX.md) | 50 | 246 | [100/100](./reports/repository-health.md) | [MIT](./ocki-manifest.json) | [v1](./ocki-manifest.json) |
 
 > Snapshot generated from the repository health report. Counts change as reviewed imports are merged.
 
@@ -29,7 +29,7 @@ This project turns that scattered material into a **reviewable, source-backed an
 
 | Need | Start here |
 |------|------------|
-| Browse the current corpus | [INDEX.md](./INDEX.md) |
+| Browse the current corpus | [INDEX.md](./INDEX.md) and [complete act inventory](./docs/act-inventory.md) |
 | Read an act | [legi/](./legi/) |
 | Query structured metadata | [metadata/acts/](./metadata/acts/) |
 | Follow relationships | [graph/graph.json](./graph/graph.json) |
@@ -149,7 +149,7 @@ Relationship fields and generated cross-reference artifacts help identify how ac
 
 ### Knowledge graph
 
-- `graph/graph.json` — node/edge graph (276 acts, 526 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
+- `graph/graph.json` — node/edge graph (296 acts, 564 confirmed relationships, 0 needs_review); `confirmed` edges are sourced from reviewed metadata. Auto-detected references remain separate from confirmed graph edges.
 - `graph/graph.mmd` — Mermaid diagram; `-->` confirmed, `-.->` needs\_review
 - Regenerate: `node scripts/generate-graph.mjs`
 - Specification: [docs/knowledge-graph-specification.md](./docs/knowledge-graph-specification.md)
@@ -169,7 +169,7 @@ A small static website under [site/](./site/) makes the repository easier to bro
 
 ### Wiki and Discussions
 
-The repository's canonical workflow is documented in [docs/housekeeping-procedure.md](./docs/housekeeping-procedure.md). The public GitHub Wiki is not currently enabled for this repository, so operational instructions must remain versioned in Git. Discussions and the Project board are coordination surfaces; canonical corpus state remains in `origin/main`, `ocki-manifest.json`, and `reports/repository-health.json`.
+The repository's canonical workflow is documented in [docs/housekeeping-procedure.md](./docs/housekeeping-procedure.md). The public GitHub Wiki is enabled and maintained as an orientation layer; versioned Git documentation remains canonical. Discussions and the Project board are coordination surfaces; canonical corpus state remains in `origin/main`, `ocki-manifest.json`, and `reports/repository-health.json`.
 
 ### Pull Requests
 

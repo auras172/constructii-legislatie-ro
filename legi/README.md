@@ -4,6 +4,10 @@ Index for construction-related Romanian legal acts tracked in this repository.
 
 Each act starts as a metadata-only entry. Official text is imported only after source verification and with a provenance record in `import-log/`.
 
+## Current reconciled inventory
+
+The complete current inventory is generated from all `metadata/acts/*.json` files in [`docs/act-inventory.md`](../docs/act-inventory.md). This page remains the annotated navigation list; the JSON metadata, manifest, health report and official source links are authoritative for current counts and fields.
+
 ## Initial candidate list
 
 - [Legea 50/1991](./lege-50-1991.md)
