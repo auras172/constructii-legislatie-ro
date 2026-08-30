@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:20:41.205Z",
+  "generated_at": "2026-08-30T23:30:47.093Z",
   "months": [
     {
       "month": "2026-08",
@@ -295,6 +295,8 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #621 from auras172/codex/full-text-lege-107-1996",
+        "feat(full-text): upgrade Legea apelor 107/1996",
         "Merge pull request #620 from auras172/codex/full-text-lege-7-1996",
         "feat(fulltext): upgrade Legea 7/1996 to official text",
         "Merge pull request #619 from auras172/codex/full-text-lege-287-2009",
