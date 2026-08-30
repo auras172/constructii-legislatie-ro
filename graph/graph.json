@@ -238,6 +238,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-485-2020",
+      "label": "HG 485/2020",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-492-2018",
       "label": "HG 492/2018",
       "type": "hotarare",
@@ -2899,6 +2907,34 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
       "notes": "Index reciproc pentru navigare și health; relația juridică exactă este references pe actul citator și nu este inversată ca references."
+    },
+    {
+      "source": "hg-485-2020",
+      "target": "hg-394-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016, aprobate prin Hotărârea Guvernului nr. 394/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227416",
+      "notes": "Ținta hg-394-2016 există în origin/main. Relația vizează normele aprobate prin HG 394/2016, în cadrul amendamentului explicit din Articolul I."
+    },
+    {
+      "source": "hg-485-2020",
+      "target": "hg-395-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul II prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, aprobate prin Hotărârea Guvernului nr. 395/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul II",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-29",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227416",
+      "notes": "Ținta hg-395-2016 există în origin/main. Relația vizează normele aprobate prin HG 395/2016, în cadrul amendamentului explicit din Articolul II."
     },
     {
       "source": "hg-492-2018",
@@ -8920,8 +8956,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 294,
-    "confirmed_edges": 559,
+    "total_nodes": 295,
+    "confirmed_edges": 561,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
