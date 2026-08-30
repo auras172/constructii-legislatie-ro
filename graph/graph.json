@@ -459,7 +459,7 @@
       "type": "lege",
       "domain": "mediu",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "lege-111-1996",

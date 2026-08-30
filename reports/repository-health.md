@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-30T20:25:08.814Z
+Generated: 2026-08-30T22:20:40.184Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 298 |
-| Full-text acts | 52 |
-| Metadata-only acts | 246 |
-| Import log files | 321 |
+| Full-text acts | 53 |
+| Metadata-only acts | 245 |
+| Import log files | 322 |
 | Total relationship links | 559 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -74,7 +74,7 @@ Generated: 2026-08-30T20:25:08.814Z
 | lege-10-1995 | ✓ | ✓ | ✓ | ✓ | 15 | ✓ |
 | lege-100-2016 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-101-2016 | ✗ | ✓ | ✓ | — | 1 | ✓ |
-| lege-107-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| lege-107-1996 | ✓ | ✓ | ✓ | ✓ | 1 | ✓ |
 | lege-111-1996 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | lege-114-1996 | ✗ | ✓ | ✓ | — | 0 | ✓ |
 | lege-121-2014 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -389,8 +389,8 @@ Generated: 2026-08-30T20:25:08.814Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 246 |
-| full-text | 25 |
+| metadata-only | 245 |
+| full-text | 26 |
 | printable HTML → Markdown | 7 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |

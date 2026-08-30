@@ -294,6 +294,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #620 from auras172/codex/full-text-lege-7-1996
+- feat(fulltext): upgrade Legea 7/1996 to official text
 - Merge pull request #619 from auras172/codex/full-text-lege-287-2009
 - Merge pull request #617 from auras172/codex/housekeeping-post-hg419-2026-08-30
 - Merge pull request #616 from auras172/codex/housekeeping-2026-08-30-v2

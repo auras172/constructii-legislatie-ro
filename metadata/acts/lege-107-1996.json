@@ -23,12 +23,12 @@
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/284872",
   "version_kind": "consolidat",
   "consolidated_as_of": "2026-07-23",
-  "last_checked": "2026-08-22",
+  "last_checked": "2026-08-31",
   "version": "forma consolidată afișată de Portal la 23 iulie 2026; publicată inițial în M.Of. nr. 244 din 8 octombrie 1996",
   "article_count": 112,
   "annex_count": 11,
-  "import_method": "metadata-only",
-  "rights_note": "Portalul Legislativ confirmă identitatea, emitentul și publicarea inițială. Forma consolidată și forma printabilă au fost verificate la 2026-08-22. Cererea HTTP fără User-Agent a primit 403; cererea cu User-Agent de browser a primit 200. Detail: 1990381 bytes, SHA-256 5c5b19967c0e5a2c409343c024c80207f458b3523f94114558aac8b7f177fbc0. Printable: 1960456 bytes, SHA-256 0145add1c32786d4488e9b1fc49147a348cfcc626343e4a779b52e1d2659e4a6. Forma consolidată afișează 112 articole și 11 anexe. Nu este declarată explicit o singură dată calendaristică de intrare în vigoare pentru legea în ansamblu, astfel că effective_date este omisă. Textul juridic integral și anexele nu sunt importate.",
+  "import_method": "full-text",
+  "rights_note": "Textul oficial integral este reprodus din forma printabilă consolidată a Portalului Legislativ pentru referință; sursa oficială rămâne autoritară. Auditul final din 2026-08-30 a confirmat HTTP 200 și Content-Type text/html; charset=utf-8 pentru detail și forma printabilă. Detail: 1990381 bytes, SHA-256 710b52ec21077dce8bd4cc03e7d8679ea237dc24d9c78541a8a83a040c443301. Printable: 1960456 bytes, SHA-256 0145add1c32786d4488e9b1fc49147a348cfcc626343e4a779b52e1d2659e4a6. Portalul HTML este dinamic, astfel că hashurile brute pot varia între retrieval-uri. Forma consolidată afișează 112 articole numerotate în 153 blocuri structurale, inclusiv articole inserate, și 11 anexe; toate sunt incluse în textul Markdown. Nu au fost importate PDF-uri, DOCX-uri, OCR, capturi sau alte binare.",
   "relationships": [
     {
       "type": "references",
