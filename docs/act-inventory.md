@@ -1,8 +1,8 @@
 # Inventar complet al actelor
 
-Snapshot reconciliat la `origin/main@ae0f7ec97597fd4d5a696e59ac05356569227511` (2026-08-30). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
+Snapshot reconciliat la `origin/main@5b0ce6835b91650d186450897dae30af2e1f05f0` plus actul importat în această ramură (2026-08-30). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
 
-**Rezumat:** 297 acte · 50 full-text · 247 metadata-only · 567 relații confirmate · health 100/100.
+**Rezumat:** 298 acte · 51 full-text · 247 metadata-only · 567 relații confirmate · health 100/100.
 
 | Slug | Act | Domeniu | Tip | Status | Effective date | Import | Sursă |
 |---|---|---|---|---|---|---|---|
@@ -89,6 +89,7 @@ Snapshot reconciliat la `origin/main@ae0f7ec97597fd4d5a696e59ac05356569227511` (
 | `lege-255-2010` | Legea 255/2010 | urbanism | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/306814>) |
 | `lege-256-2018` | Legea 256/2018 privind operațiunile petroliere offshore și onshore de adâncime | executie | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/262014>) |
 | `lege-265-2006` | Legea 265/2006 | mediu | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocumentAfis/73220>) |
+| `lege-287-2009` | Legea 287/2009 — Codul civil | urbanism | lege | active | 2011-10-01 | full-text | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/109883>) |
 | `lege-292-2018` | Legea 292/2018 | mediu | lege | active | — | full-text | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/307732>) |
 | `lege-307-2006` | Legea 307/2006 | incendiu | lege | active | — | full-text | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/309352>) |
 | `lege-319-2006` | Legea 319/2006 | munca | lege | active | — | full-text | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/244539>) |

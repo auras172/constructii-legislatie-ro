@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-08-30T12:26:44.905Z
+Generated: 2026-08-30T18:17:26.749Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Total metadata entries | 297 |
-| Full-text acts | 50 |
+| Total metadata entries | 298 |
+| Full-text acts | 51 |
 | Metadata-only acts | 247 |
-| Import log files | 319 |
+| Import log files | 320 |
 | Total relationship links | 559 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -101,6 +101,7 @@ Generated: 2026-08-30T12:26:44.905Z
 | lege-255-2010 | ✗ | ✓ | ✓ | — | 5 | ✓ |
 | lege-256-2018 | ✗ | ✓ | ✓ | — | 3 | ✓ |
 | lege-265-2006 | ✗ | ✓ | ✓ | — | 1 | ✓ |
+| lege-287-2009 | ✓ | ✓ | ✓ | ✓ | 0 | ✓ |
 | lege-292-2018 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | lege-307-2006 | ✓ | ✓ | ✓ | ✓ | 6 | ✓ |
 | lege-319-2006 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
@@ -323,7 +324,7 @@ Generated: 2026-08-30T12:26:44.905Z
 | Value | Count |
 | --- | --- |
 | calitate | 115 |
-| urbanism | 42 |
+| urbanism | 43 |
 | executie | 36 |
 | anre | 21 |
 | iscir | 17 |
@@ -341,7 +342,7 @@ Generated: 2026-08-30T12:26:44.905Z
 | --- | --- |
 | minister | 150 |
 | guvern | 70 |
-| parlament | 48 |
+| parlament | 49 |
 | autoritate | 20 |
 | other | 9 |
 
@@ -363,8 +364,8 @@ Generated: 2026-08-30T12:26:44.905Z
 | 2021 | 10 |
 | 2013 | 8 |
 | 2005 | 7 |
+| 2009 | 7 |
 | 2012 | 7 |
-| 2009 | 6 |
 | 1996 | 5 |
 | 2001 | 5 |
 | 2017 | 5 |
@@ -399,6 +400,7 @@ Generated: 2026-08-30T12:26:44.905Z
 | Portal Legislativ forma printabilă consolidată → extracție HTML structurală mecanică → Markdown cu headings și ancore stabile | 1 |
 | Portal Legislativ forma printabila → text extract via curl → Markdown | 1 |
 | Monitorul Oficial nr. 661/10.08.2026 → PDF text extraction → Markdown with stable article anchors | 1 |
+| full official text HTML (Portal record 309285) -> Markdown; mechanically converted | 1 |
 | Portal Legislativ forma printabilă consolidată 2026 → text extract via Python HTML parser → Markdown | 1 |
 | Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabilă → extracție HTML structurală mecanică → Markdown cu tabele HTML și referințe de imagini oficiale | 1 |

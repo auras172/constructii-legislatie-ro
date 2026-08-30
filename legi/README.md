@@ -61,6 +61,11 @@ The complete current inventory is generated from all `metadata/acts/*.json` file
   - Official source checked: Portal Legislativ (`/Public/DetaliiDocument/307036`)
   - Status: active · full official consolidated text reconciled 2026-07-17 · consolidated 25.02.2026 · 68 articles · 2 annexe
   - Import log: [import-log/2026-06-27-lege-350-2001.md](../import-log/2026-06-27-lege-350-2001.md)
+- [Codul civil — Legea 287/2009](./lege-287-2009.md)
+  - Domain: urbanism · Topics: imobile, proprietate, superficie, accesiune, servituți, antrepriză și garanții
+  - Official source checked: [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/109883) · full text from record 309285
+  - Status: active · full official consolidated text imported 2026-08-30 · 2.674 articles · 0 annexes · effective date 01.10.2011
+  - Import log: [import-log/2026-08-30-lege-287-2009.md](../import-log/2026-08-30-lege-287-2009.md)
 - [Legea 169/2026 — Codul amenajării teritoriului, urbanismului și construcțiilor](./lege-169-2026.md)
   - Domain: urbanism · full-text importat
   - Official source checked: [Monitorul Oficial nr. 661/10.08.2026](https://monitoruloficial.ro/Monitorul-Oficial--PI--661--2026.html)

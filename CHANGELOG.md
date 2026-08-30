@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 419/2018 amendments
 - feat(metadata): add HG 336/2023 amendments
 - feat(metadata): add HG 485/2020 amendments
 - feat(metadata): add HG 866/2016 amendments
@@ -247,6 +248,10 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: complete INDEX.md legislation inventory
+- docs: complete legislation index inventory
+- docs: reconcile snapshot after HG 419 merge
+- docs: reconcile corpus housekeeping snapshot
 - docs: correct HG 1340 baseline metrics
 - docs: reconcile housekeeping snapshot and procedure
 - docs: refresh corpus status and act index
@@ -286,6 +291,9 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #617 from auras172/codex/housekeeping-post-hg419-2026-08-30
+- Merge pull request #616 from auras172/codex/housekeeping-2026-08-30-v2
+- Merge pull request #614 from auras172/codex/metadata-hg-419-2018
 - Merge pull request #613 from auras172/codex/metadata-hg-336-2023
 - Merge pull request #612 from auras172/codex/metadata-hg-485-2020
 - Merge pull request #611 from auras172/codex/metadata-hg-866-2016
