@@ -670,6 +670,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-287-2009",
+      "label": "Codul civil",
+      "type": "lege",
+      "domain": "urbanism",
+      "status": "active",
+      "import_method": "full-text"
+    },
+    {
       "id": "lege-292-2018",
       "label": "Legea 292/2018",
       "type": "lege",
@@ -9056,7 +9064,7 @@
     }
   ],
   "stats": {
-    "total_nodes": 297,
+    "total_nodes": 298,
     "confirmed_edges": 567,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0

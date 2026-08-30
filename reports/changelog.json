@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-30T12:26:47.108Z",
+  "generated_at": "2026-08-30T18:17:27.462Z",
   "months": [
     {
       "month": "2026-08",
       "label": "August 2026",
       "legislation_added": [],
       "infrastructure": [
+        "feat(metadata): add HG 419/2018 amendments",
         "feat(metadata): add HG 336/2023 amendments",
         "feat(metadata): add HG 485/2020 amendments",
         "feat(metadata): add HG 866/2016 amendments",
@@ -244,6 +245,10 @@
         "feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)"
       ],
       "documentation": [
+        "docs: complete INDEX.md legislation inventory",
+        "docs: complete legislation index inventory",
+        "docs: reconcile snapshot after HG 419 merge",
+        "docs: reconcile corpus housekeeping snapshot",
         "docs: correct HG 1340 baseline metrics",
         "docs: reconcile housekeeping snapshot and procedure",
         "docs: refresh corpus status and act index",
@@ -283,6 +288,9 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "Merge pull request #617 from auras172/codex/housekeeping-post-hg419-2026-08-30",
+        "Merge pull request #616 from auras172/codex/housekeeping-2026-08-30-v2",
+        "Merge pull request #614 from auras172/codex/metadata-hg-419-2018",
         "Merge pull request #613 from auras172/codex/metadata-hg-336-2023",
         "Merge pull request #612 from auras172/codex/metadata-hg-485-2020",
         "Merge pull request #611 from auras172/codex/metadata-hg-866-2016",
@@ -983,6 +991,6 @@
     "legislation_added": 20,
     "full_text": 15,
     "metadata_only": 5,
-    "infrastructure_changes": 296
+    "infrastructure_changes": 297
   }
 }

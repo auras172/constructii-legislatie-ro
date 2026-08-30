@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T12:26:44.905Z",
+  "generated_at": "2026-08-30T18:17:26.749Z",
   "summary": {
-    "total_metadata_entries": 297,
-    "total_full_text_acts": 50,
+    "total_metadata_entries": 298,
+    "total_full_text_acts": 51,
     "total_metadata_only_acts": 247,
-    "total_import_logs": 319,
+    "total_import_logs": 320,
     "total_relationship_links": 559,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
@@ -755,6 +755,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 1,
+      "provenance": true
+    },
+    {
+      "slug": "lege-287-2009",
+      "full_text": true,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": true,
+      "relationships": 0,
       "provenance": true
     },
     {
@@ -2686,7 +2695,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 42,
+      "urbanism": 43,
       "executie": 36,
       "calitate": 115,
       "nzeb": 14,
@@ -2702,7 +2711,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 70,
-      "parlament": 48,
+      "parlament": 49,
       "other": 9,
       "autoritate": 20
     },
@@ -2723,7 +2732,7 @@
       "2006": 10,
       "2007": 4,
       "2008": 3,
-      "2009": 6,
+      "2009": 7,
       "2010": 23,
       "2011": 2,
       "2012": 7,
@@ -2753,6 +2762,7 @@
       "Portal Legislativ forma printabilă consolidată → extracție HTML structurală mecanică → Markdown cu headings și ancore stabile": 1,
       "Portal Legislativ forma printabila → text extract via curl → Markdown": 1,
       "Monitorul Oficial nr. 661/10.08.2026 → PDF text extraction → Markdown with stable article anchors": 1,
+      "full official text HTML (Portal record 309285) -> Markdown; mechanically converted": 1,
       "Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 4,
       "Portal Legislativ forma printabilă consolidată 2026 → text extract via Python HTML parser → Markdown": 1,
       "Portal Legislativ forma printabila (LEGE R) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
