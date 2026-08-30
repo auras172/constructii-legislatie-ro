@@ -80,4 +80,4 @@ Oprește-te și raportează `HOLD` dacă există duplicate, surse insuficiente, 
 
 ## Snapshot housekeeping 2026-08-30
 
-La reconcilierea verificată în `origin/main@66c768ab5a3b788baa5347a6e23cfbf410c42022`, repository-ul conține 296 acte, 50 full-text, 246 metadata-only, 296 noduri și 564 relații confirmate; health 100/100, 0 warnings și 0 `needs_review`. `reports/repository-health.json` raportează separat 553 relationship links; această diferență față de graful confirmat trebuie păstrată explicită. Snapshotul este informativ și trebuie recalculat după fiecare merge.
+La reconcilierea verificată în `origin/main@ae0f7ec97597fd4d5a696e59ac05356569227511`, repository-ul conține 297 acte, 50 full-text, 247 metadata-only, 297 noduri și 567 relații confirmate; health 100/100, 0 warnings și 0 `needs_review`. `reports/repository-health.json` raportează separat 559 relationship links; această diferență față de graful confirmat trebuie păstrată explicită. Snapshotul este informativ și trebuie recalculat după fiecare merge.
