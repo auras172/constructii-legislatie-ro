@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-30T18:17:26.845Z",
+  "generated_at": "2026-08-30T20:25:09.263Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 298,
-    "acts_full_text": 51,
-    "acts_metadata_only": 247,
-    "article_anchors_total": 5401,
-    "import_logs_total": 320,
+    "acts_full_text": 52,
+    "acts_metadata_only": 246,
+    "article_anchors_total": 5457,
+    "import_logs_total": 321,
     "domains": [
       "anre",
       "autorizatii",
@@ -1349,9 +1349,9 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only",
-      "article_count": 72,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 56,
+      "anchor_count": 56,
       "file": "legi/lege-7-1996.md",
       "metadata_file": "metadata/acts/lege-7-1996.json"
     },
