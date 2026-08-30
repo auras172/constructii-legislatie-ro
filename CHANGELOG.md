@@ -8,6 +8,9 @@ All notable changes to constructii-legislatie-ro.
 
 ## August 2026
 
+### Legislation
+- ✅ Codul civil — urbanism `[full-text]`
+
 ### Infrastructure
 - feat(metadata): add HG 419/2018 amendments
 - feat(metadata): add HG 336/2023 amendments
@@ -291,6 +294,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #619 from auras172/codex/full-text-lege-287-2009
 - Merge pull request #617 from auras172/codex/housekeeping-post-hg419-2026-08-30
 - Merge pull request #616 from auras172/codex/housekeeping-2026-08-30-v2
 - Merge pull request #614 from auras172/codex/metadata-hg-419-2018
