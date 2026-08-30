@@ -230,6 +230,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "hg-419-2018",
+      "label": "HG 419/2018",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "hg-445-2009",
       "label": "HG 445/2009 — evaluarea impactului asupra mediului",
       "type": "hotarare",
@@ -2888,6 +2896,48 @@
       "reviewed_at": "2026-08-15",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201280",
       "notes": "Relația este references; nu este models ca implements, amends sau approves. Normele rămân anexă a HG și nu primesc nod separat."
+    },
+    {
+      "source": "hg-419-2018",
+      "target": "hg-394-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul IV",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 394/2016."
+    },
+    {
+      "source": "hg-419-2018",
+      "target": "hg-395-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul V",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 395/2016."
+    },
+    {
+      "source": "hg-419-2018",
+      "target": "hg-867-2016",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VI prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, aprobate prin Hotărârea Guvernului nr. 867/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul VI",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 867/2016."
     },
     {
       "source": "hg-445-2009",
@@ -9006,8 +9056,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 296,
-    "confirmed_edges": 564,
+    "total_nodes": 297,
+    "confirmed_edges": 567,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

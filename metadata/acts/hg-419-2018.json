@@ -1,0 +1,87 @@
+{
+  "title": "HOTĂRÂRE nr. 419 din 8 iunie 2018 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, pentru modificarea Hotărârii Guvernului nr. 34/2009 privind organizarea și funcționarea Ministerului Finanțelor Publice, pentru modificarea Hotărârii Guvernului nr. 634/2015 privind organizarea și funcționarea Agenției Naționale pentru Achiziții Publice, precum și pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016 și a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, aprobate prin Hotărârea Guvernului nr. 867/2016",
+  "short_title": "HG 419/2018",
+  "canonical_citation": "HG nr. 419/2018",
+  "type": "hotarare",
+  "number": "419",
+  "year": "2018",
+  "issuer": "Guvernul României",
+  "issuing_body_kind": "guvern",
+  "domain": "urbanism",
+  "topics": [
+    "achizitii-sectoriale",
+    "achizitii-publice",
+    "concesiuni",
+    "control-ex-ante",
+    "norme-metodologice",
+    "modificare-legislativa"
+  ],
+  "status": "unknown",
+  "issue_date": "2018-06-08",
+  "publication_date": "2018-06-18",
+  "publication_medium": "monitorul-oficial",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3D7RX7GEONVPG2589ZP6YEAAYN",
+  "official_source": "Portal Legislativ - forma printabilă oficială a HG nr. 419/08.06.2018, publicată inițial în M.Of. nr. 496 din 18 iunie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2023-12-29",
+  "last_checked": "2026-08-30",
+  "version": "Forma consolidată afișată de Portal Legislativ la 29.12.2023; forma de bază este recordul 201548; nu este afișată o formă republicată distinctă. Actul are 8 articole și 2 anexe.",
+  "article_count": 8,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Portalul confirmă identitatea, emitentul, data emiterii și publicarea inițială în M.Of. nr. 496 din 18 iunie 2018 pe forma printabilă și pe recordul de bază; recordul curent 216268 afișează forma consolidată la 29.12.2023 și indică recordul de bază 201548. Auditul HTTP direct al celor trei URL-uri a returnat 200 cu Content-Type text/html; revalidarea cu User-Agent a returnat același conținut pentru forma printabilă și aceeași dimensiune pentru paginile detail. Hashurile dinamice ale paginilor detail pot varia între recuperări. Statusul rămâne unknown deoarece Portalul nu declară explicit status juridic curent. Effective_date este omisă: art. VII și art. VIII folosesc formula relativă «la data intrării în vigoare», fără o dată calendaristică imprimată în act. Art. VIII enumeră abrogări, dar acestea nu sunt modelate deoarece schema repository-ului nu suportă repeals/repealed_by și nu sunt remapate ca alte relații. Anexele rămân parte a hotărârii și nu sunt noduri separate. Nu a fost importat text integral sau vreun binar.",
+  "amends": [
+    "hg-394-2016",
+    "hg-395-2016",
+    "hg-867-2016"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "hg-394-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul IV prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul IV",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 394/2016."
+    },
+    {
+      "type": "amends",
+      "target": "hg-395-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul V prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul V",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 395/2016."
+    },
+    {
+      "type": "amends",
+      "target": "hg-867-2016",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul VI prevede că Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, aprobate prin Hotărârea Guvernului nr. 867/2016, se modifică și se completează după cum urmează.",
+      "source_article": "Articolul VI",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216268",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-30",
+      "notes": "Ținta există în origin/main; relația privește normele metodologice aprobate prin HG 867/2016."
+    }
+  ],
+  "tags": [
+    "achizitii-sectoriale",
+    "achizitii-publice",
+    "concesiuni",
+    "control-ex-ante",
+    "norme-metodologice",
+    "hotarare-guvern",
+    "modificare-legislativa",
+    "metadata-only"
+  ]
+}

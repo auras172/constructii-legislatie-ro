@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T10:43:16.127Z",
+  "generated_at": "2026-08-30T12:26:44.905Z",
   "summary": {
-    "total_metadata_entries": 296,
+    "total_metadata_entries": 297,
     "total_full_text_acts": 50,
-    "total_metadata_only_acts": 246,
-    "total_import_logs": 318,
-    "total_relationship_links": 553,
+    "total_metadata_only_acts": 247,
+    "total_import_logs": 319,
+    "total_relationship_links": 559,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -250,11 +250,20 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 4,
+      "relationships": 5,
       "provenance": true
     },
     {
       "slug": "hg-395-2016",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 4,
+      "provenance": true
+    },
+    {
+      "slug": "hg-419-2018",
       "full_text": false,
       "metadata": true,
       "import_log": true,
@@ -430,7 +439,7 @@
       "metadata": true,
       "import_log": true,
       "official_markers": null,
-      "relationships": 2,
+      "relationships": 3,
       "provenance": true
     },
     {
@@ -2677,7 +2686,7 @@
   ],
   "statistics": {
     "domains": {
-      "urbanism": 41,
+      "urbanism": 42,
       "executie": 36,
       "calitate": 115,
       "nzeb": 14,
@@ -2692,7 +2701,7 @@
     },
     "issuers": {
       "minister": 150,
-      "guvern": 69,
+      "guvern": 70,
       "parlament": 48,
       "other": 9,
       "autoritate": 20
@@ -2723,7 +2732,7 @@
       "2015": 3,
       "2016": 14,
       "2017": 5,
-      "2018": 9,
+      "2018": 10,
       "2019": 5,
       "2020": 10,
       "2021": 10,
@@ -2735,7 +2744,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 6,
-      "metadata-only": 246,
+      "metadata-only": 247,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 25,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
