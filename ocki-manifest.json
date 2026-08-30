@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-30T20:25:09.263Z",
+  "generated_at": "2026-08-30T22:20:40.325Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 298,
-    "acts_full_text": 52,
-    "acts_metadata_only": 246,
-    "article_anchors_total": 5457,
-    "import_logs_total": 321,
+    "acts_full_text": 53,
+    "acts_metadata_only": 245,
+    "article_anchors_total": 5610,
+    "import_logs_total": 322,
     "domains": [
       "anre",
       "autorizatii",
@@ -803,9 +803,9 @@
       "type": "lege",
       "domain": "mediu",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 112,
-      "anchor_count": 0,
+      "anchor_count": 153,
       "file": "legi/lege-107-1996.md",
       "metadata_file": "metadata/acts/lege-107-1996.json"
     },
