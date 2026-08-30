@@ -1,8 +1,8 @@
 # Inventar complet al actelor
 
-Snapshot reconciliat la `origin/main@66c768ab5a3b788baa5347a6e23cfbf410c42022` (2026-08-30). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
+Snapshot reconciliat la `origin/main@ae0f7ec97597fd4d5a696e59ac05356569227511` (2026-08-30). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
 
-**Rezumat:** 296 acte · 50 full-text · 246 metadata-only · 564 relații confirmate · health 100/100.
+**Rezumat:** 297 acte · 50 full-text · 247 metadata-only · 567 relații confirmate · health 100/100.
 
 | Slug | Act | Domeniu | Tip | Status | Effective date | Import | Sursă |
 |---|---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ Snapshot reconciliat la `origin/main@66c768ab5a3b788baa5347a6e23cfbf410c42022` (
 | `hg-370-2021` | HG 370/2021 | executie | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/240344>) |
 | `hg-394-2016` | HG 394/2016 | urbanism | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/201278>) |
 | `hg-395-2016` | HG 395/2016 | urbanism | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/201280>) |
+| `hg-419-2018` | HG 419/2018 | urbanism | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/FormaPrintabila/00000G3D7RX7GEONVPG2589ZP6YEAAYN>) |
 | `hg-445-2009` | HG 445/2009 — evaluarea impactului asupra mediului | mediu | hotarare | repealed | 2009-09-11 | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/135436>) |
 | `hg-477-2020` | HG 477/2020 | urbanism | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/226835>) |
 | `hg-485-2020` | HG 485/2020 | urbanism | hotarare | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/FormaPrintabila/00000G347O37CXOTYMD3ML8L4CQSO5YY>) |

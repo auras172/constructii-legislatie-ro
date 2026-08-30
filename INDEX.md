@@ -10,9 +10,9 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-30 la `origin/main@66c768a`; surse canonice: `ocki-manifest.json`, `reports/repository-health.json` și metadatele actelor.
+Snapshot reconciliat la 2026-08-30 la `origin/main@ae0f7ec`; surse canonice: `ocki-manifest.json`, `reports/repository-health.json` și metadatele actelor.
 
-> **Snapshot curent:** 296 acte urmărite · 50 full-text · 246 metadata-only · 296 noduri în graf · 564 relații confirmate · health 100/100 · 0 warnings. Inventarul complet al fișierelor de metadata este în [`metadata/acts/`](./metadata/acts/); tabelul de mai jos păstrează și notele istorice de import, iar valorile numerice din secțiunile istorice sunt etichetate prin snapshotul lor.
+> **Snapshot curent:** 297 acte urmărite · 50 full-text · 247 metadata-only · 297 noduri în graf · 567 relații confirmate · health 100/100 · 0 warnings. Inventarul complet al fișierelor de metadata este în [`metadata/acts/`](./metadata/acts/); tabelul de mai jos păstrează și notele istorice de import, iar valorile numerice din secțiunile istorice sunt etichetate prin snapshotul lor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
