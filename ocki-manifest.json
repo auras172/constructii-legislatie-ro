@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-30T10:43:16.214Z",
+  "generated_at": "2026-08-30T12:26:45.048Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 296,
+    "acts_total": 297,
     "acts_full_text": 50,
-    "acts_metadata_only": 246,
+    "acts_metadata_only": 247,
     "article_anchors_total": 2727,
-    "import_logs_total": 318,
+    "import_logs_total": 319,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 564,
+    "confirmed_relationships": 567,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -431,6 +431,19 @@
       "anchor_count": 0,
       "file": "legi/hg-395-2016.md",
       "metadata_file": "metadata/acts/hg-395-2016.json"
+    },
+    {
+      "slug": "hg-419-2018",
+      "title": "HOTĂRÂRE nr. 419 din 8 iunie 2018 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, pentru modificarea Hotărârii Guvernului nr. 34/2009 privind organizarea și funcționarea Ministerului Finanțelor Publice, pentru modificarea Hotărârii Guvernului nr. 634/2015 privind organizarea și funcționarea Agenției Naționale pentru Achiziții Publice, precum și pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016 și a Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractelor de concesiune de lucrări și concesiune de servicii din Legea nr. 100/2016 privind concesiunile de lucrări și concesiunile de servicii, aprobate prin Hotărârea Guvernului nr. 867/2016",
+      "short_title": "HG 419/2018",
+      "type": "hotarare",
+      "domain": "urbanism",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 8,
+      "anchor_count": 0,
+      "file": "legi/hg-419-2018.md",
+      "metadata_file": "metadata/acts/hg-419-2018.json"
     },
     {
       "slug": "hg-445-2009",
