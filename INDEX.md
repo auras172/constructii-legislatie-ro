@@ -4,13 +4,15 @@ Acest repository conține legislație românească relevantă pentru construcți
 
 > **Atenție:** Acest proiect **nu este o sursă oficială** și **nu constituie consultanță juridică**. Textul oficial autoritar rămâne cel publicat pe [Portal Legislativ](https://legislatie.just.ro) și în Monitorul Oficial al României.
 
-See [legi/README.md](./legi/README.md) for the annotated act list with import logs.
+See [legi/README.md](./legi/README.md) for the annotated act list with import logs, and [docs/act-inventory.md](./docs/act-inventory.md) for the complete machine-reconciled inventory.
 
 ---
 
 ## Matricea de stare a legislației
 
-Snapshot reconciliat la 2026-08-24; surse canonice: ocki-manifest.json, reports/repository-health.json și metadatele actelor.
+Snapshot reconciliat la 2026-08-30 la `origin/main@66c768a`; surse canonice: `ocki-manifest.json`, `reports/repository-health.json` și metadatele actelor.
+
+> **Snapshot curent:** 296 acte urmărite · 50 full-text · 246 metadata-only · 296 noduri în graf · 564 relații confirmate · health 100/100 · 0 warnings. Inventarul complet al fișierelor de metadata este în [`metadata/acts/`](./metadata/acts/); tabelul de mai jos păstrează și notele istorice de import, iar valorile numerice din secțiunile istorice sunt etichetate prin snapshotul lor.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Consolidat la | Sursă | Fișier repo | Metadate | Observații |
 |---:|-----|---------|-----|----------------|----------------------|-------|---------------|-------|-------------|----------|------------|
@@ -215,7 +217,7 @@ Snapshot reconciliat la 2026-08-24; surse canonice: ocki-manifest.json, reports/
 | 199 | Ordin MTI 595/2026 | executie | ordin | metadata-only | 2 | 1 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/311545) | [legi/ordin-mti-595-2026.md](./legi/ordin-mti-595-2026.md) | [metadata/acts/ordin-mti-595-2026.json](./metadata/acts/ordin-mti-595-2026.json) | text nedisponibil în repo; status unknown; effective_date 2026-06-24; versiune original; relații: implements → lege-10-1995; Forma afișată de Portal Legislativ la verificarea din 15.08.2026; ghidul tehnic AND 625-2025 este anexă și nu este importat ca text sau nod separat |
 | 200 | Ordin MDLPA 710/2026 | calitate | ordin | metadata-only | 3 | 5 | — | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/312120) | [legi/ordin-mdlpa-710-2026.md](./legi/ordin-mdlpa-710-2026.md) | [metadata/acts/ordin-mdlpa-710-2026.json](./metadata/acts/ordin-mdlpa-710-2026.json) | text nedisponibil în repo; status unknown; versiune original; relații: references → hg-477-2020, references → lege-10-1995, references → metodologie-mc001-2022; Forma oficială a ordinului; normele metodologice modificate și cele cinci anexe nu sunt importate ca text integral |
 
-**Sumar:** 237 acte urmărite · 50 full-text importate · 187 metadata-only · 432 relații confirmate · 2.727 ancore · health 100/100
+**Sumar istoric (snapshotul anterior):** 237 acte urmărite · 50 full-text importate · 187 metadata-only · 432 relații confirmate · 2.727 ancore · health 100/100
 
 ---
 ## Acte adăugate după snapshotul anterior
@@ -252,7 +254,7 @@ Cele 24 de intrări de mai jos au fost reconciliate din `metadata/acts/*.json` �
 ---
 ## Acte adăugate după snapshotul de 224 acte
 
-Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/acts/*.json` la `origin/main` `346f048`. Fișierele JSON rămân sursa structurată primară.
+Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/acts/*.json` la snapshotul istoric `origin/main` `346f048`. Fișierele JSON rămân sursa structurată primară.
 
 | Nr. | Act | Domeniu | Tip | Status în repo | Articole / prevederi | Anexe | Sursă | Metadate |
 |---:|---|---|---|---|---:|---:|---|---|
@@ -270,9 +272,9 @@ Aceste 13 intrări au fost reconciliate din `ocki-manifest.json` și `metadata/a
 | 236 | OUG 6/2018 | calitate | ordonanta | metadata-only | 1 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocumentAfis/198070) | [metadata](./metadata/acts/oug-6-2018.json) |
 | 237 | OUG 87/2025 | calitate | ordonanta | metadata-only | 8 | 0 | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305816) | [metadata](./metadata/acts/oug-87-2025.json) |
 
-**Sumar reconciliat:** 256 acte urmărite · 50 full-text importate · 206 metadata-only · 480 relații confirmate · health 100/100.
+**Sumar istoric reconciliat:** 256 acte urmărite · 50 full-text importate · 206 metadata-only · 480 relații confirmate · health 100/100.
 
-### Importuri reconciliate după snapshotul de 237 acte
+### Importuri reconciliate după snapshotul istoric de 237 acte
 
 Manifestul curent confirmă următoarele acte adăugate ulterior:
 
