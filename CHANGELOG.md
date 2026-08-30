@@ -9,6 +9,7 @@ All notable changes to constructii-legislatie-ro.
 ## August 2026
 
 ### Infrastructure
+- feat(metadata): add HG 485/2020 amendments
 - feat(metadata): add HG 866/2016 amendments
 - feat(metadata): add HG 867/2016 concession norms
 - feat(metadata): add Legea 100/2016 concessions
@@ -284,6 +285,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #612 from auras172/codex/metadata-hg-485-2020
 - Merge pull request #611 from auras172/codex/metadata-hg-866-2016
 - Merge pull request #610 from auras172/codex/metadata-hg-867-2016
 - Merge pull request #609 from auras172/codex/metadata-lege-100-2016
