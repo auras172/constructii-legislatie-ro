@@ -1,0 +1,54 @@
+{
+  "title": "Legea îmbunătățirilor funciare nr. 138/2004",
+  "short_title": "Legea 138/2004 a îmbunătățirilor funciare",
+  "canonical_citation": "Legea nr. 138/2004",
+  "type": "lege",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "number": "138",
+  "year": "2004",
+  "issue_date": "2004-04-27",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2004-04-28",
+  "status": "unknown",
+  "domain": "mediu",
+  "topics": [
+    "îmbunătățiri-funciare",
+    "infrastructură-hidrotehnică",
+    "irigații",
+    "desecări",
+    "combaterea-eroziunii-solului"
+  ],
+  "tags": [
+    "îmbunătățiri-funciare",
+    "infrastructură-hidrotehnică",
+    "irigații",
+    "desecări",
+    "mediu",
+    "lege"
+  ],
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296149",
+  "official_source": "Portal Legislativ",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/296149",
+  "version_kind": "consolidat",
+  "consolidated_as_of": "2025-04-18",
+  "last_checked": "2026-08-31",
+  "version": "forma republicată în M.Of. nr. 88/13.02.2009; consolidare Portal la 18.04.2025",
+  "article_count": 102,
+  "annex_count": 2,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only. Recordul curent Portal 296149 este consolidarea afișată la 18.04.2025 și indică forma republicată în M.Of. nr. 88 din 13.02.2009; publicarea inițială a Legii nr. 138/2004 este în M.Of. nr. 369 din 28.04.2004. Auditul final din 2026-08-30 a folosit User-Agent fallback după răspunsuri HTTP 403: detail 296149, 457220 bytes, SHA-256 419756c3650b03660bf5832035775b615108544e3d53488ab6159020baa992b3; forma printabilă curentă expusă de acesta, 00000G2ODVZCCGOZD6W0X9ZO7MYXFYJD, 368330 bytes, SHA-256 6e3910a554db3a1eb336a800fd4fb812efb7f7110a17bce4f592dfd11fb45a65. Portalul HTML și tokenurile formei printabile sunt dinamice, iar hashurile brute pot varia între retrieval-uri. Sursa confirmă 102 blocuri de articole și 2 anexe. Statusul curent și o regulă unică de intrare în vigoare nu sunt declarate explicit în forma auditată; effective_date este omisă. Actele modificatoare și notele istorice nu sunt importate ca noduri. Nu au fost importate full-text, PDF, DOCX, OCR, capturi sau binare.",
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-50-1991",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 33 alin. (1) lit. a) derogă explicit de la art. 6 alin. (4) și art. 7 alin. (1) lit. b) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 33 alin. (1) lit. a)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296149",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-31"
+    }
+  ]
+}

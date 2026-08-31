@@ -494,6 +494,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-138-2004",
+      "label": "Legea 138/2004 a îmbunătățirilor funciare",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-141-2026",
       "label": "Legea 141/2026",
       "type": "lege",
@@ -3480,6 +3488,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-16",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497"
+    },
+    {
+      "source": "lege-138-2004",
+      "target": "lege-50-1991",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. 33 alin. (1) lit. a) derogă explicit de la art. 6 alin. (4) și art. 7 alin. (1) lit. b) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare.",
+      "source_article": "Art. 33 alin. (1) lit. a)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-31",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296149"
     },
     {
       "source": "lege-141-2026",
@@ -9064,8 +9085,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 298,
-    "confirmed_edges": 567,
+    "total_nodes": 299,
+    "confirmed_edges": 568,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }
