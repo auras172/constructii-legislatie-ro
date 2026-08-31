@@ -486,6 +486,14 @@
       "import_method": "metadata-only"
     },
     {
+      "id": "lege-122-2020",
+      "label": "Legea 122/2020",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only"
+    },
+    {
       "id": "lege-123-2012",
       "label": "Legea 123/2012 — energia electrică și gazele naturale",
       "type": "lege",
@@ -3488,6 +3496,19 @@
       "reviewed_by": "codex",
       "reviewed_at": "2026-08-16",
       "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263497"
+    },
+    {
+      "source": "lege-122-2020",
+      "target": "lege-107-1996",
+      "relationship": "amends",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Legea apelor nr. 107/1996, cu modificările și completările ulterioare, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-31",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311794"
     },
     {
       "source": "lege-138-2004",
@@ -9085,8 +9106,8 @@
     }
   ],
   "stats": {
-    "total_nodes": 299,
-    "confirmed_edges": 568,
+    "total_nodes": 300,
+    "confirmed_edges": 569,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

@@ -12,6 +12,7 @@ All notable changes to constructii-legislatie-ro.
 - ✅ Codul civil — urbanism `[full-text]`
 
 ### Infrastructure
+- feat(metadata): add Legea 138/2004 metadata
 - feat(metadata): add HG 419/2018 amendments
 - feat(metadata): add HG 336/2023 amendments
 - feat(metadata): add HG 485/2020 amendments
@@ -294,6 +295,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #622 from auras172/codex/metadata-lege-138-2004
 - Merge pull request #621 from auras172/codex/full-text-lege-107-1996
 - feat(full-text): upgrade Legea apelor 107/1996
 - Merge pull request #620 from auras172/codex/full-text-lege-7-1996
