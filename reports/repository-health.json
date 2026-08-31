@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T23:30:45.988Z",
+  "generated_at": "2026-08-31T18:07:09.805Z",
   "summary": {
-    "total_metadata_entries": 299,
+    "total_metadata_entries": 300,
     "total_full_text_acts": 53,
-    "total_metadata_only_acts": 246,
-    "total_import_logs": 323,
-    "total_relationship_links": 560,
+    "total_metadata_only_acts": 247,
+    "total_import_logs": 324,
+    "total_relationship_links": 561,
     "total_unique_domains": 12,
     "total_unique_issuers": 5
   },
@@ -548,6 +548,15 @@
       "import_log": true,
       "official_markers": null,
       "relationships": 2,
+      "provenance": true
+    },
+    {
+      "slug": "lege-122-2020",
+      "full_text": false,
+      "metadata": true,
+      "import_log": true,
+      "official_markers": null,
+      "relationships": 1,
       "provenance": true
     },
     {
@@ -2709,7 +2718,7 @@
       "calitate": 115,
       "nzeb": 14,
       "anre": 21,
-      "mediu": 11,
+      "mediu": 12,
       "iscir": 17,
       "munca": 3,
       "receptie": 5,
@@ -2720,7 +2729,7 @@
     "issuers": {
       "minister": 150,
       "guvern": 70,
-      "parlament": 50,
+      "parlament": 51,
       "other": 9,
       "autoritate": 20
     },
@@ -2752,7 +2761,7 @@
       "2017": 5,
       "2018": 10,
       "2019": 5,
-      "2020": 10,
+      "2020": 11,
       "2021": 10,
       "2022": 24,
       "2023": 38,
@@ -2762,7 +2771,7 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 7,
-      "metadata-only": 246,
+      "metadata-only": 247,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
       "full-text": 26,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,

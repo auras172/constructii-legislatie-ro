@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-30T23:30:46.185Z",
+  "generated_at": "2026-08-31T18:07:09.957Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -15,11 +15,11 @@
     "wiki_url": "https://github.com/auras172/constructii-legislatie-ro/wiki"
   },
   "content": {
-    "acts_total": 299,
+    "acts_total": 300,
     "acts_full_text": 53,
-    "acts_metadata_only": 246,
+    "acts_metadata_only": 247,
     "article_anchors_total": 5610,
-    "import_logs_total": 323,
+    "import_logs_total": 324,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 568,
+    "confirmed_relationships": 569,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -847,6 +847,19 @@
       "anchor_count": 0,
       "file": "legi/lege-121-2014.md",
       "metadata_file": "metadata/acts/lege-121-2014.json"
+    },
+    {
+      "slug": "lege-122-2020",
+      "title": "Legea nr. 122 din 10 iulie 2020 pentru modificarea și completarea Legii apelor nr. 107/1996",
+      "short_title": "Legea 122/2020",
+      "type": "lege",
+      "domain": "mediu",
+      "status": "unknown",
+      "import_method": "metadata-only",
+      "article_count": 5,
+      "anchor_count": 0,
+      "file": "legi/lege-122-2020.md",
+      "metadata_file": "metadata/acts/lege-122-2020.json"
     },
     {
       "slug": "lege-123-2012",

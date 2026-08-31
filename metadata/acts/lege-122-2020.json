@@ -1,0 +1,56 @@
+{
+  "title": "Legea nr. 122 din 10 iulie 2020 pentru modificarea și completarea Legii apelor nr. 107/1996",
+  "short_title": "Legea 122/2020",
+  "canonical_citation": "Legea nr. 122/2020",
+  "type": "lege",
+  "number": "122",
+  "year": "2020",
+  "issuer": "Parlamentul României",
+  "issuing_body_kind": "parlament",
+  "domain": "mediu",
+  "topics": [
+    "ape",
+    "gospodărirea-apelor",
+    "infrastructură-hidrotehnică",
+    "modificare-legislativă"
+  ],
+  "tags": [
+    "ape",
+    "gospodărirea-apelor",
+    "infrastructură-hidrotehnică",
+    "lege",
+    "mediu",
+    "modificare-legislativă"
+  ],
+  "status": "unknown",
+  "issue_date": "2020-07-10",
+  "publication_medium": "monitorul-oficial",
+  "publication_date": "2020-07-13",
+  "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234880",
+  "official_source": "Portal Legislativ — forma originală și forma consolidată a Legii nr. 122/2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/234880",
+  "version_kind": "original",
+  "consolidated_as_of": "2026-07-23",
+  "last_checked": "2026-08-31",
+  "version": "Forma publicată în M.Of. nr. 613/13.07.2020; Portalul indică ultima consolidare auditată la 23.07.2026, cu modificarea ulterioară a art. III prin Legea nr. 155/2026.",
+  "article_count": 5,
+  "annex_count": 0,
+  "import_method": "metadata-only",
+  "rights_note": "Import metadata-only. Identitatea și publicarea au fost confirmate în recordul Portal 234880 și în forma printabilă indicată de acesta. Pentru istoricul curent a fost auditată și consolidarea Portal 311794 din 23.07.2026, împreună cu forma sa printabilă dinamică. Publicarea inițială: M.Of. nr. 613 din 13.07.2020. Sursa curentă afișează 5 articole și 0 anexe. Requesturile HTTP directe și cele cu User-Agent au răspuns HTTP 200; hashurile sunt SHA-256 ale răspunsurilor HTML brute, iar variațiile între detail și User-Agent reflectă conținutul HTML dinamic. Statusul juridic curent nu este declarat într-o clasificare compatibilă cu schema și rămâne unknown. Effective date este omisă deoarece forma oficială nu conține o regulă calendaristică explicită pentru intrarea în vigoare a legii ca întreg. Nu au fost importate full-text, PDF, DOCX, OCR, capturi sau binare și nu au fost create noduri pentru actele modificatoare ori pentru Legea apelor ca țintă separată.",
+  "amends": [
+    "lege-107-1996"
+  ],
+  "relationships": [
+    {
+      "type": "amends",
+      "target": "lege-107-1996",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Articolul I prevede explicit că Legea apelor nr. 107/1996, cu modificările și completările ulterioare, se modifică și se completează după cum urmează.",
+      "source_article": "Art. I",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311794",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-08-31"
+    }
+  ]
+}
