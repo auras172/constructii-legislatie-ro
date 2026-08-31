@@ -6,6 +6,11 @@ All notable changes to constructii-legislatie-ro.
 
 ## [Unreleased]
 
+## September 2026
+
+### Other
+- Merge pull request #626 from auras172/codex/full-text-oug-31-2025
+
 ## August 2026
 
 ### Legislation
@@ -297,6 +302,7 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- feat(full-text): upgrade OUG 31/2025
 - Merge pull request #624 from auras172/codex/housekeeping-docs
 - Merge pull request #623 from auras172/codex/metadata-lege-122-2020
 - Merge pull request #622 from auras172/codex/metadata-lege-138-2004

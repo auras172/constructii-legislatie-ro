@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-08-31T20:47:19.322Z",
+  "generated_at": "2026-08-31T21:54:39.141Z",
   "months": [
+    {
+      "month": "2026-09",
+      "label": "September 2026",
+      "legislation_added": [],
+      "infrastructure": [],
+      "documentation": [],
+      "fixes": [],
+      "misc": [
+        "Merge pull request #626 from auras172/codex/full-text-oug-31-2025"
+      ]
+    },
     {
       "month": "2026-08",
       "label": "August 2026",
@@ -298,6 +309,7 @@
         "fix(metadata): restore OUG 52 frontmatter parity"
       ],
       "misc": [
+        "feat(full-text): upgrade OUG 31/2025",
         "Merge pull request #624 from auras172/codex/housekeeping-docs",
         "Merge pull request #623 from auras172/codex/metadata-lege-122-2020",
         "Merge pull request #622 from auras172/codex/metadata-lege-138-2004",

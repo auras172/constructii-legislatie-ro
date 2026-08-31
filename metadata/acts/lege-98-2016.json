@@ -23,19 +23,18 @@
   "official_source": "Portal Legislativ — forma consolidată; publicată inițial în Monitorul Oficial nr. 390 din 23 mai 2016",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/183887",
   "version_kind": "consolidat",
-  "last_checked": "2026-08-16",
+  "last_checked": "2026-08-31",
   "version": "forma consolidată afișată de Portalul Legislativ și marcată actualizată; Portalul nu afișează o dată distinctă de consolidare",
   "article_count": 240,
   "annex_count": 2,
-  "import_method": "metadata-only",
-  "rights_note": "Import metadata-only. Portalul Legislativ rămâne sursa oficială. Art. 240 alin. (1) stabilește intrarea generală în vigoare la 3 zile de la publicare, calculată la 26.05.2016; alin. (2) stabilește o intrare diferențiată pentru art. 199 alin. (2), la 18.10.2018. Nu se importă textul integral sau anexele.",
+  "import_method": "full-text",
+  "rights_note": "official_text_block_sha256: 8ecd327a28294775a9a9f83e4f56c6c9dc2b316bdd4d4d4f8eb5a30ec46e37b9. Textul oficial integral este reprodus din forma printabilă consolidată a Portalului Legislativ pentru referință; sursa oficială rămâne autoritară. Auditul final din 2026-08-31 a confirmat HTTP 403 pentru răspunsurile brute și HTTP 200 prin User-Agent pentru detail și forma printabilă. Detail: 1176411 bytes, SHA-256 6e06f508e519545d71f36a30c2c0fc1fd23dfff6d984ff49c89c151e80a00734. Printable: 1058104 bytes, SHA-256 e29c3a981cb3fb4caf6d073e7584b195360f457f2a0e97ba911ecaaa798047e7. Răspunsul brut 403 a avut 162 bytes și SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75 pentru ambele URL-uri. Portalul HTML este dinamic; URL-ul tokenizat al formei printabile și hashurile răspunsurilor 200 pot varia între retrieval-uri. Forma consolidată verificată afișează 240 articole și 2 anexe, toate importate în blocul oficial Markdown; effective_date existentă de 2016-05-26 este păstrată, iar excepția art. 199 alin. (2), efectivă la 18.10.2018, este documentată în text și import-log. Nu au fost importate PDF-uri, DOCX-uri, OCR, capturi sau alte binare.",
   "tags": [
     "achizitii-publice",
     "lucrari-publice",
     "contracte-de-lucrari",
     "constructii",
     "lege",
-    "forma-consolidata",
-    "metadata-only"
+    "forma-consolidata"
   ]
 }
