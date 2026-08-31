@@ -2307,7 +2307,7 @@
       "type": "ordonanta",
       "domain": "urbanism",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "oug-34-2006",
