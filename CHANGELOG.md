@@ -12,6 +12,7 @@ All notable changes to constructii-legislatie-ro.
 - ✅ Codul civil — urbanism `[full-text]`
 
 ### Infrastructure
+- feat(metadata): add Legea 122/2020 metadata
 - feat(metadata): add Legea 138/2004 metadata
 - feat(metadata): add HG 419/2018 amendments
 - feat(metadata): add HG 336/2023 amendments
@@ -252,6 +253,7 @@ All notable changes to constructii-legislatie-ro.
 - feat(metadata): add Ordin MAI 180/2022 fire authorization methodology (#265)
 
 ### Documentation
+- docs: synchronize corpus indexes at 300 acts
 - docs: complete INDEX.md legislation inventory
 - docs: complete legislation index inventory
 - docs: reconcile snapshot after HG 419 merge
@@ -295,6 +297,8 @@ All notable changes to constructii-legislatie-ro.
 - fix(metadata): restore OUG 52 frontmatter parity
 
 ### Other
+- Merge pull request #624 from auras172/codex/housekeeping-docs
+- Merge pull request #623 from auras172/codex/metadata-lege-122-2020
 - Merge pull request #622 from auras172/codex/metadata-lege-138-2004
 - Merge pull request #621 from auras172/codex/full-text-lege-107-1996
 - feat(full-text): upgrade Legea apelor 107/1996

@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-31T18:07:09.957Z",
+  "generated_at": "2026-08-31T20:47:18.756Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 53,
-    "acts_metadata_only": 247,
-    "article_anchors_total": 5610,
+    "acts_full_text": 54,
+    "acts_metadata_only": 246,
+    "article_anchors_total": 5622,
     "import_logs_total": 324,
     "domains": [
       "anre",
@@ -3806,9 +3806,9 @@
       "type": "ordonanta",
       "domain": "urbanism",
       "status": "active",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 12,
-      "anchor_count": 0,
+      "anchor_count": 12,
       "file": "legi/oug-31-2025.md",
       "metadata_file": "metadata/acts/oug-31-2025.json"
     },
