@@ -78,6 +78,6 @@ Fiecare import rămâne un singur act, un branch și un PR. Handoff-ul trebuie s
 
 Oprește-te și raportează `HOLD` dacă există duplicate, surse insuficiente, conflicte nerezolvate, check-uri critice roșii, PR concurent pentru același act sau risc de suprascriere a muncii locale. Nu compensa lipsa dovezilor prin relații speculative, noduri pentru anexe sau date calculate neverificate.
 
-## Snapshot housekeeping 2026-08-30
+## Snapshot housekeeping 2026-08-31
 
-La reconcilierea verificată în `origin/main@ae0f7ec97597fd4d5a696e59ac05356569227511`, repository-ul conține 297 acte, 50 full-text, 247 metadata-only, 297 noduri și 567 relații confirmate; health 100/100, 0 warnings și 0 `needs_review`. `reports/repository-health.json` raportează separat 559 relationship links; această diferență față de graful confirmat trebuie păstrată explicită. Snapshotul este informativ și trebuie recalculat după fiecare merge.
+La reconcilierea verificată în `origin/main@7a067ba1202fec50995fc08d8eeb616a64a7c9e0`, repository-ul conține 300 acte, 53 full-text, 247 metadata-only, 300 noduri și 569 relații confirmate; health 100/100, 0 warnings și 0 `needs_review`. `reports/repository-health.json` raportează separat 561 relationship links; această diferență față de graful confirmat trebuie păstrată explicită. Snapshotul este informativ și trebuie recalculat după fiecare merge.

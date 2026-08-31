@@ -10,7 +10,7 @@ See [legi/README.md](./legi/README.md) for the annotated act list with import lo
 
 ## Inventar complet sincronizat
 
-Lista de mai jos este reconciliată din cele 297 fișiere `metadata/acts/*.json` de pe `origin/main@5b0ce6835b91650d186450897dae30af2e1f05f0` plus actul importat în această ramură. Aceasta este lista curentă de referință; secțiunea istorică de mai jos păstrează notele de import și snapshoturile anterioare.
+Lista de mai jos este reconciliată din cele 300 fișiere `metadata/acts/*.json` de pe `origin/main@7a067ba1202fec50995fc08d8eeb616a64a7c9e0`. Aceasta este lista curentă de referință; secțiunea istorică de mai jos păstrează notele de import și snapshoturile anterioare.
 
 | Nr. | Slug | Act | Domeniu | Tip | Status | Effective date | Import | Sursă | Metadata |
 |---:|---|---|---|---|---|---|---|---|---|
@@ -312,6 +312,8 @@ Lista de mai jos este reconciliată din cele 297 fișiere `metadata/acts/*.json`
 | 296 | `oug-87-2025` | OUG 87/2025 | calitate | ordonanta | unknown | — | metadata-only | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/305816) | [metadata](./metadata/acts/oug-87-2025.json) |
 | 297 | `oug-92-2021` | OUG 92/2021 — regimul deșeurilor | mediu | ordonanta | unknown | — | metadata-only | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/245846) | [metadata](./metadata/acts/oug-92-2021.json) |
 | 298 | `oug-92-2024` | OUG 92/2024 — rețeaua națională de ghișee unice de eficiență energetică | nzeb | ordonanta | unknown | — | metadata-only | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/284700) | [metadata](./metadata/acts/oug-92-2024.json) |
+| 299 | `lege-122-2020` | Legea 122/2020 pentru modificarea și completarea Legii apelor 107/1996 | mediu | lege | unknown | — | metadata-only | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/234880) | [metadata](./metadata/acts/lege-122-2020.json) |
+| 300 | `lege-138-2004` | Legea îmbunătățirilor funciare 138/2004 | mediu | lege | unknown | — | metadata-only | [Portal Legislativ](https://legislatie.just.ro/Public/DetaliiDocument/296149) | [metadata](./metadata/acts/lege-138-2004.json) |
 
 ## Matricea istorică de stare a legislației
 
