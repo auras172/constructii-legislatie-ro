@@ -1,8 +1,8 @@
 # Inventar complet al actelor
 
-Snapshot reconciliat la `origin/main@5b0ce6835b91650d186450897dae30af2e1f05f0` plus actul importat în această ramură (2026-08-30). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
+Snapshot reconciliat la `origin/main@7a067ba1202fec50995fc08d8eeb616a64a7c9e0` (2026-08-31). Lista este generată mecanic din toate fișierele `metadata/acts/*.json`; metadatele JSON și sursele oficiale rămân autoritative.
 
-**Rezumat:** 298 acte · 51 full-text · 247 metadata-only · 567 relații confirmate · health 100/100.
+**Rezumat:** 300 acte · 53 full-text · 247 metadata-only · 569 relații confirmate · health 100/100.
 
 | Slug | Act | Domeniu | Tip | Status | Effective date | Import | Sursă |
 |---|---|---|---|---|---|---|---|
@@ -66,7 +66,9 @@ Snapshot reconciliat la `origin/main@5b0ce6835b91650d186450897dae30af2e1f05f0` p
 | `lege-111-1996` | Legea 111/1996 — activități nucleare | calitate | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/198553>) |
 | `lege-114-1996` | Legea 114/1996 a locuinței | urbanism | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/70658>) |
 | `lege-121-2014` | Legea 121/2014 privind eficiența energetică | nzeb | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/263497>) |
+| `lege-122-2020` | Legea 122/2020 pentru modificarea și completarea Legii apelor 107/1996 | mediu | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/234880>) |
 | `lege-123-2012` | Legea 123/2012 — energia electrică și gazele naturale | executie | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/307058>) |
+| `lege-138-2004` | Legea îmbunătățirilor funciare 138/2004 | mediu | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/296149>) |
 | `lege-141-2026` | Legea 141/2026 | receptie | lege | active | 2026-07-16 | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/312240>) |
 | `lege-152-1998` | Legea 152/1998 privind Agenția Națională pentru Locuințe | urbanism | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/DetaliiDocument/130188>) |
 | `lege-163-2016` | Legea 163/2016 | calitate | lege | unknown | — | metadata-only | [sursă](<https://legislatie.just.ro/Public/FormaPrintabila/00000G2075I60PD2KU32XYVGKYL2XMQI>) |

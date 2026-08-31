@@ -2,12 +2,12 @@
 
 This roadmap keeps the project focused on infrastructure first. We do not start with OCR, chatbots, vector databases, or AI summaries. We first build a trustworthy Git-native base.
 
-## Current status (2026-08-19)
+## Current status (2026-08-31)
 
-- 237 acts tracked: 50 full-text and 187 metadata-only.
-- 237 graph nodes and 432 confirmed relationships.
+- 300 acts tracked: 53 full-text and 247 metadata-only.
+- 300 graph nodes and 569 confirmed relationships.
 - 0 `needs_review`; repository health 100/100.
-- PR #521 is merged; the next work should remain source-backed and scoped.
+- PR #623 is merged; the next work should remain source-backed and scoped.
 
 ## Phase 0 — Foundation
 
@@ -61,7 +61,7 @@ Each act should start as metadata + source links, then receive official-source t
 
 ## Current next steps
 
-- Reconcile the 237-act `INDEX.md` matrix with the generated manifest and health reports.
+- Keep `README.md`, `INDEX.md`, and `docs/act-inventory.md` synchronized with the generated manifest and health reports.
 - Keep the metadata backlog source-gated and deduplicated against `origin/main`.
 - Continue full-text imports only when official text fidelity and anchor structure pass review.
 - Keep the public wiki, project board and issue backlog aligned with repository snapshots.
