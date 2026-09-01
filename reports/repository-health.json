@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T22:15:53.183Z",
+  "generated_at": "2026-09-01T22:49:50.059Z",
   "summary": {
     "total_metadata_entries": 300,
-    "total_full_text_acts": 58,
-    "total_metadata_only_acts": 242,
+    "total_full_text_acts": 59,
+    "total_metadata_only_acts": 241,
     "total_import_logs": 324,
     "total_relationship_links": 561,
     "total_unique_domains": 12,
@@ -624,10 +624,10 @@
     },
     {
       "slug": "lege-18-1991",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 0,
       "provenance": true
     },
@@ -2771,9 +2771,9 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 7,
-      "metadata-only": 242,
+      "metadata-only": 241,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
-      "full-text": 31,
+      "full-text": 32,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

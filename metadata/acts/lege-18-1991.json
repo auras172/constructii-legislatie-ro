@@ -18,11 +18,11 @@
   "official_source": "Portal Legislativ — forma consolidată a Legii nr. 18/1991, republicată în Monitorul Oficial nr. 1 din 5 ianuarie 1998; forma inițială publicată în Monitorul Oficial nr. 37 din 20 februarie 1991",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/148079",
   "version_kind": "consolidat",
-  "last_checked": "2026-08-16",
-  "version": "Forma consolidată afișată de Portal, cu republicarea din 1998 și modificările ulterioare vizibile; Portalul reproduce separat articolele II-V proprii Legii nr. 169/1997, neîncorporate în textul republicat al Legii nr. 18/1991",
+  "last_checked": "2026-09-01",
+  "version": "Forma consolidată afișată de Portal la 1 septembrie 2026; republicată în Monitorul Oficial nr. 1 din 5 ianuarie 1998; publicarea inițială în Monitorul Oficial nr. 37 din 20 februarie 1991; articolele II-V proprii Legii nr. 169/1997 sunt afișate separat și nu sunt încorporate în textul republicat",
   "article_count": 117,
   "annex_count": 2,
-  "import_method": "metadata-only",
-  "rights_note": "Import metadata-only. Articolul 123 alin. (1) stabilește intrarea în vigoare la data publicării inițiale, 20 februarie 1991. Mențiunea Portalului «aplicabilă începând cu data de 1 februarie 2014» este o notă privind aplicarea formei consolidate și nu înlocuiește data de intrare în vigoare a legii. Nu se creează noduri pentru actele modificatoare sau pentru articolele proprii ale Legii nr. 169/1997 neîncorporate.",
-  "tags": ["fond-funciar", "terenuri", "proprietate-funciara", "scoatere-din-circuitul-agricol", "constructii", "lege", "forma-consolidata", "metadata-only"]
+  "import_method": "full-text",
+  "rights_note": "Textul oficial integral este reprodus din forma printabilă consolidată a Portalului Legislativ pentru referință; sursa oficială rămâne autoritară. Auditul din 2026-09-01 a înregistrat HTTP 403 pentru cererile brute și HTTP 200 pentru fallback-ul User-Agent pe pagina detail și forma printabilă; valorile și hashurile sunt documentate în import-log. Portalul afișează forma republicată în 1998 și mențiunea «aplicabilă începând cu data de 1 februarie 2014»; această mențiune nu înlocuiește effective_date 1991-02-20, stabilită explicit de art. 123 alin. (1). Articolele II-V proprii Legii nr. 169/1997 afișate separat la final nu au fost încorporate în blocul textului Legii nr. 18/1991. Nu au fost importate PDF-uri, DOCX, OCR, capturi sau binare.",
+  "tags": ["fond-funciar", "terenuri", "proprietate-funciara", "scoatere-din-circuitul-agricol", "constructii", "lege", "forma-consolidata"]
 }
