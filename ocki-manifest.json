@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-09-01T20:58:52.203Z",
+  "generated_at": "2026-09-01T22:15:53.327Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 57,
-    "acts_metadata_only": 243,
-    "article_anchors_total": 5935,
+    "acts_full_text": 58,
+    "acts_metadata_only": 242,
+    "article_anchors_total": 6199,
     "import_logs_total": 324,
     "domains": [
       "anre",
@@ -1414,9 +1414,9 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 264,
-      "anchor_count": 0,
+      "anchor_count": 264,
       "file": "legi/lege-99-2016.md",
       "metadata_file": "metadata/acts/lege-99-2016.json"
     },
