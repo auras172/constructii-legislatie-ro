@@ -579,7 +579,7 @@
       "type": "lege",
       "domain": "autorizatii",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "lege-196-2018",
