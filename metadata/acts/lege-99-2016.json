@@ -24,12 +24,12 @@
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/178661",
   "version_kind": "consolidat",
   "consolidated_as_of": "2024-11-17",
-  "last_checked": "2026-08-29",
-  "version": "Forma consolidată oficială din 17.11.2024, conform istoricului de consolidare afișat de Portalul Legislativ.",
+  "last_checked": "2026-09-01",
+  "version": "Forma consolidată oficială din 17.11.2024, importată integral din forma printabilă oficială a Portalului Legislativ.",
   "article_count": 264,
   "annex_count": 2,
-  "import_method": "metadata-only",
-  "rights_note": "Textul legal și anexele nu sunt importate. Forma inițială are 257 de articole, iar forma consolidată auditată are 264 de articole distincte prin includerea articolelor cu indice. Data generală de intrare în vigoare, 26.05.2016, este calculată determinist din art. 257 alin. (1): publicarea din 23.05.2016 + 3 zile; art. 257 alin. (2) stabilește separat intrarea în vigoare a art. 208 alin. (2) la 18.10.2018. Statusul rămâne unknown deoarece Portalul oferă forma consolidată și istoricul, fără o etichetă juridică explicită de status curent. Art. 255 abrogă expres cap. VIII din OUG nr. 34/2006, dar abrogarea parțială este documentată fără edge deoarece schema nu suportă repeals/repealed_by.",
+  "import_method": "full-text",
+  "rights_note": "Forma consolidată oficială a Portalului Legislativ, afișată ca fiind consolidată la 17.11.2024, este importată integral în blocul oficial Markdown, împreună cu cele 264 de articole distincte și 2 anexe; nu sunt create noduri separate. Detailul (ID 178661) a returnat HTTP 403 la requestul brut și HTTP 200 cu User-Agent, iar forma printabilă oficială 00000G0FACDA5N4QWOB2FKHJ0Q2U2BLD a avut aceeași succesiune 403/200. Auditul brut și fallback-ul User-Agent, hashurile și timestampurile sunt în import-log. Nu a fost necesar fallback browser DOM și nu este revendicat un hash DOM. Hashul blocului oficial Markdown este documentat în import-log. Data generală de intrare în vigoare, 26.05.2016, și excepția pentru art. 208 alin. (2), 18.10.2018, sunt păstrate neschimbate. Statusul rămâne unknown deoarece Portalul oferă forma consolidată și istoricul, fără o etichetă juridică explicită de status curent. Art. 255 abrogă expres cap. VIII din OUG nr. 34/2006, dar abrogarea parțială este documentată fără edge deoarece schema nu suportă repeals/repealed_by.",
   "relationships": [
     {
       "type": "references",
@@ -48,7 +48,6 @@
     "achiziții-sectoriale",
     "contracte-sectoriale",
     "contracte-de-lucrări",
-    "utilități-publice",
-    "metadata-only"
+    "utilități-publice"
   ]
 }
