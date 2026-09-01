@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T21:53:22.683Z",
+  "generated_at": "2026-09-01T19:30:16.544Z",
   "summary": {
     "total_metadata_entries": 300,
-    "total_full_text_acts": 55,
-    "total_metadata_only_acts": 245,
+    "total_full_text_acts": 56,
+    "total_metadata_only_acts": 244,
     "total_import_logs": 324,
     "total_relationship_links": 561,
     "total_unique_domains": 12,
@@ -534,10 +534,10 @@
     },
     {
       "slug": "lege-114-1996",
-      "full_text": false,
+      "full_text": true,
       "metadata": true,
       "import_log": true,
-      "official_markers": null,
+      "official_markers": true,
       "relationships": 0,
       "provenance": true
     },
@@ -2771,9 +2771,9 @@
     },
     "import_methods": {
       "printable HTML → Markdown": 7,
-      "metadata-only": 245,
+      "metadata-only": 244,
       "Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat": 1,
-      "full-text": 28,
+      "full-text": 29,
       "Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat": 3,
       "Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale": 1,
       "Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale": 1,

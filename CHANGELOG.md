@@ -9,6 +9,8 @@ All notable changes to constructii-legislatie-ro.
 ## September 2026
 
 ### Other
+- Merge pull request #627 from auras172/codex/full-text-lege-98-2016
+- feat: import full text Legea 98/2016
 - Merge pull request #626 from auras172/codex/full-text-oug-31-2025
 
 ## August 2026

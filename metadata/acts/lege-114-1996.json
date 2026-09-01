@@ -23,19 +23,18 @@
   "official_source": "Portal Legislativ — forma consolidată; publicată inițial în Monitorul Oficial nr. 254 din 21 octombrie 1996 și republicată în Monitorul Oficial nr. 393 din 31 decembrie 1997",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/70658",
   "version_kind": "republicat",
-  "last_checked": "2026-08-16",
+  "last_checked": "2026-09-01",
   "version": "forma consolidată afișată de Portalul Legislativ; republicarea este indicată în temeiul art. II din Legea nr. 196/1997",
   "article_count": 72,
   "annex_count": 2,
-  "import_method": "metadata-only",
-  "rights_note": "Import metadata-only. Portalul Legislativ rămâne sursa oficială. Nu se înregistrează effective_date deoarece forma verificată nu oferă o clauză calendaristică unică pentru intrarea în vigoare a legii inițiale. Art. 73 enumeră dispoziții abrogate, inclusiv dispoziții din Legea nr. 50/1991; schema nu suportă relații de tip repeals, iar operațiunea nu este remapată la alt tip. Nu se importă textul integral sau anexele.",
+  "import_method": "full-text",
+  "rights_note": "official_text_block_sha256: 6def5504fd71304d3f312b22605d5ac87017e35a27c34f6edd35c98de1493635. Textul oficial integral este reprodus mecanic din forma printabilă consolidată/republicată a Portalului Legislativ, inclusiv cele 72 de blocuri structurale de articole și 2 anexe; sursa oficială rămâne autoritară, iar HTML-ul Portalului este dinamic și poate varia între retrieval-uri. La auditul din 2026-09-01, URL-ul detail a returnat brut HTTP 403, text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75, iar cu User-Agent a returnat HTTP 200, text/html; charset=utf-8, 251397 bytes, SHA-256 2c919f26b7ade17fe78422b446a5635a70ddc60b366af9c8ee628ef5f20e3303. Forma printabilă oficială identificată în detail este https://legislatie.just.ro/Public/FormaPrintabila/00000G2ONP1OLCEK2FF2M055E14Y1ID4; brut a returnat HTTP 403, text/html, 162 bytes, același SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75, iar cu User-Agent a returnat HTTP 200, text/html; charset=utf-8, 182162 bytes, SHA-256 93af833cf26fce33d94eda3158e157b737fd89ed8b0f3939e9b645859364ab98. Retrieval UTC: detail 2026-09-01T19:12:06Z, printable 2026-09-01T19:12:08Z. Tabelul din Anexa 1 a fost transcris în Markdown din asset-ul oficial https://legislatie.just.ro/ImaginiDinActe/70658_A1018.jpg, auditat la 2026-09-01T19:14:28Z cu HTTP 200, image/jpeg, 57417 bytes, SHA-256 aac91490f1d09e20b782e0cbf1cc07fd25e346aafe153fff144a2d2b604e8f0c; imaginea nu este comisă. Statusul rămâne unknown, iar effective_date este omisă deoarece forma consolidată nu oferă o regulă calendaristică globală neambiguă; regula punctuală din art. 63 alin. (3) pentru art. 5^1 nu este data generală a legii. Art. 73 menționează abrogări ale unor dispoziții din Legea nr. 50/1991, dar schema nu suportă repeals și nu se adaugă o relație inexactă. Nu au fost importate PDF-uri, DOCX-uri, OCR, capturi sau alte binare.",
   "tags": [
     "locuinte",
     "constructii",
     "fond-locativ",
     "locuinte-sociale",
     "lege",
-    "forma-republicata",
-    "metadata-only"
+    "forma-republicata"
   ]
 }
