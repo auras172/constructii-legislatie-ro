@@ -7019,6 +7019,461 @@
       ],
       "annex_count": 11
     },
+    "lege-114-1996": {
+      "title": "Legea nr. 114 din 11 octombrie 1996 (republicată) privind locuințele",
+      "slug": "lege-114-1996",
+      "file": "legi/lege-114-1996.md",
+      "articles": [
+        {
+          "id": "art-1",
+          "anchor": "#art-1",
+          "url_fragment": "legi/lege-114-1996.md#art-1",
+          "line": 66
+        },
+        {
+          "id": "art-2",
+          "anchor": "#art-2",
+          "url_fragment": "legi/lege-114-1996.md#art-2",
+          "line": 70
+        },
+        {
+          "id": "art-3",
+          "anchor": "#art-3",
+          "url_fragment": "legi/lege-114-1996.md#art-3",
+          "line": 106
+        },
+        {
+          "id": "art-4",
+          "anchor": "#art-4",
+          "url_fragment": "legi/lege-114-1996.md#art-4",
+          "line": 114
+        },
+        {
+          "id": "art-5",
+          "anchor": "#art-5",
+          "url_fragment": "legi/lege-114-1996.md#art-5",
+          "line": 118
+        },
+        {
+          "id": "art-5-1",
+          "anchor": "#art-5-1",
+          "url_fragment": "legi/lege-114-1996.md#art-5-1",
+          "line": 152
+        },
+        {
+          "id": "art-7",
+          "anchor": "#art-7",
+          "url_fragment": "legi/lege-114-1996.md#art-7",
+          "line": 176
+        },
+        {
+          "id": "art-8",
+          "anchor": "#art-8",
+          "url_fragment": "legi/lege-114-1996.md#art-8",
+          "line": 214
+        },
+        {
+          "id": "art-9",
+          "anchor": "#art-9",
+          "url_fragment": "legi/lege-114-1996.md#art-9",
+          "line": 224
+        },
+        {
+          "id": "art-10",
+          "anchor": "#art-10",
+          "url_fragment": "legi/lege-114-1996.md#art-10",
+          "line": 236
+        },
+        {
+          "id": "art-11",
+          "anchor": "#art-11",
+          "url_fragment": "legi/lege-114-1996.md#art-11",
+          "line": 244
+        },
+        {
+          "id": "art-12",
+          "anchor": "#art-12",
+          "url_fragment": "legi/lege-114-1996.md#art-12",
+          "line": 248
+        },
+        {
+          "id": "art-13",
+          "anchor": "#art-13",
+          "url_fragment": "legi/lege-114-1996.md#art-13",
+          "line": 266
+        },
+        {
+          "id": "art-14",
+          "anchor": "#art-14",
+          "url_fragment": "legi/lege-114-1996.md#art-14",
+          "line": 276
+        },
+        {
+          "id": "art-15",
+          "anchor": "#art-15",
+          "url_fragment": "legi/lege-114-1996.md#art-15",
+          "line": 280
+        },
+        {
+          "id": "art-16",
+          "anchor": "#art-16",
+          "url_fragment": "legi/lege-114-1996.md#art-16",
+          "line": 294
+        },
+        {
+          "id": "art-17",
+          "anchor": "#art-17",
+          "url_fragment": "legi/lege-114-1996.md#art-17",
+          "line": 298
+        },
+        {
+          "id": "art-18",
+          "anchor": "#art-18",
+          "url_fragment": "legi/lege-114-1996.md#art-18",
+          "line": 302
+        },
+        {
+          "id": "art-19",
+          "anchor": "#art-19",
+          "url_fragment": "legi/lege-114-1996.md#art-19",
+          "line": 306
+        },
+        {
+          "id": "art-21",
+          "anchor": "#art-21",
+          "url_fragment": "legi/lege-114-1996.md#art-21",
+          "line": 312
+        },
+        {
+          "id": "art-22",
+          "anchor": "#art-22",
+          "url_fragment": "legi/lege-114-1996.md#art-22",
+          "line": 340
+        },
+        {
+          "id": "art-23",
+          "anchor": "#art-23",
+          "url_fragment": "legi/lege-114-1996.md#art-23",
+          "line": 354
+        },
+        {
+          "id": "art-24",
+          "anchor": "#art-24",
+          "url_fragment": "legi/lege-114-1996.md#art-24",
+          "line": 358
+        },
+        {
+          "id": "art-25",
+          "anchor": "#art-25",
+          "url_fragment": "legi/lege-114-1996.md#art-25",
+          "line": 376
+        },
+        {
+          "id": "art-26",
+          "anchor": "#art-26",
+          "url_fragment": "legi/lege-114-1996.md#art-26",
+          "line": 382
+        },
+        {
+          "id": "art-27",
+          "anchor": "#art-27",
+          "url_fragment": "legi/lege-114-1996.md#art-27",
+          "line": 390
+        },
+        {
+          "id": "art-28",
+          "anchor": "#art-28",
+          "url_fragment": "legi/lege-114-1996.md#art-28",
+          "line": 408
+        },
+        {
+          "id": "art-29",
+          "anchor": "#art-29",
+          "url_fragment": "legi/lege-114-1996.md#art-29",
+          "line": 420
+        },
+        {
+          "id": "art-30",
+          "anchor": "#art-30",
+          "url_fragment": "legi/lege-114-1996.md#art-30",
+          "line": 434
+        },
+        {
+          "id": "art-31",
+          "anchor": "#art-31",
+          "url_fragment": "legi/lege-114-1996.md#art-31",
+          "line": 440
+        },
+        {
+          "id": "art-32",
+          "anchor": "#art-32",
+          "url_fragment": "legi/lege-114-1996.md#art-32",
+          "line": 444
+        },
+        {
+          "id": "art-33",
+          "anchor": "#art-33",
+          "url_fragment": "legi/lege-114-1996.md#art-33",
+          "line": 448
+        },
+        {
+          "id": "art-34",
+          "anchor": "#art-34",
+          "url_fragment": "legi/lege-114-1996.md#art-34",
+          "line": 454
+        },
+        {
+          "id": "art-35",
+          "anchor": "#art-35",
+          "url_fragment": "legi/lege-114-1996.md#art-35",
+          "line": 474
+        },
+        {
+          "id": "art-35-1",
+          "anchor": "#art-35-1",
+          "url_fragment": "legi/lege-114-1996.md#art-35-1",
+          "line": 486
+        },
+        {
+          "id": "art-36",
+          "anchor": "#art-36",
+          "url_fragment": "legi/lege-114-1996.md#art-36",
+          "line": 498
+        },
+        {
+          "id": "art-37",
+          "anchor": "#art-37",
+          "url_fragment": "legi/lege-114-1996.md#art-37",
+          "line": 502
+        },
+        {
+          "id": "art-38",
+          "anchor": "#art-38",
+          "url_fragment": "legi/lege-114-1996.md#art-38",
+          "line": 510
+        },
+        {
+          "id": "art-39",
+          "anchor": "#art-39",
+          "url_fragment": "legi/lege-114-1996.md#art-39",
+          "line": 518
+        },
+        {
+          "id": "art-40",
+          "anchor": "#art-40",
+          "url_fragment": "legi/lege-114-1996.md#art-40",
+          "line": 522
+        },
+        {
+          "id": "art-41",
+          "anchor": "#art-41",
+          "url_fragment": "legi/lege-114-1996.md#art-41",
+          "line": 526
+        },
+        {
+          "id": "art-42",
+          "anchor": "#art-42",
+          "url_fragment": "legi/lege-114-1996.md#art-42",
+          "line": 532
+        },
+        {
+          "id": "art-43",
+          "anchor": "#art-43",
+          "url_fragment": "legi/lege-114-1996.md#art-43",
+          "line": 546
+        },
+        {
+          "id": "art-44",
+          "anchor": "#art-44",
+          "url_fragment": "legi/lege-114-1996.md#art-44",
+          "line": 550
+        },
+        {
+          "id": "art-45",
+          "anchor": "#art-45",
+          "url_fragment": "legi/lege-114-1996.md#art-45",
+          "line": 556
+        },
+        {
+          "id": "art-46",
+          "anchor": "#art-46",
+          "url_fragment": "legi/lege-114-1996.md#art-46",
+          "line": 562
+        },
+        {
+          "id": "art-47",
+          "anchor": "#art-47",
+          "url_fragment": "legi/lege-114-1996.md#art-47",
+          "line": 570
+        },
+        {
+          "id": "art-48",
+          "anchor": "#art-48",
+          "url_fragment": "legi/lege-114-1996.md#art-48",
+          "line": 574
+        },
+        {
+          "id": "art-49",
+          "anchor": "#art-49",
+          "url_fragment": "legi/lege-114-1996.md#art-49",
+          "line": 590
+        },
+        {
+          "id": "art-50",
+          "anchor": "#art-50",
+          "url_fragment": "legi/lege-114-1996.md#art-50",
+          "line": 594
+        },
+        {
+          "id": "art-51",
+          "anchor": "#art-51",
+          "url_fragment": "legi/lege-114-1996.md#art-51",
+          "line": 608
+        },
+        {
+          "id": "art-52",
+          "anchor": "#art-52",
+          "url_fragment": "legi/lege-114-1996.md#art-52",
+          "line": 618
+        },
+        {
+          "id": "art-53",
+          "anchor": "#art-53",
+          "url_fragment": "legi/lege-114-1996.md#art-53",
+          "line": 626
+        },
+        {
+          "id": "art-54",
+          "anchor": "#art-54",
+          "url_fragment": "legi/lege-114-1996.md#art-54",
+          "line": 640
+        },
+        {
+          "id": "art-55",
+          "anchor": "#art-55",
+          "url_fragment": "legi/lege-114-1996.md#art-55",
+          "line": 650
+        },
+        {
+          "id": "art-56",
+          "anchor": "#art-56",
+          "url_fragment": "legi/lege-114-1996.md#art-56",
+          "line": 658
+        },
+        {
+          "id": "art-57",
+          "anchor": "#art-57",
+          "url_fragment": "legi/lege-114-1996.md#art-57",
+          "line": 670
+        },
+        {
+          "id": "art-58",
+          "anchor": "#art-58",
+          "url_fragment": "legi/lege-114-1996.md#art-58",
+          "line": 678
+        },
+        {
+          "id": "art-59",
+          "anchor": "#art-59",
+          "url_fragment": "legi/lege-114-1996.md#art-59",
+          "line": 694
+        },
+        {
+          "id": "art-60",
+          "anchor": "#art-60",
+          "url_fragment": "legi/lege-114-1996.md#art-60",
+          "line": 714
+        },
+        {
+          "id": "art-61",
+          "anchor": "#art-61",
+          "url_fragment": "legi/lege-114-1996.md#art-61",
+          "line": 726
+        },
+        {
+          "id": "art-62",
+          "anchor": "#art-62",
+          "url_fragment": "legi/lege-114-1996.md#art-62",
+          "line": 730
+        },
+        {
+          "id": "art-63",
+          "anchor": "#art-63",
+          "url_fragment": "legi/lege-114-1996.md#art-63",
+          "line": 746
+        },
+        {
+          "id": "art-64",
+          "anchor": "#art-64",
+          "url_fragment": "legi/lege-114-1996.md#art-64",
+          "line": 760
+        },
+        {
+          "id": "art-65",
+          "anchor": "#art-65",
+          "url_fragment": "legi/lege-114-1996.md#art-65",
+          "line": 764
+        },
+        {
+          "id": "art-66",
+          "anchor": "#art-66",
+          "url_fragment": "legi/lege-114-1996.md#art-66",
+          "line": 768
+        },
+        {
+          "id": "art-67",
+          "anchor": "#art-67",
+          "url_fragment": "legi/lege-114-1996.md#art-67",
+          "line": 772
+        },
+        {
+          "id": "art-68",
+          "anchor": "#art-68",
+          "url_fragment": "legi/lege-114-1996.md#art-68",
+          "line": 782
+        },
+        {
+          "id": "art-69",
+          "anchor": "#art-69",
+          "url_fragment": "legi/lege-114-1996.md#art-69",
+          "line": 790
+        },
+        {
+          "id": "art-71",
+          "anchor": "#art-71",
+          "url_fragment": "legi/lege-114-1996.md#art-71",
+          "line": 806
+        },
+        {
+          "id": "art-72",
+          "anchor": "#art-72",
+          "url_fragment": "legi/lege-114-1996.md#art-72",
+          "line": 810
+        },
+        {
+          "id": "art-73",
+          "anchor": "#art-73",
+          "url_fragment": "legi/lege-114-1996.md#art-73",
+          "line": 814
+        }
+      ],
+      "article_count": 72,
+      "annexes": [
+        {
+          "id": "anexa-1",
+          "anchor": "#anexa-1",
+          "url_fragment": "legi/lege-114-1996.md#anexa-1",
+          "line": 830
+        },
+        {
+          "id": "anexa-2",
+          "anchor": "#anexa-2",
+          "url_fragment": "legi/lege-114-1996.md#anexa-2",
+          "line": 1057
+        }
+      ],
+      "annex_count": 2
+    },
     "lege-169-2026": {
       "title": "Lege privind Codul amenajării teritoriului, urbanismului și construcțiilor",
       "slug": "lege-169-2026",

@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-08-31T21:53:24.801Z",
+  "generated_at": "2026-09-01T19:30:16.688Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 55,
-    "acts_metadata_only": 245,
-    "article_anchors_total": 5862,
+    "acts_full_text": 56,
+    "acts_metadata_only": 244,
+    "article_anchors_total": 5934,
     "import_logs_total": 324,
     "domains": [
       "anre",
@@ -829,9 +829,9 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 72,
-      "anchor_count": 0,
+      "anchor_count": 72,
       "file": "legi/lege-114-1996.md",
       "metadata_file": "metadata/acts/lege-114-1996.json"
     },
