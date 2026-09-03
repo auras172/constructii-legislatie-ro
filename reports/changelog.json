@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:15:54.248Z",
+  "generated_at": "2026-09-03T18:21:34.595Z",
   "months": [
     {
       "month": "2026-09",
@@ -9,6 +9,8 @@
       "documentation": [],
       "fixes": [],
       "misc": [
+        "Merge pull request #630 from auras172/codex/full-text-lege-99-2016",
+        "feat: import full text Legea 99/2016",
         "Merge pull request #629 from auras172/codex/full-text-lege-193-2019",
         "feat: import full text Legea 193/2019",
         "Merge pull request #628 from auras172/codex/full-text-lege-114-1996",

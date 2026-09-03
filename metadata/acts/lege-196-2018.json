@@ -19,18 +19,18 @@
   "issue_date": "2018-07-20",
   "publication_date": "2018-07-30",
   "publication_medium": "monitorul-oficial",
-  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0028H9GARSQJI37PQMDNR6U1CL",
-  "official_source": "Portal Legislativ — forma consolidată; publicată inițial în Monitorul Oficial nr. 660 din 30 iulie 2018",
-  "official_detail_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G0028H9GARSQJI37PQMDNR6U1CL",
+  "source_url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3T5TM1SQ85ACV36YEMU2ON0ZBS",
+  "official_source": "Portal Legislativ — forma consolidată curentă; publicată inițial în Monitorul Oficial nr. 660 din 30 iulie 2018",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/217390",
   "version_kind": "consolidat",
-  "last_checked": "2026-08-16",
-  "version": "forma consolidată afișată de Portalul Legislativ; istoricul modificărilor este reflectat în forma oficială verificată",
+  "last_checked": "2026-09-03",
+  "version": "forma consolidată curentă afișată de Portalul Legislativ la 2026-09-03; include nota și completarea art. 10^1 prin OUG nr. 82/2025",
   "article_count": 110,
   "annex_count": 0,
   "effective_date": "2018-09-28",
-  "import_method": "metadata-only",
+  "import_method": "full-text",
   "amended_by": ["oug-82-2025"],
-  "rights_note": "Import metadata-only. Portalul Legislativ rămâne sursa oficială. Art. 110 stabilește intrarea în vigoare la 60 de zile de la publicarea în Monitorul Oficial, calculată ca 28 septembrie 2018. Nu se importă textul integral. Citările către alte acte rămân documentate în import-log; nu se adaugă relații speculative sau relații de tip repeals/amends care nu sunt suportate de schema pentru această evidență.",
+  "rights_note": "Import full-text din forma consolidată oficială a Portalului Legislativ, auditată la 2026-09-03 prin fallback User-Agent după răspuns HTTP 403. Textul include forma curentă afișată de Portal, inclusiv nota și art. 10^1 introduse prin OUG nr. 82/2025; actul ulterior nu este modificat sau importat prin acest PR. Art. 109 stabilește intrarea în vigoare la 60 de zile de la publicarea în Monitorul Oficial, calculată ca 28 septembrie 2018. Portalul rămâne sursa oficială; nu se importă PDF, DOCX, OCR, capturi sau binare și nu se adaugă relații speculative.",
   "tags": [
     "asociatii-de-proprietari",
     "condominii",
@@ -38,6 +38,6 @@
     "locuinte",
     "constructii",
     "lege",
-    "metadata-only"
+    "forma-consolidata"
   ]
 }
