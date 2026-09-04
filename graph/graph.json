@@ -587,7 +587,7 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "lege-204-2020",

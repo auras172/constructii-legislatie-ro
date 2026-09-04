@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-09-01T22:49:50.225Z",
+  "generated_at": "2026-09-03T18:35:33.953Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,9 +16,9 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 59,
-    "acts_metadata_only": 241,
-    "article_anchors_total": 6316,
+    "acts_full_text": 60,
+    "acts_metadata_only": 240,
+    "article_anchors_total": 6427,
     "import_logs_total": 324,
     "domains": [
       "anre",
@@ -1011,9 +1011,9 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 110,
-      "anchor_count": 0,
+      "anchor_count": 111,
       "file": "legi/lege-196-2018.md",
       "metadata_file": "metadata/acts/lege-196-2018.json"
     },
