@@ -23,12 +23,12 @@
   "official_source": "Portal Legislativ — forma republicată; publicarea inițială în M.Of. nr. 139/02.06.1994 și republicarea în M.Of. nr. 472/05.07.2011",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/129800",
   "version_kind": "republicat",
-  "last_checked": "2026-08-16",
-  "version": "Forma republicată în temeiul art. 218 din Legea nr. 71/2011; Portalul afișează forma consolidată cu modificările vizibile în pagină.",
-  "article_count": 42,
+  "last_checked": "2026-09-05",
+  "version": "Forma republicată în temeiul art. 218 din Legea nr. 71/2011; forma consolidată verificată în Portal include modificarea vizibilă la Art. 5 prin Legea nr. 252/2020.",
+  "article_count": 41,
   "annex_count": 0,
-  "import_method": "metadata-only",
-  "rights_note": "Nu se importă textul legal integral. Detail-ul și forma printabilă Portal au răspuns HTTP 403 în auditul direct; forma printabilă a fost verificată în browser, unde textul complet a fost randat. Pentru fallback sunt păstrate separat statusul/bytes/hash-ul răspunsului 403 și amprenta DOM randată; nu se confundă cu hash-ul corpului HTTP. Effective_date este omisă deoarece forma verificată nu conține o clauză calendaristică unică de intrare în vigoare.",
+  "import_method": "full-text",
+  "rights_note": "Textul oficial integral este importat din forma republicată și consolidată a Portalului. Detail-ul și forma printabilă au răspuns HTTP 403 la auditul direct; recuperarea cu User-Agent și verificarea browser au confirmat conținutul oficial complet. Sunt documentate separat statusul/bytes/hash-ul răspunsului 403, răspunsurile 200 recuperate și amprenta DOM randată; hashurile DOM nu sunt confundate cu hashurile corpurilor HTTP. Portalul afișează 41 de articole (Art. 1–41) și 0 anexe; valoarea anterioară de 42 a fost corectată conform sursei. Effective_date este omisă deoarece forma verificată nu oferă o clauză calendaristică unică pentru intrarea în vigoare a legii inițiale.",
   "relationships": [
     {
       "type": "references",
@@ -48,7 +48,7 @@
     "expropriere",
     "utilitate-publica",
     "infrastructura",
-    "metadata-only",
+    "full-text",
     "forma-republicata"
   ]
 }
