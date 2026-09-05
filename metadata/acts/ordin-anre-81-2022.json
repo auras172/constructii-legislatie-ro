@@ -14,12 +14,28 @@
   "effective_date": "2022-06-17",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-05",
+  "last_checked": "2026-09-05",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256502",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256502",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 81/15.06.2022, publicat în M.Of. Partea I, nr. 590 din 17 iunie 2022. Portal Legislativ document ID 256502 confirmă actul. Art. I modifică și completează explicit Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013, publicat în M.Of. nr. 517 și 517 bis din 19 august 2013. Modificările includ reguli privind limitarea operațională a puterii maxime evacuate în rețea și cerințe/documentații pentru prosumatori/locuri de consum și de producere. Art. IV prevede publicarea în Monitorul Oficial; nu a fost identificată o clauză de aplicare întârziată, deci effective_date este păstrată ca data publicării, 2022-06-17. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește muchiile confirmate din related_acts.",
-  "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "prosumatori", "limitare-putere", "amendament", "ordin-anre-59-2013"],
-  "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "Textul integral provine din forma printabilă oficială a Portalului Legislativ pentru Ordinul ANRE nr. 81/2022 (ID 256502), auditata la 05.09.2026. Cererea directa a paginii detail si a formei printabile a returnat HTTP 403; fallback-ul cu User-Agent a returnat HTTP 200. Statusurile, content-type, bytes, SHA-256 si timestampurile UTC sunt consemnate in logul dedicat. Ordinul are 4 articole si 0 anexe proprii; Art. I contine 20 de puncte de modificare a Regulamentului aprobat prin Ordinul ANRE nr. 59/2013. Nu se importa acte externe sau binare. Relatia repo-locala existenta amends -> ordin-anre-59-2013 este pastrata. official_text_sha256: 80ae240136501e78d9f42abc19d146cd1bb251cbbf6755d38bd4ae70cc2c11ff.",
+  "tags": [
+    "anre",
+    "racordare",
+    "utilizatori",
+    "retele-electrice",
+    "prosumatori",
+    "limitare-putere",
+    "amendament",
+    "ordin-anre-59-2013"
+  ],
+  "related_acts": [
+    "ordin-anre-59-2013"
+  ],
+  "amends": [
+    "ordin-anre-59-2013"
+  ],
+  "version": "formă originală; textul oficial integral importat din forma printabilă Portal Legislativ la 05.09.2026",
+  "article_count": 4,
+  "annex_count": 0
 }
