@@ -1635,7 +1635,7 @@
       "type": "ordin",
       "domain": "incendiu",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ordin-mai-87-2010",

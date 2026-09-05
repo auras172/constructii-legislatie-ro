@@ -9,6 +9,15 @@ All notable changes to constructii-legislatie-ro.
 ## September 2026
 
 ### Other
+- Merge pull request #635 from auras172/codex/full-text-lege-33-1994
+- feat: import full text Legea 33/1994
+- Merge pull request #634 from auras172/codex/full-text-lege-184-2001
+- feat: import full text Legea 184/2001
+- Merge pull request #633 from auras172/codex/full-text-lege-196-2018-reconciled
+- chore: refresh full-text import artifacts
+- feat: import full text Legea 196/2018
+- Merge pull request #631 from auras172/codex/full-text-lege-18-1991
+- feat: import full text Legea 18/1991
 - Merge pull request #630 from auras172/codex/full-text-lege-99-2016
 - feat: import full text Legea 99/2016
 - Merge pull request #629 from auras172/codex/full-text-lege-193-2019
