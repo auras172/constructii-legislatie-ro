@@ -1467,7 +1467,7 @@
       "type": "ordin",
       "domain": "anre",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ordin-anre-2-2023",

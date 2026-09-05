@@ -1,14 +1,14 @@
 # Repository Health Report
 
-Generated: 2026-09-05T19:32:58.683Z
+Generated: 2026-09-05T20:38:18.413Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 300 |
-| Full-text acts | 65 |
-| Metadata-only acts | 235 |
+| Full-text acts | 66 |
+| Metadata-only acts | 234 |
 | Import log files | 327 |
 | Total relationship links | 561 |
 | Unique domains | 12 |
@@ -200,7 +200,7 @@ Generated: 2026-09-05T19:32:58.683Z
 | ordin-anre-15-2026 | ✗ | ✓ | ✓ | — | 4 | ✓ |
 | ordin-anre-16-2021 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-160-2020 | ✗ | ✓ | ✓ | — | 3 | ✓ |
-| ordin-anre-17-2022 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-17-2022 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | ordin-anre-2-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-20-2025 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-22-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
@@ -391,12 +391,12 @@ Generated: 2026-09-05T19:32:58.683Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 235 |
+| metadata-only | 234 |
 | full-text | 35 |
 | printable HTML → Markdown | 7 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
+| official printable HTML → Markdown | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
-| official printable HTML → Markdown | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
 | Portal Legislativ forma printabila (HG A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 1 |
 | Portal Legislativ forma printabila → text extract via curl + Python HTML strip (br/p/div → newlines) → Markdown cu headings structurale | 1 |

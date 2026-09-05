@@ -4,7 +4,7 @@
   "canonical_citation": "Ordin ANRE nr. 17/2022",
   "type": "ordin",
   "number": "17",
-  "year": "2022",
+  "year": 2022,
   "issuer": "Autoritatea Națională de Reglementare în Domeniul Energiei",
   "issuing_body_kind": "autoritate",
   "domain": "anre",
@@ -14,12 +14,26 @@
   "publication_medium": "monitorul-oficial",
   "version_kind": "consolidat",
   "consolidated_as_of": "2022-03-18",
-  "last_checked": "2026-07-05",
+  "last_checked": "2026-09-05",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252388",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252388",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 17/02.03.2022, publicat în M.Of. Partea I, nr. 216 din 4 martie 2022. Portal Legislativ document ID 252388 confirmă actul și indică formă consolidată la 18.03.2022. Art. I modifică și completează explicit Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013, publicat în M.Of. nr. 517 și 517 bis din 19 august 2013. Art. I conține 42 de operațiuni asupra regulamentului și anexelor; Art. II-V stabilesc reguli tranzitorii/de aplicare pentru anumite modificări. Nu a fost identificată o clauză generală explicită de intrare în vigoare, deci effective_date este omisă. Candidatul anterior Ordin ANRE 19/2022 a fost verificat și respins: acțiunile suferite ale ID 150711 listează ORDIN 17/02.03.2022 (ID 252388), nu ORDIN 19/2022. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește muchiile confirmate din related_acts.",
-  "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "prosumatori", "amendament", "ordin-anre-59-2013"],
-  "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "official_text_sha256: de26243ffe7270094223eebac8d6c16c34da9fa94450a1dbae6e7e5f11891122. Sursa oficială Portal Legislativ pentru documentul ID 252388 a fost auditată la 2026-09-05. Cererea HTTP directă pentru pagina detail a răspuns 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75); fallback-ul User-Agent cu Accept-Encoding: identity a răspuns 200 (text/html; charset=utf-8, 165404 bytes, SHA-256 eede859fbe02c6b656fe6d0b33b9179b6b613e9e20f95c56e4db709ced5ebb92). Forma printabilă oficială indicată de detail este https://legislatie.just.ro/Public/FormaPrintabila/00000G2LH45NKLED7923MKRQYU8RO31J; cererea directă a răspuns 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75), iar fallback-ul User-Agent a răspuns 200 (text/html; charset=utf-8, 109479 bytes, SHA-256 e63d8551cd590944b74758e33af063436467ed000e6859347f7f7179239e7048). Timestampurile exacte UTC sunt în import-log/2026-09-05-ordin-anre-17-2022.md. Nu a fost necesar browser DOM fallback: răspunsurile complete au fost obținute prin User-Agent, iar hashurile raportate sunt ale body-urilor HTTP. Structura sursei este 7 articole de nivel superior (I–VII) și 1 anexă; titlurile articolelor regulamentului modificat din Art. I nu sunt numărate separat. Textul integral provine exclusiv din forma printabilă oficială; nu sunt importate PDF, DOCX, OCR, capturi sau binare. Relația amends -> ordin-anre-59-2013 și related_acts existentă sunt păstrate fără relații speculative noi.",
+  "tags": [
+    "anre",
+    "racordare",
+    "utilizatori",
+    "retele-electrice",
+    "prosumatori",
+    "amendament",
+    "ordin-anre-59-2013"
+  ],
+  "related_acts": [
+    "ordin-anre-59-2013"
+  ],
+  "amends": [
+    "ordin-anre-59-2013"
+  ],
+  "article_count": 7,
+  "annex_count": 1
 }
