@@ -1435,7 +1435,7 @@
       "type": "ordin",
       "domain": "anre",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ordin-anre-15-2026",
@@ -5680,10 +5680,49 @@
     },
     {
       "source": "ordin-anre-133-2022",
+      "target": "lege-123-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 3 pct. 95, art. 25 alin. (13) și art. 51 alin. (3^4)-(3^6) din Legea nr. 123/2012; art. II reia art. 51 alin. (3^5), iar art. VII citează actul în lanțul normativ al Legii nr. 248/2022 și OUG nr. 143/2021.",
+      "source_article": "Preambul; art. II; art. VII",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682"
+    },
+    {
+      "source": "ordin-anre-133-2022",
+      "target": "ordin-anre-17-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VI alin. (1) citează explicit Ordinul ANRE nr. 17/2022 și data de 4 martie 2022 în regula tranzitorie privind termenele contractelor de racordare.",
+      "source_article": "Art. VI alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682"
+    },
+    {
+      "source": "ordin-anre-133-2022",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
       "review_status": "confirmed",
       "evidence": "metadata/acts/ordin-anre-133-2022.json"
+    },
+    {
+      "source": "ordin-anre-133-2022",
+      "target": "ordin-anre-81-2022",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VI alin. (1) citează explicit Ordinul ANRE nr. 81/2022 și data de 17 iunie 2022 în regula tranzitorie privind termenele contractelor de racordare.",
+      "source_article": "Art. VI alin. (1)",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682"
     },
     {
       "source": "ordin-anre-15-2026",
@@ -9107,7 +9146,7 @@
   ],
   "stats": {
     "total_nodes": 300,
-    "confirmed_edges": 569,
+    "confirmed_edges": 572,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

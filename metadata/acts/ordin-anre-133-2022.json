@@ -14,12 +14,49 @@
   "effective_date": "2022-10-21",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-05",
+  "last_checked": "2026-09-05",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 133/19.10.2022, publicat în M.Of. Partea I, nr. 1028 din 21 octombrie 2022. Portal Legislativ document ID 260682 confirmă actul. Art. I modifică și completează explicit Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013, publicat în M.Of. nr. 517 și 517 bis din 19 august 2013. Art. IX prevede publicarea în Monitorul Oficial; nu a fost identificată o clauză de aplicare întârziată, iar effective_date este păstrată ca data publicării confirmată în brief-ul de import, 2022-10-21. Actul modifică și alte ordine ANRE din domeniul racordării, dar această intrare modelează doar relația repo-locală source-backed cu ordin-anre-59-2013. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește muchiile confirmate din related_acts.",
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "Forma oficială a Portalului Legislativ pentru documentul ID 260682 a fost auditată la 05.09.2026: cererile directe au răspuns HTTP 403, iar fallback-ul cu User-Agent și Accept-Encoding: identity a răspuns HTTP 200; bytes, content-type, timestampurile UTC și SHA-256 sunt în import-log/2026-09-05-ordin-anre-133-2022.md. Textul integral este importat din forma printabilă HTML fără PDF, DOCX, OCR, screenshot-uri sau binare; official_text_sha256: d7de9a0d0a62d51cb924dc6039faf56e13eefab061a943588cd6ea65269837b6. Structura oficială are 9 articole de nivel superior (I–IX) și 1 anexă; titlurile articolelor actelor modificate nu sunt numărate separat. Relația existentă amends -> ordin-anre-59-2013 este păstrată; sunt adăugate doar referințe explicite către ordin-anre-17-2022, ordin-anre-81-2022 și lege-123-2012, iar ordinele 74/2014, 18/2022, 19/2022 și 105/2022, precum și celelalte acte fără nod local, nu sunt inventate ca noduri sau relații.",
   "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "prosumatori", "amendament", "ordin-anre-59-2013"],
   "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "amends": ["ordin-anre-59-2013"],
+  "article_count": 9,
+  "annex_count": 1,
+  "relationships": [
+    {
+      "type": "references",
+      "target": "ordin-anre-17-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VI alin. (1) citează explicit Ordinul ANRE nr. 17/2022 și data de 4 martie 2022 în regula tranzitorie privind termenele contractelor de racordare.",
+      "source_article": "Art. VI alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05"
+    },
+    {
+      "type": "references",
+      "target": "ordin-anre-81-2022",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Art. VI alin. (1) citează explicit Ordinul ANRE nr. 81/2022 și data de 17 iunie 2022 în regula tranzitorie privind termenele contractelor de racordare.",
+      "source_article": "Art. VI alin. (1)",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05"
+    },
+    {
+      "type": "references",
+      "target": "lege-123-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 3 pct. 95, art. 25 alin. (13) și art. 51 alin. (3^4)-(3^6) din Legea nr. 123/2012; art. II reia art. 51 alin. (3^5), iar art. VII citează actul în lanțul normativ al Legii nr. 248/2022 și OUG nr. 143/2021.",
+      "source_article": "Preambul; art. II; art. VII",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/260682",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-05"
+    }
+  ]
 }
