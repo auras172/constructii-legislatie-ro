@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-09-05T18:12:03.303Z",
+  "generated_at": "2026-09-05T19:32:58.785Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 64,
-    "acts_metadata_only": 236,
-    "article_anchors_total": 6568,
-    "import_logs_total": 326,
+    "acts_full_text": 65,
+    "acts_metadata_only": 235,
+    "article_anchors_total": 6577,
+    "import_logs_total": 327,
     "domains": [
       "anre",
       "autorizatii",
@@ -45,7 +45,7 @@
     ]
   },
   "relationships": {
-    "confirmed_relationships": 569,
+    "confirmed_relationships": 572,
     "auto_detected_references": 314,
     "resolved_cross_references": 81
   },
@@ -2389,9 +2389,9 @@
       "type": "ordin",
       "domain": "anre",
       "status": "active",
-      "import_method": "metadata-only",
-      "article_count": 0,
-      "anchor_count": 0,
+      "import_method": "full-text",
+      "article_count": 9,
+      "anchor_count": 9,
       "file": "legi/ordin-anre-133-2022.md",
       "metadata_file": "metadata/acts/ordin-anre-133-2022.json"
     },
