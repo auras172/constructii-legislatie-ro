@@ -7,10 +7,10 @@
   "topics": ["arhitectura", "profesie-arhitect", "drept-de-semnatura", "proiectare", "constructii", "urbanism"],
   "status": "unknown", "issue_date": "2001-04-12", "publication_date": "2001-04-18", "effective_date": "2001-06-17",
   "publication_medium": "monitorul-oficial", "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187398",
-  "official_source": "Portal Legislativ — forma consolidată a Legii nr. 184/2001, republicată în Monitorul Oficial nr. 470 din 26 iunie 2014; forma printabilă oficială indicată de recordul detail",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/187398", "version_kind": "consolidat", "last_checked": "2026-08-17",
-  "version": "Forma consolidată afișată de Portal; republicată în Monitorul Oficial nr. 470 din 26 iunie 2014, anterior în nr. 771 din 23 august 2004",
-  "article_count": 55, "annex_count": 0, "import_method": "metadata-only",
-  "rights_note": "Articolul 53 stabilește intrarea în vigoare în termen de 60 de zile de la publicarea inițială din 18 aprilie 2001, rezultând 17 iunie 2001. Nu există suport explicit pentru relații către Legea 50/1991, Legea 350/2001 sau HG 203/2003; nu se adaugă muchii tematice.",
-  "tags": ["arhitectura", "profesie-arhitect", "drept-de-semnatura", "proiectare", "constructii", "urbanism", "lege", "forma-consolidata", "metadata-only"]
+  "official_source": "Portal Legislativ — forma consolidată a Legii nr. 184/2001, republicată în Monitorul Oficial nr. 470 din 26 iunie 2014; text importat din forma printabilă oficială a consolidării din 28.11.2020",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/187398", "version_kind": "consolidat", "last_checked": "2026-09-04",
+  "version": "Forma consolidată afișată la 28.11.2020 prin recordul Portal 232339; republicată în Monitorul Oficial nr. 470 din 26 iunie 2014, anterior în nr. 771 din 23 august 2004",
+  "article_count": 56, "annex_count": 0, "import_method": "full-text",
+  "rights_note": "Textul integral provine din forma printabilă oficială a consolidării Portal 232339 (28.11.2020), accesată la 2026-09-04. Cererea HTTP brută a primit 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75), iar fallback-ul User-Agent a primit 200; hashurile și timestampurile sunt documentate în import-log. Forma oficială are 56 articole structurale (1–53 și 12^1–12^3) și 0 anexe; metadata anterioară număra eronat 55. Articolul 53 stabilește intrarea în vigoare în termen de 60 de zile de la publicarea inițială din 18 aprilie 2001, rezultând determinist 17 iunie 2001. Statusul rămâne unknown. Nu se adaugă muchii tematice sau speculative către actele citate contextual.",
+  "tags": ["arhitectura", "profesie-arhitect", "drept-de-semnatura", "proiectare", "constructii", "urbanism", "lege", "forma-consolidata", "full-text"]
 }
