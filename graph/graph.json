@@ -723,7 +723,7 @@
       "type": "lege",
       "domain": "urbanism",
       "status": "unknown",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "lege-350-2001",
