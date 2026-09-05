@@ -23,15 +23,15 @@
   "publication_medium": "portal-legislativ",
   "version_kind": "consolidat",
   "consolidated_as_of": "2023-01-06",
-  "last_checked": "2026-07-22",
+  "last_checked": "2026-09-05",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
   "official_source": "Portal Legislativ — legislatie.just.ro; Monitorul Oficial al României, Partea I, nr. 1253 din 27 decembrie 2022",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263451",
-  "version": "formă consolidată Portal Legislativ la 06.01.2023; anexa Norme metodologice este disponibilă pe Portal Legislativ la DetaliiDocumentAfis/263452",
+  "version": "formă consolidată Portal Legislativ la 06.01.2023; ordinul și anexa Norme metodologice au fost importate din formele printabile oficiale la 05.09.2026",
   "article_count": 40,
   "annex_count": 19,
-  "import_method": "metadata-only",
-  "rights_note": "Ordinul ministrului afacerilor interne nr. 180/29.11.2022, publicat în Monitorul Oficial al României, Partea I, nr. 1253 din 27.12.2022. Portal Legislativ ID 263451 confirmă titlul, emitentul, data emiterii, publicarea, forma consolidată la 06.01.2023 și structura ordinului de 4 articole + 1 anexă. Art. 1 aprobă Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă, disponibile în anexa Portal Legislativ ID 263452, cu 36 de articole și 19 anexe. article_count este semantic: 4 articole ordin + 36 articole Norme; annex_count reflectă cele 19 anexe ale Normelor metodologice. Art. 4 alin. (1) prevede publicarea în Monitorul Oficial, iar în lipsa unei clauze de amânare data intrării în vigoare este data publicării: 27.12.2022; Art. 4 alin. (2) abrogă Ordinul ministrului afacerilor interne nr. 129/2016 la data intrării în vigoare a Ordinului MAI 180/2022. Preambulul citează explicit Legea nr. 307/2006, Legea nr. 481/2004, Legea nr. 50/1991 și HG nr. 525/1996. Art. 1 din Normele metodologice citează explicit Legea nr. 10/1995, Legea nr. 50/1991, Legea nr. 307/2006, Legea nr. 481/2004 și HG nr. 907/2016, iar modelele de documente din anexe citează HG nr. 571/2016. Relațiile repo-locale se limitează la actele citate explicit și deja importate. Nu a fost identificată o citare explicită către OUG nr. 21/2004 sau normativele P118 în sursele verificate; HG nr. 525/1996 și HG nr. 907/2016 nu sunt importate în repo, iar HG nr. 525/1996 nu este confundată cu HG nr. 525/2013. Metadata-only — textul integral nu este importat în acest repo.",
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "Textul integral provine din formele printabile oficiale ale Portalului Legislativ pentru Ordinul MAI 180/2022 (ID 263451) și Normele metodologice (ID 263452), forma consolidată la 06.01.2023. Auditul din 05.09.2026 a înregistrat HTTP 403 brut și HTTP 200 cu User-Agent pentru ambele pagini de detalii, iar formele printabile au răspuns HTTP 200; statusurile, content-type, bytes, SHA-256 și timestampurile UTC sunt în logul dedicat. Structura semantică este 4 articole ale ordinului + 36 articole ale Normelor, iar annex_count este 19 pentru anexele Normelor; anexa-wrapper a ordinului este păstrată în text fără a crea un nod separat. Art. 4 alin. (1) prevede publicarea în Monitorul Oficial, iar intrarea în vigoare este 27.12.2022; Art. 4 alin. (2) abrogă Ordinul MAI nr. 129/2016. Nu se importă binare: imaginile facsimil indicate de sursa oficială pentru Anexa nr. 1 și Anexa nr. 18 sunt marcate ca omise în Markdown. Relațiile repo-locale existente sunt păstrate; nu se adaugă muchii speculative, acte externe sau noduri duplicate. official_text_sha256: 21bbb1729703ee58024ee90414c2e1e0d1a8dd4cc5292b8db4cad76015539d5a.",
   "implements": [
     "lege-307-2006",
     "lege-481-2004"
@@ -69,6 +69,7 @@
     "protectie-civila",
     "isu",
     "avizare-autorizare",
-    "constructii"
+    "constructii",
+    "full-text"
   ]
 }

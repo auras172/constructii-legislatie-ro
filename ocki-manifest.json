@@ -1,7 +1,7 @@
 {
   "ocki_version": "1.0",
   "manifest_version": "1.0",
-  "generated_at": "2026-09-05T10:36:51.113Z",
+  "generated_at": "2026-09-05T12:11:18.631Z",
   "repository": {
     "name": "constructii-legislatie-ro",
     "slug": "constructii-legislatie-ro",
@@ -16,10 +16,10 @@
   },
   "content": {
     "acts_total": 300,
-    "acts_full_text": 62,
-    "acts_metadata_only": 238,
-    "article_anchors_total": 6524,
-    "import_logs_total": 324,
+    "acts_full_text": 63,
+    "acts_metadata_only": 237,
+    "article_anchors_total": 6564,
+    "import_logs_total": 325,
     "domains": [
       "anre",
       "autorizatii",
@@ -2714,9 +2714,9 @@
       "type": "ordin",
       "domain": "incendiu",
       "status": "active",
-      "import_method": "metadata-only",
+      "import_method": "full-text",
       "article_count": 40,
-      "anchor_count": 0,
+      "anchor_count": 40,
       "file": "legi/ordin-mai-180-2022.md",
       "metadata_file": "metadata/acts/ordin-mai-180-2022.json"
     },
