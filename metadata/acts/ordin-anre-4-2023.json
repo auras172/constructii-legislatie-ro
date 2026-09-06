@@ -13,12 +13,14 @@
   "publication_date": "2023-02-03",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-11",
+  "last_checked": "2026-09-06",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264578",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264578",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 4/01.02.2023, publicat în M.Of. Partea I, nr. 95 din 3 februarie 2023. Portal Legislativ confirmă că actul modifică și completează Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013. Art. I din ordin stabilește explicit această modificare/completare, iar Art. VII conține o clauză de aplicare referitoare la data intrării în vigoare a prezentului ordin, dar fără o dată calendaristică explicită; prin urmare nu este setată o valoare `effective_date`. Metadata-only — textul integral nu este importat în acest repo.",
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "official_text_sha256: 523ff58e0e2e2340dcc83e20a089e73bda2542c63243de5d57fad7ef5430db30. Ordin ANRE nr. 4/01.02.2023, publicat în M.Of. Partea I, nr. 95 din 3 februarie 2023. Auditul sursei oficiale Portal Legislativ a fost efectuat la 2026-09-05T22:18:33Z. Cererea HTTP directă pentru https://legislatie.just.ro/Public/DetaliiDocument/264578 a răspuns 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75); fallback-ul User-Agent cu Accept-Encoding: identity a răspuns 200 (text/html; charset=utf-8, 171219 bytes, SHA-256 769c005c7e0368a983489f4644130685bb5c9616d4f31207279bb8a734d86369). Cererea HTTP directă pentru https://legislatie.just.ro/Public/DetaliiDocumentAfis/264578 a răspuns 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75); fallback-ul User-Agent a răspuns 200 (text/html; charset=utf-8, 171212 bytes, SHA-256 b9f8fb5ca2edbdb8832571a845b0c8efc588ef5c6df6a44371c5c762c4089f7b). Cererea HTTP directă pentru forma printabilă oficială https://legislatie.just.ro/Public/FormaPrintabila/00000G0XVSS5GKVGSIR0QU29IPQ9H1IN a răspuns 403 (text/html, 162 bytes, SHA-256 2de2499f4e5f896995ee7ebaa527a39b75f520f98e12110ec6c156a2433dbe75); fallback-ul User-Agent a răspuns 200 (text/html; charset=utf-8, 120608 bytes, SHA-256 135f9fa55b4358ffbde696d2ff68a217345746560b00ae1f91df8609cb6d5c12). Nu a fost necesar browser DOM fallback: răspunsurile complete au fost obținute prin User-Agent, iar hashurile raportate sunt ale body-urilor HTTP. Forma printabilă conține 7 articole de nivel superior (I–VII) și 0 anexe de nivel superior; referințele la anexele actelor modificate nu sunt anexe ale prezentului ordin. Textul oficial integral provine exclusiv din forma printabilă auditată; nu sunt importate PDF, DOCX, OCR, capturi sau binare. Art. I confirmă explicit modificarea și completarea Ordinului ANRE nr. 59/2013, iar relația existentă `amends -> ordin-anre-59-2013` și `related_acts` sunt păstrate. Art. VII folosește formula «data intrării în vigoare» fără o dată calendaristică explicită; `effective_date` este omisă.",
   "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "amendament", "ordin-anre-59-2013"],
   "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "amends": ["ordin-anre-59-2013"],
+  "article_count": 7,
+  "annex_count": 0
 }
