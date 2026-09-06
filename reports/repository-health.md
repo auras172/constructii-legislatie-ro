@@ -1,15 +1,15 @@
 # Repository Health Report
 
-Generated: 2026-09-05T22:24:34.937Z
+Generated: 2026-09-06T11:08:58.645Z
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
 | Total metadata entries | 300 |
-| Full-text acts | 67 |
-| Metadata-only acts | 233 |
-| Import log files | 327 |
+| Full-text acts | 68 |
+| Metadata-only acts | 232 |
+| Import log files | 328 |
 | Total relationship links | 561 |
 | Unique domains | 12 |
 | Unique issuers | 5 |
@@ -212,7 +212,7 @@ Generated: 2026-09-05T22:24:34.937Z
 | ordin-anre-65-2024 | ✗ | ✓ | ✓ | — | 2 | ✓ |
 | ordin-anre-66-2023 | ✗ | ✓ | ✓ | — | 1 | ✓ |
 | ordin-anre-68-2020 | ✗ | ✓ | ✓ | — | 2 | ✓ |
-| ordin-anre-70-2023 | ✗ | ✓ | ✓ | — | 2 | ✓ |
+| ordin-anre-70-2023 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | ordin-anre-81-2022 | ✓ | ✓ | ✓ | ✓ | 2 | ✓ |
 | ordin-anre-89-2018 | ✗ | ✓ | ✓ | — | 9 | ✓ |
 | ordin-cncan-134-2024 | ✗ | ✓ | ✓ | — | 0 | ✓ |
@@ -391,10 +391,10 @@ Generated: 2026-09-05T22:24:34.937Z
 
 | Value | Count |
 | --- | --- |
-| metadata-only | 233 |
+| metadata-only | 232 |
 | full-text | 35 |
 | printable HTML → Markdown | 7 |
-| official printable HTML → Markdown | 5 |
+| official printable HTML → Markdown | 6 |
 | Portal Legislativ forma printabila (LEGE A) → text extract via curl + Python HTML strip → Markdown cu headings structurale | 4 |
 | Portal Legislativ forme HTML oficiale (hotărâre + regulament separat) → extracție structurală mecanică → Markdown combinat | 3 |
 | Portal Legislativ forma printabilă (ordin) + anexă tehnică oficială → parser HTML structural → Markdown combinat | 1 |
