@@ -1515,7 +1515,7 @@
       "type": "ordin",
       "domain": "anre",
       "status": "active",
-      "import_method": "metadata-only"
+      "import_method": "full-text"
     },
     {
       "id": "ordin-anre-59-2013",
@@ -5816,6 +5816,19 @@
     },
     {
       "source": "ordin-anre-53-2024",
+      "target": "lege-123-2012",
+      "relationship": "references",
+      "review_status": "confirmed",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 3 din Anexa nr. 1 citează nominal Legea energiei electrice și a gazelor naturale nr. 123/2012.",
+      "source_article": "Preambul; Anexa nr. 1, art. 3",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-06",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286490"
+    },
+    {
+      "source": "ordin-anre-53-2024",
       "target": "ordin-anre-59-2013",
       "relationship": "related",
       "review_status": "confirmed",
@@ -9159,7 +9172,7 @@
   ],
   "stats": {
     "total_nodes": 300,
-    "confirmed_edges": 573,
+    "confirmed_edges": 574,
     "auto_detected_edges": 48,
     "unresolved_skipped": 0
   }

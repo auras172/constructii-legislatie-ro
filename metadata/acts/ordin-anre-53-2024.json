@@ -14,14 +14,30 @@
   "effective_date": "2024-08-02",
   "publication_medium": "monitorul-oficial",
   "version_kind": "consolidat",
-  "consolidated_as_of": "2025-12-19",
-  "last_checked": "2026-07-03",
+  "consolidated_as_of": "2026-05-25",
+  "last_checked": "2026-09-06",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286490",
-  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/310644",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 53/30.07.2024, publicat în M.Of. Partea I, nr. 758 din 2 august 2024. Portal Legislativ document ID 286490 confirmă actul, iar Art. 2 modifică și completează Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013. Art. 7 alin. (1) prevede că ordinul intră în vigoare la data publicării, deci effective_date este 2024-08-02; Art. 7 alin. (2) prevede separat că metodologia de la Art. 1 se aplică de la 2026-01-01 pentru cererile de alocare de capacitate vizate. Pagina actului indică formă consolidată la 19.12.2025; Anexa nr. 1 / Metodologia are pagină separată DetaliiDocumentAfis/310644, cu istoric propriu de consolidare, și rămâne documentată ca sursă oficială secundară pentru anexă. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește doar related_acts.",
+  "official_source": "Portal Legislativ — forma consolidată oficială",
+  "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocument/286490",
+  "import_method": "Portal Legislativ formă consolidată (ordin + metodologia anexă) → HTML → Markdown",
+  "rights_note": "Forma consolidată oficială a Portalului Legislativ pentru documentul ID 286490 și documentul asociat ID 310644 au fost auditate la 06.09.2026. Cererile directe au răspuns HTTP 403, iar fallback-ul cu User-Agent și Accept-Encoding: identity a răspuns HTTP 200; statusurile, content-type, bytes, timestampurile UTC și SHA-256 sunt în import-log/2026-09-06-ordin-anre-53-2024.md. Textul este importat mecanic din formele printabile HTML oficiale, fără PDF, DOCX, OCR, screenshot-uri sau binare. official_text_sha256: df9aab04baaa901c17fa10a6ab21085bce96d38ed75b325a96f8e085aa43bf41. Forma curentă este consolidată la 25.05.2026 și include notele oficiale de consolidare; metodologia publicată separat sub ID 310644 este integrată în Anexa nr. 1 a aceluiași act, fără nod duplicat. Effective_date 2024-08-02 este explicită la art. 7 alin. (1); aplicarea metodologiei de la 2026-01-01 este o regulă distinctă de aplicare. Statusul active existent este păstrat. Relația amends și related_acts către ordin-anre-59-2013 este păstrată; references către lege-123-2012 este adăugată numai pentru citarea nominală și ținta locală confirmată. Ordinul 59/2013, Ordinul 15/2026 și celelalte acte citate fără ținte locale nu primesc relații speculative suplimentare.",
   "tags": ["anre", "racordare", "capacitate-retea", "energie-electrica", "amendament", "ordin-anre-59-2013"],
   "related_acts": ["ordin-anre-59-2013"],
   "amends": ["ordin-anre-59-2013"],
-  "amended_by": ["ordin-anre-15-2026"]
+  "amended_by": ["ordin-anre-15-2026"],
+  "article_count": 7,
+  "annex_count": 3,
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-123-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul și art. 3 din Anexa nr. 1 citează nominal Legea energiei electrice și a gazelor naturale nr. 123/2012.",
+      "source_article": "Preambul; Anexa nr. 1, art. 3",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286490",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-06"
+    }
+  ]
 }
