@@ -14,12 +14,27 @@
   "effective_date": "2023-05-31",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-14",
+  "last_checked": "2026-09-06",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 70/30.05.2023, publicat în M.Of. Partea I, nr. 484 din 31 mai 2023. Portal Legislativ document ID 270917 confirmă actul. Art. I modifică și completează explicit Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public aprobat prin Ordinul ANRE nr. 59/2013, publicat în M.Of. nr. 517 și 517 bis din 19 august 2013. Art. II modifică și completează Procedura aprobată prin Ordinul ANRE nr. 19/2022, act neurmărit în acest repo. Art. IV prevede publicarea în Monitorul Oficial; nu a fost identificată o clauză de aplicare întârziată, deci effective_date este păstrată ca data publicării, 2023-05-31. Metadata-only — textul integral nu este importat în acest repo. Relația semantică repo-locală este modelată prin amends: ordin-anre-59-2013; related_acts include același slug pentru compatibilitate cu generatorul de graf curent, care citește muchiile confirmate din related_acts.",
+  "import_method": "official printable HTML → Markdown",
+  "rights_note": "Forma oficială a Portalului Legislativ pentru documentul ID 270917 a fost auditată la 06.09.2026: cererile directe au răspuns HTTP 403, iar fallback-ul cu User-Agent și Accept-Encoding: identity a răspuns HTTP 200; bytes, content-type, timestampurile UTC și SHA-256 sunt în import-log/2026-09-06-ordin-anre-70-2023.md. Textul integral este importat din forma printabilă HTML fără PDF, DOCX, OCR, screenshot-uri sau binare; official_text_sha256: 195eeaf5d1cad40eed88347d8b7edbecaed71c694e1ea0c602e1830469608d5b. Structura oficială are 4 articole de nivel superior (I–IV) și 1 anexă; titlurile articolelor și capitolelor din procedura modificată nu sunt numărate separat. Relația existentă amends -> ordin-anre-59-2013 este păstrată, iar referința explicită către lege-123-2012 este documentată ca references deoarece ținta există local. Actele 17/2022, 81/2022, 133/2022 și 4/2023 nu sunt citate nominal de forma oficială și nu primesc relații; OUG 33/2007, Legea 160/2012, OUG 163/2022 și Ordinul ANRE nr. 19/2022 nu au noduri locale și nu sunt inventate ca relații.",
   "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "prosumatori", "surse-regenerabile", "amendament", "ordin-anre-59-2013"],
   "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "amends": ["ordin-anre-59-2013"],
+  "article_count": 4,
+  "annex_count": 1,
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-123-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 25 alin. (13) din Legea energiei electrice și a gazelor naturale nr. 123/2012, iar art. II reia aceeași lege în textul art. 39^1 alin. (9) lit. c) al procedurii modificate.",
+      "source_article": "Preambul; art. II",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270917",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-06"
+    }
+  ]
 }
