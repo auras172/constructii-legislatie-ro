@@ -1,5 +1,6 @@
 import './globals.css'
 import { Analytics } from '@vercel/analytics/next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 export const metadata = {
   title: 'Legislație Construcții România',
@@ -68,6 +69,7 @@ export default function RootLayout({ children }) {
           </div>
         </footer>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
