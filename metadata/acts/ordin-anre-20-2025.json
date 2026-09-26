@@ -15,12 +15,27 @@
   "effective_date": "2025-06-01",
   "publication_medium": "monitorul-oficial",
   "version_kind": "original",
-  "last_checked": "2026-07-14",
+  "last_checked": "2026-09-06",
   "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298436",
   "official_detail_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298436",
-  "import_method": "metadata-only",
-  "rights_note": "Ordin ANRE nr. 20/27.05.2025, publicat în M.Of. Partea I, nr. 501 din 29 mai 2025. Relația cu Ordinul ANRE nr. 59/2013 este confirmată pe două surse Portal Legislativ: secțiunea actiuniSuferite a Portal ID 150711 include rândul Actul / MODIFICAT DE / ORDIN 20 27/05/2025 cu target Portal ID 298436, iar Art. I din Ordinul 20/2025 prevede că Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public, aprobat prin Ordinul ANRE nr. 59/2013, se modifică și se completează. Art. XII prevede intrarea în vigoare la 1 iunie 2025. Ordin-omnibus: Art. I modifică Regulamentul aprobat prin Ordinul ANRE 59/2013; Art. II-V modifică alte ordine ANRE neurmărite în acest repo; Art. VI-X includ dispoziții tranzitorii/de aplicare legate de modificările din Art. I. Metadata-only — textul integral nu este importat în acest repo. Relația semantică este modelată prin amends: ordin-anre-59-2013; related_acts include același slug doar pentru compatibilitate cu generatorul de graf curent.",
+  "import_method": "official printable HTML -> Markdown",
+  "rights_note": "official_text_sha256: 4079553a21bbdbf9f5bb56417d9db83d2a1d374ee79f2514c420d99eea2498e0. Ordin ANRE nr. 20/27.05.2025, publicat în M.Of. Partea I, nr. 501 din 29 mai 2025. Full-text importat din forma printabilă oficială a Portalului Legislativ, audit 2026-09-06 UTC. Detail și printable răspund cu 403 la requestul brut fără User-Agent și cu 200 la fallback-ul User-Agent; hashurile HTTP și timestampurile complete sunt documentate în import-log. Forma oficială conține 12 articole de nivel superior și 1 anexă, iar textul vizibil este delimitat în legi/ordin-anre-20-2025.md. Relația cu Ordinul ANRE nr. 59/2013 este confirmată pe două surse Portal Legislativ: secțiunea actiuniSuferite a Portal ID 150711 include rândul Actul / MODIFICAT DE / ORDIN 20 27/05/2025 cu target Portal ID 298436, iar Art. I din Ordinul 20/2025 prevede că Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public, aprobat prin Ordinul ANRE nr. 59/2013, se modifică și se completează. Art. XII prevede intrarea în vigoare la 1 iunie 2025. Art. II-V modifică alte ordine ANRE neurmărite în acest repo; Art. VI-X includ dispoziții tranzitorii/de aplicare legate de modificările din Art. I. Anexa nr. 1 rămâne parte a ordinului și nu este nod separat. Sursa autoritară rămâne Portalul Legislativ și Monitorul Oficial al României.",
+  "article_count": 12,
+  "annex_count": 1,
   "tags": ["anre", "racordare", "utilizatori", "retele-electrice", "amendament", "ordin-anre-59-2013"],
-  "related_acts": ["ordin-anre-59-2013"],
-  "amends": ["ordin-anre-59-2013"]
+  "related_acts": ["ordin-anre-59-2013", "lege-123-2012"],
+  "amends": ["ordin-anre-59-2013"],
+  "relationships": [
+    {
+      "type": "references",
+      "target": "lege-123-2012",
+      "confidence": "confirmed",
+      "evidence_type": "explicit_text",
+      "evidence": "Preambulul citează explicit art. 25 alin. (13) din Legea energiei electrice și a gazelor naturale nr. 123/2012.",
+      "source_article": "Preambul",
+      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298436",
+      "reviewed_by": "codex",
+      "reviewed_at": "2026-09-06"
+    }
+  ]
 }
